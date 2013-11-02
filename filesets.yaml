@@ -1,0 +1,5 @@
+sblgnt-test:
+    format: tisch-merge
+    prefix: ../sblgnt/
+    files:
+        - 78-Phm-morphgnt.txt
