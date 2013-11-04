@@ -1,280 +1,420 @@
 ἀγαθός:
     pos: A
+    bdag-headword: ἀγαθός
 ἀγάπη:
     pos: N
+    bdag-headword: ἀγάπη
 ἀγαπητός:
     pos: A
+    bdag-headword: ἀγαπητός
 ἅγιος:
     pos: A
+    bdag-headword: ἅγιος
 ἀδελφή:
     pos: N
+    bdag-headword: ἀδελφή
 ἀδελφός:
     pos: N
+    bdag-headword: ἀδελφός
 ἀδικέω:
     pos: V
+    bdag-headword: ἀδικέω
 αἰώνιος:
     pos: A
+    bdag-headword: αἰώνιος
 ἀκούω:
     pos: V
+    bdag-headword: ἀκούω
 ἀλλά:
     pos: C
+    bdag-headword: ἀλλά
 ἅμα:
     pos: D
+    bdag-headword: ἅμα
 ἀνάγκη:
     pos: N
+    bdag-headword: ἀνάγκη
 ἀναπαύω:
     pos: V
+    bdag-headword: ἀναπαύω
 ἀναπέμπω:
     pos: V
+    bdag-headword: ἀναπέμπω
 ἀνήκω:
     pos: V
+    bdag-headword: ἀνήκω
 ἀπέχω:
     pos: V
+    bdag-headword: ἀπέχω
 ἀπό:
     pos: P
+    bdag-headword: ἀπό
 ἀποτίνω:
     pos: V
+    bdag-headword: ἀποτίνω
 Ἀπφία:
     pos: N
+    bdag-headword: Ἀπφία
 Ἀρίσταρχος:
     pos: N
+    bdag-headword: Ἀρίσταρχος
 Ἄρχιππος:
     pos: N
+    bdag-headword: Ἄρχιππος
 ἀσπάζομαι:
     pos: V
+    bdag-headword: ἀσπάζομαι
 αὐτός:
     pos: RP
+    bdag-headword: αὐτός
 ἄχρηστος:
     pos: A
+    bdag-headword: ἄχρηστος
 βούλομαι:
     pos: V
+    bdag-headword: βούλομαι
 γάρ:
     pos: C
+    bdag-headword: γάρ
 γεννάω:
     pos: V
+    bdag-headword: γεννάω
 γίνομαι:
     pos: V
+    bdag-headword: γίνομαι
 γνώμη:
     pos: N
+    bdag-headword: γνώμη
 γράφω:
     pos: V
+    bdag-headword: γράφω
 δέ:
     pos: C
+    bdag-headword: δέ
 δέσμιος:
     pos: N
+    bdag-headword: δέσμιος
 δεσμός:
     pos: N
+    bdag-headword: δεσμός
 Δημᾶς:
     pos: N
+    bdag-headword: Δημᾶς
 διά:
     pos: P
+    bdag-headword: διά
 διακονέω:
     pos: V
+    bdag-headword: διακονέω
 διό:
     pos: C
+    bdag-headword: διό
 δοῦλος:
     pos: N
+    bdag-headword: δοῦλος
 ἐγώ:
     pos: RP1
+    bdag-headword: ἐγώ
 εἰ:
     pos: C/COND
+    bdag-headword: εἰ
 εἰμί:
     pos: V
+    bdag-headword: εἰμί
 εἰρήνη:
     pos: N
+    bdag-headword: εἰρήνη
 εἰς:
     pos: P
+    bdag-headword: εἰς
 ἐκκλησία:
     pos: N
+    bdag-headword: ἐκκλησία
 ἑκούσιος:
     pos: A
+    bdag-headword: ἑκούσιος
 ἐλλογέω:
     pos: V
+    bdag-headword: ἐλλογέω
 ἐλπίζω:
     pos: V
+    bdag-headword: ἐλπίζω
 ἐμαυτοῦ:
     pos: RP1/F
+    bdag-headword: ἐμαυτοῦ
 ἐμός:
     pos: A/RP1
+    bdag-headword: ἐμός
 ἐν:
     pos: P
+    bdag-headword: ἐν
 ἐνεργής:
     pos: A
+    bdag-headword: ἐνεργής
 Ἐπαφρᾶς:
     pos: N
+    bdag-headword: Ἐπαφρᾶς
 ἐπί:
     pos: P
+    bdag-headword: ἐπί
 ἐπίγνωσις:
     pos: N
+    bdag-headword: ἐπίγνωσις
 ἐπιτάσσω:
     pos: V
+    bdag-headword: ἐπιτάσσω
 ἑτοιμάζω:
     pos: V
+    bdag-headword: ἑτοιμάζω
 εὐαγγέλιον:
     pos: N
+    bdag-headword: εὐαγγέλιον
 εὐχαριστέω:
     pos: V
+    bdag-headword: εὐχαριστέω
 εὔχρηστος:
     pos: A
+    bdag-headword: εὔχρηστος
 ἔχω:
     pos: V
+    bdag-headword: ἔχω
 ἤ:
     pos: C/PRT
+    bdag-headword: ἤ
 θέλω:
     pos: V
+    bdag-headword: θέλω
 θεός:
     pos: N
+    bdag-headword: θεός
 Ἰησοῦς:
     pos: N
+    bdag-headword: Ἰησοῦς
 ἵνα:
     pos: C
+    bdag-headword: ἵνα
 καί:
     pos: C
+    bdag-headword: καί
 κατά:
     pos: P
+    bdag-headword: κατά
 κατέχω:
     pos: V
+    bdag-headword: κατέχω
 κοινωνία:
     pos: N
+    bdag-headword: κοινωνία
 κοινωνός:
     pos: N
+    bdag-headword: κοινωνός
 κύριος:
     pos: N
+    bdag-headword: @@@
 λέγω:
     pos: V
+    bdag-headword: λέγω
 Λουκᾶς:
     pos: N
+    bdag-headword: Λουκᾶς
 μάλιστα:
     pos: D/ADV-S
+    bdag-headword: μάλιστα
 μᾶλλον:
     pos: D
+    bdag-headword: μᾶλλον
 Μᾶρκος:
     pos: N
+    bdag-headword: Μᾶρκος
 μετά:
     pos: P
+    bdag-headword: μετά
 μή:
     pos: D/PRT-N
+    bdag-headword: μή
 μνεία:
     pos: N
+    bdag-headword: μνεία
 ναί:
     pos: X
+    bdag-headword: ναί
 νυνί:
     pos: D
+    bdag-headword: νυνί
 ξενία:
     pos: N
+    bdag-headword: ξενία
 ὁ:
     pos: RA
+    bdag-headword: ὁ
 οἶκος:
     pos: N
+    bdag-headword: οἶκος
 Ὀνήσιμος:
     pos: N
+    bdag-headword: Ὀνήσιμος
 ὀνίνημι:
     pos: V
+    bdag-headword: ὀνίνημι
 ὅπως:
     pos: C/D
+    bdag-headword: ὅπως
 ὁράω:
     pos: V
+    bdag-headword: ὁράω
 ὅς:
     pos: RR
+    bdag-headword: ὅς
 ὅτι:
     pos: C
+    bdag-headword: ὅτι
 οὐδείς:
     pos: A
+    bdag-headword: οὐδείς
 οὐκέτι:
     pos: D/ADV-N
+    bdag-headword: οὐκέτι
 οὖν:
     pos: C
+    bdag-headword: οὖν
 οὗτος:
     pos: RD
+    bdag-headword: οὗτος
 ὀφείλω:
     pos: V
+    bdag-headword: ὀφείλω
 πάντοτε:
     pos: D
+    bdag-headword: πάντοτε
 παρακαλέω:
     pos: V
+    bdag-headword: παρακαλέω
 παράκλησις:
     pos: N
+    bdag-headword: παράκλησις
 παρρησία:
     pos: N
+    bdag-headword: παρρησία
 πᾶς:
     pos: A
+    bdag-headword: πᾶς
 πατήρ:
     pos: N
+    bdag-headword: πατήρ
 Παῦλος:
     pos: N
+    bdag-headword: Παῦλος
 πείθω:
     pos: V
+    bdag-headword: πείθω
 περί:
     pos: P
+    bdag-headword: περί
 πίστις:
     pos: N
+    bdag-headword: πίστις
 πνεῦμα:
     pos: N
+    bdag-headword: πνεῦμα
 ποιέω:
     pos: V
+    bdag-headword: ποιέω
 πολύς:
     pos: A
+    bdag-headword: πολύς
 πόσος:
     pos: RI/Q
+    bdag-headword: πόσος
 ποτέ:
     pos: X
+    bdag-headword: ποτέ
 πρεσβύτης:
     pos: N
+    bdag-headword: πρεσβύτης
 πρός:
     pos: P
+    bdag-headword: πρός
 προσευχή:
     pos: N
+    bdag-headword: προσευχή
 προσλαμβάνομαι:
     pos: V
+    bdag-headword: @@@
 προσοφείλω:
     pos: V
+    bdag-headword: προσοφείλω
 σάρξ:
     pos: N
+    bdag-headword: σάρξ
 σεαυτοῦ:
     pos: RP2/F
+    bdag-headword: σεαυτοῦ
 σός:
     pos: A/S-2S
+    bdag-headword: σός
 σπλάγχνον:
     pos: N
+    bdag-headword: σπλάγχνον
 σύ:
     pos: RP2
+    bdag-headword: σύ
 συναιχμάλωτος:
     pos: N/A
+    bdag-headword: συναιχμάλωτος
 συνεργός:
     pos: A
+    bdag-headword: συνεργός
 συστρατιώτης:
     pos: N
+    bdag-headword: συστρατιώτης
 τάχα:
     pos: D
+    bdag-headword: τάχα
 τέκνον:
     pos: N
+    bdag-headword: τέκνον
 Τιμόθεος:
     pos: N
+    bdag-headword: Τιμόθεος
 τις:
     pos: RI/X
+    bdag-headword: @@@
 τοιοῦτος:
     pos: RD
+    bdag-headword: τοιοῦτος
 ὑπακοή:
     pos: N
+    bdag-headword: ὑπακοή
 ὑπέρ:
     pos: P
+    bdag-headword: ὑπέρ
 Φιλήμων:
     pos: N
+    bdag-headword: Φιλήμων
 χαρά:
     pos: N
+    bdag-headword: χαρά
 χαρίζομαι:
     pos: V
+    bdag-headword: χαρίζομαι
 χάρις:
     pos: N
+    bdag-headword: χάρις
 χείρ:
     pos: N
+    bdag-headword: χείρ
 Χριστός:
     pos: N
+    bdag-headword: Χριστός
 χωρίζω:
     pos: V
+    bdag-headword: χωρίζω
 χωρίς:
     pos: P/D
+    bdag-headword: χωρίς
 ὥρα:
     pos: N
+    bdag-headword: ὥρα
 ὡς:
     pos: C/D
+    bdag-headword: ὡς
