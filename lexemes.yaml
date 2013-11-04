@@ -1,0 +1,280 @@
+Παῦλος:
+    pos: N
+δέσμιος:
+    pos: N
+Χριστός:
+    pos: N
+Ἰησοῦς:
+    pos: N
+καί:
+    pos: C
+Τιμόθεος:
+    pos: N
+ὁ:
+    pos: RA
+ἀδελφός:
+    pos: N
+Φιλήμων:
+    pos: N
+ἀγαπητός:
+    pos: A
+συνεργός:
+    pos: A
+ἐγώ:
+    pos: RP1
+Ἀπφία:
+    pos: N
+ἀδελφή:
+    pos: N
+Ἄρχιππος:
+    pos: N
+συστρατιώτης:
+    pos: N
+κατά:
+    pos: P
+οἶκος:
+    pos: N
+σύ:
+    pos: RP2
+ἐκκλησία:
+    pos: N
+χάρις:
+    pos: N
+εἰρήνη:
+    pos: N
+ἀπό:
+    pos: P
+θεός:
+    pos: N
+πατήρ:
+    pos: N
+κύριος:
+    pos: N
+εὐχαριστέω:
+    pos: V
+πάντοτε:
+    pos: D
+μνεία:
+    pos: N
+ποιέω:
+    pos: V
+ἐπί:
+    pos: P
+προσευχή:
+    pos: N
+ἀκούω:
+    pos: V
+ἀγάπη:
+    pos: N
+πίστις:
+    pos: N
+ὅς:
+    pos: RR
+ἔχω:
+    pos: V
+πρός:
+    pos: P
+εἰς:
+    pos: P
+πᾶς:
+    pos: A
+ἅγιος:
+    pos: A
+ὅπως:
+    pos: C/D
+κοινωνία:
+    pos: N
+ἐνεργής:
+    pos: A
+γίνομαι:
+    pos: V
+ἐν:
+    pos: P
+ἐπίγνωσις:
+    pos: N
+ἀγαθός:
+    pos: A
+χαρά:
+    pos: N
+γάρ:
+    pos: C
+πολύς:
+    pos: A
+παράκλησις:
+    pos: N
+ὅτι:
+    pos: C
+σπλάγχνον:
+    pos: N
+ἀναπαύω:
+    pos: V
+διά:
+    pos: P
+διό:
+    pos: C
+παρρησία:
+    pos: N
+ἐπιτάσσω:
+    pos: V
+ἀνήκω:
+    pos: V
+μᾶλλον:
+    pos: D
+παρακαλέω:
+    pos: V
+τοιοῦτος:
+    pos: RD
+εἰμί:
+    pos: V
+ὡς:
+    pos: C/D
+πρεσβύτης:
+    pos: N
+νυνί:
+    pos: D
+δέ:
+    pos: C
+περί:
+    pos: P
+ἐμός:
+    pos: A/RP1
+τέκνον:
+    pos: N
+γεννάω:
+    pos: V
+δεσμός:
+    pos: N
+Ὀνήσιμος:
+    pos: N
+ποτέ:
+    pos: X
+ἄχρηστος:
+    pos: A
+εὔχρηστος:
+    pos: A
+ἀναπέμπω:
+    pos: V
+αὐτός:
+    pos: RP
+οὗτος:
+    pos: RD
+βούλομαι:
+    pos: V
+ἐμαυτοῦ:
+    pos: RP1/F
+κατέχω:
+    pos: V
+ἵνα:
+    pos: C
+ὑπέρ:
+    pos: P
+διακονέω:
+    pos: V
+εὐαγγέλιον:
+    pos: N
+χωρίς:
+    pos: P/D
+σός:
+    pos: A/S-2S
+γνώμη:
+    pos: N
+οὐδείς:
+    pos: A
+θέλω:
+    pos: V
+μή:
+    pos: D/PRT-N
+ἀνάγκη:
+    pos: N
+ἀλλά:
+    pos: C
+ἑκούσιος:
+    pos: A
+τάχα:
+    pos: D
+χωρίζω:
+    pos: V
+ὥρα:
+    pos: N
+αἰώνιος:
+    pos: A
+ἀπέχω:
+    pos: V
+οὐκέτι:
+    pos: D/ADV-N
+δοῦλος:
+    pos: N
+μάλιστα:
+    pos: D/ADV-S
+πόσος:
+    pos: RI/Q
+σάρξ:
+    pos: N
+εἰ:
+    pos: C/COND
+οὖν:
+    pos: C
+κοινωνός:
+    pos: N
+προσλαμβάνομαι:
+    pos: V
+τις:
+    pos: RI/X
+ἀδικέω:
+    pos: V
+ἤ:
+    pos: C/PRT
+ὀφείλω:
+    pos: V
+ἐλλογέω:
+    pos: V
+γράφω:
+    pos: V
+χείρ:
+    pos: N
+ἀποτίνω:
+    pos: V
+λέγω:
+    pos: V
+σεαυτοῦ:
+    pos: RP2/F
+προσοφείλω:
+    pos: V
+ναί:
+    pos: X
+ὀνίνημι:
+    pos: V
+πείθω:
+    pos: V
+ὑπακοή:
+    pos: N
+ὁράω:
+    pos: V
+ἅμα:
+    pos: D
+ἑτοιμάζω:
+    pos: V
+ξενία:
+    pos: N
+ἐλπίζω:
+    pos: V
+χαρίζομαι:
+    pos: V
+ἀσπάζομαι:
+    pos: V
+Ἐπαφρᾶς:
+    pos: N
+συναιχμάλωτος:
+    pos: N/A
+Μᾶρκος:
+    pos: N
+Ἀρίσταρχος:
+    pos: N
+Δημᾶς:
+    pos: N
+Λουκᾶς:
+    pos: N
+μετά:
+    pos: P
+πνεῦμα:
+    pos: N
