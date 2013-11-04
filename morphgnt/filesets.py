@@ -1,6 +1,6 @@
 import os.path
 
-import yaml
+from .utils import load_yaml
 
 
 class FileSet(object):
@@ -24,8 +24,4 @@ class FileSet(object):
 
 
 def load(filename):
-    with open(filename) as f:
-        return {
-            setname: FileSet(setname, metadata)
-            for setname, metadata in yaml.load(f).items()
-        }
+    return load_yaml(filename, FileSet)
