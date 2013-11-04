@@ -1,11 +1,7 @@
 import yaml
 
 
-def default_wrapper(key, metadata):
-    return metadata
-
-
-def load_yaml(filename, wrapper=default_wrapper):
+def load_yaml(filename, wrapper=lambda key, metadata: metadata):
     with open(filename) as f:
         return {
             key: wrapper(key, metadata)
