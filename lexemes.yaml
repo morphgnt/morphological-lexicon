@@ -210,7 +210,6 @@
     bdag-headword: κοινωνός
 κύριος:
     pos: N
-    bdag-headword: @@@
 λέγω:
     pos: V
     bdag-headword: λέγω
@@ -339,7 +338,7 @@
     bdag-headword: προσευχή
 προσλαμβάνομαι:
     pos: V
-    bdag-headword: προσλαμβάνω
+    bdag-headword: προσλαμβάνω
 προσοφείλω:
     pos: V
     bdag-headword: προσοφείλω
