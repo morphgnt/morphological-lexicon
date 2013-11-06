@@ -1,6 +1,9 @@
 ἀγαθός:
     pos: A
     bdag-headword: ἀγαθός
+ἀγαπάω:
+    pos: V
+    bdag-headword: ἀγαπάω
 ἀγάπη:
     pos: N
     bdag-headword: ἀγάπη
@@ -19,15 +22,24 @@
 ἀδικέω:
     pos: V
     bdag-headword: ἀδικέω
+αἰών:
+    pos: N
+    bdag-headword: αἰών
 αἰώνιος:
     pos: A
     bdag-headword: αἰώνιος
 ἀκούω:
     pos: V
     bdag-headword: ἀκούω
+ἀλήθεια:
+    pos: N
+    bdag-headword: ἀλήθεια
 ἀλλά:
     pos: C
     bdag-headword: ἀλλά
+ἀλλήλων:
+    pos: RP/C
+    bdag-headword: ἀλλήλων
 ἅμα:
     pos: D
     bdag-headword: ἅμα
@@ -43,12 +55,21 @@
 ἀνήκω:
     pos: V
     bdag-headword: ἀνήκω
+ἀντίχριστος:
+    pos: N
+    bdag-headword: ἀντίχριστος
 ἀπέχω:
     pos: V
     bdag-headword: ἀπέχω
 ἀπό:
     pos: P
     bdag-headword: ἀπό
+ἀπολαμβάνω:
+    pos: V
+    bdag-headword: ἀπολαμβάνω
+ἀπόλλυμι:
+    pos: V
+    bdag-headword: ἀπόλλυμι
 ἀποτίνω:
     pos: V
     bdag-headword: ἀποτίνω
@@ -58,6 +79,9 @@
 Ἀρίσταρχος:
     pos: N
     bdag-headword: Ἀρίσταρχος
+ἀρχή:
+    pos: N
+    bdag-headword: ἀρχή
 Ἄρχιππος:
     pos: N
     bdag-headword: Ἄρχιππος
@@ -70,6 +94,9 @@
 ἄχρηστος:
     pos: A
     bdag-headword: ἄχρηστος
+βλέπω:
+    pos: V
+    bdag-headword: βλέπω
 βούλομαι:
     pos: V
     bdag-headword: βούλομαι
@@ -82,6 +109,9 @@
 γίνομαι:
     pos: V
     bdag-headword: γίνομαι
+γινώσκω:
+    pos: V
+    bdag-headword: γινώσκω
 γνώμη:
     pos: N
     bdag-headword: γνώμη
@@ -106,12 +136,18 @@
 διακονέω:
     pos: V
     bdag-headword: διακονέω
+διδαχή:
+    pos: N
+    bdag-headword: διδαχή
 διό:
     pos: C
     bdag-headword: διό
 δοῦλος:
     pos: N
     bdag-headword: δοῦλος
+ἑαυτοῦ:
+    pos: RP/F-2
+    bdag-headword: ἑαυτοῦ
 ἐγώ:
     pos: RP1
     bdag-headword: ἐγώ
@@ -127,12 +163,21 @@
 εἰς:
     pos: P
     bdag-headword: εἰς
+ἐκ:
+    pos: P
+    bdag-headword: ἐκ
 ἐκκλησία:
     pos: N
     bdag-headword: ἐκκλησία
+ἐκλεκτός:
+    pos: A
+    bdag-headword: ἐκλεκτός
 ἑκούσιος:
     pos: A
     bdag-headword: ἑκούσιος
+ἔλεος:
+    pos: N
+    bdag-headword: ἔλεος
 ἐλλογέω:
     pos: V
     bdag-headword: ἐλλογέω
@@ -151,6 +196,12 @@
 ἐνεργής:
     pos: A
     bdag-headword: ἐνεργής
+ἐντολή:
+    pos: N
+    bdag-headword: ἐντολή
+ἐξέρχομαι:
+    pos: V
+    bdag-headword: ἐξέρχομαι
 Ἐπαφρᾶς:
     pos: N
     bdag-headword: Ἐπαφρᾶς
@@ -163,12 +214,27 @@
 ἐπιτάσσω:
     pos: V
     bdag-headword: ἐπιτάσσω
+ἐργάζομαι:
+    pos: V
+    bdag-headword: ἐργάζομαι
+ἔργον:
+    pos: N
+    bdag-headword: ἔργον
+ἔρχομαι:
+    pos: V
+    bdag-headword: ἔρχομαι
+ἐρωτάω:
+    pos: V
+    bdag-headword: ἐρωτάω
 ἑτοιμάζω:
     pos: V
     bdag-headword: ἑτοιμάζω
 εὐαγγέλιον:
     pos: N
     bdag-headword: εὐαγγέλιον
+εὑρίσκω:
+    pos: V
+    bdag-headword: εὑρίσκω
 εὐχαριστέω:
     pos: V
     bdag-headword: εὐχαριστέω
@@ -193,26 +259,50 @@
 ἵνα:
     pos: C
     bdag-headword: ἵνα
+καθώς:
+    pos: C/ADV
+    bdag-headword: καθώς
 καί:
     pos: C
     bdag-headword: καί
+καινός:
+    pos: A
+    bdag-headword: καινός
 κατά:
     pos: P
     bdag-headword: κατά
 κατέχω:
     pos: V
     bdag-headword: κατέχω
+κοινωνέω:
+    pos: V
+    bdag-headword: κοινωνέω
 κοινωνία:
     pos: N
     bdag-headword: κοινωνία
 κοινωνός:
     pos: N
     bdag-headword: κοινωνός
+κόσμος:
+    pos: N
+    bdag-headword: κόσμος
+κυρία:
+    pos: N
+    bdag-headword: κυρία
 κύριος:
     pos: N
+λαλέω:
+    pos: V
+    bdag-headword: λαλέω
+λαμβάνω:
+    pos: V
+    bdag-headword: λαμβάνω
 λέγω:
     pos: V
     bdag-headword: λέγω
+λίαν:
+    pos: D
+    bdag-headword: λίαν
 Λουκᾶς:
     pos: N
     bdag-headword: Λουκᾶς
@@ -225,18 +315,33 @@
 Μᾶρκος:
     pos: N
     bdag-headword: Μᾶρκος
+μέλαν:
+    pos: N
+    bdag-headword: μέλαν
+μένω:
+    pos: V
+    bdag-headword: μένω
 μετά:
     pos: P
     bdag-headword: μετά
 μή:
     pos: D/PRT-N
     bdag-headword: μή
+μισθός:
+    pos: N
+    bdag-headword: μισθός
 μνεία:
     pos: N
     bdag-headword: μνεία
+μόνος:
+    pos: A
+    bdag-headword: μόνος
 ναί:
     pos: X
     bdag-headword: ναί
+νῦν:
+    pos: D
+    bdag-headword: νῦν
 νυνί:
     pos: D
     bdag-headword: νυνί
@@ -246,9 +351,15 @@
 ὁ:
     pos: RA
     bdag-headword: ὁ
+οἰκία:
+    pos: N
+    bdag-headword: οἰκία
 οἶκος:
     pos: N
     bdag-headword: οἶκος
+ὁμολογέω:
+    pos: V
+    bdag-headword: ὁμολογέω
 Ὀνήσιμος:
     pos: N
     bdag-headword: Ὀνήσιμος
@@ -267,6 +378,9 @@
 ὅτι:
     pos: C
     bdag-headword: ὅτι
+οὐ:
+    pos: D/PRT-N
+    bdag-headword: οὐ
 οὐδείς:
     pos: A
     bdag-headword: οὐδείς
@@ -285,6 +399,9 @@
 πάντοτε:
     pos: D
     bdag-headword: πάντοτε
+παρά:
+    pos: P
+    bdag-headword: παρά
 παρακαλέω:
     pos: V
     bdag-headword: παρακαλέω
@@ -309,9 +426,21 @@
 περί:
     pos: P
     bdag-headword: περί
+περιπατέω:
+    pos: V
+    bdag-headword: περιπατέω
 πίστις:
     pos: N
     bdag-headword: πίστις
+πλάνος:
+    pos: A
+    bdag-headword: πλάνος
+πλήρης:
+    pos: A
+    bdag-headword: πλήρης
+πληρόω:
+    pos: V
+    bdag-headword: πληρόω
 πνεῦμα:
     pos: N
     bdag-headword: πνεῦμα
@@ -321,15 +450,24 @@
 πολύς:
     pos: A
     bdag-headword: πολύς
+πονηρός:
+    pos: A
+    bdag-headword: πονηρός
 πόσος:
     pos: RI/Q
     bdag-headword: πόσος
 ποτέ:
     pos: X
     bdag-headword: ποτέ
+πρεσβύτερος:
+    pos: A
+    bdag-headword: πρεσβύτερος
 πρεσβύτης:
     pos: N
     bdag-headword: πρεσβύτης
+προάγω:
+    pos: V
+    bdag-headword: προάγω
 πρός:
     pos: P
     bdag-headword: πρός
@@ -354,6 +492,9 @@
 σπλάγχνον:
     pos: N
     bdag-headword: σπλάγχνον
+στόμα:
+    pos: N
+    bdag-headword: στόμα
 σύ:
     pos: RP2
     bdag-headword: σύ
@@ -381,15 +522,24 @@
 τοιοῦτος:
     pos: RD
     bdag-headword: τοιοῦτος
+υἱός:
+    pos: N
+    bdag-headword: υἱός
 ὑπακοή:
     pos: N
     bdag-headword: ὑπακοή
 ὑπέρ:
     pos: P
     bdag-headword: ὑπέρ
+φέρω:
+    pos: V
+    bdag-headword: φέρω
 Φιλήμων:
     pos: N
     bdag-headword: Φιλήμων
+χαίρω:
+    pos: V
+    bdag-headword: χαίρω
 χαρά:
     pos: N
     bdag-headword: χαρά
@@ -399,6 +549,9 @@
 χάρις:
     pos: N
     bdag-headword: χάρις
+χάρτης:
+    pos: N
+    bdag-headword: χάρτης
 χείρ:
     pos: N
     bdag-headword: χείρ

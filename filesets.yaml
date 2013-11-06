@@ -3,3 +3,4 @@ sblgnt-test:
     prefix: ../sblgnt/
     files:
         - 78-Phm-morphgnt.txt
+        - 84-2Jn-morphgnt.txt
