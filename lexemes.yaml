@@ -102,9 +102,10 @@
     bdag-headword: ἀκούω
     dodson-entry: ἀκούω
     strongs: 191
-    gk: [200, 201]
+    gk: 201
     dodson-pos: V
     gloss: I hear, listen
+    mounce-morphcat: v-1a(8)
 ἀλήθεια:
     pos: N
     bdag-headword: ἀλήθεια
@@ -299,9 +300,10 @@
     bdag-headword: ἀσπάζομαι
     dodson-entry: ἀσπάζομαι
     strongs: 782
-    gk: [571, 832]
+    gk: 832
     dodson-pos: V
     gloss: I greet, salute, pay my respects to
+    mounce-morphcat: v-2a(1)
 αὐτός:
     pos: RP
     bdag-headword: αὐτός
@@ -397,9 +399,10 @@
     bdag-headword: γράφω
     dodson-entry: γράφω
     strongs: 1125
-    gk: [1211, 2863]
+    gk: 1211
     dodson-pos: V
     gloss: I write
+    mounce-morphcat: v-1b(1)
 δέ:
     pos: C
     bdag-headword: δέ
@@ -629,9 +632,10 @@
     bdag-headword: ἐλλογέω
     dodson-entry: ἐλλογέω
     strongs: 1677
-    gk: [1823, 1824]
+    gk: 1824
     dodson-pos: V
     gloss: I charge to, put to one's account
+    mounce-morphcat: cv-
 ἐλπίζω:
     pos: V
     bdag-headword: ἐλπίζω
@@ -673,9 +677,10 @@
     bdag-headword: ἐνεργής
     dodson-entry: ἐνεργής, ές
     strongs: 1756
-    gk: [1886, 1921]
+    gk: 1921
     dodson-pos: A
     gloss: effective
+    mounce-morphcat: a-4a
 ἐντολή:
     pos: N
     bdag-headword: ἐντολή
@@ -699,9 +704,10 @@
     bdag-headword: ἐξέρχομαι
     dodson-entry: ἐξέρχομαι
     strongs: 1831
-    gk: [2002, 1446, 1674]
+    gk: 2002
     dodson-pos: V
     gloss: I go out, come out
+    mounce-morphcat: cv-1b(2)
 Ἐπαφρᾶς:
     pos: N
     bdag-headword: Ἐπαφρᾶς
@@ -818,6 +824,7 @@
     gk: 2338
     dodson-pos: V
     gloss: I cause to prosper, have a happy journey
+    mounce-morphcat: cv-1d(3)
 εὑρίσκω:
     pos: V
     bdag-headword: εὑρίσκω
@@ -1056,9 +1063,10 @@
     bdag-headword: λαλέω
     dodson-entry: λαλέω
     strongs: 2980
-    gk: [654, 3281]
+    gk: 3281
     dodson-pos: V
     gloss: I speak, say
+    mounce-morphcat: v-1d(2a)
 λαμβάνω:
     pos: V
     bdag-headword: λαμβάνω
@@ -1073,9 +1081,10 @@
     bdag-headword: λέγω
     dodson-entry: λέγω
     strongs: 3004
-    gk: [1649, 3306]
+    gk: 3306
     dodson-pos: V
     gloss: I say, speak
+    mounce-morphcat: v-1b(2)
 λίαν:
     pos: D
     bdag-headword: λίαν
@@ -1197,9 +1206,10 @@
     bdag-headword: μηδείς
     dodson-entry: μηδείς, μηδεμία, μηδέν
     strongs: 3367
-    gk: [3594, 3599]
+    gk: 3594
     dodson-pos: A
     gloss: no one, nothing
+    mounce-morphcat: a-4b(2)
 μιμέομαι:
     pos: V
     bdag-headword: μιμέομαι
@@ -1316,6 +1326,7 @@
     gk: 3875
     dodson-pos: N:M
     gloss: a house, household
+    mounce-morphcat: n-2a
 ὁμολογέω:
     pos: V
     bdag-headword: ὁμολογέω
@@ -1366,9 +1377,10 @@
     bdag-headword: ὁράω
     dodson-entry: ὁράω
     strongs: 3708
-    gk: [1625, 3972]
+    gk: 3972
     dodson-pos: V
     gloss: I see, look upon, experience
+    mounce-morphcat: v-1d(1a)
 ὅς:
     pos: RR
     bdag-headword: ὅς
@@ -1401,9 +1413,10 @@
     bdag-headword: οὐδείς
     dodson-entry: οὐδείς, οὐδεμία, οὐδέν
     strongs: 3762
-    gk: [4029, 4032]
+    gk: 4029
     dodson-pos: A
     gloss: no one, none, nothing
+    mounce-morphcat: a-4b(2)
 οὐκέτι:
     pos: D/ADV-N
     bdag-headword: οὐκέτι
@@ -1421,6 +1434,7 @@
     gk: 4036
     dodson-pos: CONJ
     gloss: therefore, then
+    mounce-morphcat: particle
 οὔτε:
     pos: C/CONJ-N
     bdag-headword: οὔτε
@@ -1507,9 +1521,10 @@
     bdag-headword: πατήρ
     dodson-entry: πατήρ, πατρός, ὁ
     strongs: 3962
-    gk: [4635, 4252]
+    gk: 4252
     dodson-pos: N:M
     gloss: father, Father, ancestor
+    mounce-morphcat: n-3f(2c)
 Παῦλος:
     pos: N
     bdag-headword: Παῦλος
@@ -1524,9 +1539,10 @@
     bdag-headword: πείθω
     dodson-entry: πείθω
     strongs: 3982
-    gk: [2167, 4275]
+    gk: 4275
     dodson-pos: V
     gloss: I persuade, urge
+    mounce-morphcat: v-1b(3)
 περί:
     pos: P
     bdag-headword: περί
@@ -1658,9 +1674,10 @@
     bdag-headword: πρεσβύτης
     dodson-entry: πρεσβύτης, ου, ὁ
     strongs: 4246
-    gk: [4562, 4566]
+    gk: 4566
     dodson-pos: N:M
     gloss: an old man
+    mounce-morphcat: n-1f
 προάγω:
     pos: V
     bdag-headword: προάγω
@@ -1702,9 +1719,10 @@
     bdag-headword: προσλαμβάνω
     dodson-entry: προσλαμβάνω
     strongs: 4355
-    gk: [4647, 4689]
+    gk: 4689
     dodson-pos: V
     gloss: I take to myself, welcome
+    mounce-morphcat: cv-3a(2b)
 προσοφείλω:
     pos: V
     bdag-headword: προσοφείλω
@@ -1830,6 +1848,7 @@
     gk: 5516
     dodson-pos: X
     gloss: any one, some one
+    mounce-morphcat: a-4b(2)
 τοιοῦτος:
     pos: RD
     bdag-headword: τοιοῦτος
