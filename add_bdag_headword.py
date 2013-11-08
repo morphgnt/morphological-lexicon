@@ -22,17 +22,30 @@ existing_not_in_headwords = []
 missing_not_in_headwords = []
 added = []
 for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
+    print "{}:".format(lexeme.encode("utf-8"))
+    print "    pos: {}".format(metadata["pos"])
+    
     if "bdag-headword" in metadata:
-        print "{}:\n    pos: {}\n    bdag-headword: {}".format(lexeme.encode("utf-8"), metadata["pos"], metadata["bdag-headword"].encode("utf-8"))
+        print "    bdag-headword: {}".format(metadata["bdag-headword"].encode("utf-8"))
         if metadata["bdag-headword"] not in headwords:
             existing_not_in_headwords.append(metadata["bdag-headword"].encode("utf-8"))
     else:
         if lexeme in headwords:
-            print "{}:\n    pos: {}\n    bdag-headword: {}".format(lexeme.encode("utf-8"), metadata["pos"], lexeme.encode("utf-8"))
+            print "    bdag-headword: {}".format(lexeme.encode("utf-8"))
             added.append(lexeme.encode("utf-8"))
         else:
-            print "{}:\n    pos: {}".format(lexeme.encode("utf-8"), metadata["pos"])
             missing_not_in_headwords.append(lexeme.encode("utf-8"))
+    
+    def q(metadata_name):
+        if metadata_name in metadata:
+            print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
+    
+    q("dodson-entry")
+    q("strongs")
+    q("gk")
+    q("dodson-pos")
+    q("gloss")
+
 
 print >>sys.stderr, "existing"
 for word in existing_not_in_headwords:
