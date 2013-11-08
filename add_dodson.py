@@ -28,7 +28,7 @@ with open("../data-cleanup/dodson-lexicon/dodson_lexicon.txt") as f:
             "long-gloss": long_gloss
         })
 
-not_in_dodson = []
+not_in_dodson = set()
 for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
     print "{}:".format(lexeme.encode("utf-8"))
     print "    pos: {}".format(metadata["pos"])
@@ -41,17 +41,27 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
             data = dodson[metadata["bdag-headword"]]
         if len(data) == 1:
             data = data[0]
-            print "    dodson-entry: {}".format(data["greek"].encode("utf-8"))
-            print "    strongs: {}".format(data["strongs"])
-            print "    gk: {}".format(data["gk"])
-            print "    dodson-pos: {}".format(data["pos"])
-            print "    gloss: {}".format(data["short-gloss"])
         else:
-            print "    @@@", len(data)
+            data = None
     else:
-        not_in_dodson.append(lexeme.encode("utf-8"))
+        data = None
     
+    def p(metadata_name, data_name):
+        if metadata_name in metadata:
+            print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
+        else:
+            if data:
+                print "    {}: {}".format(metadata_name, data[data_name].encode("utf-8"))
+            else:
+                not_in_dodson.add(lexeme.encode("utf-8"))
     
+    p("dodson-entry", "greek")
+    p("strongs", "strongs")
+    p("gk", "gk")
+    p("dodson-pos", "pos")
+    p("gloss", "short-gloss")
+
+
 print >>sys.stderr, "missing"
 for word in not_in_dodson:
     print >>sys.stderr, "\t", word
