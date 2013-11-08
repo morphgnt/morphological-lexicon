@@ -40,20 +40,23 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     q("dodson-pos")
     q("gloss")
     
-    if lexeme in mounce:
-        if len(mounce[lexeme]) == 1:
-            try:
-                gk = int(mounce[lexeme][0]["gk"])
-            except ValueError:
-                gk = None
-            if metadata["gk"] == gk:
-                print "    mounce-morphcat: {}".format(mounce[lexeme][0]["morphcat"])
-            else:
-                problems.append("{} {} != {}".format(lexeme.encode("utf-8"), metadata["gk"], gk))
-        else:
-            problems.append("{} len({}) > 1".format(lexeme.encode("utf-8"), mounce[lexeme]))
+    if "mounce-morphcat" in metadata:
+        print "    {}: {}".format("mounce-morphcat", metadata["mounce-morphcat"])
     else:
-        problems.append("{} not found (gk={})".format(lexeme.encode("utf-8"), metadata["gk"]))
+        if lexeme in mounce:
+            if len(mounce[lexeme]) == 1:
+                try:
+                    gk = int(mounce[lexeme][0]["gk"])
+                except ValueError:
+                    gk = None
+                if metadata["gk"] == gk:
+                    print "    mounce-morphcat: {}".format(mounce[lexeme][0]["morphcat"])
+                else:
+                    problems.append("{} {} != {}".format(lexeme.encode("utf-8"), metadata["gk"], gk))
+            else:
+                problems.append("{} len({}) > 1".format(lexeme.encode("utf-8"), mounce[lexeme]))
+        else:
+            problems.append("{} not found (gk={})".format(lexeme.encode("utf-8"), metadata["gk"]))
 
 
 print >>sys.stderr, "problems"
