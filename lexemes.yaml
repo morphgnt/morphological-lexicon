@@ -433,6 +433,11 @@
 Διοτρέφης:
     pos: N
     bdag-headword: Διοτρέφης
+    dodson-entry: Διοτρεφής, ους, ὁ
+    strongs: 1361
+    gl: 1485
+    dodson-pos: N:M
+    gloss: Diotrephes
 δοῦλος:
     pos: N
     bdag-headword: δοῦλος
@@ -723,6 +728,12 @@
     gloss: immediately, soon
 εὐοδόομαι:
     pos: V
+    bdag-headword: εὐοδόω
+    dodson-entry: εὐοδόω
+    strongs: 2137
+    gk: 2338
+    dodson-pos: V
+    gloss: I cause to prosper, have a happy journey
 εὑρίσκω:
     pos: V
     bdag-headword: εὑρίσκω
