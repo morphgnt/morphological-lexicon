@@ -32,8 +32,13 @@ not_in_dodson = set()
 for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
     print "{}:".format(lexeme.encode("utf-8"))
     print "    pos: {}".format(metadata["pos"])
-    if "bdag-headword" in metadata:
-        print "    bdag-headword: {}".format(metadata["bdag-headword"].encode("utf-8"))
+    
+    def q(metadata_name):
+        if metadata_name in metadata:
+            print "    {}: {}".format(metadata_name, metadata[metadata_name].encode("utf-8"))
+    
+    q("bdag-headword")
+    
     if lexeme in dodson or metadata.get("bdag-headword") in dodson:
         if lexeme in dodson:
             data = dodson[lexeme]
