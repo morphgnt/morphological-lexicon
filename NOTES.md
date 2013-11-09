@@ -7,3 +7,4 @@
 * Dodson has σπλάγχνα for σπλάγχνον
 * Dodson has Διοτρεφής for Διοτρέφης
 * lexeme file currently conflates δοῦλος A and N
+* lexeme file (and hence MorphGNT) has πορεύομαι for πορεύω
