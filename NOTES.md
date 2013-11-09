@@ -15,3 +15,7 @@
 * Dodson has Ἐνώχ for Ἑνώχ
 * is πλανήτης gk 4416 vs 4417 adjective vs noun?
 * μέλαν noun vs μέλας adjective
+* Dodson conflates νηφαλέος and νηφάλιος
+* Dodson has Ἀπολλώς for Ἀπολλῶς
+* Dodson conflates οἰκουργός and οἰκουρός
+* Dodson conflates ἀδιαφθορία and ἀφθορία

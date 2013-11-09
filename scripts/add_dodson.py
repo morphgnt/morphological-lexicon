@@ -35,7 +35,7 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     
     def q(metadata_name):
         if metadata_name in metadata:
-            print "    {}: {}".format(metadata_name, metadata[metadata_name].encode("utf-8"))
+            print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
     
     q("bdag-headword")
     
