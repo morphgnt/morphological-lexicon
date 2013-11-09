@@ -65,6 +65,8 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     p("gk", "gk")
     p("dodson-pos", "pos")
     p("gloss", "short-gloss")
+    
+    q("mounce-morphcat")
 
 
 print >>sys.stderr, "missing"
