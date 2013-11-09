@@ -19,3 +19,5 @@
 * Dodson has Ἀπολλώς for Ἀπολλῶς
 * Dodson conflates οἰκουργός and οἰκουρός
 * Dodson conflates ἀδιαφθορία and ἀφθορία
+* morphcat has οὶνος for οἶνος
+* Dodson conflates τυπικῶς and τύπος

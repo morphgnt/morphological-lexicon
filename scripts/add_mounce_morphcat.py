@@ -44,17 +44,23 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
         print "    {}: {}".format("mounce-morphcat", metadata["mounce-morphcat"])
     else:
         if lexeme in mounce:
-            if len(mounce[lexeme]) == 1:
+            source = lexeme
+        elif metadata.get("bdag-headword") in mounce:
+            source = metadata["bdag-headword"]
+        else:
+            source = None
+        if source:
+            if len(mounce[source]) == 1:
                 try:
-                    gk = int(mounce[lexeme][0]["gk"])
+                    gk = int(mounce[source][0]["gk"])
                 except ValueError:
                     gk = None
                 if metadata.get("gk") == gk:
-                    print "    mounce-morphcat: {}".format(mounce[lexeme][0]["morphcat"])
+                    print "    mounce-morphcat: {}".format(mounce[source][0]["morphcat"])
                 else:
-                    problems.append("{} {} != {}".format(lexeme.encode("utf-8"), metadata.get("gk"), gk))
+                    problems.append("{} {} != {}".format(source.encode("utf-8"), metadata.get("gk"), gk))
             else:
-                problems.append("{} len({}) > 1".format(lexeme.encode("utf-8"), mounce[lexeme]))
+                problems.append("{} len({}) > 1".format(source.encode("utf-8"), mounce[source]))
         else:
             problems.append("{} not found (gk={})".format(lexeme.encode("utf-8"), metadata["gk"]))
 
