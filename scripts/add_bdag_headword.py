@@ -45,6 +45,7 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     q("gk")
     q("dodson-pos")
     q("gloss")
+    q("mounce-morphcat")
 
 
 print >>sys.stderr, "existing"
