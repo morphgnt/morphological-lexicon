@@ -8,3 +8,9 @@
 * Dodson has Διοτρεφής for Διοτρέφης
 * lexeme file currently conflates δοῦλος A and N
 * lexeme file (and hence MorphGNT) has πορεύομαι for πορεύω
+* Dodson conflates ἐλεάω and ἐλεέω
+* Dodson conflates Μωϋσῆς and Μωσῆς
+* Dodson has μιμνήσκομαι for μιμνῄσκομαι 
+* Dodson has Κορέ for Κόρε
+* Dodson has Ἐνώχ for Ἑνώχ
+* is gk 4416 vs 4417 adjective vs noun?
