@@ -49,10 +49,10 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
                     gk = int(mounce[lexeme][0]["gk"])
                 except ValueError:
                     gk = None
-                if metadata["gk"] == gk:
+                if metadata.get("gk") == gk:
                     print "    mounce-morphcat: {}".format(mounce[lexeme][0]["morphcat"])
                 else:
-                    problems.append("{} {} != {}".format(lexeme.encode("utf-8"), metadata["gk"], gk))
+                    problems.append("{} {} != {}".format(lexeme.encode("utf-8"), metadata.get("gk"), gk))
             else:
                 problems.append("{} len({}) > 1".format(lexeme.encode("utf-8"), mounce[lexeme]))
         else:

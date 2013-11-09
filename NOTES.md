@@ -13,4 +13,5 @@
 * Dodson has μιμνήσκομαι for μιμνῄσκομαι 
 * Dodson has Κορέ for Κόρε
 * Dodson has Ἐνώχ for Ἑνώχ
-* is gk 4416 vs 4417 adjective vs noun?
+* is πλανήτης gk 4416 vs 4417 adjective vs noun?
+* μέλαν noun vs μέλας adjective
