@@ -25,3 +25,4 @@
 * Dodson is missing ἐγκαυχάομαι, conflating it with κατακαυχάομαι
 * Dodson conflates ἐγκακέω and ἐκκακέω
 * Dodson has ἐνδοξάζω for ἐνδοξάζομαι
+* morphcat has συναναμείγνυμι for συναναμίγνυμι
