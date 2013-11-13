@@ -21,3 +21,4 @@
 * Dodson conflates ἀδιαφθορία and ἀφθορία
 * morphcat has οὶνος for οἶνος
 * Dodson conflates τυπικῶς and τύπος
+* Σατανᾶς doesn't appear to be in BDAG headword list

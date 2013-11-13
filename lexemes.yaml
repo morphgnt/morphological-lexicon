@@ -180,6 +180,7 @@
     mounce-morphcat: a-3a
 αἱρέομαι:
     pos: V
+    bdag-headword: αἱρέω
 αἱρετικός:
     pos: A
     bdag-headword: αἱρετικός
@@ -449,6 +450,7 @@
     bdag-headword: ἄνεσις
 ἀνέχομαι:
     pos: V
+    bdag-headword: ἀνέχω
 ἀνήκω:
     pos: V
     bdag-headword: ἀνήκω
@@ -2474,6 +2476,7 @@
     bdag-headword: θλῖψις
 θροέομαι:
     pos: V
+    bdag-headword: θροέω
 Ἰάκωβος:
     pos: N
     bdag-headword: Ἰάκωβος
@@ -3836,6 +3839,7 @@
     mounce-morphcat: a-1a(2b)
 οὕτω(ς):
     pos: D
+    bdag-headword: οὕτω
 ὀφείλω:
     pos: V
     bdag-headword: ὀφείλω
@@ -4584,6 +4588,7 @@
     bdag-headword: σημεῖον
 σημειόομαι:
     pos: V
+    bdag-headword: σημειόω
 Σιλουανός:
     pos: N
     bdag-headword: Σιλουανός
@@ -4679,6 +4684,7 @@
     mounce-morphcat: n-1b
 στέλλομαι:
     pos: V
+    bdag-headword: στέλλω
 στήκω:
     pos: V
     bdag-headword: στήκω
@@ -5023,6 +5029,7 @@
     mounce-morphcat: prep
 ὑπεραίρομαι:
     pos: V
+    bdag-headword: ὑπεραίρω
 ὑπεραυξάνω:
     pos: V
     bdag-headword: ὑπεραυξάνω
