@@ -27,6 +27,7 @@ regexes = [
     # ἰδού
     r"X/V@V@\?\?$", # @@@
     
+    # adjectives
     r"A@A@a-[0-9a-z\(\)]+$",
     
     # adjective missing in dodson
