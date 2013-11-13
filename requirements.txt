@@ -1,2 +1,2 @@
 PyYAML==3.10
-pyuca==0.6
+pyuca==0.6.1

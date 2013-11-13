@@ -2,6 +2,7 @@ sblgnt-test:
     format: tisch-merge
     prefix: ../sblgnt/
     files:
+        - 74-2Th-morphgnt.txt
         - 77-Tit-morphgnt.txt
         - 78-Phm-morphgnt.txt
         - 84-2Jn-morphgnt.txt
