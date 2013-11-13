@@ -22,3 +22,6 @@
 * morphcat has οὶνος for οἶνος
 * Dodson conflates τυπικῶς and τύπος
 * Σατανᾶς doesn't appear to be in BDAG headword list
+* Dodson is missing ἐγκαυχάομαι, conflating it with κατακαυχάομαι
+* Dodson conflates ἐγκακέω and ἐκκακέω
+* Dodson has ἐνδοξάζω for ἐνδοξάζομαι
