@@ -1,0 +1,99 @@
+#!/usr/bin/env python
+
+import sys
+
+from pyuca import Collator
+collator = Collator()
+
+from morphgnt import filesets
+from morphgnt.utils import load_yaml
+
+lexemes = load_yaml("lexemes.yaml")
+forms = load_yaml("forms.yaml")
+fs = filesets.load("filesets.yaml")
+
+for row in fs["sblgnt-forms"].rows():
+    lexeme = lexemes.get(row["lemma"].decode("utf-8"))
+    if lexeme:
+        lemma = row["lemma"].decode("utf-8")
+        form = row["norm"].decode("utf-8")
+        if lexeme["pos"] in ["RA", "A", "N", "RR"]:
+            gender = row["ccat-parse"][6]
+            case_number = row["ccat-parse"][4:6]
+            form_list = forms.setdefault(lemma, {}).setdefault(gender, {}).setdefault(case_number, [])
+            if {"form": form} not in form_list:
+                form_list.append({"form": form})
+        elif lexeme["pos"] in ["RP1"]:
+            case_number = row["ccat-parse"][4:6]
+            form_list = forms.setdefault(lemma, {}).setdefault(case_number, [])
+            if {"form": form} not in form_list:
+                form_list.append({"form": form})
+        elif lexeme["pos"] in ["V"]:
+            mood = row["ccat-parse"][3]
+            if mood in ["I", "D", "S", "O"]:
+                tense_voice_mood = row["ccat-parse"][1:4]
+                person_number = row["ccat-parse"][0] + row["ccat-parse"][5]
+                form_list = forms.setdefault(lemma, {}).setdefault(tense_voice_mood, {}).setdefault(person_number, [])
+                if {"form": form} not in form_list:
+                    form_list.append({"form": form})
+            elif mood in ["N"]:
+                tense_voice_mood = row["ccat-parse"][1:4]
+                form_list = forms.setdefault(lemma, {}).setdefault(tense_voice_mood, [])
+                if {"form": form} not in form_list:
+                    form_list.append({"form": form})
+            elif mood in ["P"]:
+                tense_voice_mood = row["ccat-parse"][1:4]
+                gender = row["ccat-parse"][6]
+                case_number = row["ccat-parse"][4:6]
+                form_list = forms.setdefault(lemma, {}).setdefault(tense_voice_mood, {}).setdefault(gender, {}).setdefault(case_number, [])
+                if {"form": form} not in form_list:
+                    form_list.append({"form": form})
+            else:
+                print >>sys.stderr, "*** can't handle mood {}".format(mood)
+        elif lexeme["pos"] in "P":
+            form_list = forms.setdefault(lemma, [])
+            if {"form": form} not in form_list:
+                form_list.append({"form": form})
+    else:
+        print >>sys.stderr, "lexemes file doesn't have {}".format(row["lemma"])
+
+
+for form, metadata in sorted(forms.items(), key=lambda x: collator.sort_key(x[0])):
+    print "{}:".format(form.encode("utf-8"))
+    pos = lexemes[form]["pos"]
+    if pos in ["RA", "A", "N", "RR"]:
+        for gender in ["M", "F", "N"]:
+            if gender in metadata:
+                print "    {}:".format(gender)
+                for case_number in ["NS", "AS", "GS", "DS", "VS", "NP", "AP", "GP", "DP", "VP"]:
+                    if case_number in metadata[gender]:
+                        print "        {}:".format(case_number)
+                        for form in metadata[gender][case_number]:
+                            print "            -"
+                            print "                form: {}".format(form["form"].encode("utf-8"))
+    elif pos in ["RP1"]:
+        for case_number in ["NS", "AS", "GS", "DS", "VS", "NP", "AP", "GP", "DP", "VP"]:
+            if case_number in metadata:
+                print "    {}:".format(case_number)
+                for form in metadata[case_number]:
+                    print "        -"
+                    print "            form: {}".format(form["form"].encode("utf-8"))
+    elif pos in ["V"]:
+        for tense_voice_mood in ["AAI", "PAI"]:
+            if tense_voice_mood in metadata:
+                print "    {}:".format(tense_voice_mood)
+                for person_number in ["1S", "2S", "3S", "1P", "2P", "3P"]:
+                    if person_number in metadata[tense_voice_mood]:
+                        print "        {}:".format(person_number)
+                        for form in metadata[tense_voice_mood][person_number]:
+                            print "            -"
+                            print "                form: {}".format(form["form"].encode("utf-8"))
+
+    elif pos in "P":
+        for form in metadata:
+            print "    -"
+            print "        form: {}".format(form["form"].encode("utf-8"))
+    else:
+        print >>sys.stderr, "*** can't handle pos {}".format(pos)
+
+

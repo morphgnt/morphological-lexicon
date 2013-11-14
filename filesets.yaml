@@ -8,3 +8,8 @@ sblgnt-lexemes:
         - 84-2Jn-morphgnt.txt
         - 85-3Jn-morphgnt.txt
         - 86-Jud-morphgnt.txt
+sblgnt-forms:
+    format: tisch-merge
+    prefix: ../sblgnt/
+    files:
+        - 85-3Jn-morphgnt.txt
