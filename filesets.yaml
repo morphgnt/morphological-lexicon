@@ -1,4 +1,4 @@
-sblgnt-test:
+sblgnt-lexemes:
     format: tisch-merge
     prefix: ../sblgnt/
     files:

@@ -10,7 +10,7 @@ total = 0
 match = 0
 first_fail = None
 
-for row in fs["sblgnt-test"].rows():
+for row in fs["sblgnt-lexemes"].rows():
     total += 1
     if row["lemma"].decode("utf-8") in lexemes:
         match += 1
