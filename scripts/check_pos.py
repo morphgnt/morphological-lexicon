@@ -18,8 +18,14 @@ regexes = [
     # verbs missing in dodson
     r"V@None@v-[0-9a-z\(\)]+$",
     
-    # compund verbs
+    # verbs missing in morphcat
+    r"V@V@None",
+    
+    # compound verbs
     r"V@V@cv-[0-9a-z\(\)]+$",
+    
+    # compound verbs missing in dodson
+    r"V@None@cv-[0-9a-z\(\)]+$",
     
     # compound verbs missing full morphcat
     r"V@V@cv-$", # @@@
@@ -37,6 +43,9 @@ regexes = [
     r"A@A,ADV@a-1a\(1\)$", # @@@
     r"A@A,ADV-C@a-1a\(2a\)$", # @@@
     r"A@ADV-S@a-1a\(1\)$", # @@@
+    
+    # adjectives that tisch has as adverbs
+    r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     
     # nouns
     r"N@N:F@n-1a$",
@@ -123,10 +132,13 @@ regexes = [
     r"C@CONJ@particle$", # @@@
     r"C/ADV@ADV@adverb$", # @@@
     r"C/ADV@ADV@particle$", # @@@
+    r"C/ADV@ADV,ADV-I@particle$", # @@@
     r"C/D@ADV@conj$", # @@@
+    r"C/ADV@ADV@conj$", # @@@
     r"C/PRT@PRT@particle$", # @@@
     r"C/COND@COND@particle$", # @@@
     r"C/CONJ-N@CONJ-N@adverb$", # @@@
+    r"C/CONJ-N@CONJ-N@conj$", # @@@
     r"C/D@ADV@adverb$", # @@@
     
     r"D/ADV-S@ADV-S@adverb$", # @@@
