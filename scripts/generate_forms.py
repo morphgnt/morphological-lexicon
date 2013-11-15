@@ -30,15 +30,15 @@ for row in fs["sblgnt-forms"].rows():
                 form_list.append({"form": form})
         elif lexeme["pos"] in ["V"]:
             mood = row["ccat-parse"][3]
-            if mood in ["I", "D", "S", "O"]:
+            if mood in ["N"]:
+                tense_voice_mood = row["ccat-parse"][1:4]
+                form_list = forms.setdefault(lemma, {}).setdefault(tense_voice_mood, [])
+                if {"form": form} not in form_list:
+                    form_list.append({"form": form})
+            elif mood in ["I", "D", "S", "O"]:
                 tense_voice_mood = row["ccat-parse"][1:4]
                 person_number = row["ccat-parse"][0] + row["ccat-parse"][5]
                 form_list = forms.setdefault(lemma, {}).setdefault(tense_voice_mood, {}).setdefault(person_number, [])
-                if {"form": form} not in form_list:
-                    form_list.append({"form": form})
-            elif mood in ["N"]:
-                tense_voice_mood = row["ccat-parse"][1:4]
-                form_list = forms.setdefault(lemma, {}).setdefault(tense_voice_mood, [])
                 if {"form": form} not in form_list:
                     form_list.append({"form": form})
             elif mood in ["P"]:
@@ -79,7 +79,37 @@ for form, metadata in sorted(forms.items(), key=lambda x: collator.sort_key(x[0]
                     print "        -"
                     print "            form: {}".format(form["form"].encode("utf-8"))
     elif pos in ["V"]:
-        for tense_voice_mood in ["AAI", "PAI"]:
+        for tense_voice_mood in [
+            "AAN", "AMN", "APN",
+            "FAN", "FMN",
+            "PAN", "PMN", "PPN",
+            "XAN", "XMN", "XPN",
+        ]:
+            if tense_voice_mood in metadata:
+                print "    {}:".format(tense_voice_mood)
+                for form in metadata[tense_voice_mood]:
+                    print "        -"
+                    print "            form: {}".format(form["form"].encode("utf-8"))
+        for tense_voice_mood in [
+            "AAI", "AAS", "AAD", "AAO",
+            "AMI", "AMS", "AMD", "AMO",
+            "API", "APS", "APD", "APO",
+            "FAI",
+            "FMI",
+            "FPI",
+            "IAI",
+            "IMI",
+            "IPI",
+            "PAI", "PAS", "PAD", "PAO",
+            "PMI", "PMS", "PMD", "PMO",
+            "PPI", "PPS", "PPD",
+            "XAI", "XAS", "XAD",
+            "XMI",        "XMD",
+            "XPI",
+            "YAI",
+            "YMI",
+            "YPI",
+        ]:
             if tense_voice_mood in metadata:
                 print "    {}:".format(tense_voice_mood)
                 for person_number in ["1S", "2S", "3S", "1P", "2P", "3P"]:
@@ -88,6 +118,23 @@ for form, metadata in sorted(forms.items(), key=lambda x: collator.sort_key(x[0]
                         for form in metadata[tense_voice_mood][person_number]:
                             print "            -"
                             print "                form: {}".format(form["form"].encode("utf-8"))
+        for tense_voice_mood in [
+            "AAP", "AMP", "APP",
+            "FAP", "FMP", "FPP",
+            "PAP", "PMP", "PPP",
+            "XAP", "XMP", "XPP",
+        ]:
+            if tense_voice_mood in metadata:
+                print "    {}:".format(tense_voice_mood)
+                for gender in ["M", "F", "N"]:
+                    if gender in metadata[tense_voice_mood]:
+                        print "        {}:".format(gender)
+                        for case_number in ["NS", "AS", "GS", "DS", "VS", "NP", "AP", "GP", "DP", "VP"]:
+                            if case_number in metadata[tense_voice_mood][gender]:
+                                print "            {}:".format(case_number)
+                                for form in metadata[tense_voice_mood][gender][case_number]:
+                                    print "                -"
+                                    print "                    form: {}".format(form["form"].encode("utf-8"))
 
     elif pos in "P":
         for form in metadata:
