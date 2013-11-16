@@ -20,6 +20,8 @@ def convert(ccat, robinson):
         return "P"
     elif pair == ("RD", "D"):
         return "RD"
+    elif pair == ("RR", "R"):
+        return "RR"
     elif pair == ("C-", "CONJ"):
         return "C"
     else:
