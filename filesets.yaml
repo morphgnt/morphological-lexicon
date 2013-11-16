@@ -2,6 +2,7 @@ sblgnt-lexemes:
     format: tisch-merge
     prefix: ../sblgnt/
     files:
+        - 73-1Th-morphgnt.txt
         - 74-2Th-morphgnt.txt
         - 76-2Ti-morphgnt.txt
         - 77-Tit-morphgnt.txt

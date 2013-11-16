@@ -124,6 +124,7 @@ regexes = [
     r"RP@P@a-1a\(2b\)$", # @@@
     r"RP1@P@a-5$", # @@@
     r"RP2@P@a-5$", # @@@
+    r"RP1/P-K@P@a-5$", # @@@
     
     # relative pronouns
     r"RR@R@a-1a\(2b\)$",
@@ -135,6 +136,7 @@ regexes = [
     
     # indefinite pronoun
     r"RI/X@X@a-4b\(2\)$", # @@@
+    r"RI/A@A@a-1a\(1\)$", # @@@
     
     r"C@CONJ@conj$",
     r"D@ADV@adverb$",
@@ -152,6 +154,7 @@ regexes = [
     r"C/CONJ-N@CONJ-N@adverb$", # @@@
     r"C/CONJ-N@CONJ-N@conj$", # @@@
     r"C/D@ADV@adverb$", # @@@
+    r"C/ADV@ADV@adverb; co$", # @@@
     
     # adverbs missing in dodson
     r"D@None@adverb$",
@@ -160,6 +163,9 @@ regexes = [
     r"D/ADV-N@ADV-N@adverb$", # @@@
     r"D@ADV-N@adverb$", # @@@
     r"D@ADV-I@adverb$", # @@@
+    r"D@ADV,ADV-C@adverb$", # @@@
+    
+    r"D@None@particle$", # @@@
     r"D/CONJ-N@CONJ-N@particle$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
@@ -168,11 +174,13 @@ regexes = [
     r"P/ADV@ADV@prep$", # @@@
     r"P/ADV@ADV@adverb; pr$", # @@@
     r"P/D@ADV@adverb$", # @@@
+    r"P@ADV,PREP@adverb$", # @@@
     
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
     r"X/INJ@INJ,N-OI@interjectio$", # @@@
     r"X/ADV-N@ADV-N@particle$", # @@@
+    r"X/PRT-I@PRT-I,PRT-N@adverb$", # @@@
 ]
 
 match = 0

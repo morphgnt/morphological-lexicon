@@ -43,3 +43,10 @@
 * Dodson has οἵος for οἷος
 * Dodson has Λῖνος for Λίνος
 * does χρύσεος == χρυσοῦς?
+* Dodson is missing πώς
+* Dodson is missing περισσοτέρως
+* Dodson has περιλείπω for περιλείπομαι
+* Dodson conflates ὁρκίζω and ἐνορκίζω
+* Dodson conflates ὑπερεκχύνω and ὑπερεκπερισσοῦ
+* Dodson has Ἀχαϊα for Ἀχαΐα
+* morphcat has εὶδος for εἶδος
