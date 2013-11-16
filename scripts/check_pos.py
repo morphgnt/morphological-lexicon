@@ -119,7 +119,6 @@ regexes = [
     
     # relative pronouns
     r"RR@R@a-1a\(2b\)$",
-    r"RR/R@R@a-1a\(2b\)$", # @@@
     
     # possessive pronouns
     r"A/RP1@S@a-1a\(2a\)$", # @@@
