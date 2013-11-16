@@ -1,0 +1,6 @@
+# words known to be missing in BDAG headword list so we can stop complaining
+# about them
+
+κύριος
+Σατανᾶς
+βέλτιον

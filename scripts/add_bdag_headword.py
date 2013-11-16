@@ -6,12 +6,14 @@ import unicodedata
 from pyuca import Collator
 collator = Collator()
 
-from morphgnt.utils import load_yaml
+from morphgnt.utils import load_yaml, load_wordset
 
 def n(x):
     return unicodedata.normalize("NFKC", x)
 
 lexemes = load_yaml("lexemes.yaml")
+missing_bdag = load_wordset("missing_bdag.txt")
+
 
 headwords = set()
 with open("../data-cleanup/bdag-headwords/bdag_headwords.txt") as f:
@@ -53,7 +55,8 @@ for word in existing_not_in_headwords:
     print >>sys.stderr, "\t", word
 print >>sys.stderr, "missing"
 for word in missing_not_in_headwords:
-    print >>sys.stderr, "\t", word
+    if word.decode("utf-8") not in missing_bdag:
+        print >>sys.stderr, "\t", word
 print >>sys.stderr, "added"
 for word in added:
     print >>sys.stderr, "\t", word

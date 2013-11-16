@@ -1,5 +1,5 @@
 * lexeme file should be in NFKC form
-* κύριος doesn't appear to be in BDAG headword list
+* * doesn't appear to be in BDAG headword list
 * lexeme file (and hence MorphGNT) has τις for both τίς and τὶς
 * lexeme file (and hence MorphGNT) has προσλαμβάνομαι for προσλαμβάνω
 * lexeme file (and hence MorphGNT) has εὐοδόομαι for εὐοδόω
@@ -34,3 +34,5 @@
 * Dodson is missing ὁμίχλη
 * Dodson has βραδυτής for βραδύτης
 * Dodson had incorrect GKs for many words
+* βέλτιον isn't in BDAG headword list (βελτίων?)
+* lexeme file (and hence MorphGNT) has χρήσιμον for χρήσιμος
