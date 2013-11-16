@@ -3,6 +3,7 @@ sblgnt-lexemes:
     prefix: ../sblgnt/
     files:
         - 74-2Th-morphgnt.txt
+        - 76-2Ti-morphgnt.txt
         - 77-Tit-morphgnt.txt
         - 78-Phm-morphgnt.txt
         - 82-2Pe-morphgnt.txt
