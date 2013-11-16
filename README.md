@@ -11,3 +11,4 @@ text, merges in more existing analysis and improves the code.
 * `./scripts/generate_lexemes.py >> lexemes.yaml`
 * manual inspect `pos` and clean up morphgnt/tisch conflicts
 * run `add_dodson.py`
+* clean up 0-padded numbers
