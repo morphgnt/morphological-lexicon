@@ -16,3 +16,4 @@ text, merges in more existing analysis and improves the code.
 * clean up 0-padded numbers
 * manually check all missing dodson entries
 * run `add_mounce_morphcat.py`
+* manually check all missing morphcat entries

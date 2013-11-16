@@ -75,9 +75,10 @@
     bdag-headword: ἁγιάζω
     dodson-entry: ἁγιάζω
     strongs: 37
-    gk: 39,420
+    gk: 39
     dodson-pos: V
     gloss: I make holy, sanctify
+    mounce-morphcat: v-2a(1)
 ἁγιασμός:
     pos: N
     bdag-headword: ἁγιασμός
@@ -1289,9 +1290,10 @@
     bdag-headword: ἀποστέλλω
     dodson-entry: ἀποστέλλω
     strongs: 649
-    gk: 690,1852
+    gk: 690
     dodson-pos: V
     gloss: I send forth, send, send away, dismiss
+    mounce-morphcat: cv-2d(1)
 ἀπόστολος:
     pos: N
     bdag-headword: ἀπόστολος
@@ -1405,9 +1407,10 @@
     bdag-headword: ἀργυροῦς
     dodson-entry: ἀργυροῦς, ᾶ, οῦν
     strongs: 693
-    gk: 735,739
+    gk: 739
     dodson-pos: A
     gloss: made of silver
+    mounce-morphcat: a-1b
 ἀρέσκω:
     pos: V
     bdag-headword: ἀρέσκω
@@ -2023,9 +2026,10 @@
     bdag-headword: Γαλατία
     dodson-entry: Γαλατία, ας, ἡ
     strongs: 1053
-    gk: 1130,1135
+    gk: 1130
     dodson-pos: N:F
     gloss: Galatia
+    mounce-morphcat: n-1a
 γάρ:
     pos: C
     bdag-headword: γάρ
@@ -2247,9 +2251,10 @@
     bdag-headword: Δαυίδ
     dodson-entry: Δαυίδ, ὁ
     strongs: 1138
-    gk: 1226,1253
+    gk: 1253
     dodson-pos: N-PRI
     gloss: David
+    mounce-morphcat: n-3g(2)
 δέ:
     pos: C
     bdag-headword: δέ
@@ -2435,9 +2440,10 @@
     bdag-headword: διακονία
     dodson-entry: διακονία, ας, ἡ
     strongs: 1248
-    gk: 1355,1566
+    gk: 1355
     dodson-pos: N:F
     gloss: waiting at table, service, ministration
+    mounce-morphcat: n-1a
 διακρίνω:
     pos: V
     bdag-headword: διακρίνω
@@ -3161,6 +3167,8 @@
 ἐλεγμός:
     pos: N
     bdag-headword: ἐλεγμός
+    gk: 1791
+    mounce-morphcat: n-2a
 ἔλεγξις:
     pos: N
     bdag-headword: ἔλεγξις
@@ -4413,9 +4421,10 @@
     bdag-headword: θεμέλιος
     dodson-entry: θεμέλιος, ον
     strongs: 2310
-    gk: 2528,2529
+    gk: [2528, 2529]
     dodson-pos: N:M,N:N
     gloss: belonging to the foundation
+    mounce-morphcat: ['n-2c', 'n-2a']
 θεόπνευστος:
     pos: A
     bdag-headword: θεόπνευστος
@@ -5051,9 +5060,10 @@
     bdag-headword: κενοφωνία
     dodson-entry: κενοφωνία, ας, ἡ
     strongs: 2757
-    gk: 2787,3032
+    gk: 3032
     dodson-pos: N:F
     gloss: empty disputing, worthless babble
+    mounce-morphcat: n-1a
 κέρδος:
     pos: N
     bdag-headword: κέρδος
@@ -5756,9 +5766,10 @@
     bdag-headword: μάρτυς
     dodson-entry: μάρτυς, υρος, ὁ
     strongs: 3144
-    gk: 3459,4753
+    gk: 3459
     dodson-pos: N:M
     gloss: a witness
+    mounce-morphcat: n-3f(2a)
 ματαιολόγος:
     pos: A
     bdag-headword: ματαιολόγος
@@ -5985,9 +5996,10 @@
     bdag-headword: μέχρι
     dodson-entry: μέχρι
     strongs: 3360
-    gk: 3588,3589
+    gk: [3588, 3589]
     dodson-pos: ADV
     gloss: as far as, until
+    mounce-morphcat: prep
 μή:
     pos: D/PRT-N
     bdag-headword: μή
@@ -7193,7 +7205,7 @@
     bdag-headword: παρίστημι
     dodson-entry: παρίστημι
     strongs: 3936
-    gk: 4224,4225
+    gk: [4224, 4225]
     dodson-pos: V
     gloss: I bring, present, come up to and stand by
 παροιμία:
@@ -7597,9 +7609,10 @@
     bdag-headword: πολλάκις
     dodson-entry: πολλάκις
     strongs: 4178
-    gk: 4490,1930
+    gk: 4490
     dodson-pos: ADV
     gloss: many times, often
+    mounce-morphcat: adverb
 πολύς:
     pos: A
     bdag-headword: πολύς
@@ -7794,9 +7807,10 @@
     bdag-headword: πρόθεσις
     dodson-entry: πρόθεσις, εως, ἡ
     strongs: 4286
-    gk: 4606,4671
+    gk: 4606
     dodson-pos: N:F
     gloss: the show-bread, predetermination
+    mounce-morphcat: n-3e(5b)
 προΐστημι:
     pos: V
     bdag-headword: προΐστημι
@@ -9123,9 +9137,10 @@
     bdag-headword: ὑπερήφανος
     dodson-entry: ὑπερήφανος, ον
     strongs: 5244
-    gk: 5662,5663
+    gk: 5662
     dodson-pos: A
     gloss: proud, arrogant
+    mounce-morphcat: a-3a
 ὑπέρογκος:
     pos: A
     bdag-headword: ὑπέρογκος
@@ -9185,9 +9200,10 @@
     bdag-headword: ὑπομένω
     dodson-entry: ὑπομένω
     strongs: 5278
-    gk: 670,5702
+    gk: 5702
     dodson-pos: V
     gloss: I remain behind, endure
+    mounce-morphcat: cv-1c(2)
 ὑπομιμνῄσκω:
     pos: V
     bdag-headword: ὑπομιμνῄσκω
