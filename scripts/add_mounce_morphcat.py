@@ -62,7 +62,7 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
             else:
                 problems.append("{} len({}) > 1".format(source.encode("utf-8"), mounce[source]))
         else:
-            problems.append("{} not found (gk={})".format(lexeme.encode("utf-8"), metadata["gk"]))
+            problems.append("{} not found (gk={})".format(lexeme.encode("utf-8"), metadata.get("gk")))
 
 
 print >>sys.stderr, "problems"

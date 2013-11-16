@@ -14,3 +14,5 @@ text, merges in more existing analysis and improves the code.
 * manually check all missing BDAG headwords
 * run `add_dodson.py`
 * clean up 0-padded numbers
+* manually check all missing dodson entries
+* run `add_mounce_morphcat.py`
