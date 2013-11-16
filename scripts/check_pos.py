@@ -42,6 +42,9 @@ regexes = [
     # adjective missing in dodson
     r"A@None@a-[0-9a-z\(\)]+$",
     
+    # adjective missing in morphcat
+    r"A@A@None$", 
+    
     # adjectives that dodson has as adverbs
     r"A@A,ADV@a-1a\(1\)$", # @@@
     r"A@A,ADV-C@a-1a\(2a\)$", # @@@
@@ -49,6 +52,7 @@ regexes = [
     
     # adjectives that tisch has as adverbs
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
+    r"A/ADV-C\?@None@None$", # @@@
     
     # nouns
     r"N@N:F@n-1a$",
@@ -71,10 +75,12 @@ regexes = [
     r"N@N-PRI@n-3g\(2\)$",
     
     # nouns with multiple genders (according to dodson)
+    r"N@N:F,N:N@n-1a$", # @@@
     r"N@N:M,N:N@n-2a$", # @@@
     r"N@N:F,N:M@n-2a$", # @@@
     r"N@N:F,N:N@n-2c$", # @@@
     r"N@N:M,N:N@n-3[0-9a-z\(\)]+$", # @@@
+    r"N@N:M,N:N@\['n-2c', 'n-2a'\]$", # @@@
     
     # nouns missing in dodson
     r"N@None@n-[0-9a-z\(\)]+$", # @@@
@@ -85,6 +91,7 @@ regexes = [
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
     r"A/N@N:F@n-3c\(2\)$", # @@@
+    r"A/N@N:M@a-3a$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
     
@@ -108,6 +115,7 @@ regexes = [
     
     # correlative pronoun
     r"RR/K@K@a-1a\(2a\)$", # @@@
+    r"RR/K@K,R@a-1a\(1\)$", # @@@
     
     # correlative OR interrogative pronoun
     r"RI/Q@Q@a-1a\(2a\)$", # @@@
@@ -150,6 +158,7 @@ regexes = [
     
     r"D/ADV-S@ADV-S@adverb$", # @@@
     r"D/ADV-N@ADV-N@adverb$", # @@@
+    r"D@ADV-N@adverb$", # @@@
     r"D@ADV-I@adverb$", # @@@
     r"D/CONJ-N@CONJ-N@particle$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
@@ -163,6 +172,7 @@ regexes = [
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
     r"X/INJ@INJ,N-OI@interjectio$", # @@@
+    r"X/ADV-N@ADV-N@particle$", # @@@
 ]
 
 match = 0

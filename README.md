@@ -17,3 +17,4 @@ text, merges in more existing analysis and improves the code.
 * manually check all missing dodson entries
 * run `add_mounce_morphcat.py`
 * manually check all missing morphcat entries
+* run `check_pos.py` and review pos inconsistencies
