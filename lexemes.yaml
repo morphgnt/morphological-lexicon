@@ -1292,6 +1292,11 @@
 ἀποτρέπομαι:
     pos: V
     bdag-headword: ἀποτρέπω
+    dodson-entry: ἀποτρέπω
+    strongs: 0665
+    gk: 0706
+    dodson-pos: V
+    gloss: I turn away from, shun
 ἀποφεύγω:
     pos: V
     bdag-headword: ἀποφεύγω
@@ -1721,6 +1726,11 @@
 ἀφίσταμαι:
     pos: V
     bdag-headword: ἀφίστημι
+    dodson-entry: ἀφίστημι
+    strongs: 0868
+    gk: 0923
+    dodson-pos: V
+    gloss: I lead away, seduce, depart, abstain from
 ἀφόβως:
     pos: D
     bdag-headword: ἀφόβως
@@ -3042,6 +3052,11 @@
 ἐκτρέπομαι:
     pos: V
     bdag-headword: ἐκτρέπω
+    dodson-entry: ἐκτρέπω
+    strongs: 1624
+    gk: 1762
+    dodson-pos: V
+    gloss: I turn aside, wander, forsake
 ἐκχέω:
     pos: V
     bdag-headword: ἐκχέω
@@ -5001,6 +5016,11 @@
 κνήθομαι:
     pos: V
     bdag-headword: κνήθω
+    dodson-entry: κνήθω
+    strongs: 2833
+    gk: 3117
+    dodson-pos: V
+    gloss: I rub, tickle
 κοιμάομαι:
     pos: V
     bdag-headword: κοιμάω
@@ -5820,6 +5840,11 @@
 μέχρι(ς):
     pos: P/ADV
     bdag-headword: μέχρι
+    dodson-entry: μέχρι
+    strongs: 3360
+    gk: 3588,3589
+    dodson-pos: ADV
+    gloss: as far as, until
 μή:
     pos: D/PRT-N
     bdag-headword: μή
@@ -7218,6 +7243,11 @@
 πιστόομαι:
     pos: V
     bdag-headword: πιστόω
+    dodson-entry: πιστόω
+    strongs: 4104
+    gk: 4413
+    dodson-pos: V
+    gloss: I convince, give assurance to
 πιστός:
     pos: A
     bdag-headword: πιστός
@@ -8009,6 +8039,11 @@
 σπένδομαι:
     pos: V
     bdag-headword: σπένδω
+    dodson-entry: σπένδω
+    strongs: 4689
+    gk: 5064
+    dodson-pos: V
+    gloss: I pour out as a libation
 σπέρμα:
     pos: N
     bdag-headword: σπέρμα
@@ -8766,6 +8801,11 @@
 τυφόομαι:
     pos: V
     bdag-headword: τυφόω
+    dodson-entry: τυφόω
+    strongs: 5187
+    gk: 5605
+    dodson-pos: V
+    gloss: I puff up, make haughty
 Τυχικός:
     pos: N
     bdag-headword: Τυχικός
@@ -9493,6 +9533,11 @@
 χρήσιμον:
     pos: A
     bdag-headword: χρήσιμος
+    dodson-entry: χρήσιμος, η, ον
+    strongs: 5539
+    gk: 5978
+    dodson-pos: A
+    gloss: useful, profitable
 χρηστότης:
     pos: N
     bdag-headword: χρηστότης
