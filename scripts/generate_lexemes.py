@@ -11,7 +11,7 @@ def convert(ccat, robinson):
     if pair == ("N-", "N"):
         return "N"
     elif pair == ("V-", "V"):
-        return "N"
+        return "V"
     elif pair == ("A-", "A"):
         return "A"
     elif pair == ("D-", "ADV"):

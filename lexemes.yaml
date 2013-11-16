@@ -89,7 +89,7 @@
     gloss: set apart, holy, sacred
     mounce-morphcat: a-1a(1)
 ἀγνοέω:
-    pos: N
+    pos: V
     bdag-headword: ἀγνοέω
     dodson-entry: ἀγνοέω
     strongs: 40
@@ -107,7 +107,7 @@
     gloss: pure, chaste
     mounce-morphcat: a-1a(2a)
 ἀγοράζω:
-    pos: N
+    pos: V
     bdag-headword: ἀγοράζω
     dodson-entry: ἀγοράζω
     strongs: 59
@@ -557,7 +557,7 @@
     gloss: I send up to a higher tribunal, I send back
     mounce-morphcat: cv-1b(1)
 ἀναστρέφω:
-    pos: N
+    pos: V
     bdag-headword: ἀναστρέφω
     dodson-entry: ἀναστρέφω
     strongs: 390
@@ -575,7 +575,7 @@
     gloss: behavior, manner of life
     mounce-morphcat: n-1b
 ἀνατέλλω:
-    pos: N
+    pos: V
     bdag-headword: ἀνατέλλω
     dodson-entry: ἀνατέλλω
     strongs: 393
@@ -1007,7 +1007,7 @@
     gloss: sharply, severely
     mounce-morphcat: adverb
 ἀποφεύγω:
-    pos: N
+    pos: V
     bdag-headword: ἀποφεύγω
     dodson-entry: ἀποφεύγω
     strongs: 668
@@ -1052,7 +1052,7 @@
     gloss: then, therefore, since
     mounce-morphcat: particle
 ἀργέω:
-    pos: N
+    pos: V
     bdag-headword: ἀργέω
     dodson-entry: ἀργέω
     strongs: 691
@@ -1304,7 +1304,7 @@
     gloss: self-satisfied, arrogant
     mounce-morphcat: a-4a
 αὐξάνω:
-    pos: N
+    pos: V
     bdag-headword: αὐξάνω
     dodson-entry: αὐξάνω
     strongs: 837
@@ -1390,7 +1390,7 @@
     gloss: Balaam
     mounce-morphcat: n-3g(2)
 βασανίζω:
-    pos: N
+    pos: V
     bdag-headword: βασανίζω
     dodson-entry: βασανίζω
     strongs: 928
@@ -1498,7 +1498,7 @@
     gloss: I will, intend, desire
     mounce-morphcat: v-1d(2c)
 βραδύνω:
-    pos: N
+    pos: V
     bdag-headword: βραδύνω
     dodson-entry: βραδύνω
     strongs: 1019
@@ -1606,7 +1606,7 @@
     gloss: opinion, counsel, judgment, intention
     mounce-morphcat: n-1b
 γνωρίζω:
-    pos: N
+    pos: V
     bdag-headword: γνωρίζω
     dodson-entry: γνωρίζω
     strongs: 1107
@@ -1660,7 +1660,7 @@
     gloss: I write
     mounce-morphcat: v-1b(1)
 γυμνάζω:
-    pos: N
+    pos: V
     bdag-headword: γυμνάζω
     dodson-entry: γυμνάζω
     strongs: 1128
@@ -1696,7 +1696,7 @@
     gloss: an example, type
     mounce-morphcat: n-3c(4)
 δελεάζω:
-    pos: N
+    pos: V
     bdag-headword: δελεάζω
     dodson-entry: δελεάζω
     strongs: 1185
@@ -1768,7 +1768,7 @@
     gloss: I bind
     mounce-morphcat: v-1d(2b)
 δηλόω:
-    pos: N
+    pos: V
     bdag-headword: δηλόω
     dodson-entry: δηλόω
     strongs: 1213
@@ -1858,7 +1858,7 @@
     gloss: I converse, address, preach, lecture
     mounce-morphcat: cv-1b(2)
 διαμένω:
-    pos: N
+    pos: V
     bdag-headword: διαμένω
     dodson-entry: διαμένω
     strongs: 1265
@@ -1885,7 +1885,7 @@
     gloss: I give orders to, prescribe
     mounce-morphcat: cv-2b
 διαυγάζω:
-    pos: N
+    pos: V
     bdag-headword: διαυγάζω
     dodson-entry: διαυγάζω
     strongs: 1306
@@ -1930,7 +1930,7 @@
     gloss: I offer, give
     mounce-morphcat: v-6a
 διεγείρω:
-    pos: N
+    pos: V
     bdag-headword: διεγείρω
     dodson-entry: διεγείρω
     strongs: 1326
@@ -2110,7 +2110,7 @@
     gloss: as a free gift, without payment, freely
     mounce-morphcat: adverb
 δωρέομαι:
-    pos: N
+    pos: V
     bdag-headword: δωρέομαι
     dodson-entry: δωρέομαι
     strongs: 1433
@@ -2154,7 +2154,7 @@
     gloss: I am faint, am weary
     mounce-morphcat: cv-1d(2a)
 ἐγκατοικέω:
-    pos: N
+    pos: V
     bdag-headword: ἐγκατοικέω
     dodson-entry: ἐγκατοικέω
     strongs: 1460
@@ -2393,7 +2393,7 @@
     gloss: from of old, long since
     mounce-morphcat: adverb
 ἐκπίπτω:
-    pos: N
+    pos: V
     bdag-headword: ἐκπίπτω
     dodson-entry: ἐκπίπτω
     strongs: 1601
@@ -2438,7 +2438,7 @@
     gloss: I pour out, shed
     mounce-morphcat: cv-1a(7)
 ἐλαύνω:
-    pos: N
+    pos: V
     bdag-headword: ἐλαύνω
     dodson-entry: ἐλαύνω
     strongs: 1643
@@ -2547,7 +2547,7 @@
     gloss: a mocker
     mounce-morphcat: n-1f
 ἐμπλέκομαι:
-    pos: N
+    pos: V
     bdag-headword: ἐμπλέκω
     dodson-entry: ἐμπλέκω
     strongs: 1707
@@ -2556,7 +2556,7 @@
     gloss: I enfold, entangle
     mounce-morphcat: cv-1b(2)
 ἐμπορεύομαι:
-    pos: N
+    pos: V
     bdag-headword: ἐμπορεύομαι
     dodson-entry: ἐμπορεύομαι
     strongs: 1710
@@ -2664,7 +2664,7 @@
     gloss: I turn to confusion, put to shame, reverence
     mounce-morphcat: cv-1b(1)
 ἐντρυφάω:
-    pos: N
+    pos: V
     bdag-headword: ἐντρυφάω
     dodson-entry: ἐντρυφάω
     strongs: 1792
@@ -2700,7 +2700,7 @@
     gloss: Enoch
     mounce-morphcat: n-3g(2)
 ἐξακολουθέω:
-    pos: N
+    pos: V
     bdag-headword: ἐξακολουθέω
     dodson-entry: ἐξακολουθέω
     strongs: 1811
@@ -2781,7 +2781,7 @@
     gloss: a promise
     mounce-morphcat: n-3c(4)
 ἐπάγω:
-    pos: N
+    pos: V
     bdag-headword: ἐπάγω
     dodson-entry: ἐπάγω
     strongs: 1863
@@ -2835,7 +2835,7 @@
     gloss: I burden
     mounce-morphcat: cv-1d(2a)
 ἐπιγινώσκω:
-    pos: N
+    pos: V
     bdag-headword: ἐπιγινώσκω
     dodson-entry: ἐπιγινώσκω
     strongs: 1921
@@ -2934,7 +2934,7 @@
     gloss: I muzzle, silence
     mounce-morphcat: cv-
 ἐπιστρέφω:
-    pos: N
+    pos: V
     bdag-headword: ἐπιστρέφω
     dodson-entry: ἐπιστρέφω
     strongs: 1994
@@ -3006,7 +3006,7 @@
     gloss: I bring forward against
     mounce-morphcat: cv-1c(1)
 ἐπιχορηγέω:
-    pos: N
+    pos: V
     bdag-headword: ἐπιχορηγέω
     dodson-entry: ἐπιχορηγέω
     strongs: 2023
@@ -3393,7 +3393,7 @@
     gloss: pleasure, lust, strong desire
     mounce-morphcat: n-1b
 ἥκω:
-    pos: N
+    pos: V
     bdag-headword: ἥκω
     dodson-entry: ἥκω
     strongs: 2240
@@ -3429,7 +3429,7 @@
     gloss: quietness, silence
     mounce-morphcat: n-1a
 ἡττάομαι:
-    pos: N
+    pos: V
     bdag-headword: ἡττάομαι
     dodson-entry: ἡττάομαι
     strongs: 2274
@@ -3510,7 +3510,7 @@
     gloss: a wild beast, animal
     mounce-morphcat: n-2c
 θησαυρίζω:
-    pos: N
+    pos: V
     bdag-headword: θησαυρίζω
     dodson-entry: θησαυρίζω
     strongs: 2343
@@ -3843,7 +3843,7 @@
     gloss: down from, against, according to, throughout, during
     mounce-morphcat: prep
 κατακλύζω:
-    pos: N
+    pos: V
     bdag-headword: κατακλύζω
     dodson-entry: κατακλύζω
     strongs: 2626
@@ -3861,7 +3861,7 @@
     gloss: a deluge, flood
     mounce-morphcat: n-2a
 κατακρίνω:
-    pos: N
+    pos: V
     bdag-headword: κατακρίνω
     dodson-entry: κατακρίνω
     strongs: 2632
@@ -3870,7 +3870,7 @@
     gloss: I condemn
     mounce-morphcat: cv-1c(2)
 καταλείπω:
-    pos: N
+    pos: V
     bdag-headword: καταλείπω
     dodson-entry: καταλείπω
     strongs: 2641
@@ -3888,7 +3888,7 @@
     gloss: I deem worthy
     mounce-morphcat: cv-1d(3)
 καταπονέω:
-    pos: N
+    pos: V
     bdag-headword: καταπονέω
     dodson-entry: καταπονέω
     strongs: 2669
@@ -3933,7 +3933,7 @@
     gloss: overthrow, destruction
     mounce-morphcat: n-1b
 καταφρονέω:
-    pos: N
+    pos: V
     bdag-headword: καταφρονέω
     dodson-entry: καταφρονέω
     strongs: 2706
@@ -3978,7 +3978,7 @@
     gloss: a charge, accusation
     mounce-morphcat: n-1a
 κατοικέω:
-    pos: N
+    pos: V
     bdag-headword: κατοικέω
     dodson-entry: κατοικέω
     strongs: 2730
@@ -3987,7 +3987,7 @@
     gloss: I dwell in, settle in, inhabit
     mounce-morphcat: cv-1d(2a)
 καυσόομαι:
-    pos: N
+    pos: V
     bdag-headword: καυσόω
     dodson-entry: καυσόω
     strongs: 2741
@@ -4059,7 +4059,7 @@
     gloss: called, summoned
     mounce-morphcat: a-1a(2a)
 κοιμάομαι:
-    pos: N
+    pos: V
     bdag-headword: κοιμάω
     dodson-entry: κοιμάομαι
     strongs: 2837
@@ -4104,7 +4104,7 @@
     gloss: a sharer, partner
     mounce-morphcat: n-2a
 κολάζω:
-    pos: N
+    pos: V
     bdag-headword: κολάζω
     dodson-entry: κολάζω
     strongs: 2849
@@ -4297,7 +4297,7 @@
     gloss: I prevent, hinder
     mounce-morphcat: v-1a(4)
 λαγχάνω:
-    pos: N
+    pos: V
     bdag-headword: λαγχάνω
     dodson-entry: λαγχάνω
     strongs: 2975
@@ -4333,7 +4333,7 @@
     gloss: I receive, take
     mounce-morphcat: v-3a(2b)
 λανθάνω:
-    pos: N
+    pos: V
     bdag-headword: λανθάνω
     dodson-entry: λανθάνω
     strongs: 2990
@@ -4423,7 +4423,7 @@
     gloss: a bath, washing, baptism
     mounce-morphcat: n-2c
 λούω:
-    pos: N
+    pos: V
     bdag-headword: λούω
     dodson-entry: λούω
     strongs: 3068
@@ -4450,7 +4450,7 @@
     gloss: a lamp
     mounce-morphcat: n-2a
 λύω:
-    pos: N
+    pos: V
     bdag-headword: λύω
     dodson-entry: λύω
     strongs: 3089
@@ -4477,7 +4477,7 @@
     gloss: happy, blessed
     mounce-morphcat: a-1a(1)
 μακροθυμέω:
-    pos: N
+    pos: V
     bdag-headword: μακροθυμέω
     dodson-entry: μακροθυμέω
     strongs: 3114
@@ -4662,7 +4662,7 @@
     gloss: ink
     mounce-morphcat: a-2a
 μέλλω:
-    pos: N
+    pos: V
     bdag-headword: μέλλω
     dodson-entry: μέλλω
     strongs: 3195
@@ -4887,7 +4887,7 @@
     gloss: I remember, make mention of
     mounce-morphcat: v-1a(6)
 μοιχαλίς:
-    pos: A- N-GSF
+    pos: A/N
     bdag-headword: μοιχαλίς
     dodson-entry: μοιχαλίς, ίδος, ἡ
     strongs: 3428
@@ -4941,7 +4941,7 @@
     gloss: anything hidden, a mystery
     mounce-morphcat: n-2c
 μυωπάζω:
-    pos: N
+    pos: V
     bdag-headword: μυωπάζω
     dodson-entry: μυωπάζω
     strongs: 3467
@@ -5096,7 +5096,7 @@
     gloss: the night, night-time
     mounce-morphcat: n-3c(1)
 νυστάζω:
-    pos: N
+    pos: V
     bdag-headword: νυστάζω
     dodson-entry: νυστάζω
     strongs: 3573
@@ -5313,7 +5313,7 @@
     gloss: behind, after
     mounce-morphcat: adverb; pr
 ὅπου:
-    pos: C- ADV
+    pos: C/ADV
     bdag-headword: ὅπου
     dodson-entry: ὅπου
     strongs: 3699
@@ -5682,7 +5682,7 @@
     gloss: I pass the winter
     mounce-morphcat: cv-2a(1)
 πάρειμι:
-    pos: N
+    pos: V
     bdag-headword: πάρειμι
     dodson-entry: πάρειμι
     strongs: 3918
@@ -5691,7 +5691,7 @@
     gloss: I am present, am near
     mounce-morphcat: cv-6b
 παρεισάγω:
-    pos: N
+    pos: V
     bdag-headword: παρεισάγω
     dodson-entry: παρεισάγω
     strongs: 3919
@@ -5709,7 +5709,7 @@
     gloss: I enter secretly
     mounce-morphcat: cv-3a(1)
 παρεισφέρω:
-    pos: N
+    pos: V
     bdag-headword: παρεισφέρω
     dodson-entry: παρεισφέρω
     strongs: 3923
@@ -5718,7 +5718,7 @@
     gloss: I contribute besides
     mounce-morphcat: cv-1c(1)
 παρέρχομαι:
-    pos: N
+    pos: V
     bdag-headword: παρέρχομαι
     dodson-entry: παρέρχομαι
     strongs: 3928
@@ -6150,7 +6150,7 @@
     gloss: how much, how great, how many
     mounce-morphcat: a-1a(2a)
 ποταπός:
-    pos: RI A-APM
+    pos: RI/A
     bdag-headword: ποταπός
     dodson-entry: ποταπός, ή, όν
     strongs: 4217
@@ -6240,7 +6240,7 @@
     gloss: I lead forth, go before
     mounce-morphcat: cv-1b(2)
 προγινώσκω:
-    pos: N
+    pos: V
     bdag-headword: προγινώσκω
     dodson-entry: προγινώσκω
     strongs: 4267
@@ -6312,7 +6312,7 @@
     gloss: I expect, welcome, accept
     mounce-morphcat: cv-1b(2)
 προσδοκάω:
-    pos: N
+    pos: V
     bdag-headword: προσδοκάω
     dodson-entry: προσδοκάω
     strongs: 4328
@@ -6420,7 +6420,7 @@
     gloss: first, before
     mounce-morphcat: a-1a(2a)
 πταίω:
-    pos: N
+    pos: V
     bdag-headword: πταίω
     dodson-entry: πταίω
     strongs: 4417
@@ -6438,7 +6438,7 @@
     gloss: fire, trials
     mounce-morphcat: n-3f(2a)
 πυρόομαι:
-    pos: N
+    pos: V
     bdag-headword: πυρόω
     dodson-entry: πυρόω
     strongs: 4448
@@ -6635,7 +6635,7 @@
     gloss: wisdom
     mounce-morphcat: n-1a
 σοφίζω:
-    pos: N
+    pos: V
     bdag-headword: σοφίζω
     dodson-entry: σοφίζω
     strongs: 4679
@@ -6644,7 +6644,7 @@
     gloss: I make wise
     mounce-morphcat: v-2a(1)
 σπεύδω:
-    pos: N
+    pos: V
     bdag-headword: σπεύδω
     dodson-entry: σπεύδω
     strongs: 4692
@@ -6770,7 +6770,7 @@
     gloss: the mouth, speech
     mounce-morphcat: n-3c(4)
 στρεβλόω:
-    pos: N
+    pos: V
     bdag-headword: στρεβλόω
     dodson-entry: στρεβλόω
     strongs: 4761
@@ -6797,7 +6797,7 @@
     gloss: you
     mounce-morphcat: a-5
 συμβαίνω:
-    pos: N
+    pos: V
     bdag-headword: συμβαίνω
     dodson-entry: συμβαίνω
     strongs: 4819
@@ -6841,7 +6841,7 @@
     dodson-pos: V
     gloss: I keep company with
 συναπάγομαι:
-    pos: N
+    pos: V
     bdag-headword: συναπάγω
     dodson-entry: συναπάγω
     strongs: 4879
@@ -6877,7 +6877,7 @@
     gloss: I feast sumptuously with
     mounce-morphcat: cv-1d(2a)
 συνίστημι:
-    pos: N
+    pos: V
     bdag-headword: συνίστημι
     dodson-entry: συνίστημι, συνιστάνω
     strongs: 4921
@@ -6976,7 +6976,7 @@
     gloss: self-controlled, temperate
     mounce-morphcat: a-4b(1)
 ταρταρόω:
-    pos: N
+    pos: V
     bdag-headword: ταρταρόω
     dodson-entry: ταρταρόω
     strongs: 5020
@@ -7039,7 +7039,7 @@
     gloss: a wonder, portent
     mounce-morphcat: n-3c(6a)
 τεφρόω:
-    pos: N
+    pos: V
     bdag-headword: τεφρόω
     dodson-entry: τεφρόω
     strongs: 5077
@@ -7048,7 +7048,7 @@
     gloss: I reduce to ashes
     mounce-morphcat: v-1d(3)
 τήκομαι:
-    pos: N
+    pos: V
     bdag-headword: τήκω
     dodson-entry: τήκω
     strongs: 5080
@@ -7066,7 +7066,7 @@
     gloss: I keep, guard, observe
     mounce-morphcat: v-1d(2a)
 τίθημι:
-    pos: N
+    pos: V
     bdag-headword: τίθημι
     dodson-entry: τίθημι
     strongs: 5087
@@ -7192,7 +7192,7 @@
     gloss: then
     mounce-morphcat: adverb
 τρέμω:
-    pos: N
+    pos: V
     bdag-headword: τρέμω
     dodson-entry: τρέμω
     strongs: 5141
@@ -7309,7 +7309,7 @@
     gloss: I listen, obey
     mounce-morphcat: cv-1a(8)
 ὑπάρχω:
-    pos: N
+    pos: V
     bdag-headword: ὑπάρχω
     dodson-entry: ὑπάρχω
     strongs: 5225
@@ -7426,7 +7426,7 @@
     gloss: endurance, steadfastness
     mounce-morphcat: n-1b
 ὑποστρέφω:
-    pos: N
+    pos: V
     bdag-headword: ὑποστρέφω
     dodson-entry: ὑποστρέφω
     strongs: 5290
@@ -7453,7 +7453,7 @@
     gloss: a hog, boar, or sow
     mounce-morphcat: n-3e(1)
 φαίνω:
-    pos: N
+    pos: V
     bdag-headword: φαίνω
     dodson-entry: φαίνω
     strongs: 5316
@@ -7480,7 +7480,7 @@
     gloss: worthless, wicked, base
     mounce-morphcat: a-1a(2a)
 φείδομαι:
-    pos: N
+    pos: V
     bdag-headword: φείδομαι
     dodson-entry: φείδομαι
     strongs: 5339
@@ -7498,7 +7498,7 @@
     gloss: I carry, bear, bring, lead
     mounce-morphcat: v-1c(1)
 φθέγγομαι:
-    pos: N
+    pos: V
     bdag-headword: φθέγγομαι
     dodson-entry: φθέγγομαι
     strongs: 5350
@@ -7858,7 +7858,7 @@
     gloss: time, a particular time, season
     mounce-morphcat: n-2a
 χωρέω:
-    pos: N
+    pos: V
     bdag-headword: χωρέω
     dodson-entry: χωρέω
     strongs: 5562

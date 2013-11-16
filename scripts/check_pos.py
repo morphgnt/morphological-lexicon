@@ -30,6 +30,9 @@ regexes = [
     # compound verbs missing full morphcat
     r"V@V@cv-$", # @@@
     
+    # compound verbs that dodson thinks can be adjectives
+    r"V@A,V@cv-[0-9a-z\(\)]+$", # @@@
+    
     # ἰδού
     r"X/V@V@\?\?$", # @@@
     
@@ -81,6 +84,7 @@ regexes = [
     r"N@A@a-2a$", # @@@
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
+    r"A/N@N:F@n-3c\(2\)$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
     
@@ -100,6 +104,7 @@ regexes = [
     
     # interrogative pronoun
     r"RI/X@I@a-4b\(2\)$", # @@@
+    r"RI/A@A@a-1a\(2a\)$", # @@@
     
     # correlative pronoun
     r"RR/K@K@a-1a\(2a\)$", # @@@
@@ -141,8 +146,12 @@ regexes = [
     r"C/CONJ-N@CONJ-N@conj$", # @@@
     r"C/D@ADV@adverb$", # @@@
     
+    # adverbs missing in dodson
+    r"D@None@adverb$",
+    
     r"D/ADV-S@ADV-S@adverb$", # @@@
     r"D/ADV-N@ADV-N@adverb$", # @@@
+    r"D@ADV-I@adverb$", # @@@
     r"D/CONJ-N@CONJ-N@particle$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
