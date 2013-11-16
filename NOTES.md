@@ -36,3 +36,10 @@
 * Dodson had incorrect GKs for many words
 * βέλτιον isn't in BDAG headword list (βελτίων?)
 * lexeme file (and hence MorphGNT) has χρήσιμον for χρήσιμος
+* Dodson has ἀναμιμνήσκω for ἀναμιμνῄσκω
+* Dodson has Ἰαννῆς for Ἰάννης
+* Dodson has conflated ἔλεγχος and ἐλεγμός
+* Dodson has φελόνης for φαιλόνης
+* Dodson has οἵος for οἷος
+* Dodson has Λῖνος for Λίνος
+* does χρύσεος == χρυσοῦς?

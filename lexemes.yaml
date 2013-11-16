@@ -677,6 +677,11 @@
 ἀναμιμνῄσκω:
     pos: V
     bdag-headword: ἀναμιμνῄσκω
+    dodson-entry: ἀναμιμνήσκω
+    strongs: 363
+    gk: 389
+    dodson-pos: V
+    gloss: I remind, admonish, remember
 ἀνανήφω:
     pos: V
     bdag-headword: ἀνανήφω
@@ -4413,6 +4418,11 @@
 Ἰάννης:
     pos: N
     bdag-headword: Ἰάννης
+    dodson-entry: Ἰαννῆς, ου, ὁ
+    strongs: 2389
+    gk: 2614
+    dodson-pos: N:M
+    gloss: Jannes
 ἴδιος:
     pos: A
     bdag-headword: ἴδιος
@@ -5400,6 +5410,11 @@
 Λίνος:
     pos: N
     bdag-headword: Λίνος
+    dodson-entry: Λῖνος, ου, ὁ
+    strongs: 3044
+    gk: 3352
+    dodson-pos: N:M
+    gloss: Linus
 λογίζομαι:
     pos: V
     bdag-headword: λογίζομαι
@@ -6414,6 +6429,11 @@
 οἷος:
     pos: RR/K
     bdag-headword: οἷος
+    dodson-entry: οἵος, α, ον
+    strongs: 3634
+    gk: 3888
+    dodson-pos: K,R
+    gloss: of what kind, such as
 ὄλεθρος:
     pos: N
     bdag-headword: ὄλεθρος
@@ -9056,6 +9076,11 @@
 φαιλόνης:
     pos: N
     bdag-headword: φαιλόνης
+    dodson-entry: φελόνης, ου, ὁ
+    strongs: 5341
+    gk: 5742
+    dodson-pos: N:M
+    gloss: a mantle, cloak
 φαίνω:
     pos: V
     bdag-headword: φαίνω
@@ -9568,6 +9593,11 @@
 χρύσεος:
     pos: A
     bdag-headword: χρύσεος
+    dodson-entry: χρυσοῦς, ῆ, οῦν
+    strongs: 5552
+    gk: [5991, 5997]
+    dodson-pos: A
+    gloss: golden
 χωρέω:
     pos: V
     bdag-headword: χωρέω
