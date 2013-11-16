@@ -7,12 +7,13 @@ import unicodedata
 from pyuca import Collator
 collator = Collator()
 
-from morphgnt.utils import load_yaml
+from morphgnt.utils import load_yaml, load_wordset
 
 def n(x):
     return unicodedata.normalize("NFKC", x)
 
 lexemes = load_yaml("lexemes.yaml")
+missing_dodson = load_wordset("missing_dodson.txt")
 
 dodson = defaultdict(list)
 with open("../data-cleanup/dodson-lexicon/dodson_lexicon.txt") as f:
@@ -71,5 +72,6 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
 
 print >>sys.stderr, "missing"
 for word in not_in_dodson:
-    print >>sys.stderr, "\t", word
+    if word.decode("utf-8") not in missing_dodson:
+        print >>sys.stderr, "\t", word
 print >>sys.stderr, "{}".format(len(not_in_dodson))

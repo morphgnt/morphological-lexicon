@@ -1,0 +1,13 @@
+# words known to be missing in Dodson so we can stop complaining about them
+
+Μωϋσῆς
+κυλισμός
+μέγιστος
+ἐγκαυχάομαι
+νηφάλιος
+ἐμπαιγμονή
+ἐγκακέω
+ὀλίγως
+ἐλεάω
+ἀφθορία
+ὁμίχλη
