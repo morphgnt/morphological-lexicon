@@ -33,3 +33,4 @@
 * Dodson is missing ὀλίγως
 * Dodson is missing ὁμίχλη
 * Dodson has βραδυτής for βραδύτης
+* Dodson had incorrect GKs for many words

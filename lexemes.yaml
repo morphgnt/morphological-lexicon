@@ -93,7 +93,7 @@
     bdag-headword: ἀγνοέω
     dodson-entry: ἀγνοέω
     strongs: 40
-    gk: 41
+    gk: 51
     dodson-pos: V
     gloss: I do not know, am ignorant of
 ἁγνός:
@@ -109,8 +109,8 @@
     pos: N
     bdag-headword: ἀγοράζω
     dodson-entry: ἀγοράζω
-    strongs: 0059
-    gk: 48
+    strongs: 59
+    gk: 60
     dodson-pos: V
     gloss: I buy
 ἄγριος:
@@ -171,8 +171,8 @@
     pos: A
     bdag-headword: ἄδικος
     dodson-entry: ἄδικος, ον
-    strongs: 0094
-    gk: 0096
+    strongs: 94
+    gk: 96
     dodson-pos: A
     gloss: unjust, unrighteous
 ἀδόκιμος:
@@ -198,7 +198,7 @@
     bdag-headword: ἄθεσμος
     dodson-entry: ἄθεσμος, ον
     strongs: 75
-    gk: 0118
+    gk: 118
     dodson-pos: A
     gloss: lawless
 ἀθετέω:
@@ -241,8 +241,8 @@
     pos: N
     bdag-headword: αἵρεσις
     dodson-entry: αἵρεσις, εως, ἡ
-    strongs: 0139
-    gk: 102
+    strongs: 139
+    gk: 146
     dodson-pos: N:F
     gloss: a self-chosen opinion, a sect
 αἱρετικός:
@@ -330,16 +330,16 @@
     pos: A
     bdag-headword: ἀκατάπαυστος
     dodson-entry: ἀκατάπαυστος, ον
-    strongs: 0180
-    gk: 0187,0188
+    strongs: 180
+    gk: 188
     dodson-pos: A
     gloss: not ceasing from, not abandoning
 ἀκοή:
     pos: N
     bdag-headword: ἀκοή
     dodson-entry: ἀκοή, ῆς, ἡ
-    strongs: 0189
-    gk: 0198
+    strongs: 189
+    gk: 198
     dodson-pos: N:F
     gloss: hearing, faculty of hearing, ear
 ἀκούω:
@@ -400,8 +400,8 @@
     pos: N
     bdag-headword: ἅλωσις
     dodson-entry: ἅλωσις, εως, ἡ
-    strongs: 0259
-    gk: 188
+    strongs: 259
+    gk: 274
     dodson-pos: N:F
     gloss: capture, capturing
 ἅμα:
@@ -418,7 +418,7 @@
     bdag-headword: ἀμαθής
     dodson-entry: ἀμαθής, ές
     strongs: 177
-    gk: 190
+    gk: 276
     dodson-pos: A
     gloss: unlearned, ignorant
 ἁμαρτάνω:
@@ -435,7 +435,7 @@
     bdag-headword: ἁμάρτημα
     dodson-entry: ἁμάρτημα, ατος, τό
     strongs: 181
-    gk: 0280
+    gk: 280
     dodson-pos: N:N
     gloss: a fault, sin, evil deed
 ἁμαρτία:
@@ -443,7 +443,7 @@
     bdag-headword: ἁμαρτία
     dodson-entry: ἁμαρτία, ας, ἡ
     strongs: 182
-    gk: 0281
+    gk: 281
     dodson-pos: N:F
     gloss: a sin
 ἁμαρτωλός:
@@ -478,7 +478,7 @@
     bdag-headword: ἀμώμητος
     dodson-entry: ἀμώμητος, ον
     strongs: 0298
-    gk: 0318
+    gk: 318
     dodson-pos: A
     gloss: without blame or fault
 ἄμωμος:
@@ -548,24 +548,24 @@
     pos: N
     bdag-headword: ἀναστρέφω
     dodson-entry: ἀναστρέφω
-    strongs: 0390
-    gk: 0418
+    strongs: 390
+    gk: 418
     dodson-pos: V
     gloss: I overturn, turn upside down, return, (mid. and pass) I conduct myself, live
 ἀναστροφή:
     pos: N
     bdag-headword: ἀναστροφή
     dodson-entry: ἀναστροφή, ῆς, ἡ
-    strongs: 0391
-    gk: 0419
+    strongs: 391
+    gk: 419
     dodson-pos: N:F
     gloss: behavior, manner of life
 ἀνατέλλω:
     pos: N
     bdag-headword: ἀνατέλλω
     dodson-entry: ἀνατέλλω
-    strongs: 0393
-    gk: 274
+    strongs: 393
+    gk: 422
     dodson-pos: V
     gloss: I make to rise, I rise, shine
 ἀνατρέπω:
@@ -878,8 +878,8 @@
     pos: N
     bdag-headword: ἀπόθεσις
     dodson-entry: ἀπόθεσις, εως, ἡ
-    strongs: 0595
-    gk: 0629
+    strongs: 595
+    gk: 629
     dodson-pos: N:F
     gloss: a putting off, a laying down
 ἀποθνῄσκω:
@@ -994,8 +994,8 @@
     pos: N
     bdag-headword: ἀποφεύγω
     dodson-entry: ἀποφεύγω
-    strongs: 0668
-    gk: 0709
+    strongs: 668
+    gk: 709
     dodson-pos: V
     gloss: I flee from, escape
 ἄπταιστος:
@@ -1038,8 +1038,8 @@
     pos: N
     bdag-headword: ἀργέω
     dodson-entry: ἀργέω
-    strongs: 0691
-    gk: 475
+    strongs: 691
+    gk: 733
     dodson-pos: V
     gloss: I linger, delay, am idle
 ἀργός:
@@ -1056,7 +1056,7 @@
     bdag-headword: ἀρετή
     dodson-entry: ἀρετή, ῆς, ἡ
     strongs: 451
-    gk: 486
+    gk: 746
     dodson-pos: N:F
     gloss: virtue, moral excellence, perfection
 Ἀρίσταρχος:
@@ -1136,7 +1136,7 @@
     bdag-headword: ἀρχαῖος
     dodson-entry: ἀρχαῖος, αία, αῖον
     strongs: 484
-    gk: 0792
+    gk: 792
     dodson-pos: A
     gloss: original, primitive, ancient
 ἀρχή:
@@ -1215,8 +1215,8 @@
     pos: A
     bdag-headword: ἄσπιλος
     dodson-entry: ἄσπιλος, ον
-    strongs: 0784
-    gk: 0834,5646
+    strongs: 784
+    gk: 834
     dodson-pos: A
     gloss: unstained, undefiled
 ἀστήρ:
@@ -1232,8 +1232,8 @@
     pos: A
     bdag-headword: ἀστήρικτος
     dodson-entry: ἀστήρικτος, ον
-    strongs: 0793
-    gk: 0844
+    strongs: 793
+    gk: 844
     dodson-pos: A
     gloss: unsteady, unstable
 ἀσωτία:
@@ -1285,8 +1285,8 @@
     pos: N
     bdag-headword: αὐξάνω
     dodson-entry: αὐξάνω
-    strongs: 0837
-    gk: 0889,0891,3824
+    strongs: 837
+    gk: 889
     dodson-pos: V
     gloss: I cause to increase, become greater, grow
 αὐτοκατάκριτος:
@@ -1311,8 +1311,8 @@
     pos: A
     bdag-headword: αὐχμηρός
     dodson-entry: αὐχμηρός, ά, όν
-    strongs: 0850
-    gk: 0903
+    strongs: 850
+    gk: 903
     dodson-pos: A
     gloss: dingy, dusky, obscure, dark, funereal
 ἀφθορία:
@@ -1333,8 +1333,8 @@
     pos: A
     bdag-headword: ἄφωνος
     dodson-entry: ἄφωνος, ον
-    strongs: 0880
-    gk: 0936,0305
+    strongs: 880
+    gk: 936
     dodson-pos: A
     gloss: soundless, voiceless, speechless, dumb
 ἄχρηστος:
@@ -1368,8 +1368,8 @@
     pos: N
     bdag-headword: βασανίζω
     dodson-entry: βασανίζω
-    strongs: 0928
-    gk: 0989
+    strongs: 928
+    gk: 989
     dodson-pos: V
     gloss: I torment, torture, buffet
 βασιλεία:
@@ -1394,7 +1394,7 @@
     pos: A
     bdag-headword: βέβαιος
     dodson-entry: βέβαιος, α, ον
-    strongs: 0949
+    strongs: 949
     gk: 1010
     dodson-pos: A
     gloss: firm, steadfast, enduring
@@ -1420,7 +1420,7 @@
     pos: A
     bdag-headword: βλάσφημος
     dodson-entry: βλάσφημος, ον
-    strongs: 0989
+    strongs: 989
     gk: 1061
     dodson-pos: A
     gloss: slanderous
@@ -1428,7 +1428,7 @@
     pos: N
     bdag-headword: βλέμμα
     dodson-entry: βλέμμα, ατος, τό
-    strongs: 0990
+    strongs: 990
     gk: 1062
     dodson-pos: N:N
     gloss: look, the faculty of looking
@@ -1454,7 +1454,7 @@
     bdag-headword: Βοσόρ
     dodson-entry: Βοσόρ, ὁ
     strongs: 1007
-    gk: 1026,1027,1082
+    gk: 1082
     dodson-pos: N-PRI
     gloss: Bosor
 βούλομαι:
@@ -3118,9 +3118,10 @@
     bdag-headword: εὐθύς
     dodson-entry: εὐθύς, εῖα, ύ
     strongs: 2117
-    gk: 2317,2318
+    gk: 2318
     dodson-pos: A
     gloss: straight, immediately
+    mounce-morphcat: a-2b
 εὐοδόομαι:
     pos: V
     bdag-headword: εὐοδόω
@@ -3358,7 +3359,7 @@
     bdag-headword: ἡττάομαι
     dodson-entry: ἡττάομαι
     strongs: 2274
-    gk: 2273,2487
+    gk: 2487
     dodson-pos: V
     gloss: I am defeated, made inferior
 θάλασσα:
@@ -3892,7 +3893,7 @@
     bdag-headword: κατοικέω
     dodson-entry: κατοικέω
     strongs: 2730
-    gk: 2997,3001
+    gk: 2997
     dodson-pos: V
     gloss: I dwell in, settle in, inhabit
 καυσόομαι:
@@ -5534,7 +5535,7 @@
     bdag-headword: παραφρονία
     dodson-entry: παραφρονία, ας, ἡ
     strongs: 3913
-    gk: 4173,4197,4198
+    gk: 4197
     dodson-pos: N:F
     gloss: madness, folly
 παραχειμάζω:
@@ -6009,7 +6010,7 @@
     bdag-headword: ποταπός
     dodson-entry: ποταπός, ή, όν
     strongs: 4217
-    gk: 4467,4534
+    gk: 4534
     dodson-pos: A
     gloss: of what kind
 ποτέ:
@@ -6377,7 +6378,7 @@
     bdag-headword: σειρά
     dodson-entry: σειρά, ᾶς, ἡ
     strongs: 4577
-    gk: 4937,4938,4987
+    gk: 4937
     dodson-pos: N:F
     gloss: a chain
 σεμνός:
@@ -6714,7 +6715,7 @@
     bdag-headword: συνίστημι
     dodson-entry: συνίστημι, συνιστάνω
     strongs: 4921
-    gk: 5318,5319
+    gk: 5319
     dodson-pos: V
     gloss: I commend, prove, am composed of, cohere
 συστρατιώτης:
@@ -7001,7 +7002,7 @@
     bdag-headword: τόπος
     dodson-entry: τόπος, ου, ὁ
     strongs: 5117
-    gk: 5536,4509
+    gk: 5536
     dodson-pos: N:M
     gloss: a place
 τότε:
