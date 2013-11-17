@@ -50,3 +50,19 @@
 * Dodson conflates ὑπερεκχύνω and ὑπερεκπερισσοῦ
 * Dodson has Ἀχαϊα for Ἀχαΐα
 * morphcat has εὶδος for εἶδος
+* BDAG accents Νυμφᾶς but morphgnt has Νύμφας
+* morphcat is missing both Νύμφας and Νυμφᾶς
+* BDAG does not have ἄπειμι
+* Dodson has ἐθελοθρησκεία for ἐθελοθρησκία
+* Dodson conflates προσωπολημψία and προσωποληψία
+* Dodson has Λαοδικεία for Λαοδίκεια
+* Dodson has ἀρέσκεια for ἀρεσκεία
+* Dodson has Βαρνάβας for Βαρναβᾶς
+* Dodson has εἰδωλολατρεία for εἰδωλολατρία
+* is ἄπειμι 548/582 or 549/583?
+* Dodson conflates αὔξω and αὐξάνω
+* φοβέομαι and φοβέω seems to have distinct gk numbers
+* morphcat has ὤδή for ᾠδή
+* morphgnt uses νουμηνία (gk 3806) but morphcat only has entry for νεομηνία (gk 3741) Dodson conflates these
+* morphcat doesn't have παρίστημι (although has παριστάνω)
+

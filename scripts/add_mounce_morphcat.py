@@ -7,12 +7,13 @@ import unicodedata
 from pyuca import Collator
 collator = Collator()
 
-from morphgnt.utils import load_yaml
+from morphgnt.utils import load_yaml, load_wordset
 
 def n(x):
     return unicodedata.normalize("NFKC", x)
 
 lexemes = load_yaml("lexemes.yaml")
+missing_morphcat = load_wordset("missing_morphcat.txt")
 
 mounce = defaultdict(list)
 with open("../data-cleanup/mounce-morphcat/mounce-tauber-morphcat-utf8.txt") as f:
@@ -25,6 +26,7 @@ with open("../data-cleanup/mounce-morphcat/mounce-tauber-morphcat-utf8.txt") as 
         })
 
 problems = []
+skipped = 0
 for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
     print "{}:".format(lexeme.encode("utf-8"))
     print "    pos: {}".format(metadata["pos"])
@@ -43,6 +45,9 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     if "mounce-morphcat" in metadata:
         print "    {}: {}".format("mounce-morphcat", metadata["mounce-morphcat"])
     else:
+        if lexeme in missing_morphcat:
+            skipped += 1
+            continue
         if lexeme in mounce:
             source = lexeme
         elif metadata.get("bdag-headword") in mounce:
@@ -68,4 +73,4 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
 print >>sys.stderr, "problems"
 for problem in problems:
     print >>sys.stderr, "\t", problem
-print >>sys.stderr, "{}".format(len(problems))
+print >>sys.stderr, "{} ({} skipped)".format(len(problems), skipped)
