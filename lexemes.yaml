@@ -2232,7 +2232,6 @@
     pos: V
     bdag-headword: αὔξω
     gk: 891
-    mounce-morphcat: see aujxav
 αὐτοκατάκριτος:
     pos: A
     bdag-headword: αὐτοκατάκριτος
@@ -2664,7 +2663,7 @@
     gloss: the womb, stomach, to be pregnant
     mounce-morphcat: n-3f(2c)
 γέ:
-    pos: X/PRT
+    pos: X
     bdag-headword: γέ
     dodson-entry: γε
     strongs: 1065

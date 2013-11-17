@@ -21,6 +21,9 @@ regexes = [
     # verbs missing in morphcat
     r"V@V@None",
     
+    # verbs missing in dodson and morphcat
+    r"V@None@None",
+    
     # compound verbs
     r"V@V@cv-[0-9a-z\(\)]+$",
     
@@ -84,6 +87,10 @@ regexes = [
     
     # nouns missing in dodson
     r"N@None@n-[0-9a-z\(\)]+$", # @@@
+    
+    # nouns missing in morphcat
+    r"N@N:M@None",
+    r"N@N:F@None",
     
     # noun / adjective / cross-over conflation
     r"A@N:M@n-1f$", # @@@
