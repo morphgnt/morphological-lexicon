@@ -73,3 +73,14 @@
 * Dodson has οἴμαι for οἶμαι (and conflates GK 3883 and 3887?)
 * Dodson conflates λῆψις and λῆμψις
 * Dodson conflates συμμορφίζομαι and συμμορφόω
+* BDAG accent πραϋπάθια as πραϋπαθία
+* Dodson doesn't have ἐκζήτησις, only ζήτησις (which it conflates it with)
+* Dodson doesn't have διαπαρατριβή, παραδιατριβή (which it conflates it with)
+* Dodson conflates καυτηριάζω and καυστηριάζω
+* Dodson conflates ἀνεπίληπτος and ἀνεπίλημπτος
+* Dodson conflates πρᾳότης and πραϋπάθια
+* Dodson conflates μετάληψις and μετάλημψις
+* Dodson has πρόσκλησις for πρόσκλισις
+* Dodson has μητραλῴας for μητρολῴας
+* Dodson has Εὔα for Εὕα
+* morphcat has εὶτα for εἶτα
