@@ -65,4 +65,11 @@
 * morphcat has ὤδή for ᾠδή
 * morphgnt uses νουμηνία (gk 3806) but morphcat only has entry for νεομηνία (gk 3741) Dodson conflates these
 * morphcat doesn't have παρίστημι (although has παριστάνω)
-
+* μενοῦνγε is treated as two words by BDAG
+* παραπλήσιον in morphgnt but BDAG has παραπλήσιος and παραπλησίως
+* ἀλυπότερος is not in BDAG or Dodson as is
+* BDAG does not have ἄν
+* is παραβολεύομαι the same as παραβουλεύομαι?
+* Dodson has οἴμαι for οἶμαι (and conflates GK 3883 and 3887?)
+* Dodson conflates λῆψις and λῆμψις
+* Dodson conflates συμμορφίζομαι and συμμορφόω

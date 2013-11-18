@@ -1,3 +1,5 @@
+# words known to be missing in morphcat so we can stop complaining about them
+
 ἄπειμι
 βέλτιον
 ἔνι
@@ -7,3 +9,5 @@
 συναναμίγνυμι
 φοβέομαι
 χρύσεος
+οἶμαι
+ἀλυπότερος

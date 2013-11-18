@@ -24,6 +24,8 @@ def convert(ccat, robinson):
         return "RR"
     elif pair == ("C-", "CONJ"):
         return "C"
+    elif pair == ("X-", "PRT"):
+        return "X"
     else:
         return "{} {}".format(ccat, robinson)
 

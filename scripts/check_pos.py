@@ -46,7 +46,10 @@ regexes = [
     r"A@None@a-[0-9a-z\(\)]+$",
     
     # adjective missing in morphcat
-    r"A@A@None$", 
+    r"A@A@None$",
+    
+    # adjective missing in dodson and morphcat
+    r"A@None@None$",
     
     # adjectives that dodson has as adverbs
     r"A@A,ADV@a-1a\(1\)$", # @@@
@@ -56,6 +59,12 @@ regexes = [
     # adjectives that tisch has as adverbs
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
+    
+    # adjectives that are numbers
+    r"A@A,A-NUI@a-5$", # @@@
+    
+    # adjective / adverb conflation
+    r"A/ADV@ADV@\['a-1a\(1\)', 'adverb'\]$", # @@@
     
     # nouns
     r"N@N:F@n-1a$",
@@ -182,6 +191,7 @@ regexes = [
     r"P/ADV@ADV@adverb; pr$", # @@@
     r"P/D@ADV@adverb$", # @@@
     r"P@ADV,PREP@adverb$", # @@@
+    r"P/ADV@ADV@\?\?$", # @@@
     
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
