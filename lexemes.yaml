@@ -2,8 +2,8 @@
     pos: N
     bdag-headword: Ἀβραάμ
     dodson-entry: Ἀβραάμ, ὁ
-    strongs: 0011
-    gk: 0011
+    strongs: 11
+    gk: 11
     dodson-pos: N-PRI
     gloss: Abraham
 ἀγαθοεργέω:
@@ -28,16 +28,16 @@
     pos: N
     bdag-headword: ἀγαθοποιΐα
     dodson-entry: ἀγαθοποιΐα, ας, ἡ
-    strongs: 0016
-    gk: 0017
+    strongs: 16
+    gk: 17
     dodson-pos: N:F
     gloss: the doing of that which is good
 ἀγαθοποιός:
     pos: N/A
     bdag-headword: ἀγαθοποιός
     dodson-entry: ἀγαθοποιός, οῦ, ὁ
-    strongs: 0017
-    gk: 0018
+    strongs: 17
+    gk: 18
     dodson-pos: A
     gloss: a doer of that which is good
 ἀγαθός:
@@ -71,8 +71,8 @@
     pos: V
     bdag-headword: ἀγαλλιάω
     dodson-entry: ἀγαλλιάω
-    strongs: 0021
-    gk: 0022
+    strongs: 21
+    gk: 22
     dodson-pos: V
     gloss: I exult, am full of joy
 ἀγαπάω:
@@ -160,8 +160,8 @@
     pos: V
     bdag-headword: ἁγνίζω
     dodson-entry: ἁγνίζω
-    strongs: 0048
-    gk: 0049
+    strongs: 48
+    gk: 49
     dodson-pos: V
     gloss: I cleanse, purify
 ἀγνοέω:
@@ -177,8 +177,8 @@
     pos: N
     bdag-headword: ἄγνοια
     dodson-entry: ἄγνοια, ας, ἡ
-    strongs: 0052
-    gk: 0053
+    strongs: 52
+    gk: 53
     dodson-pos: N:F
     gloss: ignorance
 ἁγνός:
@@ -203,8 +203,8 @@
     pos: N
     bdag-headword: ἀγνωσία
     dodson-entry: ἀγνωσία, ας, ἡ
-    strongs: 0056
-    gk: 0057
+    strongs: 56
+    gk: 57
     dodson-pos: N:F
     gloss: ignorance
 ἀγοράζω:
@@ -292,8 +292,8 @@
     pos: N
     bdag-headword: ἀδελφότης
     dodson-entry: ἀδελφότης, τητος, ἡ
-    strongs: 0081
-    gk: 0082
+    strongs: 81
+    gk: 82
     dodson-pos: N:F
     gloss: brotherhood
 ἀδηλότης:
@@ -363,8 +363,8 @@
     pos: D
     bdag-headword: ἀδίκως
     dodson-entry: ἀδίκως
-    strongs: 0095
-    gk: 0097
+    strongs: 95
+    gk: 97
     dodson-pos: ADV
     gloss: unjustly
 ἀδόκιμος:
@@ -380,8 +380,8 @@
     pos: A
     bdag-headword: ἄδολος
     dodson-entry: ἄδολος, ον
-    strongs: 0097
-    gk: 0100
+    strongs: 97
+    gk: 100
     dodson-pos: A
     gloss: pure
 ᾄδω:
@@ -424,8 +424,8 @@
     pos: A
     bdag-headword: ἀθέμιτος
     dodson-entry: ἀθέμιτος, ον
-    strongs: 0111
-    gk: 0116
+    strongs: 111
+    gk: 116
     dodson-pos: A
     gloss: illegal, unlawful
 ἄθεσμος:
@@ -567,8 +567,8 @@
     pos: D
     bdag-headword: αἰσχροκερδῶς
     dodson-entry: αἰσχροκερδῶς
-    strongs: 0147
-    gk: 0154
+    strongs: 147
+    gk: 154
     dodson-pos: ADV
     gloss: greedily
 αἰσχρολογία:
@@ -782,8 +782,8 @@
     pos: A
     bdag-headword: ἀκρογωνιαῖος
     dodson-entry: ἀκρογωνιαῖος, α, ον
-    strongs: 0204
-    gk: 0214
+    strongs: 204
+    gk: 214
     dodson-pos: A
     gloss: in the corner, cornerstone
 Ἀκύλας:
@@ -971,16 +971,16 @@
     pos: A
     bdag-headword: ἀμαράντινος
     dodson-entry: ἀμαράντινος, η, ον
-    strongs: 0262
-    gk: 0277
+    strongs: 262
+    gk: 277
     dodson-pos: A
     gloss: unfading, fadeless
 ἀμάραντος:
     pos: A
     bdag-headword: ἀμάραντος
     dodson-entry: ἀμάραντος, ον
-    strongs: 0263
-    gk: 0278
+    strongs: 263
+    gk: 278
     dodson-pos: A
     gloss: unfading
 ἁμαρτάνω:
@@ -1068,16 +1068,16 @@
     pos: A
     bdag-headword: ἀμίαντος
     dodson-entry: ἀμίαντος, ον
-    strongs: 0283
-    gk: 0299
+    strongs: 283
+    gk: 299
     dodson-pos: A
     gloss: undefiled, untainted
 ἀμνός:
     pos: N
     bdag-headword: ἀμνός
     dodson-entry: ἀμνός, οῦ, ὁ
-    strongs: 0286
-    gk: 0303
+    strongs: 286
+    gk: 303
     dodson-pos: N:M
     gloss: a lamb
 ἀμοιβή:
@@ -1119,16 +1119,16 @@
     pos: V
     bdag-headword: ἀναγγέλλω
     dodson-entry: ἀναγγέλλω
-    strongs: 0312
-    gk: 0334
+    strongs: 312
+    gk: 334
     dodson-pos: V
     gloss: I announce, make known, report
 ἀναγεννάω:
     pos: V
     bdag-headword: ἀναγεννάω
     dodson-entry: ἀναγεννάω
-    strongs: 0313
-    gk: 0335
+    strongs: 313
+    gk: 335
     dodson-pos: V
     gloss: I beget again, beget into a new life
 ἀναγινώσκω:
@@ -1153,8 +1153,8 @@
     pos: D
     bdag-headword: ἀναγκαστῶς
     dodson-entry: ἀναγκαστῶς
-    strongs: 0317
-    gk: 0339
+    strongs: 317
+    gk: 339
     dodson-pos: ADV
     gloss: by force, necessarily
 ἀνάγκη:
@@ -1179,8 +1179,8 @@
     pos: V
     bdag-headword: ἀναζώννυμι
     dodson-entry: ἀναζώννυμι
-    strongs: 0328
-    gk: 0350
+    strongs: 328
+    gk: 350
     dodson-pos: V
     gloss: I gird up, brace up
 ἀναζωπυρέω:
@@ -1358,16 +1358,16 @@
     pos: V
     bdag-headword: ἀναφέρω
     dodson-entry: ἀναφέρω
-    strongs: 0399
-    gk: 0429
+    strongs: 399
+    gk: 429
     dodson-pos: V
     gloss: I carry up, lead up, offer up
 ἀνάχυσις:
     pos: N
     bdag-headword: ἀνάχυσις
     dodson-entry: ἀνάχυσις, εως, ἡ
-    strongs: 0401
-    gk: 0431
+    strongs: 401
+    gk: 431
     dodson-pos: N:F
     gloss: outpouring, excess
 ἀναψύχω:
@@ -1410,8 +1410,8 @@
     pos: A
     bdag-headword: ἀνεκλάλητος
     dodson-entry: ἀνεκλάλητος, ον
-    strongs: 0412
-    gk: 0443
+    strongs: 412
+    gk: 443
     dodson-pos: A
     gloss: unspeakable
 ἄνεμος:
@@ -1459,8 +1459,8 @@
     pos: P
     bdag-headword: ἄνευ
     dodson-entry: ἄνευ
-    strongs: 0427
-    gk: 0459
+    strongs: 427
+    gk: 459
     dodson-pos: PREP
     gloss: without, without the cooperation or knowledge of
 ἀνέχομαι:
@@ -1521,8 +1521,8 @@
     pos: N
     bdag-headword: ἄνθος
     dodson-entry: ἄνθος, ους, τό
-    strongs: 0438
-    gk: 0470
+    strongs: 438
+    gk: 470
     dodson-pos: N:N
     gloss: bloom, flower
 ἀνθρωπάρεσκος:
@@ -1538,8 +1538,8 @@
     pos: A
     bdag-headword: ἀνθρώπινος
     dodson-entry: ἀνθρώπινος, η, ον
-    strongs: 0442
-    gk: 0474
+    strongs: 442
+    gk: 474
     dodson-pos: A
     gloss: belonging to human beings, human
 ἄνθρωπος:
@@ -1672,8 +1672,8 @@
     pos: N
     bdag-headword: ἀντίδικος
     dodson-entry: ἀντίδικος, ου, ὁ
-    strongs: 0476
-    gk: 0508
+    strongs: 476
+    gk: 508
     dodson-pos: N:M
     gloss: an opponent, adversary
 ἀντίθεσις:
@@ -1725,8 +1725,8 @@
     pos: V
     bdag-headword: ἀντιλοιδορέω
     dodson-entry: ἀντιλοιδορέω
-    strongs: 0486
-    gk: 0518
+    strongs: 486
+    gk: 518
     dodson-pos: V
     gloss: I abuse in return, give abuse for abuse
 ἀντίλυτρον:
@@ -1751,16 +1751,16 @@
     pos: V
     bdag-headword: ἀντιτάσσω
     dodson-entry: ἀντιτάσσομαι
-    strongs: 0498
-    gk: 0530
+    strongs: 498
+    gk: 530
     dodson-pos: V
     gloss: I set myself against, resist
 ἀντίτυπος:
     pos: A
     bdag-headword: ἀντίτυπος
     dodson-entry: ἀντίτυπος, ον
-    strongs: 0499
-    gk: 0531
+    strongs: 499
+    gk: 531
     dodson-pos: A
     gloss: typical of, representing by type or pattern
 ἀντίχριστος:
@@ -1947,8 +1947,8 @@
     pos: V
     bdag-headword: ἀπειθέω
     dodson-entry: ἀπειθέω
-    strongs: 0544
-    gk: 0578
+    strongs: 544
+    gk: 578
     dodson-pos: V
     gloss: I disobey, rebel, am disloyal
 ἀπειθής:
@@ -1964,8 +1964,8 @@
     pos: V
     bdag-headword: ἀπειλέω
     dodson-entry: ἀπειλέω
-    strongs: 0546
-    gk: 0580
+    strongs: 546
+    gk: 580
     dodson-pos: V
     gloss: I threaten, forbid by threatening
 ἄπειμι:
@@ -2096,8 +2096,8 @@
     pos: V
     bdag-headword: ἀπογίνομαι
     dodson-entry: ἀπογίνομαι
-    strongs: 0581
-    gk: 0614
+    strongs: 581
+    gk: 614
     dodson-pos: V
     gloss: I go out of being, cease to be, die
 ἀποδείκνυμι:
@@ -2140,8 +2140,8 @@
     pos: V
     bdag-headword: ἀποδοκιμάζω
     dodson-entry: ἀποδοκιμάζω
-    strongs: 0593
-    gk: 0627
+    strongs: 593
+    gk: 627
     dodson-pos: V
     gloss: I reject after testing, I disqualify
 ἀποδοχή:
@@ -2328,8 +2328,8 @@
     pos: V
     bdag-headword: ἀπονέμω
     dodson-entry: ἀπονέμω
-    strongs: 0632
-    gk: 0671
+    strongs: 632
+    gk: 671
     dodson-pos: V
     gloss: I apportion, render as due
 ἀποπλανάω:
@@ -2560,8 +2560,8 @@
     pos: N
     bdag-headword: ἀργύριον
     dodson-entry: ἀργύριον, ου, τό
-    strongs: 0694
-    gk: 0736
+    strongs: 694
+    gk: 736
     dodson-pos: N:N
     gloss: silver, a shekel, money in general
 ἀργυροῦς:
@@ -2613,8 +2613,8 @@
     pos: A
     bdag-headword: ἀρκετός
     dodson-entry: ἀρκετός, ή, όν
-    strongs: 0713
-    gk: 0757
+    strongs: 713
+    gk: 757
     dodson-pos: A
     gloss: sufficient
 ἀρκέω:
@@ -2684,8 +2684,8 @@
     pos: A
     bdag-headword: ἀρτιγέννητος
     dodson-entry: ἀρτιγέννητος, ον
-    strongs: 0738
-    gk: 0786
+    strongs: 738
+    gk: 786
     dodson-pos: A
     gloss: newly begotten, newly born
 ἄρτιος:
@@ -2746,8 +2746,8 @@
     pos: N
     bdag-headword: ἀρχιποίμην
     dodson-entry: ἀρχιποίμην, ενος, ὁ
-    strongs: 0750
-    gk: 0799
+    strongs: 750
+    gk: 799
     dodson-pos: N:M
     gloss: the chief shepherd
 Ἄρχιππος:
@@ -2763,8 +2763,8 @@
     pos: V
     bdag-headword: ἄρχω
     dodson-entry: ἄρχω
-    strongs: 0757
-    gk: 0806
+    strongs: 757
+    gk: 806
     dodson-pos: V
     gloss: I reign, rule
 ἀσέβεια:
@@ -3176,8 +3176,8 @@
     pos: A
     bdag-headword: ἄφρων
     dodson-entry: ἄφρων, ονος, ον
-    strongs: 0878
-    gk: 0933
+    strongs: 878
+    gk: 933
     dodson-pos: A
     gloss: senseless, foolish, inconsiderate
 ἄφωνος:
@@ -3247,8 +3247,8 @@
     pos: N
     bdag-headword: Βαβυλών
     dodson-entry: Βαβυλών, ῶνος, ἡ
-    strongs: 0897
-    gk: 0956
+    strongs: 897
+    gk: 956
     dodson-pos: N:F
     gloss: Babylon
 βαθμός:
@@ -3273,8 +3273,8 @@
     pos: N
     bdag-headword: βάπτισμα
     dodson-entry: βάπτισμα, ατος, τό
-    strongs: 0908
-    gk: 0967
+    strongs: 908
+    gk: 967
     dodson-pos: N:N
     gloss: the rite or ceremony of baptism
 βαπτισμός:
@@ -3344,8 +3344,8 @@
     pos: A
     bdag-headword: βασίλειος
     dodson-entry: βασίλειος, ον
-    strongs: 0934
-    gk: 0994
+    strongs: 934
+    gk: 994
     dodson-pos: A
     gloss: courtiers, palaces, a body of kings, royal
 βασιλεύς:
@@ -3461,7 +3461,7 @@
     pos: V
     bdag-headword: βιόω
     dodson-entry: βιόω
-    strongs: 0980
+    strongs: 980
     gk: 1051
     dodson-pos: V
     gloss: I live, pass my life
