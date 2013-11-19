@@ -89,3 +89,12 @@
 * morphcat has πραϋπάθεια for πραϋπάθια
 * morphcat has ὼ for ὦ
 * BDAG has ζωοποιέω for ζῳοποιέω
+* Dodson has ἀλλοτριοεπίσκοπος for ἀλλοτριεπίσκοπος
+* Dodson has ἀπροσωπολήπτως for ἀπροσωπολήμπτως
+* Dodson has ὀσφύς for ὀσφῦς
+* Dodson has ἐπιρρίπτω for ἐπιρίπτω
+* Dodson conflates ταπεινόφρων with φιλόφρων
+* Dodson conflates ἐξεραυνάω with ἐξερευνάω
+* Dodson conflates ἐρευνάω with ἐραυνάω
+* Dodson doesn't capitalize Βιθυνία
+* Dodson has διασώζω for διασῴζω
