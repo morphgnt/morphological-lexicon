@@ -21,8 +21,14 @@ regexes = [
     # verbs missing in morphcat
     r"V@V@None",
     
+    # verbs with unknown morphcat
+    r"V@V@\?\?", # @@@
+    
     # verbs missing in dodson and morphcat
     r"V@None@None",
+    
+    # verbs with two morphcats
+    r"V@V@v-[0-9a-z\(\)]+; v-[0-9a-z\(\)]+$", # @@@
     
     # compound verbs
     r"V@V@cv-[0-9a-z\(\)]+$",
@@ -52,22 +58,25 @@ regexes = [
     r"A@None@None$",
     
     # adjectives that dodson has as adverbs
-    r"A@A,ADV@a-1a\(1\)$", # @@@
+    r"A@A,ADV@a-[0-9a-z\(\)]+$", # @@@
     r"A@A,ADV-C@a-1a\(2a\)$", # @@@
     r"A@ADV-S@a-1a\(1\)$", # @@@
     
     # adjectives that tisch has as adverbs
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
+    r"A/ADV-C@A@a-1a\(1\)$", # @@@
     
     # adjectives that are numbers
     r"A@A,A-NUI@a-5$", # @@@
+    r"A@A-NUI@n-3g\(2\)$", # @@@
     
     # adjective / adverb conflation
     r"A/ADV@ADV@\['a-1a\(1\)', 'adverb'\]$", # @@@
     
     # nouns
-    r"N@N:F@n-1a$",
+    r"N@N:M@n-1a$", # @@@
+    r"N@N:F@n-1a$", # @@@
     r"N@N:F@n-1b$",
     r"N@N:F@n-1c$",
     r"N@N:M@n-1e$",
@@ -98,8 +107,11 @@ regexes = [
     r"N@None@n-[0-9a-z\(\)]+$", # @@@
     
     # nouns missing in morphcat
-    r"N@N:M@None",
-    r"N@N:F@None",
+    r"N@N:M@None$",
+    r"N@N:F@None$",
+    
+    # nouns missing in dodson and morphcat
+    r"N@None@None$",
     
     # noun / adjective / cross-over conflation
     r"A@N:M@n-1f$", # @@@
@@ -110,6 +122,7 @@ regexes = [
     r"A/N@N:M@a-3a$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
+    r"A/N@N:F@n-1a$", # @@@
     
     # article
     r"RA@T@a-1a\(2b\)$",
@@ -175,7 +188,11 @@ regexes = [
     # adverbs missing in dodson
     r"D@None@adverb$",
     
+    # adverbs missing in morphcat
+    r"D@ADV@None$", 
+    
     r"D/ADV-S@ADV-S@adverb$", # @@@
+    r"D@ADV-S@None$", # @@@
     r"D/ADV-N@ADV-N@adverb$", # @@@
     r"D@ADV-N@adverb$", # @@@
     r"D@ADV-I@adverb$", # @@@
@@ -196,6 +213,7 @@ regexes = [
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
     r"X/INJ@INJ,N-OI@interjectio$", # @@@
+    r"X/INJ@INJ@interj$", # @@@
     r"X/ADV-N@ADV-N@particle$", # @@@
     r"X/PRT-I@PRT-I,PRT-N@adverb$", # @@@
 ]
