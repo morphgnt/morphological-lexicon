@@ -88,3 +88,4 @@
 * morphcat has μητραλῴας not μητρολῴας
 * morphcat has πραϋπάθεια for πραϋπάθια
 * morphcat has ὼ for ὦ
+* BDAG has ζωοποιέω for ζῳοποιέω
