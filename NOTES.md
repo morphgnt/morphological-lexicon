@@ -98,3 +98,6 @@
 * Dodson conflates ἐρευνάω with ἐραυνάω
 * Dodson doesn't capitalize Βιθυνία
 * Dodson has διασώζω for διασῴζω
+* morphcat has ζώοποιέω for ζῳοποιέω
+* morphcat has οὺς for οὖς
+* morphcat doesn't capitalize Χριστιανός
