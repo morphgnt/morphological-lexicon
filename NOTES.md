@@ -84,3 +84,7 @@
 * Dodson has μητραλῴας for μητρολῴας
 * Dodson has Εὔα for Εὕα
 * morphcat has εὶτα for εἶτα
+* morphcat has ζώογονέω for ζῳογονέω
+* morphcat has μητραλῴας not μητρολῴας
+* morphcat has πραϋπάθεια for πραϋπάθια
+* morphcat has ὼ for ὦ

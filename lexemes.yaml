@@ -3646,9 +3646,10 @@
     bdag-headword: δείκνυμι
     dodson-entry: δείκνυμι
     strongs: 1166
-    gk: 1259,1260
+    gk: 1259
     dodson-pos: V
     gloss: I point out, show
+    mounce-morphcat: v-3c(2)
 δειλία:
     pos: N
     bdag-headword: δειλία
@@ -4109,9 +4110,10 @@
     bdag-headword: διπλοῦς
     dodson-entry: διπλοῦς, ῆ, οῦν
     strongs: 1362
-    gk: 1486,1487
+    gk: 1487
     dodson-pos: A
     gloss: double, two-fold
+    mounce-morphcat: a-1b
 δίς:
     pos: D
     bdag-headword: δίς
@@ -4803,6 +4805,8 @@
 ἐκζήτησις:
     pos: N
     bdag-headword: ἐκζήτησις
+    gk: 1700
+    mounce-morphcat: n-3e(5b)
 ἐκκαθαίρω:
     pos: V
     bdag-headword: ἐκκαθαίρω
@@ -4943,9 +4947,10 @@
     bdag-headword: ἐλάσσων
     dodson-entry: ἐλάσσων, ον
     strongs: 1640
-    gk: 1781,1784
+    gk: 1781
     dodson-pos: A
     gloss: less, smaller, inferior
+    mounce-morphcat: a-4b(1)
 ἐλαύνω:
     pos: V
     bdag-headword: ἐλαύνω
@@ -6005,9 +6010,10 @@
     bdag-headword: ἐπιτρέπω
     dodson-entry: ἐπιτρέπω
     strongs: 2010
-    gk: 2205,5181
+    gk: 2205
     dodson-pos: V
     gloss: I allow, permit
+    mounce-morphcat: cv-1b(1)
 ἐπιφαίνω:
     pos: V
     bdag-headword: ἐπιφαίνω
@@ -6254,6 +6260,8 @@
 Εὕα:
     pos: N
     bdag-headword: Εὕα
+    gk: 2293
+    mounce-morphcat: n-1a
 εὐαγγελίζω:
     pos: V
     bdag-headword: εὐαγγελίζω
@@ -6676,6 +6684,7 @@
     gk: 2441
     dodson-pos: V
     gloss: I preserve alive
+    mounce-morphcat: v-1d(2a)
 ζῷον:
     pos: N
     bdag-headword: ζῷον
@@ -7921,6 +7930,8 @@
 καυστηριάζω:
     pos: V
     bdag-headword: καυστηριάζω
+    gk: 3013
+    mounce-morphcat: v-2a(1)
 καυχάομαι:
     pos: V
     bdag-headword: καυχάομαι
@@ -8304,7 +8315,7 @@
     bdag-headword: κόσμιος
     dodson-entry: κόσμιος, ία, ον
     strongs: 2887
-    gk: 3177,3178
+    gk: 3177
     dodson-pos: A
     gloss: orderly, virtuous
 κόσμος:
@@ -9304,6 +9315,7 @@
 μετάλημψις:
     pos: N
     bdag-headword: μετάλημψις
+    gk: 3562
 μετάνοια:
     pos: N
     bdag-headword: μετάνοια
@@ -10392,7 +10404,7 @@
     bdag-headword: ὄντως
     dodson-entry: ὄντως
     strongs: 3689
-    gk: 3903,3953
+    gk: 3953
     dodson-pos: ADV
     gloss: really, truly
 ὀπίσω:
@@ -11186,7 +11198,7 @@
     bdag-headword: πατρολῴας
     dodson-entry: πατρολῴας, ου, ὁ
     strongs: 3964
-    gk: 4254,4260
+    gk: 4260
     dodson-pos: N:M
     gloss: a murderer of his father
 Παῦλος:
@@ -11460,7 +11472,7 @@
     bdag-headword: Πιλᾶτος
     dodson-entry: Πιλᾶτος, ου, ὁ
     strongs: 4091
-    gk: 4276,4397
+    gk: 4397
     dodson-pos: N:M
     gloss: Pilate
 πιστεύω:
@@ -11979,6 +11991,8 @@
 πραϋπάθια:
     pos: N
     bdag-headword: πραϋπαθία
+    gk: 4557
+    mounce-morphcat: n-1a
 πραΰτης:
     pos: N
     bdag-headword: πραΰτης
@@ -12297,6 +12311,7 @@
 πρόσκλισις:
     pos: N
     bdag-headword: πρόσκλισις
+    gk: 4680
 προσλαμβάνομαι:
     pos: V
     bdag-headword: προσλαμβάνω
@@ -12415,7 +12430,7 @@
     bdag-headword: πρῶτον
     dodson-entry: πρῶτον
     strongs: 4412
-    gk: 4754,4759
+    gk: 4754
     dodson-pos: ADV-S
     gloss: first, before
 πρῶτος:
@@ -14821,7 +14836,7 @@
     bdag-headword: φιμόω
     dodson-entry: φιμόω
     strongs: 5392
-    gk: 3055,5821
+    gk: 5821
     dodson-pos: V
     gloss: I muzzle, silence
 φλόξ:
@@ -15361,6 +15376,7 @@
     gk: 6043
     dodson-pos: INJ
     gloss: O, an exclamation
+    mounce-morphcat: interj
 ὧδε:
     pos: D
     bdag-headword: ὧδε
