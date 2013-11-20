@@ -42,6 +42,9 @@ regexes = [
     # compound verbs that dodson thinks can be adjectives
     r"V@A,V@cv-[0-9a-z\(\)]+$", # @@@
     
+    # verbs that morphcat thinks is an adjective
+    r"V@V@a-1a\(1\)$", # @@@
+    
     # ἰδού
     r"X/V@V@\?\?$", # @@@
     
@@ -79,6 +82,7 @@ regexes = [
     r"N@N:F@n-1a$", # @@@
     r"N@N:F@n-1b$",
     r"N@N:F@n-1c$",
+    r"N@N:M@n-1d$",
     r"N@N:M@n-1e$",
     r"N@N:M@n-1f$",
     r"N@N:F@n-1h$",
@@ -95,6 +99,9 @@ regexes = [
     # indeclinable proper nouns
     r"N@N-PRI@n-3g\(2\)$",
     
+    # indeclinable hebrew nouns
+    r"N/HEB@HEB@n-3g\(2\)$",
+    
     # nouns with multiple genders (according to dodson)
     r"N@N:F,N:N@n-1a$", # @@@
     r"N@N:M,N:N@n-2a$", # @@@
@@ -102,6 +109,8 @@ regexes = [
     r"N@N:F,N:N@n-2c$", # @@@
     r"N@N:M,N:N@n-3[0-9a-z\(\)]+$", # @@@
     r"N@N:M,N:N@\['n-2c', 'n-2a'\]$", # @@@
+    
+    r"\['N', 'X'\]@\['N:M', 'PRT'\]@None", # @@@
     
     # nouns missing in dodson
     r"N@None@n-[0-9a-z\(\)]+$", # @@@
@@ -119,10 +128,14 @@ regexes = [
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
     r"A/N@N:F@n-3c\(2\)$", # @@@
+    r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
     r"A/N@N:F@n-1a$", # @@@
+    r"N/A@A@a-3a$", # @@@
+    
+    r"N/ADV-K@ADV-K@adverb$", # @@@
     
     # article
     r"RA@T@a-1a\(2b\)$",
@@ -141,6 +154,7 @@ regexes = [
     # interrogative pronoun
     r"RI/X@I@a-4b\(2\)$", # @@@
     r"RI/A@A@a-1a\(2a\)$", # @@@
+    r"RI@I@a-1a\(1\)$", # @@@
     
     # correlative pronoun
     r"RR/K@K@a-1a\(2a\)$", # @@@
@@ -180,6 +194,7 @@ regexes = [
     r"C/ADV@ADV@conj$", # @@@
     r"C/PRT@PRT@particle$", # @@@
     r"C/COND@COND@particle$", # @@@
+    r"C/COND-K@COND-K@particle$", # @@@
     r"C/CONJ-N@CONJ-N@adverb$", # @@@
     r"C/CONJ-N@CONJ-N@conj$", # @@@
     r"C/D@ADV@adverb$", # @@@
@@ -192,6 +207,7 @@ regexes = [
     r"D@ADV@None$", 
     
     r"D/ADV-S@ADV-S@adverb$", # @@@
+    r"D@ADV-S@adverb$", # @@@
     r"D@ADV-S@None$", # @@@
     r"D/ADV-N@ADV-N@adverb$", # @@@
     r"D@ADV-N@adverb$", # @@@
@@ -216,6 +232,8 @@ regexes = [
     r"X/INJ@INJ@interj$", # @@@
     r"X/ADV-N@ADV-N@particle$", # @@@
     r"X/PRT-I@PRT-I,PRT-N@adverb$", # @@@
+    r"X@PRT-I@particle$", # @@@
+    r"X@PRT-N@adverb$", # @@@
 ]
 
 match = 0

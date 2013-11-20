@@ -2443,7 +2443,6 @@
     gk: 652
     dodson-pos: V
     gloss: I bring forth, give birth to
-    mounce-morphcat: see ajpokt
 ἀπολαμβάνω:
     pos: V
     bdag-headword: ἀπολαμβάνω
@@ -3258,7 +3257,6 @@
     pos: V
     bdag-headword: αὔξω
     gk: 891
-    mounce-morphcat: see aujxav
 αὔριον:
     pos: D
     bdag-headword: αὔριον
@@ -13856,7 +13854,7 @@
     gloss: I look down upon, despise
     mounce-morphcat: cv-1d(2a)
 πετεινόν:
-    pos: A- N-GPN
+    pos: A/N
     bdag-headword: πετεινόν
     dodson-entry: πετεινόν, οῦ, τό
     strongs: 4071
