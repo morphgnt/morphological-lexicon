@@ -116,3 +116,4 @@
 * ἄγε not in Dodson
 * Dodson / morphcat seemed to have flipped around gk 3604 and 3605
 * morphcat has κακοπάθεια for κακοπαθία
+* Dodson has χρίσμα for χρῖσμα
