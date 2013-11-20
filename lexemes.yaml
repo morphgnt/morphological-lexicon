@@ -1477,6 +1477,7 @@
     bdag-headword: ἀνέλεος
 ἀνεμίζομαι:
     pos: V
+    bdag-headword: ἀνεμίζω
 ἄνεμος:
     pos: N
     bdag-headword: ἄνεμος
@@ -5867,6 +5868,7 @@
     mounce-morphcat: prep
 ἐνάλιον:
     pos: A
+    bdag-headword: ἐνάλιος
 ἐναντίος:
     pos: A
     bdag-headword: ἐναντίος
@@ -7961,6 +7963,7 @@
     bdag-headword: θερίζω
 θερμαίνομαι:
     pos: V
+    bdag-headword: θερμαίνω
 Θεσσαλονικεύς:
     pos: N
     bdag-headword: Θεσσαλονικεύς
@@ -9130,6 +9133,7 @@
     bdag-headword: κατήφεια
 κατιόομαι:
     pos: V
+    bdag-headword: κατιόω
 κατοικέω:
     pos: V
     bdag-headword: κατοικέω
@@ -10268,6 +10272,7 @@
     mounce-morphcat: v-3a(2b)
 μαραίνομαι:
     pos: V
+    bdag-headword: μαραίνω
 μαργαρίτης:
     pos: N
     bdag-headword: μαργαρίτης
@@ -12133,6 +12138,7 @@
     mounce-morphcat: adverb
 οὔ:
     pos: X
+    bdag-headword: οὐ
 οὗ:
     pos: D
     bdag-headword: οὗ
@@ -14098,6 +14104,7 @@
     mounce-morphcat: cv-1d(3)
 προσκαλέομαι:
     pos: V
+    bdag-headword: προσκαλέω
 προσκαρτερέω:
     pos: V
     bdag-headword: προσκαρτερέω
@@ -14403,6 +14410,7 @@
     mounce-morphcat: v-1d(3)
 ῥιπίζομαι:
     pos: V
+    bdag-headword: ῥιπίζω
 ῥοιζηδόν:
     pos: D
     bdag-headword: ῥοιζηδόν

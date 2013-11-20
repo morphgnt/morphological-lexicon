@@ -101,3 +101,5 @@
 * morphcat has ζώοποιέω for ζῳοποιέω
 * morphcat has οὺς for οὖς
 * morphcat doesn't capitalize Χριστιανός
+* BDAG doesn't have ἐνάλιον but has ἐνάλιος
+* is BDAG's οὐ MorphGNT's οὔ ?
