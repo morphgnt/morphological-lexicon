@@ -8457,6 +8457,11 @@
 θρησκός:
     pos: A
     bdag-headword: θρησκός
+    dodson-entry: θρῆσκος, ον
+    strongs: 2357
+    gk: 2580
+    dodson-pos: A
+    gloss: religious
 θριαμβεύω:
     pos: V
     bdag-headword: θριαμβεύω
@@ -9040,6 +9045,11 @@
 κακοπαθία:
     pos: N
     bdag-headword: κακοπαθία
+    dodson-entry: κακοπάθεια, ας, ἡ
+    strongs: 2552
+    gk: 2801
+    dodson-pos: N:F
+    gloss: suffering
 κακοποιέω:
     pos: V
     bdag-headword: κακοποιέω
@@ -11311,6 +11321,11 @@
 μήν:
     pos: N
     bdag-headword: μήν
+    dodson-entry: μήν, μηνός, ὁ
+    strongs: 3376
+    gk: 3605
+    dodson-pos: N:M
+    gloss: a month
 μήποτε:
     pos: X/ADV-N
     bdag-headword: μήποτε
@@ -14891,6 +14906,11 @@
 προσωπολημπτέω:
     pos: V
     bdag-headword: προσωπολημπτέω
+    dodson-entry: προσωποληπτέω
+    strongs: 4380
+    gk: 4719,4722
+    dodson-pos: V
+    gloss: I show partiality
 προσωπολημψία:
     pos: N
     bdag-headword: προσωπολημψία
@@ -15196,6 +15216,11 @@
 Σαβαώθ:
     pos: N/HEB
     bdag-headword: Σαβαώθ
+    dodson-entry: σαβαώθ
+    strongs: 4519
+    gk: 4877
+    dodson-pos: HEB
+    gloss: hosts, armies
 σάββατον:
     pos: N
     bdag-headword: σάββατον

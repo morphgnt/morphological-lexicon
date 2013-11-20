@@ -103,3 +103,15 @@
 * morphcat doesn't capitalize Χριστιανός
 * BDAG doesn't have ἐνάλιον but has ἐνάλιος
 * is BDAG's οὐ MorphGNT's οὔ ?
+* Dodson has κακοπάθεια for κακοπαθία
+* morphcat has κακοπάθεια for κακοπαθία
+* Dodson has προσωποληπτέω for προσωπολημπτέω
+* Dodson conflates κατοικέω and κατοικίζω
+* Dodson conflates ἀποστερέω and ἀφυστερέω
+* Dodson conflates μεταστρέφω and μετατρέπω
+* Dodson conflates πρώϊμος and πρόϊμος
+* Dodson has θρῆσκος for θρησκός
+* Dodson doesn't captialize Σαβαώθ
+* Dodson conflates μεγαλαυχέω with αὐχέω
+* not sure if ἕλκω == ἑλκόω
+* ἄγε not in Dodson
