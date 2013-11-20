@@ -328,6 +328,11 @@
 ἀδιάκριτος:
     pos: A
     bdag-headword: ἀδιάκριτος
+    dodson-entry: ἀδιάκριτος, ον
+    strongs: 0087
+    gk: 0088
+    dodson-pos: A
+    gloss: unambiguous
 ἀδιάλειπτος:
     pos: A
     bdag-headword: ἀδιάλειπτος
@@ -745,9 +750,19 @@
 ἀκαταστασία:
     pos: N
     bdag-headword: ἀκαταστασία
+    dodson-entry: ἀκαταστασία, ας, ἡ
+    strongs: 0181
+    gk: 0189
+    dodson-pos: N:F
+    gloss: disturbance, upheaval, revolution
 ἀκατάστατος:
     pos: A
     bdag-headword: ἀκατάστατος
+    dodson-entry: ἀκατάστατος, ον
+    strongs: 0182
+    gk: 0190
+    dodson-pos: A
+    gloss: unsettled, unstable
 ἀκέραιος:
     pos: A
     bdag-headword: ἀκέραιος
@@ -796,6 +811,11 @@
 ἀκροατής:
     pos: N
     bdag-headword: ἀκροατής
+    dodson-entry: ἀκροατής, οῦ, ὁ
+    strongs: 0202
+    gk: 0212
+    dodson-pos: N:M
+    gloss: a hearer of, a listener to
 ἀκροβυστία:
     pos: N
     bdag-headword: ἀκροβυστία
@@ -826,6 +846,11 @@
 ἀλαζονεία:
     pos: N
     bdag-headword: ἀλαζονεία
+    dodson-entry: ἀλαζονεία, ας, ἡ
+    strongs: 0212
+    gk: 0224
+    dodson-pos: N:F
+    gloss: boasting, show, arrogant display
 ἀλαζών:
     pos: N
     bdag-headword: ἀλαζών
@@ -847,6 +872,11 @@
 ἀλείφω:
     pos: V
     bdag-headword: ἀλείφω
+    dodson-entry: ἀλείφω
+    strongs: 0218
+    gk: 0230
+    dodson-pos: V
+    gloss: I anoint
 Ἀλέξανδρος:
     pos: N
     bdag-headword: Ἀλέξανδρος
@@ -967,6 +997,11 @@
 ἁλυκός:
     pos: A
     bdag-headword: ἁλυκός
+    dodson-entry: ἁλυκός, ή, όν
+    strongs: 0252
+    gk: 0266
+    dodson-pos: A
+    gloss: salty, saltine, bitter
 ἀλυπότερος:
     pos: A
 ἅλυσις:
@@ -1071,6 +1106,11 @@
 ἀμάω:
     pos: V
     bdag-headword: ἀμάω
+    dodson-entry: ἀμάω
+    strongs: 0270
+    gk: 0286
+    dodson-pos: V
+    gloss: I mow, reap
 ἀμελέω:
     pos: V
     bdag-headword: ἀμελέω
@@ -1137,6 +1177,11 @@
 ἄμπελος:
     pos: N
     bdag-headword: ἄμπελος
+    dodson-entry: ἄμπελος, ου, ἡ
+    strongs: 0288
+    gk: 0306
+    dodson-pos: N:F
+    gloss: a vine
 ἀμώμητος:
     pos: A
     bdag-headword: ἀμώμητος
@@ -1364,6 +1409,11 @@
 ἀνάπτω:
     pos: V
     bdag-headword: ἀνάπτω
+    dodson-entry: ἀνάπτω
+    strongs: 0381
+    gk: 0409
+    dodson-pos: V
+    gloss: I kindle, set on fire
 ἀνάστασις:
     pos: N
     bdag-headword: ἀνάστασις
@@ -1475,9 +1525,19 @@
 ἀνέλεος:
     pos: A
     bdag-headword: ἀνέλεος
+    dodson-entry: ἀνέλεος, ον
+    strongs: 0448
+    gk: 0447,0480
+    dodson-pos: A
+    gloss: without mercy
 ἀνεμίζομαι:
     pos: V
     bdag-headword: ἀνεμίζω
+    dodson-entry: ἀνεμίζω
+    strongs: 0416
+    gk: 0448
+    dodson-pos: V
+    gloss: I am blown with the wind
 ἄνεμος:
     pos: N
     bdag-headword: ἄνεμος
@@ -1882,6 +1942,11 @@
 ἄνωθεν:
     pos: D
     bdag-headword: ἄνωθεν
+    dodson-entry: ἄνωθεν
+    strongs: 0509
+    gk: 0540
+    dodson-pos: ADV
+    gloss: from above, from the beginning, again
 ἀνωφελής:
     pos: A
     bdag-headword: ἀνωφελής
@@ -2054,6 +2119,11 @@
 ἀπείραστος:
     pos: A
     bdag-headword: ἀπείραστος
+    dodson-entry: ἀπείραστος, ον
+    strongs: 0551
+    gk: 0585
+    dodson-pos: A
+    gloss: untried, inexperienced, incapable of being tempted
 ἀπεκδέχομαι:
     pos: V
     bdag-headword: ἀπεκδέχομαι
@@ -2147,6 +2217,11 @@
 ἁπλῶς:
     pos: D
     bdag-headword: ἁπλῶς
+    dodson-entry: ἁπλῶς
+    strongs: 0574
+    gk: 0607
+    dodson-pos: ADV
+    gloss: simply, sincerely
 ἀπό:
     pos: P
     bdag-headword: ἀπό
@@ -2348,6 +2423,11 @@
 ἀποκυέω:
     pos: V
     bdag-headword: ἀποκυέω
+    dodson-entry: ἀποκυέω
+    strongs: 0616
+    gk: 0652
+    dodson-pos: V
+    gloss: I bring forth, give birth to
 ἀπολαμβάνω:
     pos: V
     bdag-headword: ἀπολαμβάνω
@@ -2441,6 +2521,11 @@
 ἀποσκίασμα:
     pos: N
     bdag-headword: ἀποσκίασμα
+    dodson-entry: ἀποσκίασμα, ατος, τό
+    strongs: 0644
+    gk: 0684
+    dodson-pos: N:N
+    gloss: a shadow, a faint image or copy
 ἀποστασία:
     pos: N
     bdag-headword: ἀποστασία
@@ -2489,6 +2574,11 @@
 ἀποτελέω:
     pos: V
     bdag-headword: ἀποτελέω
+    dodson-entry: ἀποτελέω
+    strongs: 0658
+    gk: 0699
+    dodson-pos: V
+    gloss: I complete, accomplish, form fully, perfect
 ἀποτίθημι:
     pos: V
     bdag-headword: ἀποτίθημι
@@ -2663,6 +2753,11 @@
 ἄργυρος:
     pos: N
     bdag-headword: ἄργυρος
+    dodson-entry: ἄργυρος, ου, ὁ
+    strongs: 0696
+    gk: 0738
+    dodson-pos: N:M
+    gloss: silver as a metal
 ἀργυροῦς:
     pos: A
     bdag-headword: ἀργυροῦς
@@ -3071,6 +3166,11 @@
 ἀτιμάζω:
     pos: V
     bdag-headword: ἀτιμάζω
+    dodson-entry: ἀτιμάζω
+    strongs: 0818
+    gk: 0869,0870
+    dodson-pos: V
+    gloss: I disgrace, dishonor
 ἀτιμία:
     pos: N
     bdag-headword: ἀτιμία
@@ -3083,6 +3183,11 @@
 ἀτμίς:
     pos: N
     bdag-headword: ἀτμίς
+    dodson-entry: ἀτμίς, ίδος, ἡ
+    strongs: 0822
+    gk: 0874
+    dodson-pos: N:F
+    gloss: breath, steam, vapor
 ἄτοπος:
     pos: A
     bdag-headword: ἄτοπος
@@ -3136,6 +3241,11 @@
 αὔριον:
     pos: D
     bdag-headword: αὔριον
+    dodson-entry: αὔριον
+    strongs: 0839
+    gk: 0892
+    dodson-pos: ADV
+    gloss: tomorrow
 αὐτάρκεια:
     pos: N
     bdag-headword: αὐτάρκεια
@@ -3187,6 +3297,11 @@
 ἀφανίζω:
     pos: V
     bdag-headword: ἀφανίζω
+    dodson-entry: ἀφανίζω
+    strongs: 0853
+    gk: 0906
+    dodson-pos: V
+    gloss: I cause to disappear, I hide, remove, disfigure
 ἀφειδία:
     pos: N
     bdag-headword: ἀφειδία
@@ -3240,6 +3355,11 @@
 ἀφίημι:
     pos: V
     bdag-headword: ἀφίημι
+    dodson-entry: ἀφίημι
+    strongs: 0863
+    gk: 0918,1889
+    dodson-pos: V
+    gloss: I send away, release, remit, forgive, permit
 ἀφιλάγαθος:
     pos: A
     bdag-headword: ἀφιλάγαθος
@@ -3399,6 +3519,11 @@
 βάλλω:
     pos: V
     bdag-headword: βάλλω
+    dodson-entry: βάλλω
+    strongs: 0906
+    gk: 0965
+    dodson-pos: V
+    gloss: I cast, throw, rush, put, place, drop
 βάπτισμα:
     pos: N
     bdag-headword: βάπτισμα
@@ -3501,6 +3626,11 @@
 βασιλικός:
     pos: A
     bdag-headword: βασιλικός
+    dodson-entry: βασιλικός, ή, όν
+    strongs: 0937
+    gk: 0997,0998
+    dodson-pos: A
+    gloss: connected with a king, royal, regal
 βδελυκτός:
     pos: A
     bdag-headword: βδελυκτός
@@ -3614,6 +3744,11 @@
 βλαστάνω:
     pos: V
     bdag-headword: βλαστάνω
+    dodson-entry: βλαστάνω
+    strongs: 0985
+    gk: 1056,1057
+    dodson-pos: V
+    gloss: I sprout, cause to sprout, make to grow up
 βλασφημέω:
     pos: V
     bdag-headword: βλασφημέω
@@ -3662,6 +3797,11 @@
 βοή:
     pos: N
     bdag-headword: βοή
+    dodson-entry: βοή, ῆς, ἡ
+    strongs: 0995
+    gk: 1068
+    dodson-pos: N:F
+    gloss: a shout
 βόρβορος:
     pos: N
     bdag-headword: βόρβορος
@@ -3737,6 +3877,11 @@
 βραδύς:
     pos: A
     bdag-headword: βραδύς
+    dodson-entry: βραδύς, εῖα, ύ
+    strongs: 1021
+    gk: 1096
+    dodson-pos: A
+    gloss: slow
 βραδύτης:
     pos: N
     bdag-headword: βραδύτης
@@ -3758,9 +3903,19 @@
 βρέχω:
     pos: V
     bdag-headword: βρέχω
+    dodson-entry: βρέχω
+    strongs: 1026
+    gk: 1101
+    dodson-pos: V
+    gloss: I moisten, rain, send rain
 βρύω:
     pos: V
     bdag-headword: βρύω
+    dodson-entry: βρύω
+    strongs: 1032
+    gk: 1108
+    dodson-pos: V
+    gloss: I cause to gush forth, send forth
 βρῶμα:
     pos: N
     bdag-headword: βρῶμα
@@ -3863,9 +4018,19 @@
 γέεννα:
     pos: N
     bdag-headword: γέεννα
+    dodson-entry: γέεννα, ης, ἡ
+    strongs: 1067
+    gk: 1147
+    dodson-pos: N:F
+    gloss: Gehenna
 γέλως:
     pos: N
     bdag-headword: γέλως
+    dodson-entry: γέλως, ωτος, ὁ
+    strongs: 1071
+    gk: 1152
+    dodson-pos: N:M
+    gloss: laughter
 γενεά:
     pos: N
     bdag-headword: γενεά
@@ -3887,6 +4052,11 @@
 γένεσις:
     pos: N
     bdag-headword: γένεσις
+    dodson-entry: γένεσις, εως, ἡ
+    strongs: 1078
+    gk: 1161
+    dodson-pos: N:F
+    gloss: birth, lineage
 γεννάω:
     pos: V
     bdag-headword: γεννάω
@@ -3953,6 +4123,11 @@
 γλυκύς:
     pos: A
     bdag-headword: γλυκύς
+    dodson-entry: γλυκύς, εῖα, ύ
+    strongs: 1099
+    gk: 1184
+    dodson-pos: A
+    gloss: sweet
 γλῶσσα:
     pos: N
     bdag-headword: γλῶσσα
@@ -4127,6 +4302,11 @@
 γυμνός:
     pos: A
     bdag-headword: γυμνός
+    dodson-entry: γυμνός, ή, όν
+    strongs: 1131
+    gk: 1218
+    dodson-pos: A
+    gloss: wearing only the under-garment, bare
 γυναικάριον:
     pos: N
     bdag-headword: γυναικάριον
@@ -4175,6 +4355,11 @@
 δαιμονιώδης:
     pos: A
     bdag-headword: δαιμονιώδης
+    dodson-entry: δαιμονιώδης, ες
+    strongs: 1141
+    gk: 1229
+    dodson-pos: A
+    gloss: demon-like
 δάκρυον:
     pos: N
     bdag-headword: δάκρυον
@@ -4196,9 +4381,19 @@
 δαμάζω:
     pos: V
     bdag-headword: δαμάζω
+    dodson-entry: δαμάζω
+    strongs: 1150
+    gk: 1238
+    dodson-pos: V
+    gloss: I tame, subdue
 δαπανάω:
     pos: V
     bdag-headword: δαπανάω
+    dodson-entry: δαπανάω
+    strongs: 1159
+    gk: 1251
+    dodson-pos: V
+    gloss: I spend, bear expense, waste
 Δαυίδ:
     pos: N
     bdag-headword: Δαυίδ
@@ -4747,6 +4942,11 @@
 δίψυχος:
     pos: A
     bdag-headword: δίψυχος
+    dodson-entry: δίψυχος, ον
+    strongs: 1374
+    gk: 1500
+    dodson-pos: A
+    gloss: double-minded, wavering
 διωγμός:
     pos: N
     bdag-headword: διωγμός
@@ -4984,6 +5184,11 @@
 δώδεκα:
     pos: A
     bdag-headword: δώδεκα
+    dodson-entry: δώδεκα
+    strongs: 1427
+    gk: 1557
+    dodson-pos: A-NUI
+    gloss: twelve
 δωρεάν:
     pos: D
     bdag-headword: δωρεάν
@@ -5005,6 +5210,11 @@
 δώρημα:
     pos: N
     bdag-headword: δώρημα
+    dodson-entry: δώρημα, ατος, τό
+    strongs: 1434
+    gk: 1564
+    dodson-pos: N:N
+    gloss: a gift, bounty
 ἐάν:
     pos: X/COND
     bdag-headword: ἐάν
@@ -5291,6 +5501,11 @@
 εἰρηνικός:
     pos: A
     bdag-headword: εἰρηνικός
+    dodson-entry: εἰρηνικός, ή, όν
+    strongs: 1516
+    gk: 1646
+    dodson-pos: A
+    gloss: peaceable, disposed to peace
 εἰρηνοποιέω:
     pos: V
     bdag-headword: εἰρηνοποιέω
@@ -5321,6 +5536,11 @@
 εἰσέρχομαι:
     pos: V
     bdag-headword: εἰσέρχομαι
+    dodson-entry: εἰσέρχομαι
+    strongs: 1525
+    gk: 1656
+    dodson-pos: V
+    gloss: I go in, come in, enter
 εἴσοδος:
     pos: N
     bdag-headword: εἴσοδος
@@ -5405,6 +5625,11 @@
 ἐκδέχομαι:
     pos: V
     bdag-headword: ἐκδέχομαι
+    dodson-entry: ἐκδέχομαι
+    strongs: 1551
+    gk: 1683
+    dodson-pos: V
+    gloss: I wait for, expect
 ἔκδηλος:
     pos: A
     bdag-headword: ἔκδηλος
@@ -5503,6 +5728,11 @@
 ἐκλέγομαι:
     pos: V
     bdag-headword: ἐκλέγομαι
+    dodson-entry: ἐκλέγομαι
+    strongs: 1586
+    gk: 1721
+    dodson-pos: V
+    gloss: I choose, elect
 ἐκλεκτός:
     pos: A
     bdag-headword: ἐκλεκτός
@@ -5650,9 +5880,19 @@
 ἐλαία:
     pos: N
     bdag-headword: ἐλαία
+    dodson-entry: ἐλαία, ας, ἡ
+    strongs: 1636
+    gk: 1777
+    dodson-pos: N:F
+    gloss: an olive tree
 ἔλαιον:
     pos: N
     bdag-headword: ἔλαιον
+    dodson-entry: ἔλαιον, ου, τό
+    strongs: 1637
+    gk: 1778
+    dodson-pos: N:N
+    gloss: olive oil
 ἐλάσσων:
     pos: A
     bdag-headword: ἐλάσσων
@@ -5674,6 +5914,11 @@
 ἐλάχιστος:
     pos: A
     bdag-headword: ἐλάχιστος
+    dodson-entry: ἐλάχιστος, ίστη, ιστον
+    strongs: 1646
+    gk: 1788
+    dodson-pos: A
+    gloss: least, smallest, very little
 ἐλεάω:
     pos: V
     bdag-headword: ἐλεάω
@@ -5857,6 +6102,11 @@
 ἔμφυτος:
     pos: A
     bdag-headword: ἔμφυτος
+    dodson-entry: ἔμφυτος, ον
+    strongs: 1721
+    gk: 1875
+    dodson-pos: A
+    gloss: inborn, ingrown, congenital, natural
 ἐν:
     pos: P
     bdag-headword: ἐν
@@ -5869,6 +6119,11 @@
 ἐνάλιον:
     pos: A
     bdag-headword: ἐνάλιος
+    dodson-entry: ἐνάλιος, ον
+    strongs: 1724
+    gk: 1879
+    dodson-pos: A
+    gloss: living in the sea
 ἐναντίος:
     pos: A
     bdag-headword: ἐναντίος
@@ -5997,6 +6252,11 @@
 ἐνιαυτός:
     pos: N
     bdag-headword: ἐνιαυτός
+    dodson-entry: ἐνιαυτός, οῦ, ὁ
+    strongs: 1763
+    gk: 1929
+    dodson-pos: N:M
+    gloss: a year
 ἐνίστημι:
     pos: V
     bdag-headword: ἐνίστημι
@@ -6032,6 +6292,11 @@
 ἔνοχος:
     pos: A
     bdag-headword: ἔνοχος
+    dodson-entry: ἔνοχος, ον
+    strongs: 1777
+    gk: 1944
+    dodson-pos: A
+    gloss: involved in, liable
 ἔνταλμα:
     pos: N
     bdag-headword: ἔνταλμα
@@ -6044,6 +6309,11 @@
 ἐντεῦθεν:
     pos: D
     bdag-headword: ἐντεῦθεν
+    dodson-entry: ἐντεῦθεν
+    strongs: 1782
+    gk: 1925,1949
+    dodson-pos: ADV
+    gloss: hence, from this place, on this side and on that
 ἔντευξις:
     pos: N
     bdag-headword: ἔντευξις
@@ -6128,6 +6398,11 @@
 ἕξ:
     pos: A
     bdag-headword: ἕξ
+    dodson-entry: ἕξ, οἱ, αἱ, τά
+    strongs: 1803
+    gk: 1971
+    dodson-pos: A-NUI
+    gloss: six
 ἐξαγγέλλω:
     pos: V
     bdag-headword: ἐξαγγέλλω
@@ -6203,6 +6478,11 @@
 ἐξέλκω:
     pos: V
     bdag-headword: ἐξέλκω
+    dodson-entry: ἐξέλκω
+    strongs: 1828
+    gk: 1999
+    dodson-pos: V
+    gloss: I entice
 ἐξέραμα:
     pos: N
     bdag-headword: ἐξέραμα
@@ -6301,6 +6581,11 @@
 ἔοικα:
     pos: V
     bdag-headword: ἔοικα
+    dodson-entry: ἔοικα
+    strongs: 1503
+    gk: 2036
+    dodson-pos: V
+    gloss: I am like, resemble
 ἑορτή:
     pos: N
     bdag-headword: ἑορτή
@@ -6466,6 +6751,11 @@
 ἐπέρχομαι:
     pos: V
     bdag-headword: ἐπέρχομαι
+    dodson-entry: ἐπέρχομαι
+    strongs: 1904
+    gk: 2082,2088
+    dodson-pos: V
+    gloss: I approach, overtake, attack
 ἐπερώτημα:
     pos: N
     bdag-headword: ἐπερώτημα
@@ -6514,6 +6804,11 @@
 ἐπιβλέπω:
     pos: V
     bdag-headword: ἐπιβλέπω
+    dodson-entry: ἐπιβλέπω
+    strongs: 1914
+    gk: 2098
+    dodson-pos: V
+    gloss: I look with favor on
 ἐπίγειος:
     pos: A
     bdag-headword: ἐπίγειος
@@ -6643,6 +6938,11 @@
 ἐπιλησμονή:
     pos: N
     bdag-headword: ἐπιλησμονή
+    dodson-entry: ἐπιλησμονή, ῆς, ἡ
+    strongs: 1953
+    gk: 2144
+    dodson-pos: N:F
+    gloss: forgetfulness
 ἐπίλοιπος:
     pos: A
     bdag-headword: ἐπίλοιπος
@@ -6736,6 +7036,11 @@
 ἐπισκέπτομαι:
     pos: V
     bdag-headword: ἐπισκέπτομαι
+    dodson-entry: ἐπισκέπτομαι
+    strongs: 1980
+    gk: 2170
+    dodson-pos: V
+    gloss: I look upon, visit, look out, select
 ἐπισκοπέω:
     pos: V
     bdag-headword: ἐπισκοπέω
@@ -6775,6 +7080,11 @@
 ἐπιστήμων:
     pos: A
     bdag-headword: ἐπιστήμων
+    dodson-entry: ἐπιστήμων, ον
+    strongs: 1990
+    gk: 2184
+    dodson-pos: A
+    gloss: skillful, experienced
 ἐπιστολή:
     pos: N
     bdag-headword: ἐπιστολή
@@ -6850,6 +7160,11 @@
 ἐπιτήδειος:
     pos: A
     bdag-headword: ἐπιτήδειος
+    dodson-entry: ἐπιτήδειος, α, ον
+    strongs: 2006
+    gk: 2201
+    dodson-pos: A
+    gloss: necessary
 ἐπιτίθημι:
     pos: V
     bdag-headword: ἐπιτίθημι
@@ -6880,6 +7195,11 @@
 ἐπιτυγχάνω:
     pos: V
     bdag-headword: ἐπιτυγχάνω
+    dodson-entry: ἐπιτυγχάνω
+    strongs: 2013
+    gk: 2209
+    dodson-pos: V
+    gloss: I attain, obtain, acquire
 ἐπιφαίνω:
     pos: V
     bdag-headword: ἐπιφαίνω
@@ -7041,6 +7361,11 @@
 ἑρπετόν:
     pos: N
     bdag-headword: ἑρπετόν
+    dodson-entry: ἑρπετόν, οῦ, τό
+    strongs: 2062
+    gk: 2260
+    dodson-pos: N:N
+    gloss: a creeping creature, reptile
 ἔρχομαι:
     pos: V
     bdag-headword: ἔρχομαι
@@ -7062,6 +7387,11 @@
 ἐσθής:
     pos: N
     bdag-headword: ἐσθής
+    dodson-entry: ἐσθής, ῆτος, ἡ
+    strongs: 2066
+    gk: 2264
+    dodson-pos: N:F
+    gloss: clothing, raiment
 ἐσθίω:
     pos: V
     bdag-headword: ἐσθίω
@@ -7074,6 +7404,11 @@
 ἔσοπτρον:
     pos: N
     bdag-headword: ἔσοπτρον
+    dodson-entry: ἔσοπτρον, ου, τό
+    strongs: 2072
+    gk: 2269
+    dodson-pos: N:N
+    gloss: a mirror
 ἔσχατος:
     pos: A
     bdag-headword: ἔσχατος
@@ -7244,9 +7579,19 @@
 εὐθυμέω:
     pos: V
     bdag-headword: εὐθυμέω
+    dodson-entry: εὐθυμέω
+    strongs: 2114
+    gk: 2313
+    dodson-pos: V
+    gloss: I am cheerful
 εὐθύνω:
     pos: V
     bdag-headword: εὐθύνω
+    dodson-entry: εὐθύνω
+    strongs: 2116
+    gk: 2316
+    dodson-pos: V
+    gloss: I make straight, guide, steer
 εὐθύς:
     pos: A
     bdag-headword: εὐθύς
@@ -7331,9 +7676,19 @@
 εὐπειθής:
     pos: A
     bdag-headword: εὐπειθής
+    dodson-entry: εὐπειθής, ές
+    strongs: 2138
+    gk: 2340
+    dodson-pos: A
+    gloss: compliant
 εὐπρέπεια:
     pos: N
     bdag-headword: εὐπρέπεια
+    dodson-entry: εὐπρέπεια, ας, ἡ
+    strongs: 2143
+    gk: 2346
+    dodson-pos: N:F
+    gloss: beauty, gracefulness
 εὐπρόσδεκτος:
     pos: A
     bdag-headword: εὐπρόσδεκτος
@@ -7445,6 +7800,11 @@
 εὐχή:
     pos: N
     bdag-headword: εὐχή
+    dodson-entry: εὐχή, ῆς, ἡ
+    strongs: 2171
+    gk: 2376
+    dodson-pos: N:F
+    gloss: a prayer, vow
 εὔχομαι:
     pos: V
     bdag-headword: εὔχομαι
@@ -7493,6 +7853,11 @@
 ἐφήμερος:
     pos: A
     bdag-headword: ἐφήμερος
+    dodson-entry: ἐφήμερος, ον
+    strongs: 2184
+    gk: 2390
+    dodson-pos: A
+    gloss: for the day, daily
 ἐφίστημι:
     pos: V
     bdag-headword: ἐφίστημι
@@ -7505,6 +7870,11 @@
 ἔχθρα:
     pos: N
     bdag-headword: ἔχθρα
+    dodson-entry: ἔχθρα, ας, ἡ
+    strongs: 2189
+    gk: 2397
+    dodson-pos: N:F
+    gloss: enmity, hostility
 ἐχθρός:
     pos: A
     bdag-headword: ἐχθρός
@@ -7553,6 +7923,11 @@
 ζηλόω:
     pos: V
     bdag-headword: ζηλόω
+    dodson-entry: ζηλόω
+    strongs: 2206
+    gk: 2418,2420
+    dodson-pos: V
+    gloss: I am jealous, eager for
 ζηλωτής:
     pos: N
     bdag-headword: ζηλωτής
@@ -7727,6 +8102,11 @@
 Ἠλίας:
     pos: N
     bdag-headword: Ἠλίας
+    dodson-entry: Ἠλίας, ου, ὁ
+    strongs: 2243
+    gk: 2460
+    dodson-pos: N:M
+    gloss: Elijah
 ἡλίκος:
     pos: RI/A
     bdag-headword: ἡλίκος
@@ -7739,6 +8119,11 @@
 ἥλιος:
     pos: N
     bdag-headword: ἥλιος
+    dodson-entry: ἥλιος, ου, ὁ
+    strongs: 2246
+    gk: 2463
+    dodson-pos: N:M
+    gloss: the sun, sunlight
 ἡμέρα:
     pos: N
     bdag-headword: ἡμέρα
@@ -7832,6 +8217,11 @@
 θανατηφόρος:
     pos: A
     bdag-headword: θανατηφόρος
+    dodson-entry: θανατηφόρος, ον
+    strongs: 2287
+    gk: 2504
+    dodson-pos: A
+    gloss: death-bringing, deadly
 θάνατος:
     pos: N
     bdag-headword: θάνατος
@@ -7961,9 +8351,19 @@
 θερίζω:
     pos: V
     bdag-headword: θερίζω
+    dodson-entry: θερίζω
+    strongs: 2325
+    gk: 2545
+    dodson-pos: V
+    gloss: I reap, gather
 θερμαίνομαι:
     pos: V
     bdag-headword: θερμαίνω
+    dodson-entry: θερμαίνω
+    strongs: 2328
+    gk: 2548
+    dodson-pos: V
+    gloss: I warm
 Θεσσαλονικεύς:
     pos: N
     bdag-headword: Θεσσαλονικεύς
@@ -8123,6 +8523,11 @@
 θυσιαστήριον:
     pos: N
     bdag-headword: θυσιαστήριον
+    dodson-entry: θυσιαστήριον, ου, τό
+    strongs: 2379
+    gk: 2603
+    dodson-pos: N:N
+    gloss: an altar
 θώραξ:
     pos: N
     bdag-headword: θώραξ
@@ -8297,6 +8702,11 @@
 ἰός:
     pos: N
     bdag-headword: ἰός
+    dodson-entry: ἰός, οῦ, ὁ
+    strongs: 2447
+    gk: 2675
+    dodson-pos: N:M
+    gloss: poison, rust
 Ἰουδαία:
     pos: N
     bdag-headword: Ἰουδαία
@@ -8345,9 +8755,19 @@
 ἵππος:
     pos: N
     bdag-headword: ἵππος
+    dodson-entry: ἵππος, ου, ὁ
+    strongs: 2462
+    gk: 2691
+    dodson-pos: N:M
+    gloss: a horse
 Ἰσαάκ:
     pos: N
     bdag-headword: Ἰσαάκ
+    dodson-entry: Ἰσαάκ, ὁ
+    strongs: 2464
+    gk: 2693
+    dodson-pos: N-PRI
+    gloss: Isaac
 ἴσος:
     pos: A
     bdag-headword: ἴσος
@@ -8432,6 +8852,11 @@
 Ἰώβ:
     pos: N
     bdag-headword: Ἰώβ
+    dodson-entry: Ἰώβ, ὁ
+    strongs: 2492
+    gk: 2724
+    dodson-pos: N-PRI
+    gloss: Job
 κἀγώ:
     pos: RP1/P-K
     bdag-headword: κἀγώ
@@ -8663,6 +9088,11 @@
 κακῶς:
     pos: D
     bdag-headword: κακῶς
+    dodson-entry: κακῶς
+    strongs: 2560
+    gk: 2809
+    dodson-pos: ADV
+    gloss: badly, evilly
 κάλαμος:
     pos: N
     bdag-headword: κάλαμος
@@ -8729,6 +9159,11 @@
 κάμνω:
     pos: V
     bdag-headword: κάμνω
+    dodson-entry: κάμνω
+    strongs: 2577
+    gk: 2827
+    dodson-pos: V
+    gloss: I am weary, ill
 κάμπτω:
     pos: V
     bdag-headword: κάμπτω
@@ -8741,6 +9176,11 @@
 κἄν:
     pos: C/COND-K
     bdag-headword: κἄν
+    dodson-entry: κἄν
+    strongs: 2579
+    gk: 2829
+    dodson-pos: COND-K
+    gloss: and if, even if
 Καππαδοκία:
     pos: N
     bdag-headword: Καππαδοκία
@@ -8834,9 +9274,19 @@
 καταδικάζω:
     pos: V
     bdag-headword: καταδικάζω
+    dodson-entry: καταδικάζω
+    strongs: 2613
+    gk: 1463,2868
+    dodson-pos: V
+    gloss: I condemn
 καταδυναστεύω:
     pos: V
     bdag-headword: καταδυναστεύω
+    dodson-entry: καταδυναστεύω
+    strongs: 2616
+    gk: 2872
+    dodson-pos: V
+    gloss: I overpower, quell, treat harshly
 καταισχύνω:
     pos: V
     bdag-headword: καταισχύνω
@@ -8849,6 +9299,11 @@
 κατακαυχάομαι:
     pos: V
     bdag-headword: κατακαυχάομαι
+    dodson-entry: κατακαυχάομαι
+    strongs: 2620
+    gk: 1595,2878
+    dodson-pos: V
+    gloss: I boast against
 κατακλύζω:
     pos: V
     bdag-headword: κατακλύζω
@@ -8933,6 +9388,11 @@
 κατανοέω:
     pos: V
     bdag-headword: κατανοέω
+    dodson-entry: κατανοέω
+    strongs: 2657
+    gk: 2917
+    dodson-pos: V
+    gloss: I understand, perceive, consider
 καταντάω:
     pos: V
     bdag-headword: καταντάω
@@ -8981,6 +9441,11 @@
 καταράομαι:
     pos: V
     bdag-headword: καταράομαι
+    dodson-entry: καταράομαι
+    strongs: 2672
+    gk: 2933
+    dodson-pos: V
+    gloss: I curse
 καταργέω:
     pos: V
     bdag-headword: καταργέω
@@ -9101,6 +9566,11 @@
 κατέρχομαι:
     pos: V
     bdag-headword: κατέρχομαι
+    dodson-entry: κατέρχομαι
+    strongs: 2718
+    gk: 2982
+    dodson-pos: V
+    gloss: I come down
 κατευθύνω:
     pos: V
     bdag-headword: κατευθύνω
@@ -9131,9 +9601,19 @@
 κατήφεια:
     pos: N
     bdag-headword: κατήφεια
+    dodson-entry: κατήφεια, ας, ἡ
+    strongs: 2726
+    gk: 2993
+    dodson-pos: N:F
+    gloss: a downcast countenance, gloom, dejection
 κατιόομαι:
     pos: V
     bdag-headword: κατιόω
+    dodson-entry: κατιόω
+    strongs: 2728
+    gk: 2995
+    dodson-pos: V
+    gloss: I rust
 κατοικέω:
     pos: V
     bdag-headword: κατοικέω
@@ -9163,6 +9643,11 @@
 καύσων:
     pos: N
     bdag-headword: καύσων
+    dodson-entry: καύσων, ῶνος, ὁ
+    strongs: 2742
+    gk: 3014
+    dodson-pos: N:M
+    gloss: a scorching heat, hot wind
 καυχάομαι:
     pos: V
     bdag-headword: καυχάομαι
@@ -9247,6 +9732,11 @@
 κενῶς:
     pos: D
     bdag-headword: κενῶς
+    dodson-entry: κενῶς
+    strongs: 2761
+    gk: 3036
+    dodson-pos: ADV
+    gloss: falsely, in vain
 κερδαίνω:
     pos: V
     bdag-headword: κερδαίνω
@@ -9412,6 +9902,11 @@
 κλύδων:
     pos: N
     bdag-headword: κλύδων
+    dodson-entry: κλύδων, ῶνος, ὁ
+    strongs: 2830
+    gk: 3114
+    dodson-pos: N:M
+    gloss: rough water
 κνήθομαι:
     pos: V
     bdag-headword: κνήθω
@@ -9604,6 +10099,11 @@
 κράζω:
     pos: V
     bdag-headword: κράζω
+    dodson-entry: κράζω
+    strongs: 2896
+    gk: 3189
+    dodson-pos: V
+    gloss: I cry aloud, shriek
 κραταιός:
     pos: A
     bdag-headword: κραταιός
@@ -9697,6 +10197,11 @@
 κριτήριον:
     pos: N
     bdag-headword: κριτήριον
+    dodson-entry: κριτήριον, ου, τό
+    strongs: 2922
+    gk: 3215
+    dodson-pos: N:N
+    gloss: criterion, a law-court
 κριτής:
     pos: N
     bdag-headword: κριτής
@@ -9884,6 +10389,11 @@
 λαμπρός:
     pos: A
     bdag-headword: λαμπρός
+    dodson-entry: λαμπρός, ά, όν
+    strongs: 2986
+    gk: 3287
+    dodson-pos: A
+    gloss: shining, magnificent, bright
 λανθάνω:
     pos: V
     bdag-headword: λανθάνω
@@ -10198,6 +10708,11 @@
 μακαρίζω:
     pos: V
     bdag-headword: μακαρίζω
+    dodson-entry: μακαρίζω
+    strongs: 3106
+    gk: 3420
+    dodson-pos: V
+    gloss: I deem happy
 μακάριος:
     pos: A
     bdag-headword: μακάριος
@@ -10273,6 +10788,11 @@
 μαραίνομαι:
     pos: V
     bdag-headword: μαραίνω
+    dodson-entry: μαραίνω
+    strongs: 3133
+    gk: 3447
+    dodson-pos: V
+    gloss: I die, wither
 μαργαρίτης:
     pos: N
     bdag-headword: μαργαρίτης
@@ -10667,6 +11187,11 @@
 μετάγω:
     pos: V
     bdag-headword: μετάγω
+    dodson-entry: μετάγω
+    strongs: 3329
+    gk: 3555
+    dodson-pos: V
+    gloss: I turn about, change the position of
 μεταδίδωμι:
     pos: V
     bdag-headword: μεταδίδωμι
@@ -10816,6 +11341,11 @@
 μήτι:
     pos: X
     bdag-headword: μήτι
+    dodson-entry: μήτι
+    strongs: 3385
+    gk: 3614
+    dodson-pos: PRT-I
+    gloss: if not, unless
 μητρολῴας:
     pos: N
     bdag-headword: μητρολῴας
@@ -10849,6 +11379,11 @@
 μικρός:
     pos: A
     bdag-headword: μικρός
+    dodson-entry: μικρός, ά, όν
+    strongs: 3398
+    gk: 3625
+    dodson-pos: A
+    gloss: little, small
 Μίλητος:
     pos: N
     bdag-headword: Μίλητος
@@ -10951,6 +11486,11 @@
 μοιχεύω:
     pos: V
     bdag-headword: μοιχεύω
+    dodson-entry: μοιχεύω
+    strongs: 3431
+    gk: 3658
+    dodson-pos: V
+    gloss: I commit adultery
 μόλις:
     pos: D
     bdag-headword: μόλις
@@ -11289,6 +11829,11 @@
 νομοθέτης:
     pos: N
     bdag-headword: νομοθέτης
+    dodson-entry: νομοθέτης, ου, ὁ
+    strongs: 3550
+    gk: 3794
+    dodson-pos: N:M
+    gloss: a law-giver, legislator
 νόμος:
     pos: N
     bdag-headword: νόμος
@@ -11488,6 +12033,11 @@
 ὅδε:
     pos: RD
     bdag-headword: ὅδε
+    dodson-entry: ὅδε, ἥδε, τόδε
+    strongs: 3592
+    gk: 3840
+    dodson-pos: D
+    gloss: this here, this
 ὁδός:
     pos: N
     bdag-headword: ὁδός
@@ -11626,6 +12176,11 @@
 οἰκτίρμων:
     pos: A
     bdag-headword: οἰκτίρμων
+    dodson-entry: οἰκτίρμων, ον
+    strongs: 3629
+    gk: 3881
+    dodson-pos: A
+    gloss: compassionate, merciful
 οἶμαι:
     pos: V
     bdag-headword: οἶμαι
@@ -11732,6 +12287,11 @@
 ὀλολύζω:
     pos: V
     bdag-headword: ὀλολύζω
+    dodson-entry: ὀλολύζω
+    strongs: 3649
+    gk: 3909
+    dodson-pos: V
+    gloss: I howl, lament loudly
 ὅλος:
     pos: A
     bdag-headword: ὅλος
@@ -11767,9 +12327,19 @@
 ὀμνύω:
     pos: V
     bdag-headword: ὀμνύω
+    dodson-entry: ὀμνύω
+    strongs: 3660
+    gk: 3922,3923
+    dodson-pos: V
+    gloss: I swear, take an oath
 ὁμοιοπαθής:
     pos: A
     bdag-headword: ὁμοιοπαθής
+    dodson-entry: ὁμοιοπαθής, ές
+    strongs: 3663
+    gk: 3926
+    dodson-pos: A
+    gloss: of like feelings
 ὅμοιος:
     pos: A
     bdag-headword: ὅμοιος
@@ -11800,6 +12370,11 @@
 ὁμοίωσις:
     pos: N
     bdag-headword: ὁμοίωσις
+    dodson-entry: ὁμοίωσις, εως, ἡ
+    strongs: 3669
+    gk: 3932
+    dodson-pos: N:F
+    gloss: making like, likeness
 ὁμολογέω:
     pos: V
     bdag-headword: ὁμολογέω
@@ -11911,6 +12486,11 @@
 ὀπή:
     pos: N
     bdag-headword: ὀπή
+    dodson-entry: ὀπή, ῆς, ἡ
+    strongs: 3692
+    gk: 3956
+    dodson-pos: N:F
+    gloss: a crevice, cave
 ὀπίσω:
     pos: P/ADV
     bdag-headword: ὀπίσω
@@ -12013,9 +12593,19 @@
 ὅρκος:
     pos: N
     bdag-headword: ὅρκος
+    dodson-entry: ὅρκος, ου, ὁ
+    strongs: 3727
+    gk: 3992
+    dodson-pos: N:M
+    gloss: an oath
 ὁρμή:
     pos: N
     bdag-headword: ὁρμή
+    dodson-entry: ὁρμή, ῆς, ἡ
+    strongs: 3730
+    gk: 3995
+    dodson-pos: N:F
+    gloss: a rush, violent assault
 ὄρος:
     pos: N
     bdag-headword: ὄρος
@@ -12028,6 +12618,11 @@
 ὀρφανός:
     pos: A
     bdag-headword: ὀρφανός
+    dodson-entry: ὀρφανός, ή, όν
+    strongs: 3737
+    gk: 4003
+    dodson-pos: A
+    gloss: bereaved, an orphan
 ὅς:
     pos: RR
     bdag-headword: ὅς
@@ -12139,6 +12734,11 @@
 οὔ:
     pos: X
     bdag-headword: οὐ
+    dodson-entry: οὐ
+    strongs: 3756
+    gk: 4024
+    dodson-pos: PRT-N
+    gloss: no, not
 οὗ:
     pos: D
     bdag-headword: οὗ
@@ -12259,6 +12859,11 @@
 ὄφελος:
     pos: N
     bdag-headword: ὄφελος
+    dodson-entry: ὄφελος, ους, τό
+    strongs: 3786
+    gk: 4055
+    dodson-pos: N:N
+    gloss: advantage, gain, profit
 ὀφθαλμοδουλία:
     pos: N
     bdag-headword: ὀφθαλμοδουλία
@@ -12280,6 +12885,11 @@
 ὄψιμος:
     pos: A
     bdag-headword: ὄψιμος
+    dodson-entry: ὄψιμος, ον
+    strongs: 3797
+    gk: 4069
+    dodson-pos: A
+    gloss: late in the year
 παγίς:
     pos: N
     bdag-headword: παγίς
@@ -12391,6 +13001,11 @@
 παραβάτης:
     pos: N
     bdag-headword: παραβάτης
+    dodson-entry: παραβάτης, ου, ὁ
+    strongs: 3848
+    gk: 0688,4127
+    dodson-pos: N:M
+    gloss: a transgressor
 παραβολεύομαι:
     pos: V
     bdag-headword: παραβολεύομαι
@@ -12516,6 +13131,11 @@
 παραλλαγή:
     pos: N
     bdag-headword: παραλλαγή
+    dodson-entry: παραλλαγή, ῆς, ἡ
+    strongs: 3883
+    gk: 4164
+    dodson-pos: N:F
+    gloss: a change, variation
 παραλογίζομαι:
     pos: V
     bdag-headword: παραλογίζομαι
@@ -12877,9 +13497,19 @@
 πενθέω:
     pos: V
     bdag-headword: πενθέω
+    dodson-entry: πενθέω
+    strongs: 3996
+    gk: 4291
+    dodson-pos: V
+    gloss: I mourn, lament
 πένθος:
     pos: N
     bdag-headword: πένθος
+    dodson-entry: πένθος, ους, τό
+    strongs: 3997
+    gk: 4292
+    dodson-pos: N:N
+    gloss: mourning, sorrow
 πεποίθησις:
     pos: N
     bdag-headword: πεποίθησις
@@ -13000,6 +13630,11 @@
 περιπίπτω:
     pos: V
     bdag-headword: περιπίπτω
+    dodson-entry: περιπίπτω
+    strongs: 4045
+    gk: 4346
+    dodson-pos: V
+    gloss: I fall into the midst of
 περιποιέομαι:
     pos: V
     bdag-headword: περιποιέω
@@ -13021,6 +13656,11 @@
 περισσεία:
     pos: N
     bdag-headword: περισσεία
+    dodson-entry: περισσεία, ας, ἡ
+    strongs: 4050
+    gk: 4353
+    dodson-pos: N:F
+    gloss: abundance
 περισσεύω:
     pos: V
     bdag-headword: περισσεύω
@@ -13065,6 +13705,11 @@
 πετεινόν:
     pos: A- N-GPN
     bdag-headword: πετεινόν
+    dodson-entry: πετεινόν, οῦ, τό
+    strongs: 4071
+    gk: 4374
+    dodson-pos: N:N
+    gloss: a bird
 πέτρα:
     pos: N
     bdag-headword: πέτρα
@@ -13095,6 +13740,11 @@
 πηδάλιον:
     pos: N
     bdag-headword: πηδάλιον
+    dodson-entry: πηδάλιον, ου, τό
+    strongs: 4079
+    gk: 4382
+    dodson-pos: N:N
+    gloss: the rudder of a ship
 πιθανολογία:
     pos: N
     bdag-headword: πιθανολογία
@@ -13116,6 +13766,11 @@
 πικρός:
     pos: A
     bdag-headword: πικρός
+    dodson-entry: πικρός, ά, όν
+    strongs: 4089
+    gk: 4395
+    dodson-pos: A
+    gloss: bitter, acrid, malignant
 Πιλᾶτος:
     pos: N
     bdag-headword: Πιλᾶτος
@@ -13128,6 +13783,11 @@
 πίπτω:
     pos: V
     bdag-headword: πίπτω
+    dodson-entry: πίπτω
+    strongs: 4098
+    gk: 4406,5229
+    dodson-pos: V
+    gloss: I fall, fall under
 πιστεύω:
     pos: V
     bdag-headword: πιστεύω
@@ -13338,6 +13998,11 @@
 πλησίον:
     pos: D
     bdag-headword: πλησίον
+    dodson-entry: πλησίον
+    strongs: 4139
+    gk: 4446
+    dodson-pos: ADV
+    gloss: near, nearby, a neighbor
 πλησμονή:
     pos: N
     bdag-headword: πλησμονή
@@ -13350,6 +14015,11 @@
 πλοῖον:
     pos: N
     bdag-headword: πλοῖον
+    dodson-entry: πλοῖον, ου, τό
+    strongs: 4143
+    gk: 4450
+    dodson-pos: N:N
+    gloss: a ship, vessel
 πλούσιος:
     pos: A
     bdag-headword: πλούσιος
@@ -13407,6 +14077,11 @@
 πόθεν:
     pos: D
     bdag-headword: πόθεν
+    dodson-entry: πόθεν
+    strongs: 4159
+    gk: 4470
+    dodson-pos: ADV-I
+    gloss: whence
 ποιέω:
     pos: V
     bdag-headword: ποιέω
@@ -13419,9 +14094,19 @@
 ποίησις:
     pos: N
     bdag-headword: ποίησις
+    dodson-entry: ποίησις, εως, ἡ
+    strongs: 4162
+    gk: 4474
+    dodson-pos: N:F
+    gloss: a doing
 ποιητής:
     pos: N
     bdag-headword: ποιητής
+    dodson-entry: ποιητής, οῦ, ὁ
+    strongs: 4163
+    gk: 4475
+    dodson-pos: N:M
+    gloss: a doer, performer, poet
 ποικίλος:
     pos: A
     bdag-headword: ποικίλος
@@ -13470,9 +14155,19 @@
 πολεμέω:
     pos: V
     bdag-headword: πολεμέω
+    dodson-entry: πολεμέω
+    strongs: 4170
+    gk: 4482
+    dodson-pos: V
+    gloss: I make war, contend
 πόλεμος:
     pos: N
     bdag-headword: πόλεμος
+    dodson-entry: πόλεμος, ου, ὁ
+    strongs: 4171
+    gk: 4483
+    dodson-pos: N:M
+    gloss: a war, battle, strife
 πόλις:
     pos: N
     bdag-headword: πόλις
@@ -13521,6 +14216,11 @@
 πολύσπλαγχνος:
     pos: A
     bdag-headword: πολύσπλαγχνος
+    dodson-entry: πολύσπλαγχνος, ον
+    strongs: 4184
+    gk: 4492,4499
+    dodson-pos: A
+    gloss: very compassionate
 πολυτελής:
     pos: A
     bdag-headword: πολυτελής
@@ -13578,6 +14278,11 @@
 πορεία:
     pos: N
     bdag-headword: πορεία
+    dodson-entry: πορεία, ας, ἡ
+    strongs: 4197
+    gk: 4512,4515
+    dodson-pos: N:F
+    gloss: a journey, pursuit, undertaking
 πορεύομαι:
     pos: V
     bdag-headword: πορεύω
@@ -13608,6 +14313,11 @@
 πόρνη:
     pos: N
     bdag-headword: πόρνη
+    dodson-entry: πόρνη, ης, ἡ
+    strongs: 4204
+    gk: 4520
+    dodson-pos: N:F
+    gloss: a prostitute
 πόρνος:
     pos: N
     bdag-headword: πόρνος
@@ -14105,6 +14815,11 @@
 προσκαλέομαι:
     pos: V
     bdag-headword: προσκαλέω
+    dodson-entry: προσκαλέω
+    strongs: 4341
+    gk: 4673
+    dodson-pos: V
+    gloss: I summon
 προσκαρτερέω:
     pos: V
     bdag-headword: προσκαρτερέω
@@ -14310,6 +15025,11 @@
 πτωχός:
     pos: A
     bdag-headword: πτωχός
+    dodson-entry: πτωχός, ή, όν
+    strongs: 4434
+    gk: 4777
+    dodson-pos: A
+    gloss: poor, destitute
 πυκνός:
     pos: A
     bdag-headword: πυκνός
@@ -14363,6 +15083,11 @@
 Ῥαάβ:
     pos: N
     bdag-headword: Ῥαάβ
+    dodson-entry: Ῥαάβ, ἡ
+    strongs: 4460
+    gk: 4805
+    dodson-pos: N-PRI
+    gloss: Rahab
 ῥαντισμός:
     pos: N
     bdag-headword: ῥαντισμός
@@ -14411,6 +15136,11 @@
 ῥιπίζομαι:
     pos: V
     bdag-headword: ῥιπίζω
+    dodson-entry: ῥιπίζω
+    strongs: 4494
+    gk: 4847
+    dodson-pos: V
+    gloss: I toss to and fro
 ῥοιζηδόν:
     pos: D
     bdag-headword: ῥοιζηδόν
@@ -14432,9 +15162,19 @@
 ῥυπαρία:
     pos: N
     bdag-headword: ῥυπαρία
+    dodson-entry: ῥυπαρία, ας, ἡ
+    strongs: 4507
+    gk: 4864
+    dodson-pos: N:F
+    gloss: filth, pollution
 ῥυπαρός:
     pos: A
     bdag-headword: ῥυπαρός
+    dodson-entry: ῥυπαρός, ά, όν
+    strongs: 4508
+    gk: 4865
+    dodson-pos: A
+    gloss: filthy, defiled
 ῥύπος:
     pos: N
     bdag-headword: ῥύπος
@@ -14602,12 +15342,27 @@
 σήμερον:
     pos: D
     bdag-headword: σήμερον
+    dodson-entry: σήμερον
+    strongs: 4594
+    gk: 4958
+    dodson-pos: ADV
+    gloss: today, now
 σήπω:
     pos: V
     bdag-headword: σήπω
+    dodson-entry: σήπω
+    strongs: 4595
+    gk: 4960
+    dodson-pos: V
+    gloss: I cause to rot
 σητόβρωτος:
     pos: A
     bdag-headword: σητόβρωτος
+    dodson-entry: σητόβρωτος, ον
+    strongs: 4598
+    gk: 4963
+    dodson-pos: A
+    gloss: moth-eaten
 σθενόω:
     pos: V
     bdag-headword: σθενόω
@@ -14782,6 +15537,11 @@
 σοφός:
     pos: A
     bdag-headword: σοφός
+    dodson-entry: σοφός, ή, όν
+    strongs: 4680
+    gk: 5055
+    dodson-pos: A
+    gloss: wise
 σπαταλάω:
     pos: V
     bdag-headword: σπαταλάω
@@ -14794,6 +15554,11 @@
 σπείρω:
     pos: V
     bdag-headword: σπείρω
+    dodson-entry: σπείρω
+    strongs: 4687
+    gk: 2178,5062
+    dodson-pos: V
+    gloss: I sow, spread, scatter
 σπένδομαι:
     pos: V
     bdag-headword: σπένδω
@@ -14923,6 +15688,11 @@
 στενάζω:
     pos: V
     bdag-headword: στενάζω
+    dodson-entry: στενάζω
+    strongs: 4727
+    gk: 5100
+    dodson-pos: V
+    gloss: I groan
 στερεός:
     pos: A
     bdag-headword: στερεός
@@ -15169,9 +15939,19 @@
 συκῆ:
     pos: N
     bdag-headword: συκῆ
+    dodson-entry: συκῆ, ῆς, ἡ
+    strongs: 4808
+    gk: 5190
+    dodson-pos: N:F
+    gloss: a fig-tree
 σῦκον:
     pos: N
     bdag-headword: σῦκον
+    dodson-entry: σῦκον, ου, τό
+    strongs: 4810
+    gk: 5192
+    dodson-pos: N:N
+    gloss: a fig
 συλαγωγέω:
     pos: V
     bdag-headword: συλαγωγέω
@@ -15297,6 +16077,11 @@
 συναγωγή:
     pos: N
     bdag-headword: συναγωγή
+    dodson-entry: συναγωγή, ῆς, ἡ
+    strongs: 4864
+    gk: 5252
+    dodson-pos: N:F
+    gloss: an assembly, congregation, synagogue
 συναθλέω:
     pos: V
     bdag-headword: συναθλέω
@@ -15389,6 +16174,11 @@
 συνεργέω:
     pos: V
     bdag-headword: συνεργέω
+    dodson-entry: συνεργέω
+    strongs: 4903
+    gk: 5300
+    dodson-pos: V
+    gloss: I work together
 συνεργός:
     pos: A
     bdag-headword: συνεργός
@@ -15491,6 +16281,11 @@
 σφαγή:
     pos: N
     bdag-headword: σφαγή
+    dodson-entry: σφαγή, ῆς, ἡ
+    strongs: 4967
+    gk: 5375
+    dodson-pos: N:F
+    gloss: slaughter, sacrifice
 σφραγίς:
     pos: N
     bdag-headword: σφραγίς
@@ -15638,9 +16433,19 @@
 ταλαιπωρέω:
     pos: V
     bdag-headword: ταλαιπωρέω
+    dodson-entry: ταλαιπωρέω
+    strongs: 5003
+    gk: 5415
+    dodson-pos: V
+    gloss: I am miserable, distressed
 ταλαιπωρία:
     pos: N
     bdag-headword: ταλαιπωρία
+    dodson-entry: ταλαιπωρία, ας, ἡ
+    strongs: 5004
+    gk: 5416
+    dodson-pos: N:F
+    gloss: hardship, misery
 τάξις:
     pos: N
     bdag-headword: τάξις
@@ -15748,6 +16553,11 @@
 ταχύς:
     pos: A
     bdag-headword: ταχύς
+    dodson-entry: ταχύς, εῖα, ύ
+    strongs: 5036
+    gk: 5444
+    dodson-pos: A
+    gloss: quick, swift
 τέ:
     pos: C/PRT
     bdag-headword: τέ
@@ -15877,6 +16687,11 @@
 τηλικοῦτος:
     pos: RD
     bdag-headword: τηλικοῦτος
+    dodson-entry: τηλικοῦτος, αύτη, οῦτο
+    strongs: 5082
+    gk: 5496
+    dodson-pos: D
+    gloss: so great
 τηρέω:
     pos: V
     bdag-headword: τηρέω
@@ -15898,6 +16713,11 @@
 τίκτω:
     pos: V
     bdag-headword: τίκτω
+    dodson-entry: τίκτω
+    strongs: 5088
+    gk: 5503
+    dodson-pos: V
+    gloss: I bear, bring forth, produce
 τιμάω:
     pos: V
     bdag-headword: τιμάω
@@ -16063,6 +16883,11 @@
 τρέφω:
     pos: V
     bdag-headword: τρέφω
+    dodson-entry: τρέφω
+    strongs: 5142
+    gk: 5555
+    dodson-pos: V
+    gloss: I feed, rear
 τρέχω:
     pos: V
     bdag-headword: τρέχω
@@ -16084,6 +16909,11 @@
 τροπή:
     pos: N
     bdag-headword: τροπή
+    dodson-entry: τροπή, ῆς, ἡ
+    strongs: 5157
+    gk: 5572
+    dodson-pos: N:F
+    gloss: a turning
 τρόπος:
     pos: N
     bdag-headword: τρόπος
@@ -16096,6 +16926,11 @@
 τροφή:
     pos: N
     bdag-headword: τροφή
+    dodson-entry: τροφή, ῆς, ἡ
+    strongs: 5160
+    gk: 5575
+    dodson-pos: N:F
+    gloss: food, nourishment
 Τρόφιμος:
     pos: N
     bdag-headword: Τρόφιμος
@@ -16117,9 +16952,19 @@
 τροχός:
     pos: N
     bdag-headword: τροχός
+    dodson-entry: τροχός, οῦ, ὁ
+    strongs: 5164
+    gk: 5580
+    dodson-pos: N:M
+    gloss: a wheel, course
 τρυφάω:
     pos: V
     bdag-headword: τρυφάω
+    dodson-entry: τρυφάω
+    strongs: 5171
+    gk: 5587
+    dodson-pos: V
+    gloss: I live a luxurious life
 τρυφή:
     pos: N
     bdag-headword: τρυφή
@@ -16240,6 +17085,11 @@
 ὑετός:
     pos: N
     bdag-headword: ὑετός
+    dodson-entry: ὑετός, οῦ, ὁ
+    strongs: 5205
+    gk: 5624
+    dodson-pos: N:M
+    gloss: rain
 υἱός:
     pos: N
     bdag-headword: υἱός
@@ -16252,6 +17102,11 @@
 ὕλη:
     pos: N
     bdag-headword: ὕλη
+    dodson-entry: ὕλη, ης, ἡ
+    strongs: 5208
+    gk: 5627
+    dodson-pos: N:F
+    gloss: wood, fuel
 Ὑμέναιος:
     pos: N
     bdag-headword: Ὑμέναιος
@@ -16273,6 +17128,11 @@
 ὑπάγω:
     pos: V
     bdag-headword: ὑπάγω
+    dodson-entry: ὑπάγω
+    strongs: 5217
+    gk: 5632
+    dodson-pos: V
+    gloss: I go away, depart
 ὑπακοή:
     pos: N
     bdag-headword: ὑπακοή
@@ -16452,6 +17312,11 @@
 ὑποδέχομαι:
     pos: V
     bdag-headword: ὑποδέχομαι
+    dodson-entry: ὑποδέχομαι
+    strongs: 5264
+    gk: 5685
+    dodson-pos: V
+    gloss: I receive as a guest
 ὑποζύγιον:
     pos: N
     bdag-headword: ὑποζύγιον
@@ -16536,6 +17401,11 @@
 ὑποπόδιον:
     pos: N
     bdag-headword: ὑποπόδιον
+    dodson-entry: ὑποπόδιον, ου, τό
+    strongs: 5286
+    gk: 5711
+    dodson-pos: N:N
+    gloss: a footstool
 ὑποστρέφω:
     pos: V
     bdag-headword: ὑποστρέφω
@@ -16647,6 +17517,11 @@
 ὕψος:
     pos: N
     bdag-headword: ὕψος
+    dodson-entry: ὕψος, ους, τό
+    strongs: 5311
+    gk: 5737
+    dodson-pos: N:N
+    gloss: height, heaven
 ὑψόω:
     pos: V
     bdag-headword: ὑψόω
@@ -16920,6 +17795,11 @@
 φιλία:
     pos: N
     bdag-headword: φιλία
+    dodson-entry: φιλία, ας, ἡ
+    strongs: 5373
+    gk: 5802
+    dodson-pos: N:F
+    gloss: friendship
 Φιλιππήσιος:
     pos: N
     bdag-headword: Φιλιππήσιος
@@ -17013,6 +17893,11 @@
 φλογίζω:
     pos: V
     bdag-headword: φλογίζω
+    dodson-entry: φλογίζω
+    strongs: 5394
+    gk: 5824
+    dodson-pos: V
+    gloss: I inflame, fire with passion
 φλόξ:
     pos: N
     bdag-headword: φλόξ
@@ -17069,9 +17954,19 @@
 φονεύω:
     pos: V
     bdag-headword: φονεύω
+    dodson-entry: φονεύω
+    strongs: 5407
+    gk: 5839
+    dodson-pos: V
+    gloss: I murder
 φορέω:
     pos: V
     bdag-headword: φορέω
+    dodson-entry: φορέω
+    strongs: 5409
+    gk: 5841
+    dodson-pos: V
+    gloss: I carry, wear
 φρεναπάτης:
     pos: N
     bdag-headword: φρεναπάτης
@@ -17084,6 +17979,11 @@
 φρίσσω:
     pos: V
     bdag-headword: φρίσσω
+    dodson-entry: φρίσσω
+    strongs: 5425
+    gk: 5857
+    dodson-pos: V
+    gloss: I shudder
 φρονέω:
     pos: V
     bdag-headword: φρονέω
@@ -17249,9 +18149,19 @@
 χαλιναγωγέω:
     pos: V
     bdag-headword: χαλιναγωγέω
+    dodson-entry: χαλιναγωγέω
+    strongs: 5468
+    gk: 5902,5904
+    dodson-pos: V
+    gloss: I bridle, curb
 χαλινός:
     pos: N
     bdag-headword: χαλινός
+    dodson-entry: χαλινός, οῦ, ὁ
+    strongs: 5469
+    gk: 5903
+    dodson-pos: N:M
+    gloss: a bridle
 χαλκεύς:
     pos: N
     bdag-headword: χαλκεύς
@@ -17435,6 +18345,11 @@
 χρή:
     pos: V
     bdag-headword: χρή
+    dodson-entry: χρή
+    strongs: 5534
+    gk: 5973
+    dodson-pos: V
+    gloss: it is necessary, proper
 χρήσιμον:
     pos: A
     bdag-headword: χρήσιμος
@@ -17509,12 +18424,27 @@
 χρυσοδακτύλιος:
     pos: A
     bdag-headword: χρυσοδακτύλιος
+    dodson-entry: χρυσοδακτύλιος, ον
+    strongs: 5554
+    gk: 5993
+    dodson-pos: A
+    gloss: adorned with a gold ring
 χρυσός:
     pos: N
     bdag-headword: χρυσός
+    dodson-entry: χρυσός, οῦ, ὁ
+    strongs: 5557
+    gk: 5996
+    dodson-pos: N:M
+    gloss: anything made of gold
 χώρα:
     pos: N
     bdag-headword: χώρα
+    dodson-entry: χώρα, ας, ἡ
+    strongs: 5561
+    gk: 6001
+    dodson-pos: N:F
+    gloss: region, land, fields
 χωρέω:
     pos: V
     bdag-headword: χωρέω
@@ -17545,6 +18475,11 @@
 ψάλλω:
     pos: V
     bdag-headword: ψάλλω
+    dodson-entry: ψάλλω
+    strongs: 5567
+    gk: 6010
+    dodson-pos: V
+    gloss: I sing psalms
 ψαλμός:
     pos: N
     bdag-headword: ψαλμός
