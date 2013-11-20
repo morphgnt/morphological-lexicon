@@ -104,7 +104,6 @@
 * BDAG doesn't have ἐνάλιον but has ἐνάλιος
 * is BDAG's οὐ MorphGNT's οὔ ?
 * Dodson has κακοπάθεια for κακοπαθία
-* morphcat has κακοπάθεια for κακοπαθία
 * Dodson has προσωποληπτέω for προσωπολημπτέω
 * Dodson conflates κατοικέω and κατοικίζω
 * Dodson conflates ἀποστερέω and ἀφυστερέω
@@ -115,3 +114,5 @@
 * Dodson conflates μεγαλαυχέω with αὐχέω
 * not sure if ἕλκω == ἑλκόω
 * ἄγε not in Dodson
+* Dodson / morphcat seemed to have flipped around gk 3604 and 3605
+* morphcat has κακοπάθεια for κακοπαθία
