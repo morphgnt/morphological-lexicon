@@ -329,8 +329,8 @@
     pos: A
     bdag-headword: ἀδιάκριτος
     dodson-entry: ἀδιάκριτος, ον
-    strongs: 0087
-    gk: 0088
+    strongs: 87
+    gk: 88
     dodson-pos: A
     gloss: unambiguous
 ἀδιάλειπτος:
@@ -751,16 +751,16 @@
     pos: N
     bdag-headword: ἀκαταστασία
     dodson-entry: ἀκαταστασία, ας, ἡ
-    strongs: 0181
-    gk: 0189
+    strongs: 181
+    gk: 189
     dodson-pos: N:F
     gloss: disturbance, upheaval, revolution
 ἀκατάστατος:
     pos: A
     bdag-headword: ἀκατάστατος
     dodson-entry: ἀκατάστατος, ον
-    strongs: 0182
-    gk: 0190
+    strongs: 182
+    gk: 190
     dodson-pos: A
     gloss: unsettled, unstable
 ἀκέραιος:
@@ -812,8 +812,8 @@
     pos: N
     bdag-headword: ἀκροατής
     dodson-entry: ἀκροατής, οῦ, ὁ
-    strongs: 0202
-    gk: 0212
+    strongs: 202
+    gk: 212
     dodson-pos: N:M
     gloss: a hearer of, a listener to
 ἀκροβυστία:
@@ -847,8 +847,8 @@
     pos: N
     bdag-headword: ἀλαζονεία
     dodson-entry: ἀλαζονεία, ας, ἡ
-    strongs: 0212
-    gk: 0224
+    strongs: 212
+    gk: 224
     dodson-pos: N:F
     gloss: boasting, show, arrogant display
 ἀλαζών:
@@ -873,8 +873,8 @@
     pos: V
     bdag-headword: ἀλείφω
     dodson-entry: ἀλείφω
-    strongs: 0218
-    gk: 0230
+    strongs: 218
+    gk: 230
     dodson-pos: V
     gloss: I anoint
 Ἀλέξανδρος:
@@ -998,8 +998,8 @@
     pos: A
     bdag-headword: ἁλυκός
     dodson-entry: ἁλυκός, ή, όν
-    strongs: 0252
-    gk: 0266
+    strongs: 252
+    gk: 266
     dodson-pos: A
     gloss: salty, saltine, bitter
 ἀλυπότερος:
@@ -1107,8 +1107,8 @@
     pos: V
     bdag-headword: ἀμάω
     dodson-entry: ἀμάω
-    strongs: 0270
-    gk: 0286
+    strongs: 270
+    gk: 286
     dodson-pos: V
     gloss: I mow, reap
 ἀμελέω:
@@ -1178,8 +1178,8 @@
     pos: N
     bdag-headword: ἄμπελος
     dodson-entry: ἄμπελος, ου, ἡ
-    strongs: 0288
-    gk: 0306
+    strongs: 288
+    gk: 306
     dodson-pos: N:F
     gloss: a vine
 ἀμώμητος:
@@ -1410,8 +1410,8 @@
     pos: V
     bdag-headword: ἀνάπτω
     dodson-entry: ἀνάπτω
-    strongs: 0381
-    gk: 0409
+    strongs: 381
+    gk: 409
     dodson-pos: V
     gloss: I kindle, set on fire
 ἀνάστασις:
@@ -1526,16 +1526,16 @@
     pos: A
     bdag-headword: ἀνέλεος
     dodson-entry: ἀνέλεος, ον
-    strongs: 0448
-    gk: 0447,0480
+    strongs: 448
+    gk: 447,480
     dodson-pos: A
     gloss: without mercy
 ἀνεμίζομαι:
     pos: V
     bdag-headword: ἀνεμίζω
     dodson-entry: ἀνεμίζω
-    strongs: 0416
-    gk: 0448
+    strongs: 416
+    gk: 448
     dodson-pos: V
     gloss: I am blown with the wind
 ἄνεμος:
@@ -1943,8 +1943,8 @@
     pos: D
     bdag-headword: ἄνωθεν
     dodson-entry: ἄνωθεν
-    strongs: 0509
-    gk: 0540
+    strongs: 509
+    gk: 540
     dodson-pos: ADV
     gloss: from above, from the beginning, again
 ἀνωφελής:
@@ -2120,8 +2120,8 @@
     pos: A
     bdag-headword: ἀπείραστος
     dodson-entry: ἀπείραστος, ον
-    strongs: 0551
-    gk: 0585
+    strongs: 551
+    gk: 585
     dodson-pos: A
     gloss: untried, inexperienced, incapable of being tempted
 ἀπεκδέχομαι:
@@ -2218,8 +2218,8 @@
     pos: D
     bdag-headword: ἁπλῶς
     dodson-entry: ἁπλῶς
-    strongs: 0574
-    gk: 0607
+    strongs: 574
+    gk: 607
     dodson-pos: ADV
     gloss: simply, sincerely
 ἀπό:
@@ -2424,8 +2424,8 @@
     pos: V
     bdag-headword: ἀποκυέω
     dodson-entry: ἀποκυέω
-    strongs: 0616
-    gk: 0652
+    strongs: 616
+    gk: 652
     dodson-pos: V
     gloss: I bring forth, give birth to
 ἀπολαμβάνω:
@@ -2522,8 +2522,8 @@
     pos: N
     bdag-headword: ἀποσκίασμα
     dodson-entry: ἀποσκίασμα, ατος, τό
-    strongs: 0644
-    gk: 0684
+    strongs: 644
+    gk: 684
     dodson-pos: N:N
     gloss: a shadow, a faint image or copy
 ἀποστασία:
@@ -2575,8 +2575,8 @@
     pos: V
     bdag-headword: ἀποτελέω
     dodson-entry: ἀποτελέω
-    strongs: 0658
-    gk: 0699
+    strongs: 658
+    gk: 699
     dodson-pos: V
     gloss: I complete, accomplish, form fully, perfect
 ἀποτίθημι:
@@ -2754,8 +2754,8 @@
     pos: N
     bdag-headword: ἄργυρος
     dodson-entry: ἄργυρος, ου, ὁ
-    strongs: 0696
-    gk: 0738
+    strongs: 696
+    gk: 738
     dodson-pos: N:M
     gloss: silver as a metal
 ἀργυροῦς:
@@ -3167,8 +3167,8 @@
     pos: V
     bdag-headword: ἀτιμάζω
     dodson-entry: ἀτιμάζω
-    strongs: 0818
-    gk: 0869,0870
+    strongs: 818
+    gk: 869,870
     dodson-pos: V
     gloss: I disgrace, dishonor
 ἀτιμία:
@@ -3184,8 +3184,8 @@
     pos: N
     bdag-headword: ἀτμίς
     dodson-entry: ἀτμίς, ίδος, ἡ
-    strongs: 0822
-    gk: 0874
+    strongs: 822
+    gk: 874
     dodson-pos: N:F
     gloss: breath, steam, vapor
 ἄτοπος:
@@ -3242,8 +3242,8 @@
     pos: D
     bdag-headword: αὔριον
     dodson-entry: αὔριον
-    strongs: 0839
-    gk: 0892
+    strongs: 839
+    gk: 892
     dodson-pos: ADV
     gloss: tomorrow
 αὐτάρκεια:
@@ -3298,8 +3298,8 @@
     pos: V
     bdag-headword: ἀφανίζω
     dodson-entry: ἀφανίζω
-    strongs: 0853
-    gk: 0906
+    strongs: 853
+    gk: 906
     dodson-pos: V
     gloss: I cause to disappear, I hide, remove, disfigure
 ἀφειδία:
@@ -3356,8 +3356,8 @@
     pos: V
     bdag-headword: ἀφίημι
     dodson-entry: ἀφίημι
-    strongs: 0863
-    gk: 0918,1889
+    strongs: 863
+    gk: 918,1889
     dodson-pos: V
     gloss: I send away, release, remit, forgive, permit
 ἀφιλάγαθος:
@@ -3520,8 +3520,8 @@
     pos: V
     bdag-headword: βάλλω
     dodson-entry: βάλλω
-    strongs: 0906
-    gk: 0965
+    strongs: 906
+    gk: 965
     dodson-pos: V
     gloss: I cast, throw, rush, put, place, drop
 βάπτισμα:
@@ -3627,8 +3627,8 @@
     pos: A
     bdag-headword: βασιλικός
     dodson-entry: βασιλικός, ή, όν
-    strongs: 0937
-    gk: 0997,0998
+    strongs: 937
+    gk: 997,998
     dodson-pos: A
     gloss: connected with a king, royal, regal
 βδελυκτός:
@@ -3745,7 +3745,7 @@
     pos: V
     bdag-headword: βλαστάνω
     dodson-entry: βλαστάνω
-    strongs: 0985
+    strongs: 985
     gk: 1056,1057
     dodson-pos: V
     gloss: I sprout, cause to sprout, make to grow up
@@ -3798,7 +3798,7 @@
     pos: N
     bdag-headword: βοή
     dodson-entry: βοή, ῆς, ἡ
-    strongs: 0995
+    strongs: 995
     gk: 1068
     dodson-pos: N:F
     gloss: a shout
