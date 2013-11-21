@@ -12,22 +12,63 @@
                 -
                     form: ἀγαθόν
 ἀγαπάω:
+    PAN:
+        forms:
+            -
+                form: ἀγαπᾶν
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἠγάπησε(ν)
     PAI:
         1S:
             forms:
                 -
                     form: ἀγαπῶ
-    PAS:
+        3S:
+            forms:
+                -
+                    form: ἀγαπᾷ
         1P:
             forms:
                 -
                     form: ἀγαπῶμεν
+    PAS:
+        3S:
+            forms:
+                -
+                    form: ἀγαπᾷ
+        1P:
+            forms:
+                -
+                    form: ἀγαπῶμεν
+    PAD:
+        2P:
+            forms:
+                -
+                    form: ἀγαπᾶτε
+    XAI:
+        1P:
+            forms:
+                -
+                    form: ἠγαπήκαμεν
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: ἀγαπῶν
 ἀγάπη:
     F:
         NS:
             forms:
                 -
                     form: ἀγάπη
+        AS:
+            forms:
+                -
+                    form: ἀγάπην
         DS:
             forms:
                 -
@@ -42,6 +83,34 @@
             forms:
                 -
                     form: ἀγαπητέ
+        VP:
+            forms:
+                -
+                    form: ἀγαπητοί
+ἀγγελία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἀγγελία
+ἅγιος:
+    M:
+        GS:
+            forms:
+                -
+                    form: ἁγίου
+ἁγνίζω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: ἁγνίζει
+ἁγνός:
+    M:
+        NS:
+            forms:
+                -
+                    form: ἁγνός
 ἀδελφή:
     F:
         GS:
@@ -50,6 +119,14 @@
                     form: ἀδελφῆς
 ἀδελφός:
     M:
+        AS:
+            forms:
+                -
+                    form: ἀδελφόν
+        GS:
+            forms:
+                -
+                    form: ἀδελφοῦ
         AP:
             forms:
                 -
@@ -58,25 +135,126 @@
             forms:
                 -
                     form: ἀδελφῶν
+        VP:
+            forms:
+                -
+                    form: ἀδελφοί
+ἀδικία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἀδικία
+        GS:
+            forms:
+                -
+                    form: ἀδικίας
+αἷμα:
+    N:
+        NS:
+            forms:
+                -
+                    form: αἷμα
+        GS:
+            forms:
+                -
+                    form: αἵματος
+        DS:
+            forms:
+                -
+                    form: αἵματι
+αἴρω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: ἄρῃ
+αἰσχύνομαι:
+    APS:
+        1P:
+            forms:
+                -
+                    form: αἰσχυνθῶμεν
+αἰτέω:
+    FAI:
+        3S:
+            forms:
+                -
+                    form: αἰτήσει
+    PAS:
+        1P:
+            forms:
+                -
+                    form: αἰτῶμεν
+    PMS:
+        1P:
+            forms:
+                -
+                    form: αἰτώμεθα
+    XAI:
+        1P:
+            forms:
+                -
+                    form: ᾐτήκαμεν
+αἴτημα:
+    N:
+        AP:
+            forms:
+                -
+                    form: αἰτήματα
 αἰών:
     M:
         AS:
             forms:
                 -
                     form: αἰῶνα
+αἰώνιος:
+    F:
+        NS:
+            forms:
+                -
+                    form: αἰώνιος
+        AS:
+            forms:
+                -
+                    form: αἰώνιον
 ἀκούω:
     AAI:
         2P:
             forms:
                 -
                     form: ἠκούσατε
+    PAI:
+        3S:
+            forms:
+                -
+                    form: ἀκούει
     PAS:
         1S:
             forms:
                 -
                     form: ἀκούω
+    XAI:
+        1P:
+            forms:
+                -
+                    form: ἀκηκόαμεν
+        2P:
+            forms:
+                -
+                    form: ἀκηκόατε
+ἀλαζονεία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἀλαζονεία
 ἀλήθεια:
     F:
+        NS:
+            forms:
+                -
+                    form: ἀλήθεια
         AS:
             forms:
                 -
@@ -95,12 +273,136 @@
             forms:
                 -
                     form: ἀληθής
+    N:
+        NS:
+            forms:
+                -
+                    form: ἀληθές
+ἀληθινός:
+    M:
+        NS:
+            forms:
+                -
+                    form: ἀληθινός
+        AS:
+            forms:
+                -
+                    form: ἀληθινόν
+        DS:
+            forms:
+                -
+                    form: ἀληθινῷ
+    N:
+        NS:
+            forms:
+                -
+                    form: ἀληθινόν
+ἁμαρτάνω:
+    PAN:
+        forms:
+            -
+                form: ἁμαρτάνειν
+    AAS:
+        3S:
+            forms:
+                -
+                    form: ἁμάρτῃ
+        2P:
+            forms:
+                -
+                    form: ἁμάρτητε
+    PAI:
+        3S:
+            forms:
+                -
+                    form: ἁμαρτάνει
+    XAI:
+        1P:
+            forms:
+                -
+                    form: ἡμαρτήκαμεν
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: ἁμαρτάνων
+            AS:
+                forms:
+                    -
+                        form: ἁμαρτάνοντα
+            DP:
+                forms:
+                    -
+                        form: ἁμαρτάνουσι(ν)
+ἁμαρτία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἁμαρτία
+        AS:
+            forms:
+                -
+                    form: ἁμαρτίαν
+        GS:
+            forms:
+                -
+                    form: ἁμαρτίας
+        NP:
+            forms:
+                -
+                    form: ἁμαρτίαι
+        AP:
+            forms:
+                -
+                    form: ἁμαρτίας
+        GP:
+            forms:
+                -
+                    form: ἁμαρτιῶν
+ἀναγγέλλω:
+    PAI:
+        1P:
+            forms:
+                -
+                    form: ἀναγγέλλομεν
+ἄνθρωπος:
+    M:
+        GP:
+            forms:
+                -
+                    form: ἀνθρώπων
+ἀνομία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἀνομία
+        AS:
+            forms:
+                -
+                    form: ἀνομίαν
 ἀντίχριστος:
     M:
         NS:
             forms:
                 -
                     form: ἀντίχριστος
+        GS:
+            forms:
+                -
+                    form: ἀντιχρίστου
+        NP:
+            forms:
+                -
+                    form: ἀντίχριστοι
+ἀπαγγέλλω:
+    PAI:
+        1P:
+            forms:
+                -
+                    form: ἀπαγγέλλομεν
 ἀπό:
     forms:
         -
@@ -117,6 +419,29 @@
             forms:
                 -
                     form: ἀπολέσητε
+ἀποστέλλω:
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἀπέστειλε(ν)
+    XAI:
+        3S:
+            forms:
+                -
+                    form: ἀπέσταλκε(ν)
+ἅπτω:
+    PMI:
+        3S:
+            forms:
+                -
+                    form: ἅπτεται
+ἀρεστός:
+    N:
+        AP:
+            forms:
+                -
+                    form: ἀρεστά
 ἀρκέω:
     PPP:
         M:
@@ -124,6 +449,13 @@
                 forms:
                     -
                         form: ἀρκούμενος
+ἀρνέομαι:
+    PMP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: ἀρνούμενος
 ἀρχή:
     F:
         GS:
@@ -145,6 +477,39 @@
             forms:
                 -
                     form: ἀσπάζου
+ἀφίημι:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: ἀφῇ
+    XPI:
+        3P:
+            forms:
+                -
+                    form: ἀφέωνται
+βάλλω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: βάλλει
+βαρύς:
+    F:
+        NP:
+            forms:
+                -
+                    form: βαρεῖαι
+βίος:
+    M:
+        AS:
+            forms:
+                -
+                    form: βίον
+        GS:
+            forms:
+                -
+                    form: βίου
 βλέπω:
     PAD:
         2P:
@@ -169,6 +534,39 @@
             forms:
                 -
                     form: Γαΐῳ
+γεννάω:
+    XPI:
+        3S:
+            forms:
+                -
+                    form: γεγέννηται
+    AAP:
+        M:
+            AS:
+                forms:
+                    -
+                        form: γεννήσαντα
+    APP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: γεννηθείς
+    XPP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: γεγεννημένος
+            AS:
+                forms:
+                    -
+                        form: γεγεννημένον
+        N:
+            NS:
+                forms:
+                    -
+                        form: γεγεννημένον
 γίνομαι:
     AMN:
         forms:
@@ -179,13 +577,75 @@
             forms:
                 -
                     form: γινώμεθα
+    XAI:
+        3P:
+            forms:
+                -
+                    form: γεγόνασι(ν)
 γινώσκω:
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἔγνω
+    FMI:
+        1P:
+            forms:
+                -
+                    form: γνωσόμεθα
+    PAI:
+        3S:
+            forms:
+                -
+                    form: γινώσκει
+        1P:
+            forms:
+                -
+                    form: γινώσκομεν
+        2P:
+            forms:
+                -
+                    form: γινώσκετε
+    PAS:
+        1P:
+            forms:
+                -
+                    form: γινώσκωμεν
+    XAI:
+        1S:
+            forms:
+                -
+                    form: ἔγνωκα
+        3S:
+            forms:
+                -
+                    form: ἔγνωκε(ν)
+        1P:
+            forms:
+                -
+                    form: ἐγνώκαμεν
+        2P:
+            forms:
+                -
+                    form: ἐγνώκατε
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: γινώσκων
     XAP:
         M:
             NP:
                 forms:
                     -
                         form: ἐγνωκότες
+γλῶσσα:
+    F:
+        DS:
+            forms:
+                -
+                    form: γλώσσῃ
 γράφω:
     AAN:
         forms:
@@ -200,6 +660,15 @@
             forms:
                 -
                     form: ἔγραψα
+    PAI:
+        1S:
+            forms:
+                -
+                    form: γράφω
+        1P:
+            forms:
+                -
+                    form: γράφομεν
     PAP:
         M:
             NS:
@@ -216,6 +685,38 @@
     forms:
         -
             form: διά
+διάβολος:
+    M:
+        NS:
+            forms:
+                -
+                    form: διάβολος
+        GS:
+            forms:
+                -
+                    form: διαβόλου
+διάνοια:
+    F:
+        AS:
+            forms:
+                -
+                    form: διάνοιαν
+διδάσκω:
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἐδίδαξε(ν)
+    PAI:
+        3S:
+            forms:
+                -
+                    form: διδάσκει
+    PAS:
+        3S:
+            forms:
+                -
+                    form: διδάσκῃ
 διδαχή:
     F:
         AS:
@@ -226,17 +727,70 @@
             forms:
                 -
                     form: διδαχῇ
+δίδωμι:
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἔδωκε(ν)
+    FAI:
+        3S:
+            forms:
+                -
+                    form: δώσει
+    XAI:
+        3S:
+            forms:
+                -
+                    form: δέδωκε(ν)
+δίκαιος:
+    M:
+        NS:
+            forms:
+                -
+                    form: δίκαιος
+        AS:
+            forms:
+                -
+                    form: δίκαιον
+    N:
+        NP:
+            forms:
+                -
+                    form: δίκαια
+δικαιοσύνη:
+    F:
+        AS:
+            forms:
+                -
+                    form: δικαιοσύνην
 Διοτρέφης:
     M:
         NS:
             forms:
                 -
                     form: Διοτρέφης
+δοκιμάζω:
+    PAD:
+        2P:
+            forms:
+                -
+                    form: δοκιμάζετε
+δύναμαι:
+    PMI:
+        3S:
+            forms:
+                -
+                    form: δύναται
 ἐγώ:
     NS:
         forms:
             -
                 form: ἐγώ
+    GS:
+        forms:
+            -
+                form: μου
     NP:
         forms:
             -
@@ -259,17 +813,52 @@
             forms:
                 -
                     form: ἐθνικῶν
+εἴδωλον:
+    N:
+        GP:
+            forms:
+                -
+                    form: εἰδώλων
 εἰμί:
+    PAN:
+        forms:
+            -
+                form: εἶναι
     FMI:
         3S:
             forms:
                 -
                     form: ἔσται
+        1P:
+            forms:
+                -
+                    form: ἐσόμεθα
+    IAI:
+        3S:
+            forms:
+                -
+                    form: ἦν
+        3P:
+            forms:
+                -
+                    form: ἦσαν
     PAI:
         3S:
             forms:
                 -
                     form: ἐστί(ν)
+        1P:
+            forms:
+                -
+                    form: ἐσμέν
+        2P:
+            forms:
+                -
+                    form: ἐστέ
+        3P:
+            forms:
+                -
+                    form: εἰσί(ν)
     PAS:
         3S:
             forms:
@@ -285,6 +874,12 @@
     forms:
         -
             form: εἰς
+εἷς:
+    N:
+        AS:
+            forms:
+                -
+                    form: ἕν
 ἐκ:
     forms:
         -
@@ -327,6 +922,16 @@
             forms:
                 -
                     form: ἐλπίζω
+ἐλπίς:
+    F:
+        AS:
+            forms:
+                -
+                    form: ἐλπίδα
+ἔμπροσθεν:
+    forms:
+        -
+            form: ἔμπροσθεν
 ἐν:
     forms:
         -
@@ -341,6 +946,10 @@
             forms:
                 -
                     form: ἐντολήν
+        NP:
+            forms:
+                -
+                    form: ἐντολαί
         AP:
             forms:
                 -
@@ -351,6 +960,25 @@
             forms:
                 -
                     form: ἐξῆλθον
+                -
+                    form: ἐξῆλθαν
+    XAI:
+        3P:
+            forms:
+                -
+                    form: ἐξεληλύθασι(ν)
+ἐπαγγελία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἐπαγγελία
+ἐπαγγέλλομαι:
+    AMI:
+        3S:
+            forms:
+                -
+                    form: ἐπηγγείλατο
 ἐπί:
     forms:
         -
@@ -361,6 +989,12 @@
             forms:
                 -
                     form: ἐπιδέχεται
+ἐπιθυμία:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἐπιθυμία
 ἐργάζομαι:
     AMI:
         1P:
@@ -374,6 +1008,14 @@
                     form: ἐργάσῃ
 ἔργον:
     N:
+        DS:
+            forms:
+                -
+                    form: ἔργῳ
+        NP:
+            forms:
+                -
+                    form: ἔργα
         AP:
             forms:
                 -
@@ -393,6 +1035,12 @@
             forms:
                 -
                     form: ἔρχεται
+    AAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: ἐλθών
     PMP:
         M:
             AS:
@@ -403,12 +1051,29 @@
                 forms:
                     -
                         form: ἐρχομένων
+    XAP:
+        M:
+            AS:
+                forms:
+                    -
+                        form: ἐληλυθότα
 ἐρωτάω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: ἐρωτήσῃ
     PAI:
         1S:
             forms:
                 -
                     form: ἐρωτῶ
+ἔσχατος:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἐσχάτη
 εὐοδόομαι:
     PPN:
         forms:
@@ -432,6 +1097,11 @@
                 -
                     form: εὔχομαι
 ἔχω:
+    AAS:
+        1P:
+            forms:
+                -
+                    form: σχῶμεν
     IAI:
         1S:
             forms:
@@ -441,6 +1111,10 @@
             forms:
                 -
                     form: εἴχομεν
+        2P:
+            forms:
+                -
+                    form: εἴχετε
     PAI:
         1S:
             forms:
@@ -450,12 +1124,110 @@
             forms:
                 -
                     form: ἔχει
+        1P:
+            forms:
+                -
+                    form: ἔχομεν
+        2P:
+            forms:
+                -
+                    form: ἔχετε
+    PAS:
+        3S:
+            forms:
+                -
+                    form: ἔχῃ
+        1P:
+            forms:
+                -
+                    form: ἔχωμεν
+        2P:
+            forms:
+                -
+                    form: ἔχητε
     PAP:
         M:
             NS:
                 forms:
                     -
                         form: ἔχων
+            AS:
+                forms:
+                    -
+                        form: ἔχοντα
+ζάω:
+    AAS:
+        1P:
+            forms:
+                -
+                    form: ζήσωμεν
+ζωή:
+    F:
+        NS:
+            forms:
+                -
+                    form: ζωή
+        AS:
+            forms:
+                -
+                    form: ζωήν
+        GS:
+            forms:
+                -
+                    form: ζωῆς
+ἥκω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: ἥκει
+ἡμέρα:
+    F:
+        DS:
+            forms:
+                -
+                    form: ἡμέρᾳ
+θάνατος:
+    M:
+        AS:
+            forms:
+                -
+                    form: θάνατον
+        GS:
+            forms:
+                -
+                    form: θανάτου
+        DS:
+            forms:
+                -
+                    form: θανάτῳ
+θαυμάζω:
+    PAD:
+        2P:
+            forms:
+                -
+                    form: θαυμάζετε
+θεάομαι:
+    AMI:
+        1P:
+            forms:
+                -
+                    form: ἐθεασάμεθα
+    XMI:
+        3S:
+            forms:
+                -
+                    form: τεθέαται
+        1P:
+            forms:
+                -
+                    form: τεθεάμεθα
+θέλημα:
+    N:
+        AS:
+            forms:
+                -
+                    form: θέλημα
 θέλω:
     PAI:
         1S:
@@ -464,6 +1236,10 @@
                     form: θέλω
 θεός:
     M:
+        NS:
+            forms:
+                -
+                    form: θεός
         AS:
             forms:
                 -
@@ -472,8 +1248,22 @@
             forms:
                 -
                     form: θεοῦ
+        DS:
+            forms:
+                -
+                    form: θεῷ
+θεωρέω:
+    PAS:
+        3S:
+            forms:
+                -
+                    form: θεωρῇ
 Ἰησοῦς:
     M:
+        NS:
+            forms:
+                -
+                    form: Ἰησοῦς
         AS:
             forms:
                 -
@@ -482,6 +1272,43 @@
             forms:
                 -
                     form: Ἰησοῦ
+        DS:
+            forms:
+                -
+                    form: Ἰησοῦ
+ἱλασμός:
+    M:
+        NS:
+            forms:
+                -
+                    form: ἱλασμός
+        AS:
+            forms:
+                -
+                    form: ἱλασμόν
+ἰσχυρός:
+    M:
+        NP:
+            forms:
+                -
+                    form: ἰσχυροί
+καθαρίζω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: καθαρίσῃ
+    PAI:
+        3S:
+            forms:
+                -
+                    form: καθαρίζει
+Κάϊν:
+    M:
+        NS:
+            forms:
+                -
+                    form: Κάϊν
 καινός:
     F:
         AS:
@@ -507,22 +1334,94 @@
             forms:
                 -
                     form: καλάμου
+καλέω:
+    APS:
+        1P:
+            forms:
+                -
+                    form: κληθῶμεν
+καρδία:
+    F:
+        NS:
+            forms:
+                -
+                    form: καρδία
+        AS:
+            forms:
+                -
+                    form: καρδίαν
+        GS:
+            forms:
+                -
+                    form: καρδίας
 κατά:
     forms:
         -
             form: κατά
+καταγινώσκω:
+    PAS:
+        3S:
+            forms:
+                -
+                    form: καταγινώσκῃ
+κεῖμαι:
+    PMI:
+        3S:
+            forms:
+                -
+                    form: κεῖται
+κλείω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: κλείσῃ
 κοινωνέω:
     PAI:
         3S:
             forms:
                 -
                     form: κοινωνεῖ
+κοινωνία:
+    F:
+        NS:
+            forms:
+                -
+                    form: κοινωνία
+        AS:
+            forms:
+                -
+                    form: κοινωνίαν
+κόλασις:
+    F:
+        AS:
+            forms:
+                -
+                    form: κόλασιν
 κόσμος:
     M:
+        NS:
+            forms:
+                -
+                    form: κόσμος
         AS:
             forms:
                 -
                     form: κόσμον
+        GS:
+            forms:
+                -
+                    form: κόσμου
+        DS:
+            forms:
+                -
+                    form: κόσμῳ
+κρίσις:
+    F:
+        GS:
+            forms:
+                -
+                    form: κρίσεως
 κυρία:
     F:
         DS:
@@ -549,12 +1448,26 @@
             forms:
                 -
                     form: λαλήσομεν
+    PAI:
+        3P:
+            forms:
+                -
+                    form: λαλοῦσι(ν)
 λαμβάνω:
     AAI:
         1P:
             forms:
                 -
                     form: ἐλάβομεν
+        2P:
+            forms:
+                -
+                    form: ἐλάβετε
+    PAI:
+        1P:
+            forms:
+                -
+                    form: λαμβάνομεν
     PAD:
         2P:
             forms:
@@ -567,6 +1480,20 @@
                     -
                         form: λαμβάνοντες
 λέγω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: εἴπῃ
+        1P:
+            forms:
+                -
+                    form: εἴπωμεν
+    PAI:
+        1S:
+            forms:
+                -
+                    form: λέγω
     PAD:
         2P:
             forms:
@@ -580,10 +1507,32 @@
                         form: λέγων
 λόγος:
     M:
+        NS:
+            forms:
+                -
+                    form: λόγος
+        AS:
+            forms:
+                -
+                    form: λόγον
+        GS:
+            forms:
+                -
+                    form: λόγου
+        DS:
+            forms:
+                -
+                    form: λόγῳ
         DP:
             forms:
                 -
                     form: λόγοις
+λύω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: λύσῃ
 μαρτυρέω:
     AAI:
         3P:
@@ -595,6 +1544,11 @@
             forms:
                 -
                     form: μαρτυροῦμεν
+    XAI:
+        3S:
+            forms:
+                -
+                    form: μεμαρτύρηκε(ν)
     XPI:
         3S:
             forms:
@@ -602,16 +1556,40 @@
                     form: μεμαρτύρηται
     PAP:
         M:
+            NP:
+                forms:
+                    -
+                        form: μαρτυροῦντες
             GP:
                 forms:
                     -
                         form: μαρτυρούντων
+        N:
+            NS:
+                forms:
+                    -
+                        form: μαρτυροῦν
 μαρτυρία:
     F:
         NS:
             forms:
                 -
                     form: μαρτυρία
+        AS:
+            forms:
+                -
+                    form: μαρτυρίαν
+μέγας:
+    M:
+        NS:
+            forms:
+                -
+                    form: μείζων
+    F:
+        NS:
+            forms:
+                -
+                    form: μείζων
 μειζότερος:
     F:
         AS:
@@ -625,6 +1603,47 @@
                 -
                     form: μέλανος
 μένω:
+    PAN:
+        forms:
+            -
+                form: μένειν
+    AAS:
+        3S:
+            forms:
+                -
+                    form: μείνῃ
+    FAI:
+        2P:
+            forms:
+                -
+                    form: μενεῖτε
+    PAI:
+        3S:
+            forms:
+                -
+                    form: μένει
+        1P:
+            forms:
+                -
+                    form: μένομεν
+        2P:
+            forms:
+                -
+                    form: μένετε
+    PAD:
+        3S:
+            forms:
+                -
+                    form: μενέτω
+        2P:
+            forms:
+                -
+                    form: μένετε
+    YAI:
+        3P:
+            forms:
+                -
+                    form: μεμενήκεισαν
     PAP:
         M:
             NS:
@@ -640,7 +1659,18 @@
     forms:
         -
             form: μετά
+μεταβαίνω:
+    XAI:
+        1P:
+            forms:
+                -
+                    form: μεταβεβήκαμεν
 μηδείς:
+    M:
+        NS:
+            forms:
+                -
+                    form: μηδείς
     N:
         AS:
             forms:
@@ -652,18 +1682,81 @@
             forms:
                 -
                     form: μιμοῦ
+μισέω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: μισεῖ
+    PAS:
+        3S:
+            forms:
+                -
+                    form: μισῇ
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: μισῶν
 μισθός:
     M:
         AS:
             forms:
                 -
                     form: μισθόν
+μονογενής:
+    M:
+        AS:
+            forms:
+                -
+                    form: μονογενῆ
 μόνος:
     M:
         NS:
             forms:
                 -
                     form: μόνος
+    N:
+        AS:
+            forms:
+                -
+                    form: μόνον
+νεανίσκος:
+    M:
+        VP:
+            forms:
+                -
+                    form: νεανίσκοι
+νικάω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: νικᾷ
+    XAI:
+        2P:
+            forms:
+                -
+                    form: νενικήκατε
+    AAP:
+        F:
+            NS:
+                forms:
+                    -
+                        form: νικήσασα
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: νικῶν
+νίκη:
+    F:
+        NS:
+            forms:
+                -
+                    form: νίκη
 ξένος:
     M:
         AP:
@@ -700,6 +1793,10 @@
             forms:
                 -
                     form: τῶν
+        DP:
+            forms:
+                -
+                    form: τοῖς
     F:
         NS:
             forms:
@@ -717,11 +1814,23 @@
             forms:
                 -
                     form: τῇ
+        NP:
+            forms:
+                -
+                    form: αἱ
         AP:
             forms:
                 -
                     form: τάς
+        GP:
+            forms:
+                -
+                    form: τῶν
     N:
+        NS:
+            forms:
+                -
+                    form: τό
         AS:
             forms:
                 -
@@ -730,6 +1839,10 @@
             forms:
                 -
                     form: τοῦ
+        DS:
+            forms:
+                -
+                    form: τῷ
         NP:
             forms:
                 -
@@ -752,15 +1865,67 @@
             forms:
                 -
                     form: οἶδας
+        3S:
+            forms:
+                -
+                    form: οἶδε(ν)
+        1P:
+            forms:
+                -
+                    form: οἴδαμεν
+        2P:
+            forms:
+                -
+                    form: οἴδατε
+    XAS:
+        2P:
+            forms:
+                -
+                    form: εἰδῆτε
 οἰκία:
     F:
         AS:
             forms:
                 -
                     form: οἰκίαν
+ὅλος:
+    M:
+        NS:
+            forms:
+                -
+                    form: ὅλος
+        GS:
+            forms:
+                -
+                    form: ὅλου
+ὅμοιος:
+    M:
+        NP:
+            forms:
+                -
+                    form: ὅμοιοι
 ὁμολογέω:
+    AAS:
+        3S:
+            forms:
+                -
+                    form: ὁμολογήσῃ
+    PAI:
+        3S:
+            forms:
+                -
+                    form: ὁμολογεῖ
+    PAS:
+        1P:
+            forms:
+                -
+                    form: ὁμολογῶμεν
     PAP:
         M:
+            NS:
+                forms:
+                    -
+                        form: ὁμολογῶν
             NP:
                 forms:
                     -
@@ -775,18 +1940,45 @@
             forms:
                 -
                     form: ὀνόματος
+        DS:
+            forms:
+                -
+                    form: ὀνόματι
 ὁράω:
     AAN:
         forms:
             -
                 form: ἰδεῖν
+    AAS:
+        3S:
+            forms:
+                -
+                    form: ἴδῃ
+    AAD:
+        2P:
+            forms:
+                -
+                    form: ἴδετε
+    FMI:
+        1P:
+            forms:
+                -
+                    form: ὀψόμεθα
     XAI:
         3S:
             forms:
                 -
                     form: ἑώρακε(ν)
+        1P:
+            forms:
+                -
+                    form: ἑωράκαμεν
 ὅς:
     M:
+        NS:
+            forms:
+                -
+                    form: ὅς
         AS:
             forms:
                 -
@@ -805,24 +1997,111 @@
                 -
                     form: ἥν
     N:
+        NS:
+            forms:
+                -
+                    form: ὅ
         AS:
             forms:
                 -
                     form: ὅ
+        GS:
+            forms:
+                -
+                    form: οὗ
         AP:
             forms:
                 -
                     form: ἅ
+ὅστις:
+    F:
+        NS:
+            forms:
+                -
+                    form: ἥτις
+οὐδείς:
+    M:
+        NS:
+            forms:
+                -
+                    form: οὐδείς
+    F:
+        NS:
+            forms:
+                -
+                    form: οὐδεμία
 ὀφείλω:
     PAI:
+        3S:
+            forms:
+                -
+                    form: ὀφείλει
         1P:
             forms:
                 -
                     form: ὀφείλομεν
+ὀφθαλμός:
+    M:
+        AP:
+            forms:
+                -
+                    form: ὀφθαλμούς
+        GP:
+            forms:
+                -
+                    form: ὀφθαλμῶν
+        DP:
+            forms:
+                -
+                    form: ὀφθαλμοῖς
+παιδίον:
+    N:
+        VP:
+            forms:
+                -
+                    form: παιδία
+παλαιός:
+    F:
+        NS:
+            forms:
+                -
+                    form: παλαιά
+        AS:
+            forms:
+                -
+                    form: παλαιάν
 παρά:
     forms:
         -
             form: παρά
+παράγω:
+    PPI:
+        3S:
+            forms:
+                -
+                    form: παράγεται
+παράκλητος:
+    M:
+        AS:
+            forms:
+                -
+                    form: παράκλητον
+παρουσία:
+    F:
+        DS:
+            forms:
+                -
+                    form: παρουσίᾳ
+παρρησία:
+    F:
+        NS:
+            forms:
+                -
+                    form: παρρησία
+        AS:
+            forms:
+                -
+                    form: παρρησίαν
 πᾶς:
     M:
         NS:
@@ -837,13 +2116,38 @@
             forms:
                 -
                     form: πάντων
+    F:
+        NS:
+            forms:
+                -
+                    form: πᾶσα
+        GS:
+            forms:
+                -
+                    form: πάσης
     N:
+        NS:
+            forms:
+                -
+                    form: πᾶν
+        DS:
+            forms:
+                -
+                    form: παντί
+        AP:
+            forms:
+                -
+                    form: πάντα
         GP:
             forms:
                 -
                     form: πάντων
 πατήρ:
     M:
+        NS:
+            forms:
+                -
+                    form: πατήρ
         AS:
             forms:
                 -
@@ -852,16 +2156,43 @@
             forms:
                 -
                     form: πατρός
+        DS:
+            forms:
+                -
+                    form: πατρί
+        VP:
+            forms:
+                -
+                    form: πατέρες
+πείθω:
+    FAI:
+        1P:
+            forms:
+                -
+                    form: πείσομεν
 περί:
     forms:
         -
             form: περί
 περιπατέω:
+    PAN:
+        forms:
+            -
+                form: περιπατεῖν
+    AAI:
+        3S:
+            forms:
+                -
+                    form: περιεπάτησε(ν)
     PAI:
         2S:
             forms:
                 -
                     form: περιπατεῖς
+        3S:
+            forms:
+                -
+                    form: περιπατεῖ
     PAS:
         1P:
             forms:
@@ -882,12 +2213,76 @@
                 forms:
                     -
                         form: περιπατοῦντα
+πιστεύω:
+    AAS:
+        1P:
+            forms:
+                -
+                    form: πιστεύσωμεν
+    PAD:
+        2P:
+            forms:
+                -
+                    form: πιστεύετε
+    XAI:
+        3S:
+            forms:
+                -
+                    form: πεπίστευκε(ν)
+        1P:
+            forms:
+                -
+                    form: πεπιστεύκαμεν
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: πιστεύων
+            DP:
+                forms:
+                    -
+                        form: πιστεύουσι(ν)
+πίστις:
+    F:
+        NS:
+            forms:
+                -
+                    form: πίστις
 πιστός:
+    M:
+        NS:
+            forms:
+                -
+                    form: πιστός
     N:
         AS:
             forms:
                 -
                     form: πιστόν
+πλανάω:
+    PAI:
+        1P:
+            forms:
+                -
+                    form: πλανῶμεν
+    PAD:
+        3S:
+            forms:
+                -
+                    form: πλανάτω
+    PAP:
+        M:
+            GP:
+                forms:
+                    -
+                        form: πλανώντων
+πλάνη:
+    F:
+        GS:
+            forms:
+                -
+                    form: πλάνης
 πλάνος:
     M:
         NS:
@@ -911,6 +2306,28 @@
                 forms:
                     -
                         form: πεπληρωμένη
+πνεῦμα:
+    N:
+        NS:
+            forms:
+                -
+                    form: πνεῦμα
+        AS:
+            forms:
+                -
+                    form: πνεῦμα
+        GS:
+            forms:
+                -
+                    form: πνεύματος
+        DS:
+            forms:
+                -
+                    form: πνεύματι
+        AP:
+            forms:
+                -
+                    form: πνεύματα
 ποιέω:
     FAI:
         2S:
@@ -926,6 +2343,26 @@
             forms:
                 -
                     form: ποιεῖ
+        1P:
+            forms:
+                -
+                    form: ποιοῦμεν
+    PAS:
+        1P:
+            forms:
+                -
+                    form: ποιῶμεν
+    XAI:
+        3S:
+            forms:
+                -
+                    form: πεποίηκε(ν)
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: ποιῶν
 πολύς:
     M:
         NP:
@@ -939,11 +2376,31 @@
                     form: πολλά
 πονηρός:
     M:
+        NS:
+            forms:
+                -
+                    form: πονηρός
+        AS:
+            forms:
+                -
+                    form: πονηρόν
+        GS:
+            forms:
+                -
+                    form: πονηροῦ
+        DS:
+            forms:
+                -
+                    form: πονηρῷ
         DP:
             forms:
                 -
                     form: πονηροῖς
     N:
+        NP:
+            forms:
+                -
+                    form: πονηρά
         DP:
             forms:
                 -
@@ -974,10 +2431,48 @@
             form: πρός
 σάρξ:
     F:
+        GS:
+            forms:
+                -
+                    form: σαρκός
         DS:
             forms:
                 -
                     form: σαρκί
+σκάνδαλον:
+    N:
+        NS:
+            forms:
+                -
+                    form: σκάνδαλον
+σκοτία:
+    F:
+        NS:
+            forms:
+                -
+                    form: σκοτία
+        DS:
+            forms:
+                -
+                    form: σκοτίᾳ
+σκότος:
+    N:
+        DS:
+            forms:
+                -
+                    form: σκότει
+σπέρμα:
+    N:
+        NS:
+            forms:
+                -
+                    form: σπέρμα
+σπλάγχνον:
+    N:
+        AP:
+            forms:
+                -
+                    form: σπλάγχνα
 στόμα:
     N:
         AS:
@@ -990,6 +2485,24 @@
             forms:
                 -
                     form: συνεργοί
+σφάζω:
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἔσφαξε(ν)
+σωτήρ:
+    M:
+        AS:
+            forms:
+                -
+                    form: σωτῆρα
+τεκνίον:
+    N:
+        VP:
+            forms:
+                -
+                    form: τεκνία
 τέκνον:
     N:
         NP:
@@ -1008,13 +2521,96 @@
             forms:
                 -
                     form: τέκνοις
+τέλειος:
+    F:
+        NS:
+            forms:
+                -
+                    form: τελεία
+τελειόω:
+    XPI:
+        3S:
+            forms:
+                -
+                    form: τετελείωται
+    XPP:
+        F:
+            NS:
+                forms:
+                    -
+                        form: τετελειωμένη
+τηρέω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: τηρεῖ
+        1P:
+            forms:
+                -
+                    form: τηροῦμεν
+    PAS:
+        3S:
+            forms:
+                -
+                    form: τηρῇ
+        1P:
+            forms:
+                -
+                    form: τηρῶμεν
+    PAP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: τηρῶν
+τίθημι:
+    AAN:
+        forms:
+            -
+                form: θεῖναι
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἔθηκε(ν)
+τρεῖς:
+    M:
+        NP:
+            forms:
+                -
+                    form: τρεῖς
+τυφλόω:
+    AAI:
+        3S:
+            forms:
+                -
+                    form: ἐτύφλωσε(ν)
 ὑγιαίνω:
     PAN:
         forms:
             -
                 form: ὑγιαίνειν
+ὕδωρ:
+    N:
+        NS:
+            forms:
+                -
+                    form: ὕδωρ
+        GS:
+            forms:
+                -
+                    form: ὕδατος
+        DS:
+            forms:
+                -
+                    form: ὕδατι
 υἱός:
     M:
+        NS:
+            forms:
+                -
+                    form: υἱός
         AS:
             forms:
                 -
@@ -1023,6 +2619,16 @@
             forms:
                 -
                     form: υἱοῦ
+        DS:
+            forms:
+                -
+                    form: υἱῷ
+ὑπάγω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: ὑπάγει
 ὑπέρ:
     forms:
         -
@@ -1042,6 +2648,33 @@
             forms:
                 -
                     form: ὑπομνήσω
+φαίνω:
+    PAI:
+        3S:
+            forms:
+                -
+                    form: φαίνει
+φανερός:
+    N:
+        NP:
+            forms:
+                -
+                    form: φανερά
+φανερόω:
+    API:
+        3S:
+            forms:
+                -
+                    form: ἐφανερώθη
+    APS:
+        3S:
+            forms:
+                -
+                    form: φανερωθῇ
+        3P:
+            forms:
+                -
+                    form: φανερωθῶσι(ν)
 φέρω:
     PAI:
         3S:
@@ -1072,6 +2705,39 @@
                 forms:
                     -
                         form: φλυαρῶν
+φοβέομαι:
+    PMP:
+        M:
+            NS:
+                forms:
+                    -
+                        form: φοβούμενος
+φόβος:
+    M:
+        NS:
+            forms:
+                -
+                    form: φόβος
+        AS:
+            forms:
+                -
+                    form: φόβον
+φυλάσσω:
+    AAD:
+        2P:
+            forms:
+                -
+                    form: φυλάξατε
+φῶς:
+    N:
+        NS:
+            forms:
+                -
+                    form: φῶς
+        DS:
+            forms:
+                -
+                    form: φωτί
 χαίρω:
     PAN:
         forms:
@@ -1104,8 +2770,34 @@
             forms:
                 -
                     form: χάρτου
+χείρ:
+    F:
+        NP:
+            forms:
+                -
+                    form: χεῖρες
+χρεία:
+    F:
+        AS:
+            forms:
+                -
+                    form: χρείαν
+χρῖσμα:
+    N:
+        NS:
+            forms:
+                -
+                    form: χρῖσμα
+        AS:
+            forms:
+                -
+                    form: χρῖσμα
 Χριστός:
     M:
+        NS:
+            forms:
+                -
+                    form: Χριστός
         AS:
             forms:
                 -
@@ -1114,9 +2806,61 @@
             forms:
                 -
                     form: Χριστοῦ
+        DS:
+            forms:
+                -
+                    form: Χριστῷ
+ψεύδομαι:
+    PMI:
+        1P:
+            forms:
+                -
+                    form: ψευδόμεθα
+ψευδοπροφήτης:
+    M:
+        NP:
+            forms:
+                -
+                    form: ψευδοπροφῆται
+ψεῦδος:
+    N:
+        NS:
+            forms:
+                -
+                    form: ψεῦδος
+ψεύστης:
+    M:
+        NS:
+            forms:
+                -
+                    form: ψεύστης
+        AS:
+            forms:
+                -
+                    form: ψεύστην
+ψηλαφάω:
+    AAI:
+        3P:
+            forms:
+                -
+                    form: ἐψηλάφησαν
 ψυχή:
     F:
         NS:
             forms:
                 -
                     form: ψυχή
+        AS:
+            forms:
+                -
+                    form: ψυχήν
+        AP:
+            forms:
+                -
+                    form: ψυχάς
+ὥρα:
+    F:
+        NS:
+            forms:
+                -
+                    form: ὥρα
