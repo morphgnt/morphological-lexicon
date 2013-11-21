@@ -45,8 +45,9 @@ regexes = [
     # verbs that morphcat thinks is an adjective
     r"V@V@a-1a\(1\)$", # @@@
     
-    # ἰδού
+    # ἰδού/ἴδε
     r"X/V@V@\?\?$", # @@@
+    r"X/V@INJ@None$", # @@@
     
     # adjectives
     r"A@A@a-[0-9a-z\(\)]+$",
@@ -73,6 +74,7 @@ regexes = [
     # adjectives that are numbers
     r"A@A,A-NUI@a-5$", # @@@
     r"A@A-NUI@n-3g\(2\)$", # @@@
+    r"A@A@n-3g\(2\)$", # @@@
     
     # adjective / adverb conflation
     r"A/ADV@ADV@\['a-1a\(1\)', 'adverb'\]$", # @@@
@@ -127,6 +129,7 @@ regexes = [
     r"N@A@a-2a$", # @@@
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
+    r"A@A@n-2b$", # @@@
     r"A/N@N:F@n-3c\(2\)$", # @@@
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
@@ -176,6 +179,7 @@ regexes = [
     r"A/RP1@S@a-1a\(2a\)$", # @@@
     r"A/S1@S@a-1a\(1\)$", # @@@
     r"A/S-2S@S@a-1a\(2a\)$", # @@@
+    r"A/S-2P@S@a-1a\(1\)$", # @@@
     
     # indefinite pronoun
     r"RI/X@X@a-4b\(2\)$", # @@@
@@ -193,6 +197,7 @@ regexes = [
     r"C/D@ADV@conj$", # @@@
     r"C/ADV@ADV@conj$", # @@@
     r"C/PRT@PRT@particle$", # @@@
+    r"C/PRT-I@PRT-I@particle$", # @@@
     r"C/COND@COND@particle$", # @@@
     r"C/COND-K@COND-K@particle$", # @@@
     r"C/CONJ-N@CONJ-N@adverb$", # @@@
@@ -216,6 +221,7 @@ regexes = [
     
     r"D@None@particle$", # @@@
     r"D/CONJ-N@CONJ-N@particle$", # @@@
+    r"D/CONJ@CONJ@adverb$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
     
@@ -225,6 +231,7 @@ regexes = [
     r"P/D@ADV@adverb$", # @@@
     r"P@ADV,PREP@adverb$", # @@@
     r"P/ADV@ADV@\?\?$", # @@@
+    r"P/ADV@None@None$", # @@@
     
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
@@ -234,6 +241,7 @@ regexes = [
     r"X/PRT-I@PRT-I,PRT-N@adverb$", # @@@
     r"X@PRT-I@particle$", # @@@
     r"X@PRT-N@adverb$", # @@@
+    r"X/V@V@particle$", # @@@
 ]
 
 match = 0

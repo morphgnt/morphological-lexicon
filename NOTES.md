@@ -117,3 +117,15 @@
 * Dodson / morphcat seemed to have flipped around gk 3604 and 3605
 * morphcat has κακοπάθεια for κακοπαθία
 * Dodson has χρίσμα for χρῖσμα
+* merge ἄχρις with ἄχρι?
+* BDAG must split δεκαπέντε?
+* is στοιχεῖα just στοιχεῖον?
+* unclear what BDAG has for συνιστάνω
+* στεῖρα N:F vs στεῖρος adjective
+* Dodson has Ἰουδαΐζω for ἰουδαΐζω
+* Dodson has Ἅγαρ for Ἁγάρ
+* Dodson has κενόδοξας for κενόδοξος
+* morphcat has ἀββά for ἀββα
+* morphcat has ὰρα for ἆρα
+* morphcat has Σινά for Σινᾶ
+* ἴδε isn't in morphcat
