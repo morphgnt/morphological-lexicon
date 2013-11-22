@@ -129,3 +129,5 @@
 * morphcat has ὰρα for ἆρα
 * morphcat has Σινά for Σινᾶ
 * ἴδε isn't in morphcat
+* Dodson conflates ἐπιφαύω and ἐπιφαύσκω
+* morphcat has εὺ for εὖ

@@ -70,6 +70,7 @@ regexes = [
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
     r"A/ADV-C@A@a-1a\(1\)$", # @@@
+    r"A/ADV@A@a-1a\(1\)$", # @@@
     
     # adjectives that are numbers
     r"A@A,A-NUI@a-5$", # @@@
@@ -218,6 +219,7 @@ regexes = [
     r"D@ADV-N@adverb$", # @@@
     r"D@ADV-I@adverb$", # @@@
     r"D@ADV,ADV-C@adverb$", # @@@
+    r"D@ADV@prep$", # @@@
     
     r"D@None@particle$", # @@@
     r"D/CONJ-N@CONJ-N@particle$", # @@@
