@@ -110,7 +110,7 @@
 * Dodson conflates μεταστρέφω and μετατρέπω
 * Dodson conflates πρώϊμος and πρόϊμος
 * Dodson has θρῆσκος for θρησκός
-* Dodson doesn't captialize Σαβαώθ
+* Dodson doesn't capitalize Σαβαώθ
 * Dodson conflates μεγαλαυχέω with αὐχέω
 * not sure if ἕλκω == ἑλκόω
 * ἄγε not in Dodson
@@ -131,3 +131,14 @@
 * ἴδε isn't in morphcat
 * Dodson conflates ἐπιφαύω and ἐπιφαύσκω
 * morphcat has εὺ for εὖ
+* BDAG doesn't have ἕνεκεν
+* BDAG doesn't have ἥδιστα
+* Dodson conflates ὑπερλίαν and ὑπερήφανος
+* Dodson conflates ἕνεκεν and εἵνεκεν
+* Dodson conflates τεσσαράκοντα and τεσσεράκοντα
+* Dodson has Ἀρέτας for Ἁρέτας
+* Dodson has γέννημα for γένημα
+* Dodson conflates ἥσσων and ἧττων
+* Dodson conflates ἐπισύστασις and ἐπίστασις
+* morphcat has λήστής for λῃστής
+* ἡδέως vs ἥδιστα (gk 2452)

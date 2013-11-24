@@ -65,13 +65,14 @@ regexes = [
     r"A@A,ADV@a-[0-9a-z\(\)]+$", # @@@
     r"A@A,ADV-C@a-1a\(2a\)$", # @@@
     r"A@ADV-S@a-1a\(1\)$", # @@@
+    r"A/ADV-S@ADV-S@None$", # @@@
     
     # adjectives that tisch has as adverbs
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
     r"A/ADV-C@A@a-1a\(1\)$", # @@@
     r"A/ADV@A@a-1a\(1\)$", # @@@
-    
+
     # adjectives that are numbers
     r"A@A,A-NUI@a-5$", # @@@
     r"A@A-NUI@n-3g\(2\)$", # @@@
@@ -89,7 +90,8 @@ regexes = [
     r"N@N:M@n-1e$",
     r"N@N:M@n-1f$",
     r"N@N:F@n-1h$",
-    r"N@N:M@n-2a$",
+    r"N@N:M@n-2a$", # @@@
+    r"N@N:F@n-2a$", # @@@
     r"N@N:F@n-2b$",
     r"N@N:N@n-2c$",
     r"N@N:M@n-2e$",
@@ -131,6 +133,7 @@ regexes = [
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
     r"A@A@n-2b$", # @@@
+    r"A/N@N:M@n-3c\(1\)$", # @@@
     r"A/N@N:F@n-3c\(2\)$", # @@@
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
@@ -227,6 +230,9 @@ regexes = [
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
     
+    # prepositions missing in dodson
+    r"P@None@prep$",
+
     r"P/ADV@ADV@adverb$", # @@@
     r"P/ADV@ADV@prep$", # @@@
     r"P/ADV@ADV@adverb; pr$", # @@@
