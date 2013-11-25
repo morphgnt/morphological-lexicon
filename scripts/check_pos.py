@@ -80,6 +80,8 @@ regexes = [
     
     # adjective / adverb conflation
     r"A/ADV@ADV@\['a-1a\(1\)', 'adverb'\]$", # @@@
+    r"A/ADV-C@ADV-C@None$", # @@@
+    r"A/ADV-C@ADV@None$", # @@@
     
     # nouns
     r"N@N:M@n-1a$", # @@@
@@ -92,7 +94,8 @@ regexes = [
     r"N@N:F@n-1h$",
     r"N@N:M@n-2a$", # @@@
     r"N@N:F@n-2a$", # @@@
-    r"N@N:F@n-2b$",
+    r"N@N:M@n-2b$", # @@@
+    r"N@N:F@n-2b$", # @@@
     r"N@N:N@n-2c$",
     r"N@N:M@n-2e$",
     
@@ -102,10 +105,14 @@ regexes = [
     r"N@N:N@n-3[0-9a-z\(\)]+$",
     
     # indeclinable proper nouns
+    r"N@N-PRI@n-3g\(1\)$",
     r"N@N-PRI@n-3g\(2\)$",
     
     # indeclinable hebrew nouns
     r"N/HEB@HEB@n-3g\(2\)$",
+
+    # indeclinable aramaic nouns
+    r"N/ARAM@ARAM@n-3g\(2\)$",
     
     # nouns with multiple genders (according to dodson)
     r"N@N:F,N:N@n-1a$", # @@@
@@ -141,7 +148,8 @@ regexes = [
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
     r"A/N@N:F@n-1a$", # @@@
     r"N/A@A@a-3a$", # @@@
-    
+    r"A@A@n-3c\(6b\)", # @@@
+
     r"N/ADV-K@ADV-K@adverb$", # @@@
     
     # article
@@ -196,6 +204,7 @@ regexes = [
     
     r"C@CONJ@particle$", # @@@
     r"C/ADV@ADV@adverb$", # @@@
+    r"C/ADV@None@adverb$", # @@@
     r"C/ADV@ADV@particle$", # @@@
     r"C/ADV@ADV,ADV-I@particle$", # @@@
     r"C/D@ADV@conj$", # @@@
@@ -203,6 +212,7 @@ regexes = [
     r"C/PRT@PRT@particle$", # @@@
     r"C/PRT-I@PRT-I@particle$", # @@@
     r"C/COND@COND@particle$", # @@@
+    r"C/COND@None@particle$", # @@@
     r"C/COND-K@COND-K@particle$", # @@@
     r"C/CONJ-N@CONJ-N@adverb$", # @@@
     r"C/CONJ-N@CONJ-N@conj$", # @@@
@@ -229,6 +239,7 @@ regexes = [
     r"D/CONJ@CONJ@adverb$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
+    r"D/A\?@None@None$", # @@@
     
     # prepositions missing in dodson
     r"P@None@prep$",
@@ -246,6 +257,7 @@ regexes = [
     r"X/INJ@INJ,N-OI@interjectio$", # @@@
     r"X/INJ@INJ@interj$", # @@@
     r"X/ADV-N@ADV-N@particle$", # @@@
+    r"X/ADV@ADV@adverb$", # @@@
     r"X/PRT-I@PRT-I,PRT-N@adverb$", # @@@
     r"X@PRT-I@particle$", # @@@
     r"X@PRT-N@adverb$", # @@@

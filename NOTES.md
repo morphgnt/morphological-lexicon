@@ -142,3 +142,25 @@
 * Dodson conflates ἐπισύστασις and ἐπίστασις
 * morphcat has λήστής for λῃστής
 * ἡδέως vs ἥδιστα (gk 2452)
+* BDAG doesn't have τομώτερος
+* BDAG/Dodson/morphcat possibly have τρίμηνος for τρίμηνον
+* BDAG doesn't have ἄπειρος
+* is βραχύ just βραχύς (BDAG/Dodson/morphcat)?
+* is δεκάτη just δέκατος (BDAG)?
+* is ὕστερος (BDAG) just ὕστερον?
+* Dodson conflates δοκιμασία and δοκιμάζω
+* Dodson conflates καθάπερ and καθώσπερ
+* Dodson missing ἐάνπερ
+* Dodson conflates ἐκβαίνω and ἐξέρχομαι
+* Dodson conflates χθές and ἐχθές
+* Dodson has Λευΐ / Λευϊτικός for Λευί / Λευιτικός
+* Dodson has Χερουβίμ for Χερούβ
+* Dodson conflates αἰδώς and δέος
+* Dodson has Μελχισεδέκ for Μελχισέδεκ
+* Ἅβελ
+* does Dodson have ἀνώτερον for ἀνώτερος?
+* morphcat has Ἇβελ for Ἅβελ
+* morphcat has ὴχος for ἦχος (check morphcat)
+* morphcat missing τάχιον
+* morphcat conflates τομός and τομώτερος
+* morphcat conflates ὕστερος and ὕστερον
