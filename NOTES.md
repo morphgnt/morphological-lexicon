@@ -164,3 +164,31 @@
 * morphcat missing τάχιον
 * morphcat conflates τομός and τομώτερος
 * morphcat conflates ὕστερος and ὕστερον
+* BDAG has εἰδωλόθυτος for εἰδωλόθυτον?
+* BDAG has εὐπάρεδρος for εὐπάρεδρον?
+* BDAG has σύμφορος for σύμφορον?
+* BDAG has μαράνα θά in one entry
+* BDAG has πτηνός for πτηνόν?
+* BDAG has εἴκοσι for εἴκοσι(ν)
+* Dodson has εἰδωλόθυτος for εἰδωλόθυτον
+* Dodson has Φορτουνάτος for Φορτουνᾶτος
+* Dodson has ἀντίληψις for ἀντίλημψις
+* Dodson doesn't have τυπικῶς (conflates with τύπος)
+* Dodson conflates προσεδρεύω and παρεδρεύω
+* Dodson conflates φιμόω and κημόω
+* Dodson conflates εἰδωλόθυτος and ἱερόθυτος
+* Dodson conflates βλασφημέω and δυσφημέω
+* Dodson conflates συμφέρω and σύμφορος/σύμφορον
+* Dodson conflates εὐπρόσεδρος and εὐπάρεδρος
+* Dodson conflates γαμίσκω and γαμίζω
+* Dodson has γυμνητεύω for γυμνιτεύω
+* Dodson has λογία for λογεία
+* Dodson splits μήτιγε
+* Dodson missing ἱνατί
+* gk 3691 vs 3692
+* morphcat has εἰδωλόθυτος for εἰδωλόθυτον
+* morphcat has εὐπάρεδρος for εὐπάρεδρον
+* morphcat has ὴθος for ἦθος
+* morphcat has χλόη for Χλόη
+* morphcat splits μήτιγε
+* morphcat doesn't have μαράνα θά

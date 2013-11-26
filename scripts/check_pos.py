@@ -38,6 +38,7 @@ regexes = [
     
     # compound verbs missing full morphcat
     r"V@V@cv-$", # @@@
+    r"V@None@cv-$", # @@@
     
     # compound verbs that dodson thinks can be adjectives
     r"V@A,V@cv-[0-9a-z\(\)]+$", # @@@
@@ -45,6 +46,9 @@ regexes = [
     # verbs that morphcat thinks is an adjective
     r"V@V@a-1a\(1\)$", # @@@
     
+    # indeclinable verb
+    r"V/ARAM@None@None$", # @@@
+
     # ἰδού/ἴδε
     r"X/V@V@\?\?$", # @@@
     r"X/V@INJ@None$", # @@@
@@ -107,18 +111,20 @@ regexes = [
     # indeclinable proper nouns
     r"N@N-PRI@n-3g\(1\)$",
     r"N@N-PRI@n-3g\(2\)$",
-    
+
     # indeclinable hebrew nouns
     r"N/HEB@HEB@n-3g\(2\)$",
 
     # indeclinable aramaic nouns
     r"N/ARAM@ARAM@n-3g\(2\)$",
+    r"N/ARAM@None@None$",
     
     # nouns with multiple genders (according to dodson)
     r"N@N:F,N:N@n-1a$", # @@@
     r"N@N:M,N:N@n-2a$", # @@@
     r"N@N:F,N:M@n-2a$", # @@@
     r"N@N:F,N:N@n-2c$", # @@@
+    r"N@N:M,N:N@n-2c$", # @@@
     r"N@N:M,N:N@n-3[0-9a-z\(\)]+$", # @@@
     r"N@N:M,N:N@\['n-2c', 'n-2a'\]$", # @@@
     
@@ -140,8 +146,10 @@ regexes = [
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
     r"A@A@n-2b$", # @@@
+    r"A@A@n-3b\(2\)$", # @@@
     r"A/N@N:M@n-3c\(1\)$", # @@@
     r"A/N@N:F@n-3c\(2\)$", # @@@
+    r"A/N@N:M@n-2a$", # @@@
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
@@ -239,7 +247,9 @@ regexes = [
     r"D/CONJ@CONJ@adverb$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
+    r"D/PRT-I@None@None$", # @@@
     r"D/A\?@None@None$", # @@@
+    r"D@None@conj$", # @@@
     
     # prepositions missing in dodson
     r"P@None@prep$",
