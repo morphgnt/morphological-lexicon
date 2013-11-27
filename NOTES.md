@@ -192,3 +192,5 @@
 * morphcat has χλόη for Χλόη
 * morphcat splits μήτιγε
 * morphcat doesn't have μαράνα θά
+* BDAG doesn't have ἐγγύτερον in that form
+* BDAG doesn't have τολμηρότερον in that form
