@@ -194,3 +194,17 @@
 * morphcat doesn't have μαράνα θά
 * BDAG doesn't have ἐγγύτερον in that form
 * BDAG doesn't have τολμηρότερον in that form
+* Dodson has Ἀμπλίας for Ἀμπλιᾶτος
+* Dodson conflates κατάλειμμα and ὑπόλειμμα
+* Dodson has πρόσληψις for πρόσλημψις
+* Dodson has ἑκατονταέτης for ἑκατονταετής
+* need to sort out what's happening with κύκλῳ
+* Dodson conflates Μαριάμ and Μαρία
+* Dodson conflates πατήρ and προπάτωρ
+* Dodson has Πατρόβας for Πατροβᾶς
+* Dodson has ἐπαναμιμνήσκω for ἐπαναμιμνῄσκω
+* Ἰουνιᾶς vs Ἰουνία
+* Dodson has ἀνεξερεύνητος for ἀνεξεραύνητος
+* Dodson has οἰκτείρω for οἰκτίρω
+* morphcat doesn't have ἐγγύτερον (1585)
+* morphcat has Ἡρώδίων for Ἡρῳδίων

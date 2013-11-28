@@ -95,7 +95,8 @@ regexes = [
     r"N@N:M@n-1d$",
     r"N@N:M@n-1e$",
     r"N@N:M@n-1f$",
-    r"N@N:F@n-1h$",
+    r"N@N:F@n-1h$", # @@@
+    r"N@N:M@n-1h$", # @@@
     r"N@N:M@n-2a$", # @@@
     r"N@N:F@n-2a$", # @@@
     r"N@N:M@n-2b$", # @@@
@@ -236,6 +237,8 @@ regexes = [
     r"D/ADV-S@ADV-S@adverb$", # @@@
     r"D@ADV-S@adverb$", # @@@
     r"D@ADV-S@None$", # @@@
+    r"D@ADV-C@adverb$", # @@@
+    r"D@ADV-C@None$", # @@@
     r"D/ADV-N@ADV-N@adverb$", # @@@
     r"D@ADV-N@adverb$", # @@@
     r"D@ADV-I@adverb$", # @@@
@@ -250,6 +253,8 @@ regexes = [
     r"D/PRT-I@None@None$", # @@@
     r"D/A\?@None@None$", # @@@
     r"D@None@conj$", # @@@
+    r"D@ADV,V@adverb$", # @@@
+    r"D/N@None@None$", # @@@
     
     # prepositions missing in dodson
     r"P@None@prep$",
