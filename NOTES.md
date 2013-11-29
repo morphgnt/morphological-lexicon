@@ -208,3 +208,42 @@
 * Dodson has οἰκτείρω for οἰκτίρω
 * morphcat doesn't have ἐγγύτερον (1585)
 * morphcat has Ἡρώδίων for Ἡρῳδίων
+* BDAG doesn't have ἄψινθος or Ἄψινθος
+* BDAG has διάβολος for Διάβολος
+* BDAG / Dodson has ἱππικός (for ἱππικόν?)
+* BDAG has ῥέδη for ῥεδή
+* how to handle στάδιος?
+* how to handle ταχύ?
+* how to handle φαρμακός / φάρμακον?
+* how to handle φοῖνιξ?
+* BDAG has Ω for Ὦ?
+* Dodson has πυρός for πυρρός
+* Dodson has βιβλιδάριον for βιβλαρίδιον
+* Dodson doesn't have δισμυριάς
+* Dodson has ἐνδόμησις for ἐνδώμησις
+* Dodson has Ῥουβίμ for Ῥουβήν
+* Dodson has Νεφθαλείμ for Νεφθαλίμ
+* Dodson doesn't have capitalized Ἄψινθος
+* Dodson has Ἁλληλούϊα for ἁλληλουϊά
+* Dodson has σιδήρεος for σιδηροῦς
+* Dodson has Ἀντίπας for Ἀντιπᾶς
+* Dodson has μασσάομαι for μασάομαι
+* is σηρικός the same as σιρικός?
+* Dodson has Ἰσαχάρ for Ἰσσαχάρ
+* Dodson has κλεῖς for κλείς
+* Dodson has ᾍδης for ᾅδης
+* Dodson has κινάμωμον for κιννάμωμον
+* Dodson is missing ἄμωμον (check ἄμωμος)
+* Dodson conflates ζηλόω and ζηλεύω
+* Dodson has ῥέδα for ῥεδή / ῥέδη
+* Dodson conflates μύλος and μύλινος
+* Dodson conflates κυκλόω and κυκλεύω
+* Dodson has χάλκοῦς for χαλκοῦς
+* Dodson conflates κατήγορος and κατήγωρ
+* morphcat has ὶρις for ἶρις
+* morphcat has κιθαρώδός for κιθαρῳδός
+* morphcat missing νύμφη (gk 3811)
+* morphcat missing μίγνυμι (gk 3624)
+* morphcat missing Ἄψινθος
+* morphcat missing ἱππικόν
+* morphcat missing στάδιος

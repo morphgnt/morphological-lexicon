@@ -94,7 +94,9 @@ regexes = [
     r"N@N:F@n-1c$",
     r"N@N:M@n-1d$",
     r"N@N:M@n-1e$",
-    r"N@N:M@n-1f$",
+    r"N@N:M@n-1f$", # @@@
+    r"N@N:F@n-1f$", # @@@
+    r"N@N:M@n-1g$", # @@@
     r"N@N:F@n-1h$", # @@@
     r"N@N:M@n-1h$", # @@@
     r"N@N:M@n-2a$", # @@@
@@ -112,6 +114,9 @@ regexes = [
     # indeclinable proper nouns
     r"N@N-PRI@n-3g\(1\)$",
     r"N@N-PRI@n-3g\(2\)$",
+
+    # indeclinable letter names
+    r"N@N-LI@n-3g\(2\)$",
 
     # indeclinable hebrew nouns
     r"N/HEB@HEB@n-3g\(2\)$",
@@ -244,6 +249,7 @@ regexes = [
     r"D@ADV-I@adverb$", # @@@
     r"D@ADV,ADV-C@adverb$", # @@@
     r"D@ADV@prep$", # @@@
+    r"D@ADV@adverb; pr$", # @@@
     
     r"D@None@particle$", # @@@
     r"D/CONJ-N@CONJ-N@particle$", # @@@
@@ -251,9 +257,11 @@ regexes = [
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
     r"D/PRT-I@None@None$", # @@@
+    r"D/PRT-I@PRT-I@adverb$", # @@@
     r"D/A\?@None@None$", # @@@
     r"D@None@conj$", # @@@
     r"D@ADV,V@adverb$", # @@@
+    r"D/V@V@adverb$", # @@@
     r"D/N@None@None$", # @@@
     
     # prepositions missing in dodson
@@ -277,6 +285,7 @@ regexes = [
     r"X@PRT-I@particle$", # @@@
     r"X@PRT-N@adverb$", # @@@
     r"X/V@V@particle$", # @@@
+    r"X/HEB@HEB@n-3g\(2\)$", # @@@
 ]
 
 match = 0
