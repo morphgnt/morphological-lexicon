@@ -247,3 +247,14 @@
 * morphcat missing Ἄψινθος
 * morphcat missing ἱππικόν
 * morphcat missing στάδιος
+* BDAG is missing βάτος
+* BDAG is missing ἔννυχα
+* BDAG is missing εὐκοπώτερος
+* BDAG has θανάσιμος for θανάσιμον
+* BDAG has κορβᾶν for Κορβᾶν
+* BDAG has λεπτός for λεπτόν
+* BDAG is missing Ναζαρέτ
+* BDAG is missing περισσότερον
+* BDAG is missing πετρῶδες
+* BDAG has ῥαββουνί for ραββουνι
+* BDAG has στρωννύω for στρώννυμι
