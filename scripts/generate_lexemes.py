@@ -31,8 +31,10 @@ def convert(ccat, robinson):
     else:
         return "{} {}".format(ccat, robinson)
 
+already_output = set()
 
 for row in fs["sblgnt-lexemes"].rows():
-    if row["lemma"].decode("utf-8") not in lexemes:
+    if row["lemma"].decode("utf-8") not in lexemes and row["lemma"] not in already_output:
         print "{}:".format(row["lemma"])
         print "    pos: {}".format(convert(row["ccat-pos"], row["robinson"]))
+        already_output.add(row["lemma"])
