@@ -258,3 +258,50 @@
 * BDAG is missing πετρῶδες
 * BDAG has ῥαββουνί for ραββουνι
 * BDAG has στρωννύω for στρώννυμι
+* Dodson conflates ἀνίστημι and ἀναπηδάω
+* Dodson is missing καταβαρύνομαι
+* Dodson conflates Κανανίτης and Καναναῖος
+* Dodson has εὐκοπώτερον for εὐκοπώτερος
+* Dodson has ταλιθά for ταλιθα
+* Dodson is missing ψίξ but has ψιχίον
+* Dodson conflates ἐσθίω and ἔσθω
+* Dodson conflates διαρρήσσω and διαρρήγνυμι
+* Dodson conflates προσαιτέω and προσαίτης
+* Dodson has θανάσιμος for θανάσιμον
+* Dodson conflates ἐξουδενόω and ἐξουδενέω
+* Dodson has λεγεών for λεγιών
+* Dodson conflates ἀνώγεον and ἀνάγαιον (explore further)
+* Dodson is missing δύσις
+* Dodson is missing ἅλα
+* Dodson has Γεργεσηνός for Γερασηνός
+* Dodson has Βηθσαϊδά for Βηθσαϊδάν
+* Dodson conflates εὐλογέω and κατευλογέω
+* Dodson conflates στοιβάς and στιβάς
+* Dodson has πετρώδης for πετρῶδες
+* Dodson has Ἀβιάθαρ for Ἀβιαθάρ
+* Dodson has λιμά for λεμά
+* Dodson has κοῦμι for κουμ
+* Dodson is missing περισσότερον (adverb)
+* Dodson has Βοανεργές for Βοανηργές
+* Dodson has ἐπιρράπτω for ἐπιράπτω
+* Dodson has Καπερναούμ for Καφαρναούμ
+* Dodson has Ἀλφαίος for Ἁλφαῖος
+* Dodson has Ἀριμαθαία for Ἁριμαθαία
+* Dodson has ἐφφαθά for εφφαθα
+* handle two senses of βάτος
+* Dodson has Ἰσκαριώτης for Ἰσκαριώθ
+* Dodson conflates θαυμάζω and ἐκθαυμάζω
+* Dodson has Γεθσημανῆ for Γεθσημανί
+* Dodson has Βαρτίμαιος for Βαρτιμαῖος
+* Dodson conflates ἀλάβαστρον and ἀλάβαστρος
+* Dodson has Ἰάειρος for Ἰάϊρος
+* Dodson is missing ἀμφιβάλλω
+* Dodson conflates ὠτίον and ὠτάριον
+* Dodson conflates συστασιαστής and στασιαστής
+* Dodson missing ἔννυχα (is it ἔννυχος?)
+* Dodson missing ὀψία
+* check κεφαλαιόω (Dodson) vs κεφαλιόω
+* Dodson has μογγιλάλος for μογιλάλος
+* Dodson missing ἀλλαχοῦ
+* Dodson missing ἐκπερισσῶς
+* Dodson missing Μαθθαῖος
