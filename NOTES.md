@@ -305,3 +305,19 @@
 * Dodson missing ἀλλαχοῦ
 * Dodson missing ἐκπερισσῶς
 * Dodson missing Μαθθαῖος
+* morphcat gives GK of Βηθανία as 1029; Dodson gave 1028,1030
+* morphcat has ταλιθά for ταλιθα
+* morphcat has πετρώδης for πετρῶδες
+* morphcat missing ὁμοιάζω
+* morphcat has λεπτός for λεπτόν
+* morphcat has κοῦμ for κουμ
+* morphcat has θανάσιμος for θανάσιμον
+* morphcat has εὔκοπος for εὐκοπώτερος
+* morphcat has ἐφφαθά for εφφαθα
+* morphcat has Ἡρώδιανοί for Ἡρῳδιανοί
+* morphcat has Ἡρώδιάς for Ἡρῳδιάς
+* morphcat missing δύσις
+* morphcat missing ἔννυχα
+* morphcat missing Μαθθαῖος
+* morphcat missing περισσότερον
+* morphcat missing ψίξ

@@ -48,6 +48,8 @@ regexes = [
     
     # indeclinable verb
     r"V/ARAM@None@None$", # @@@
+    r"V/ARAM@ARAM@n-3g\(2\)$", # @@@
+    r"V/ARAM@ARAM,HEB@n-3g\(2\)$", # @@@
 
     # ἰδού/ἴδε
     r"X/V@V@\?\?$", # @@@
@@ -70,17 +72,21 @@ regexes = [
     r"A@A,ADV-C@a-1a\(2a\)$", # @@@
     r"A@ADV-S@a-1a\(1\)$", # @@@
     r"A/ADV-S@ADV-S@None$", # @@@
+    r"A/ADV@ADV@adverb$", # @@@
     
     # adjectives that tisch has as adverbs
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
     r"A/ADV-C@A@a-1a\(1\)$", # @@@
     r"A/ADV@A@a-1a\(1\)$", # @@@
+    r"A/ADV@None@None$", # @@@
 
     # adjectives that are numbers
     r"A@A,A-NUI@a-5$", # @@@
     r"A@A-NUI@n-3g\(2\)$", # @@@
     r"A@A@n-3g\(2\)$", # @@@
+
+    r"A@A@n-3c\(2\)$", # @@@
     
     # adjective / adverb conflation
     r"A/ADV@ADV@\['a-1a\(1\)', 'adverb'\]$", # @@@
@@ -90,7 +96,8 @@ regexes = [
     # nouns
     r"N@N:M@n-1a$", # @@@
     r"N@N:F@n-1a$", # @@@
-    r"N@N:F@n-1b$",
+    r"N@N:M@n-1b$", # @@@
+    r"N@N:F@n-1b$", # @@@
     r"N@N:F@n-1c$",
     r"N@N:M@n-1d$",
     r"N@N:M@n-1e$",
@@ -120,6 +127,7 @@ regexes = [
 
     # indeclinable hebrew nouns
     r"N/HEB@HEB@n-3g\(2\)$",
+    r"N/HEB@HEB,N:M@n-3g\(2\)$",
 
     # indeclinable aramaic nouns
     r"N/ARAM@ARAM@n-3g\(2\)$",
@@ -132,8 +140,11 @@ regexes = [
     r"N@N:F,N:N@n-2c$", # @@@
     r"N@N:M,N:N@n-2c$", # @@@
     r"N@N:M,N:N@n-3[0-9a-z\(\)]+$", # @@@
+    r"N@N:F,N:M@n-3[0-9a-z\(\)]+$", # @@@
     r"N@N:M,N:N@\['n-2c', 'n-2a'\]$", # @@@
-    
+    r"N@N:F,N:M@None$", # @@@
+    r"N@N:F,N-PRI@n-1a$", # @@@
+
     r"\['N', 'X'\]@\['N:M', 'PRT'\]@None", # @@@
     
     # nouns missing in dodson
@@ -141,10 +152,12 @@ regexes = [
     
     # nouns missing in morphcat
     r"N@N:M@None$",
+    r"N@N:N@None$",
     r"N@N:F@None$",
     
     # nouns missing in dodson and morphcat
     r"N@None@None$",
+    r"N@None@\?\?$", 
     
     # noun / adjective / cross-over conflation
     r"A@N:M@n-1f$", # @@@
@@ -158,11 +171,14 @@ regexes = [
     r"A/N@N:M@n-2a$", # @@@
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
+    r"A/N@N:N@None$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
     r"A/N@N:F@n-1a$", # @@@
     r"N/A@A@a-3a$", # @@@
     r"A@A@n-3c\(6b\)", # @@@
+    r"A/N@N:M@a-1a\(1\)$", # @@@
+    r"A/N@N:M@a-1a\(2a\)$", # @@@
 
     r"N/ADV-K@ADV-K@adverb$", # @@@
     
@@ -218,6 +234,7 @@ regexes = [
     
     r"C@CONJ@particle$", # @@@
     r"C/ADV@ADV@adverb$", # @@@
+    r"C/ADV-K@ADV-K@adverb$", # @@@
     r"C/ADV@None@adverb$", # @@@
     r"C/ADV@ADV@particle$", # @@@
     r"C/ADV@ADV,ADV-I@particle$", # @@@
@@ -239,6 +256,9 @@ regexes = [
     # adverbs missing in morphcat
     r"D@ADV@None$", 
     
+    # adverbs missing in both dodson and morphcat
+    r"D@None@None$",
+
     r"D/ADV-S@ADV-S@adverb$", # @@@
     r"D@ADV-S@adverb$", # @@@
     r"D@ADV-S@None$", # @@@
@@ -264,6 +284,8 @@ regexes = [
     r"D/V@V@adverb$", # @@@
     r"D/N@None@None$", # @@@
     
+    r"D/ARAM@ARAM,HEB@n-3g\(2\)$", # @@@
+
     # prepositions missing in dodson
     r"P@None@prep$",
 
@@ -278,6 +300,7 @@ regexes = [
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
     r"X/INJ@INJ,N-OI@interjectio$", # @@@
+    r"X/INJ@INJ@interjecti$", # @@@
     r"X/INJ@INJ@interj$", # @@@
     r"X/ADV-N@ADV-N@particle$", # @@@
     r"X/ADV@ADV@adverb$", # @@@
