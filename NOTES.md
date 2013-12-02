@@ -321,3 +321,23 @@
 * morphcat missing Μαθθαῖος
 * morphcat missing περισσότερον
 * morphcat missing ψίξ
+* BDAG has βαΐον for βάϊον
+* BDAG has Γαββαθᾶ for Γαββαθα
+* BDAG missing Ἰσκαριώτης
+* BDAG doesn't have καίτοιγε (split?)
+* BDAG missing πότερον
+* Dodson has Ἐφραΐμ for Ἐφραίμ
+* Dodson has Βηθλεέμ for Βηθλέεμ
+* Dodson conflates ἀπαγγέλλω and ἀγγέλλω
+* Dodson has πότερος for πότερον
+* Dodson conflates ἐπικατάρατος and ἐπάρατος
+* Dodson is missing Σαλείμ
+* Dodson has Σαμαρείτης for Σαμαρίτης
+* Dodson has Σαμαρεῖτις for Σαμαρῖτις
+* Dodson has Κανᾶ for Κανά
+* Dodson has Λευΐτης for Λευίτης
+* Dodson has λιθόστρωτον for λιθόστρωτος
+* morphcat has Ἇννας for Ἅννας
+* morphcat is missing νύσσω
+* morphcat is missing Σαλείμ
+* morphcat has χειμάρρους for χείμαρρος

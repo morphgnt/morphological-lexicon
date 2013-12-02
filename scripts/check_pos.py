@@ -78,6 +78,7 @@ regexes = [
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
     r"A/ADV-C@A@a-1a\(1\)$", # @@@
+    r"A/ADV-C@ADV-C@adverb$", # @@@
     r"A/ADV@A@a-1a\(1\)$", # @@@
     r"A/ADV@None@None$", # @@@
 
@@ -122,6 +123,8 @@ regexes = [
     r"N@N-PRI@n-3g\(1\)$",
     r"N@N-PRI@n-3g\(2\)$",
 
+    r"N@N-PRI@\?\?$", # @@@
+
     # indeclinable letter names
     r"N@N-LI@n-3g\(2\)$",
 
@@ -154,6 +157,7 @@ regexes = [
     r"N@N:M@None$",
     r"N@N:N@None$",
     r"N@N:F@None$",
+    r"N@N:M@\?\?$",
     
     # nouns missing in dodson and morphcat
     r"N@None@None$",
@@ -234,6 +238,7 @@ regexes = [
     
     r"C@CONJ@particle$", # @@@
     r"C/ADV@ADV@adverb$", # @@@
+    r"C/ADV@ADV-N@adverb$", # @@@
     r"C/ADV-K@ADV-K@adverb$", # @@@
     r"C/ADV@None@adverb$", # @@@
     r"C/ADV@ADV@particle$", # @@@

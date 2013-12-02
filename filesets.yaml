@@ -3,6 +3,7 @@ sblgnt-lexemes:
     prefix: ../sblgnt/
     files:
         - 62-Mk-morphgnt.txt
+        - 64-Jn-morphgnt.txt
         - 66-Ro-morphgnt.txt
         - 67-1Co-morphgnt.txt
         - 68-2Co-morphgnt.txt
