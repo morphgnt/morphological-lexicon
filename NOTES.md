@@ -341,3 +341,11 @@
 * morphcat is missing νύσσω
 * morphcat is missing Σαλείμ
 * morphcat has χειμάρρους for χείμαρρος
+* BDAG only has ἀλάβαστρος not ἀλάβαστρον
+* BDAG missing Ναζαρέθ
+* Dodson conflates Βαριωνᾶς and Βαριωνᾶ
+* Dodson conflates ἐντεῦθεν and ἔνθεν
+* Dodson has Ζαρά for Ζάρα
+* Dodson conflates κρυπτός and κρυφαῖος
+* Dodson has τετράρχης for τετραάρχης
+* Dodson has Ἠλί for ἠλί

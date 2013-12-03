@@ -43,6 +43,14 @@
     dodson-pos: N-PRI
     gloss: Abel
     mounce-morphcat: n-3g(2)
+Ἀβιά:
+    pos: N
+    bdag-headword: Ἀβιά
+    dodson-entry: Ἀβιά, ὁ
+    strongs: 7
+    gk: 7
+    dodson-pos: N-PRI
+    gloss: Abijah
 Ἀβιαθάρ:
     pos: N
     bdag-headword: Ἀβιαθάρ
@@ -52,6 +60,14 @@
     dodson-pos: N-PRI
     gloss: Abiathar
     mounce-morphcat: n-3g(2)
+Ἀβιούδ:
+    pos: N
+    bdag-headword: Ἀβιούδ
+    dodson-entry: Ἀβιούδ, ὁ
+    strongs: 10
+    gk: 10
+    dodson-pos: N-PRI
+    gloss: Abiud
 Ἀβραάμ:
     pos: N
     bdag-headword: Ἀβραάμ
@@ -214,6 +230,14 @@
     dodson-pos: V
     gloss: I impress, send
     mounce-morphcat: v-1a(6)
+ἀγγεῖον:
+    pos: N
+    bdag-headword: ἀγγεῖον
+    dodson-entry: ἀγγεῖον, ου, τό
+    strongs: 30
+    gk: 31,35
+    dodson-pos: N:N
+    gloss: a vessel, flask, can
 ἀγγελία:
     pos: N
     bdag-headword: ἀγγελία
@@ -237,6 +261,9 @@
     dodson-pos: N:M
     gloss: an angel, messenger
     mounce-morphcat: n-2a
+ἄγγος:
+    pos: N
+    bdag-headword: ἄγγος
 ἄγε:
     pos: V
     bdag-headword: ἄγε
@@ -312,6 +339,14 @@
     dodson-pos: N:F
     gloss: a holy or sanctified state
     mounce-morphcat: n-1b
+ἄγκιστρον:
+    pos: N
+    bdag-headword: ἄγκιστρον
+    dodson-entry: ἄγκιστρον, ου, τό
+    strongs: 44
+    gk: 45
+    dodson-pos: N:N
+    gloss: a fish-hook
 ἄγκυρα:
     pos: N
     bdag-headword: ἄγκυρα
@@ -708,6 +743,14 @@
     dodson-pos: N:F
     gloss: lavishness
     mounce-morphcat: n-3c(1)
+ἀδυνατέω:
+    pos: V
+    bdag-headword: ἀδυνατέω
+    dodson-entry: ἀδυνατέω
+    strongs: 101
+    gk: 104
+    dodson-pos: V
+    gloss: to be impossible
 ἀδύνατος:
     pos: A
     bdag-headword: ἀδύνατος
@@ -753,6 +796,14 @@
     dodson-pos: A
     gloss: unleavened, the paschal feast, uncorrupted
     mounce-morphcat: a-3a
+Ἀζώρ:
+    pos: N
+    bdag-headword: Ἀζώρ
+    dodson-entry: Ἀζώρ, ὁ
+    strongs: 107
+    gk: 110
+    dodson-pos: N-PRI
+    gloss: Azor
 ἀήρ:
     pos: N
     bdag-headword: ἀήρ
@@ -852,6 +903,14 @@
     dodson-pos: V
     gloss: I lose heart
     mounce-morphcat: cv-1d(2a)
+ἀθῷος:
+    pos: A
+    bdag-headword: ἀθῷος
+    dodson-entry: ἀθῷος, ον
+    strongs: 121
+    gk: 127
+    dodson-pos: A
+    gloss: guiltless
 αἴγειος:
     pos: A
     bdag-headword: αἴγειος
@@ -924,6 +983,14 @@
     dodson-pos: N:F
     gloss: a shedding or pouring forth of blood
     mounce-morphcat: n-1a
+αἱμορροέω:
+    pos: V
+    bdag-headword: αἱμορροέω
+    dodson-entry: αἱμορροέω
+    strongs: 131
+    gk: 137
+    dodson-pos: V
+    gloss: I suffer from a continual flow (oozing) of blood
 αἴνεσις:
     pos: N
     bdag-headword: αἴνεσις
@@ -951,6 +1018,14 @@
     dodson-pos: N:N
     gloss: a riddle, an enigma
     mounce-morphcat: n-3c(4)
+αἶνος:
+    pos: N
+    bdag-headword: αἶνος
+    dodson-entry: αἶνος, ου, ὁ
+    strongs: 136
+    gk: 142
+    dodson-pos: N:M
+    gloss: praise
 Αἰνών:
     pos: N
     bdag-headword: Αἰνών
@@ -978,6 +1053,14 @@
     dodson-pos: N:F
     gloss: a self-chosen opinion, a sect
     mounce-morphcat: n-3e(5b)
+αἱρετίζω:
+    pos: V
+    bdag-headword: αἱρετίζω
+    dodson-entry: αἱρετίζω
+    strongs: 140
+    gk: 147
+    dodson-pos: V
+    gloss: I choose
 αἱρετικός:
     pos: A
     bdag-headword: αἱρετικός
@@ -1320,6 +1403,14 @@
     dodson-pos: V
     gloss: I reach maturity, become ripe
     mounce-morphcat: v-2a(1)
+ἀκμήν:
+    pos: D/N-ASF
+    bdag-headword: ἀκμήν
+    dodson-entry: ἀκμήν
+    strongs: 188
+    gk: 197
+    dodson-pos: N:F
+    gloss: even now
 ἀκοή:
     pos: N
     bdag-headword: ἀκοή
@@ -1374,6 +1465,14 @@
     dodson-pos: A
     gloss: unmixed, undiluted
     mounce-morphcat: a-3a
+ἀκριβόω:
+    pos: V
+    bdag-headword: ἀκριβόω
+    dodson-entry: ἀκριβόω
+    strongs: 198
+    gk: 208
+    dodson-pos: V
+    gloss: I examine carefully, inquire strictly
 ἀκριβῶς:
     pos: D
     bdag-headword: ἀκριβῶς
@@ -1468,6 +1567,13 @@
     pos: N
     bdag-headword: ἅλα
     gk: 221
+ἀλάβαστρον:
+    pos: N
+    dodson-entry: ἀλάβαστρον, ου, τό
+    strongs: 211
+    gk: 222,223
+    dodson-pos: N:N
+    gloss: an alabaster phial or bottle
 ἀλάβαστρος:
     pos: N
     bdag-headword: ἀλάβαστρος
@@ -1566,6 +1672,14 @@
     dodson-pos: N:M
     gloss: Alexander
     mounce-morphcat: n-2a
+ἄλευρον:
+    pos: N
+    bdag-headword: ἄλευρον
+    dodson-entry: ἄλευρον, ου, τό
+    strongs: 224
+    gk: 236
+    dodson-pos: N:N
+    gloss: meal, flour
 ἀλήθεια:
     pos: N
     bdag-headword: ἀλήθεια
@@ -1602,6 +1716,14 @@
     dodson-pos: A
     gloss: true, real, genuine
     mounce-morphcat: a-1a(2a)
+ἀλήθω:
+    pos: V
+    bdag-headword: ἀλήθω
+    dodson-entry: ἀλήθω
+    strongs: 229
+    gk: 241
+    dodson-pos: V
+    gloss: I grind
 ἀληθῶς:
     pos: D
     bdag-headword: ἀληθῶς
@@ -1816,6 +1938,22 @@
     dodson-pos: N:M
     gloss: Alphaeus
     mounce-morphcat: n-2a
+ἅλων:
+    pos: N
+    bdag-headword: ἅλων
+    dodson-entry: ἅλων, ωνος, ἡ
+    strongs: 257
+    gk: 272
+    dodson-pos: N:F
+    gloss: a threshing-floor
+ἀλώπηξ:
+    pos: N
+    bdag-headword: ἀλώπηξ
+    dodson-entry: ἀλώπηξ, εκος, ἡ
+    strongs: 258
+    gk: 273
+    dodson-pos: N:F
+    gloss: a fox
 ἅλωσις:
     pos: N
     bdag-headword: ἅλωσις
@@ -2032,6 +2170,14 @@
     dodson-pos: A
     gloss: undefiled, untainted
     mounce-morphcat: a-3a
+Ἀμιναδάβ:
+    pos: N
+    bdag-headword: Ἀμιναδάβ
+    dodson-entry: Ἀμιναδάβ, ὁ
+    strongs: 284
+    gk: 300
+    dodson-pos: N-PRI
+    gloss: Amminadab
 ἄμμος:
     pos: N
     bdag-headword: ἄμμος
@@ -2091,6 +2237,22 @@
     bdag-headword: ἀμφιβάλλω
     gk: 311
     mounce-morphcat: cv-2d(1)
+ἀμφίβληστρον:
+    pos: N
+    bdag-headword: ἀμφίβληστρον
+    dodson-entry: ἀμφίβληστρον, ου, τό
+    strongs: 293
+    gk: 312
+    dodson-pos: N:N
+    gloss: a fishing net, drag-net
+ἀμφιέννυμι:
+    pos: V
+    bdag-headword: ἀμφιέννυμι
+    dodson-entry: ἀμφιέννυμι
+    strongs: 294
+    gk: 313,314
+    dodson-pos: V
+    gloss: I put on, clothe
 ἄμφοδον:
     pos: N
     bdag-headword: ἄμφοδον
@@ -2132,6 +2294,14 @@
     dodson-pos: A
     gloss: blameless
     mounce-morphcat: a-3a
+Ἀμώς:
+    pos: N
+    bdag-headword: Ἀμώς
+    dodson-entry: Ἀμώς, ὁ
+    strongs: 301
+    gk: 322
+    dodson-pos: N-PRI
+    gloss: Amos
 ἄν:
     pos: X
     dodson-entry: ἄν
@@ -2158,6 +2328,14 @@
     dodson-pos: V
     gloss: I go up, mount, ascend
     mounce-morphcat: cv-2d(6)
+ἀναβιβάζω:
+    pos: V
+    bdag-headword: ἀναβιβάζω
+    dodson-entry: ἀναβιβάζω
+    strongs: 307
+    gk: 328
+    dodson-pos: V
+    gloss: I draw up
 ἀναβλέπω:
     pos: V
     bdag-headword: ἀναβλέπω
@@ -2167,6 +2345,14 @@
     dodson-pos: V
     gloss: I look up, recover my sight
     mounce-morphcat: cv-1b(1)
+ἀναβοάω:
+    pos: V
+    bdag-headword: ἀναβοάω
+    dodson-entry: ἀναβοάω
+    strongs: 310
+    gk: 331
+    dodson-pos: V
+    gloss: I shout upwards, cry out, raise my voice
 ἀνάγαιον:
     pos: N
     bdag-headword: ἀνάγαιον
@@ -2334,6 +2520,14 @@
     dodson-pos: V
     gloss: I take up, abolish, murder
     mounce-morphcat: cv-1d(2a)
+ἀναίτιος:
+    pos: A
+    bdag-headword: ἀναίτιος
+    dodson-entry: ἀναίτιος, ον
+    strongs: 338
+    gk: 360
+    dodson-pos: A
+    gloss: guiltless
 ἀνακαινίζω:
     pos: V
     bdag-headword: ἀνακαινίζω
@@ -2834,6 +3028,14 @@
     dodson-pos: A
     gloss: unspeakable
     mounce-morphcat: a-3a
+ἀνεκτός:
+    pos: A
+    bdag-headword: ἀνεκτός
+    dodson-entry: ἀνεκτός, ή, όν
+    strongs: 414
+    gk: 445
+    dodson-pos: A
+    gloss: endurable, tolerable
 ἀνελεήμων:
     pos: A
     bdag-headword: ἀνελεήμων
@@ -2956,6 +3158,14 @@
     dodson-pos: N:M
     gloss: a cousin
     mounce-morphcat: n-2a
+ἄνηθον:
+    pos: N
+    bdag-headword: ἄνηθον
+    dodson-entry: ἄνηθον, ου, τό
+    strongs: 432
+    gk: 464
+    dodson-pos: N:N
+    gloss: anise, dill
 ἀνήκω:
     pos: V
     bdag-headword: ἀνήκω
@@ -3499,6 +3709,14 @@
     dodson-pos: A
     gloss: useless, unprofitable
     mounce-morphcat: a-4a
+ἀξίνη:
+    pos: N
+    bdag-headword: ἀξίνη
+    dodson-entry: ἀξίνη, ης, ἡ
+    strongs: 513
+    gk: 544
+    dodson-pos: N:F
+    gloss: an axe
 ἄξιος:
     pos: A
     bdag-headword: ἄξιος
@@ -3544,6 +3762,14 @@
     dodson-pos: V
     gloss: I report, bring a report, announce
     mounce-morphcat: cv-2d(1)
+ἀπάγχομαι:
+    pos: V
+    bdag-headword: ἀπάγχω
+    dodson-entry: ἀπάγχω
+    strongs: 519
+    gk: 551
+    dodson-pos: V
+    gloss: I choke, strangle
 ἀπάγω:
     pos: V
     bdag-headword: ἀπάγω
@@ -3919,6 +4145,14 @@
     dodson-pos: N:F
     gloss: simplicity, sincerity, purity
     mounce-morphcat: n-3c(1)
+ἁπλοῦς:
+    pos: A
+    bdag-headword: ἁπλοῦς
+    dodson-entry: ἁπλοῦς, ῆ, οῦν
+    strongs: 573
+    gk: 604,606
+    dodson-pos: A
+    gloss: single, simple, sound
 ἁπλῶς:
     pos: D
     bdag-headword: ἁπλῶς
@@ -4099,6 +4333,14 @@
     dodson-pos: N:F
     gloss: a putting off, a laying down
     mounce-morphcat: n-3e(5b)
+ἀποθήκη:
+    pos: N
+    bdag-headword: ἀποθήκη
+    dodson-entry: ἀποθήκη, ης, ἡ
+    strongs: 596
+    gk: 630
+    dodson-pos: N:F
+    gloss: a repository, granary, barn, storehouse
 ἀποθησαυρίζω:
     pos: V
     bdag-headword: ἀποθησαυρίζω
@@ -4368,6 +4610,14 @@
     dodson-pos: V
     gloss: I apportion, render as due
     mounce-morphcat: cv-1d(2c)
+ἀπονίπτω:
+    pos: V
+    bdag-headword: ἀπονίπτω
+    dodson-entry: ἀπονίπτω
+    strongs: 633
+    gk: 672
+    dodson-pos: V
+    gloss: I wash dirt off
 ἀποπλανάω:
     pos: V
     bdag-headword: ἀποπλανάω
@@ -4404,6 +4654,14 @@
     dodson-pos: N:N
     gloss: a shadow, a faint image or copy
     mounce-morphcat: n-3c(4)
+ἀποσπάω:
+    pos: V
+    bdag-headword: ἀποσπάω
+    dodson-entry: ἀποσπάω
+    strongs: 645
+    gk: 685
+    dodson-pos: V
+    gloss: I wrench away from, drag away, withdraw
 ἀποστασία:
     pos: N
     bdag-headword: ἀποστασία
@@ -4602,6 +4860,14 @@
     dodson-pos: N:F
     gloss: using up
     mounce-morphcat: n-3e(5b)
+ἀποχωρέω:
+    pos: V
+    bdag-headword: ἀποχωρέω
+    dodson-entry: ἀποχωρέω
+    strongs: 672
+    gk: 713
+    dodson-pos: V
+    gloss: I go away, depart
 ἀποχωρίζομαι:
     pos: V
     bdag-headword: ἀποχωρίζω
@@ -4719,6 +4985,14 @@
     dodson-pos: N:F
     gloss: Arabia
     mounce-morphcat: n-1a
+Ἀράμ:
+    pos: N
+    bdag-headword: Ἀράμ
+    dodson-entry: Ἀράμ, ὁ
+    strongs: 689
+    gk: 98,730,763
+    dodson-pos: N-PRI
+    gloss: Ram
 ἄραφος:
     pos: A
     bdag-headword: ἄραφος
@@ -4881,6 +5155,14 @@
     dodson-pos: N:M
     gloss: Aristobulus
     mounce-morphcat: n-2a
+ἄριστον:
+    pos: N
+    bdag-headword: ἄριστον
+    dodson-entry: ἄριστον, ου, τό
+    strongs: 712
+    gk: 756
+    dodson-pos: N:N
+    gloss: breakfast or a mid-day meal
 ἀρκετός:
     pos: A
     bdag-headword: ἀρκετός
@@ -5124,6 +5406,14 @@
     dodson-pos: A
     gloss: original, primitive, ancient
     mounce-morphcat: a-1a(1)
+Ἀρχέλαος:
+    pos: N
+    bdag-headword: Ἀρχέλαος
+    dodson-entry: Ἀρχέλαος, ου, ὁ
+    strongs: 745
+    gk: 793
+    dodson-pos: N:M
+    gloss: Archelaus
 ἀρχή:
     pos: N
     bdag-headword: ἀρχή
@@ -5232,6 +5522,9 @@
     dodson-pos: A
     gloss: unshaken, immovable
     mounce-morphcat: a-3a
+Ἀσάφ:
+    pos: N
+    bdag-headword: Ἀσάφ
 ἄσβεστος:
     pos: A
     bdag-headword: ἄσβεστος
@@ -5394,6 +5687,14 @@
     dodson-pos: A
     gloss: implacable
     mounce-morphcat: a-3a
+ἀσσάριον:
+    pos: N
+    bdag-headword: ἀσσάριον
+    dodson-entry: ἀσσάριον, ίου, τό
+    strongs: 787
+    gk: 837
+    dodson-pos: N:N
+    gloss: a small coin
 ἀστατέω:
     pos: V
     bdag-headword: ἀστατέω
@@ -5511,6 +5812,14 @@
     dodson-pos: A
     gloss: safe, reliable, trustworthy
     mounce-morphcat: a-4a
+ἀσφαλίζω:
+    pos: V
+    bdag-headword: ἀσφαλίζω
+    dodson-entry: ἀσφαλίζω
+    strongs: 805
+    gk: 856
+    dodson-pos: V
+    gloss: I make safe
 ἀσφαλῶς:
     pos: D
     bdag-headword: ἀσφαλῶς
@@ -5709,6 +6018,14 @@
     dodson-pos: N:M
     gloss: a flute-player
     mounce-morphcat: n-1f
+αὐλίζομαι:
+    pos: V
+    bdag-headword: αὐλίζομαι
+    dodson-entry: αὐλίζομαι
+    strongs: 835
+    gk: 887
+    dodson-pos: V
+    gloss: I lodge, pass the night
 αὐλός:
     pos: N
     bdag-headword: αὐλός
@@ -5794,6 +6111,14 @@
     dodson-pos: P
     gloss: he, she, it, they, them, same
     mounce-morphcat: a-1a(2b)
+αὐτοῦ:
+    pos: D
+    bdag-headword: αὐτοῦ
+    dodson-entry: αὐτοῦ
+    strongs: 847
+    gk: 898
+    dodson-pos: ADV
+    gloss: here, there
 αὐχέω:
     pos: V
     bdag-headword: αὐχέω
@@ -6034,6 +6359,9 @@
     dodson-pos: A
     gloss: soundless, voiceless, speechless, dumb
     mounce-morphcat: a-3a
+Ἀχάζ:
+    pos: N
+    bdag-headword: Ἀχάζ
 Ἀχαΐα:
     pos: N
     bdag-headword: Ἀχαΐα
@@ -6070,6 +6398,9 @@
     dodson-pos: A
     gloss: not made by hand, not handmade
     mounce-morphcat: a-3a
+Ἀχίμ:
+    pos: N
+    bdag-headword: Ἀχίμ
 ἀχρειόομαι:
     pos: V
     bdag-headword: ἀχρειόω
@@ -6079,6 +6410,14 @@
     dodson-pos: V
     gloss: I am good for nothing
     mounce-morphcat: v-1d(3)
+ἀχρεῖος:
+    pos: A
+    bdag-headword: ἀχρεῖος
+    dodson-entry: ἀχρεῖος, ον
+    strongs: 888
+    gk: 945
+    dodson-pos: A
+    gloss: unprofitable, useless, unworthy
 ἄχρηστος:
     pos: A
     bdag-headword: ἄχρηστος
@@ -6099,6 +6438,14 @@
     mounce-morphcat: ??
 ἄχρις:
     pos: P/ADV
+ἄχυρον:
+    pos: N
+    bdag-headword: ἄχυρον
+    dodson-entry: ἄχυρον, ου, τό
+    strongs: 892
+    gk: 949
+    dodson-pos: N:N
+    gloss: chaff
 ἀψευδής:
     pos: A
     bdag-headword: ἀψευδής
@@ -6271,6 +6618,14 @@
     dodson-pos: N-PRI
     gloss: Barak
     mounce-morphcat: n-3g(2)
+Βαραχίας:
+    pos: N
+    bdag-headword: Βαραχίας
+    dodson-entry: Βαραχίας, ου, ὁ
+    strongs: 914
+    gk: 974
+    dodson-pos: N:M
+    gloss: Barachiah
 βάρβαρος:
     pos: A
     bdag-headword: βάρβαρος
@@ -6289,6 +6644,14 @@
     dodson-pos: V
     gloss: I weight, load, burden
     mounce-morphcat: v-1d(2a)
+βαρέως:
+    pos: D
+    bdag-headword: βαρέως
+    dodson-entry: βαρέως
+    strongs: 917
+    gk: 977
+    dodson-pos: ADV
+    gloss: heavily, with difficulty
 Βαρθολομαῖος:
     pos: N
     bdag-headword: Βαρθολομαῖος
@@ -6298,6 +6661,10 @@
     dodson-pos: N:M
     gloss: Bartholomew
     mounce-morphcat: n-2a
+Βαριωνᾶ:
+    pos: N
+    bdag-headword: Βαριωνᾶ
+    gk: 980
 Βαρναβᾶς:
     pos: N
     bdag-headword: Βαρναβᾶς
@@ -6334,6 +6701,14 @@
     dodson-pos: A
     gloss: heavy, weighty, burdensome
     mounce-morphcat: a-2b
+βαρύτιμος:
+    pos: A
+    bdag-headword: βαρύτιμος
+    dodson-entry: βαρύτιμος, ον
+    strongs: 927
+    gk: 988
+    dodson-pos: A
+    gloss: of great price
 βασανίζω:
     pos: V
     bdag-headword: βασανίζω
@@ -6352,6 +6727,22 @@
     dodson-pos: N:M
     gloss: torture, torment
     mounce-morphcat: n-2a
+βασανιστής:
+    pos: N
+    bdag-headword: βασανιστής
+    dodson-entry: βασανιστής, οῦ, ὁ
+    strongs: 930
+    gk: 991
+    dodson-pos: N:M
+    gloss: one who tortures, a tormentor, jailor
+βάσανος:
+    pos: N
+    bdag-headword: βάσανος
+    dodson-entry: βάσανος, ου, ἡ
+    strongs: 931
+    gk: 992
+    dodson-pos: N:F
+    gloss: torture, torment
 βασιλεία:
     pos: N
     bdag-headword: βασιλεία
@@ -6440,6 +6831,9 @@
     dodson-pos: N:M
     gloss: a frog
     mounce-morphcat: n-2a
+βατταλογέω:
+    pos: V
+    bdag-headword: βατταλογέω
 βδέλυγμα:
     pos: N
     bdag-headword: βδέλυγμα
@@ -6503,6 +6897,14 @@
     dodson-pos: A
     gloss: profane, secular, unspiritual, godless, worldly
     mounce-morphcat: a-3a
+βεβηλόω:
+    pos: V
+    bdag-headword: βεβηλόω
+    dodson-entry: βεβηλόω
+    strongs: 953
+    gk: 1014
+    dodson-pos: V
+    gloss: I profane
 Βεελζεβούλ:
     pos: N
     bdag-headword: Βεελζεβούλ
@@ -6609,6 +7011,17 @@
     dodson-pos: N:M
     gloss: a beryl
     mounce-morphcat: n-2a
+βιάζω:
+    pos: V
+    bdag-headword: βιάζω
+βιαστής:
+    pos: N
+    bdag-headword: βιαστής
+    dodson-entry: βιαστής, οῦ, ὁ
+    strongs: 973
+    gk: 1043
+    dodson-pos: N:M
+    gloss: a forceful, violent man
 βιβλαρίδιον:
     pos: N
     bdag-headword: βιβλαρίδιον
@@ -6771,6 +7184,9 @@
     dodson-pos: V
     gloss: I shout, call aloud
     mounce-morphcat: v-1d(1a)
+Βόες:
+    pos: N
+    bdag-headword: Βόες
 βοή:
     pos: N
     bdag-headword: βοή
@@ -6807,6 +7223,14 @@
     dodson-pos: N:M
     gloss: a helper
     mounce-morphcat: a-3a
+βόθυνος:
+    pos: N
+    bdag-headword: βόθυνος
+    dodson-entry: βόθυνος, ου, ὁ
+    strongs: 999
+    gk: 1072,1073
+    dodson-pos: N:M
+    gloss: a pit, ditch
 βόρβορος:
     pos: N
     bdag-headword: βόρβορος
@@ -7007,6 +7431,14 @@
     dodson-pos: N:F
     gloss: thunder
     mounce-morphcat: n-1b
+βροχή:
+    pos: N
+    bdag-headword: βροχή
+    dodson-entry: βροχή, ῆς, ἡ
+    strongs: 1028
+    gk: 1104
+    dodson-pos: N:F
+    gloss: a heavy rain
 βρόχος:
     pos: N
     bdag-headword: βρόχος
@@ -7016,6 +7448,14 @@
     dodson-pos: N:M
     gloss: a noose or snare
     mounce-morphcat: n-2a
+βρυγμός:
+    pos: N
+    bdag-headword: βρυγμός
+    dodson-entry: βρυγμός, οῦ, ὁ
+    strongs: 1030
+    gk: 1106
+    dodson-pos: N:M
+    gloss: a grinding or gnashing
 βρύω:
     pos: V
     bdag-headword: βρύω
@@ -7097,6 +7537,14 @@
     dodson-pos: N-PRI
     gloss: Gad
     mounce-morphcat: n-3g(2)
+Γαδαρηνός:
+    pos: A
+    bdag-headword: Γαδαρηνός
+    dodson-entry: Γαδαρηνός, ή, όν
+    strongs: 1046
+    gk: 1123
+    dodson-pos: A
+    gloss: Gadarene, belonging to Gadara
 γαζοφυλάκιον:
     pos: N
     bdag-headword: γαζοφυλάκιον
@@ -7354,6 +7802,14 @@
     dodson-pos: V
     gloss: I beget, bring forth, give birth to
     mounce-morphcat: v-1d(1a)
+γέννημα:
+    pos: N
+    bdag-headword: γέννημα
+    dodson-entry: γέννημα, ατος, τό
+    strongs: 1081
+    gk: 1163,1165
+    dodson-pos: N:N
+    gloss: offspring, child, fruit
 Γεννησαρέτ:
     pos: N
     bdag-headword: Γεννησαρέτ
@@ -7363,6 +7819,14 @@
     dodson-pos: N-PRI
     gloss: Gennesaret
     mounce-morphcat: n-3g(2)
+γεννητός:
+    pos: A
+    bdag-headword: γεννητός
+    dodson-entry: γεννητός, ή, όν
+    strongs: 1084
+    gk: 1168
+    dodson-pos: A
+    gloss: begotten, born
 γένος:
     pos: N
     bdag-headword: γένος
@@ -7831,6 +8295,14 @@
     dodson-pos: A
     gloss: demon-like
     mounce-morphcat: a-4a
+δαίμων:
+    pos: N
+    bdag-headword: δαίμων
+    dodson-entry: δαίμων, ονος, ὁ
+    strongs: 1142
+    gk: 1230
+    dodson-pos: N:M
+    gloss: an evil-spirit, demon
 δάκνω:
     pos: V
     bdag-headword: δάκνω
@@ -7921,6 +8393,30 @@
     dodson-pos: N:F
     gloss: Damascus
     mounce-morphcat: n-2b
+δανείζω:
+    pos: V
+    bdag-headword: δανείζω
+    dodson-entry: δανείζω
+    strongs: 1155
+    gk: 1244,1247
+    dodson-pos: V
+    gloss: I lend, borrow
+δάνειον:
+    pos: N
+    bdag-headword: δάνειον
+    dodson-entry: δάνειον, ου, τό
+    strongs: 1156
+    gk: 1245,1249
+    dodson-pos: N:N
+    gloss: a loan, debt
+Δανιήλ:
+    pos: N
+    bdag-headword: Δανιήλ
+    dodson-entry: Δανιήλ, ὁ
+    strongs: 1158
+    gk: 1248
+    dodson-pos: N-PRI
+    gloss: Daniel
 δαπανάω:
     pos: V
     bdag-headword: δαπανάω
@@ -8020,6 +8516,22 @@
     dodson-pos: A
     gloss: cowardly, timid
     mounce-morphcat: a-1a(2a)
+δεῖνα:
+    pos: N/A-ASM
+    bdag-headword: δεῖνα
+    dodson-entry: δεῖνα, ὁ, ἡ, τό
+    strongs: 1170
+    gk: 1265
+    dodson-pos: A
+    gloss: so and so, such a one
+δεινῶς:
+    pos: D
+    bdag-headword: δεινῶς
+    dodson-entry: δεινῶς
+    strongs: 1171
+    gk: 1267
+    dodson-pos: ADV
+    gloss: vehemently, terribly
 δειπνέω:
     pos: V
     bdag-headword: δειπνέω
@@ -8175,6 +8687,22 @@
     dodson-pos: V
     gloss: I flay, flog, scourge, beat
     mounce-morphcat: v-1c(1)
+δεσμεύω:
+    pos: V
+    bdag-headword: δεσμεύω
+    dodson-entry: δεσμεύω
+    strongs: 1195
+    gk: 1297
+    dodson-pos: V
+    gloss: I bind, put in chains
+δέσμη:
+    pos: N
+    bdag-headword: δέσμη
+    dodson-entry: δέσμη, ης, ἡ
+    strongs: 1197
+    gk: 1299
+    dodson-pos: N:F
+    gloss: a bundle
 δέσμιος:
     pos: N
     bdag-headword: δέσμιος
@@ -8193,6 +8721,14 @@
     dodson-pos: N:M,N:N
     gloss: a bond, chain
     mounce-morphcat: n-2a
+δεσμωτήριον:
+    pos: N
+    bdag-headword: δεσμωτήριον
+    dodson-entry: δεσμωτήριον, ου, τό
+    strongs: 1201
+    gk: 1303
+    dodson-pos: N:N
+    gloss: a prison
 δεσπότης:
     pos: N
     bdag-headword: δεσπότης
@@ -8454,6 +8990,14 @@
     dodson-pos: V
     gloss: I divide, distribute
     mounce-morphcat: cv-1d(2a)
+διακαθαρίζω:
+    pos: V
+    bdag-headword: διακαθαρίζω
+    dodson-entry: διακαθαρίζω
+    strongs: 1245
+    gk: 1350,1351
+    dodson-pos: V
+    gloss: I cleanse thoroughly
 διακονέω:
     pos: V
     bdag-headword: διακονέω
@@ -8508,6 +9052,14 @@
     dodson-pos: N:F
     gloss: distinguishing, deciding, passing sentence on
     mounce-morphcat: n-3e(5b)
+διακωλύω:
+    pos: V
+    bdag-headword: διακωλύω
+    dodson-entry: διακωλύω
+    strongs: 1254
+    gk: 1361
+    dodson-pos: V
+    gloss: I obstinately prevent, hinder
 διαλέγομαι:
     pos: V
     bdag-headword: διαλέγομαι
@@ -8517,6 +9069,14 @@
     dodson-pos: V
     gloss: I converse, address, preach, lecture
     mounce-morphcat: cv-1b(2)
+διαλλάσσομαι:
+    pos: V
+    bdag-headword: διαλλάσσομαι
+    dodson-entry: διαλλάσσομαι
+    strongs: 1259
+    gk: 1367
+    dodson-pos: V
+    gloss: I become reconciled to, reconcile myself with
 διαλογίζομαι:
     pos: V
     bdag-headword: διαλογίζομαι
@@ -8617,6 +9177,14 @@
     bdag-headword: διαρρήγνυμι
     gk: 1396
     mounce-morphcat: cv-3c(2)
+διασαφέω:
+    pos: V
+    bdag-headword: διασαφέω
+    dodson-entry: διασαφέω
+    strongs: 1285
+    gk: 1397
+    dodson-pos: V
+    gloss: I make clear, explain
 διασκορπίζω:
     pos: V
     bdag-headword: διασκορπίζω
@@ -8842,6 +9410,14 @@
     dodson-pos: N:F
     gloss: teaching, doctrine
     mounce-morphcat: n-1b
+δίδραχμον:
+    pos: N
+    bdag-headword: δίδραχμον
+    dodson-entry: δίδραχμον, ου, τό
+    strongs: 1323
+    gk: 1440
+    dodson-pos: N:N
+    gloss: a double-drachma, two drachmae
 Δίδυμος:
     pos: N
     bdag-headword: Δίδυμος
@@ -8869,6 +9445,14 @@
     dodson-pos: V
     gloss: I wake out of sleep, I arouse
     mounce-morphcat: cv-2d(3)
+διέξοδος:
+    pos: N
+    bdag-headword: διέξοδος
+    dodson-entry: διέξοδος, ου, ἡ
+    strongs: 1327
+    gk: 1447
+    dodson-pos: N:F
+    gloss: a public spot in a city
 διερμηνευτής:
     pos: N
     bdag-headword: διερμηνευτής
@@ -8896,6 +9480,14 @@
     dodson-pos: V
     gloss: I pass through, spread a report
     mounce-morphcat: cv-1b(2)
+διετής:
+    pos: A
+    bdag-headword: διετής
+    dodson-entry: διετής, ές
+    strongs: 1332
+    gk: 1453
+    dodson-pos: A
+    gloss: two years old
 διηγέομαι:
     pos: V
     bdag-headword: διηγέομαι
@@ -9040,6 +9632,14 @@
     dodson-pos: N:F
     gloss: improvement, reformation
     mounce-morphcat: n-3e(5b)
+διορύσσω:
+    pos: V
+    bdag-headword: διορύσσω
+    dodson-entry: διορύσσω
+    strongs: 1358
+    gk: 1482
+    dodson-pos: V
+    gloss: I dig through, break through
 διότι:
     pos: C
     bdag-headword: διότι
@@ -9090,6 +9690,14 @@
     bdag-headword: δισμυριάς
     gk: 1490
     mounce-morphcat: n-3c(2)
+διστάζω:
+    pos: V
+    bdag-headword: διστάζω
+    dodson-entry: διστάζω
+    strongs: 1365
+    gk: 1491
+    dodson-pos: V
+    gloss: I waver, doubt
 δίστομος:
     pos: A
     bdag-headword: δίστομος
@@ -9108,6 +9716,22 @@
     dodson-pos: A
     gloss: two thousand
     mounce-morphcat: a-1a(1)
+διϋλίζω:
+    pos: V
+    bdag-headword: διϋλίζω
+    dodson-entry: διϋλίζω
+    strongs: 1368
+    gk: 1494
+    dodson-pos: V
+    gloss: I strain, put through a sieve
+διχάζω:
+    pos: V
+    bdag-headword: διχάζω
+    dodson-entry: διχάζω
+    strongs: 1369
+    gk: 1495
+    dodson-pos: V
+    gloss: I set at variance, make to be hostile
 διχοστασία:
     pos: N
     bdag-headword: διχοστασία
@@ -9117,6 +9741,14 @@
     dodson-pos: N:F
     gloss: division, dissension
     mounce-morphcat: n-1a
+διχοτομέω:
+    pos: V
+    bdag-headword: διχοτομέω
+    dodson-entry: διχοτομέω
+    strongs: 1371
+    gk: 1497
+    dodson-pos: V
+    gloss: I cut in two, scourge severely
 διψάω:
     pos: V
     bdag-headword: διψάω
@@ -9239,6 +9871,14 @@
     dodson-pos: A
     gloss: approved, acceptable
     mounce-morphcat: a-3a
+δοκός:
+    pos: N
+    bdag-headword: δοκός
+    dodson-entry: δοκός, οῦ, ἡ
+    strongs: 1385
+    gk: 1512
+    dodson-pos: N:F
+    gloss: a beam
 δόλιος:
     pos: A
     bdag-headword: δόλιος
@@ -9639,6 +10279,14 @@
     dodson-pos: V
     gloss: I allow, permit, leave
     mounce-morphcat: v-1d(1b)
+ἑβδομηκοντάκις:
+    pos: D
+    bdag-headword: ἑβδομηκοντάκις
+    dodson-entry: ἑβδομηκοντάκις
+    strongs: 1441
+    gk: 1574
+    dodson-pos: ADV
+    gloss: seventy times
 ἕβδομος:
     pos: A
     bdag-headword: ἕβδομος
@@ -9718,6 +10366,14 @@
     dodson-pos: V
     gloss: I wake, arouse, raise up
     mounce-morphcat: v-2d(3)
+ἔγερσις:
+    pos: N
+    bdag-headword: ἔγερσις
+    dodson-entry: ἔγερσις, εως, ἡ
+    strongs: 1454
+    gk: 1587
+    dodson-pos: N:F
+    gloss: a waking up, resurrection
 ἐγκαίνια:
     pos: N
     bdag-headword: ἐγκαίνια
@@ -9848,6 +10504,14 @@
     dodson-pos: V
     gloss: I count among
     mounce-morphcat: cv-1c(2)
+ἐγκρύπτω:
+    pos: V
+    bdag-headword: ἐγκρύπτω
+    dodson-entry: ἐγκρύπτω
+    strongs: 1470
+    gk: 1606
+    dodson-pos: V
+    gloss: I hide in, mix with
 ἐγχρίω:
     pos: V
     bdag-headword: ἐγχρίω
@@ -9884,6 +10548,14 @@
     dodson-pos: N:N
     gloss: a foundation, stay, support
     mounce-morphcat: n-3c(4)
+Ἑζεκίας:
+    pos: N
+    bdag-headword: Ἑζεκίας
+    dodson-entry: Ἑζεκίας, ου, ὁ
+    strongs: 1478
+    gk: 1614
+    dodson-pos: N:M
+    gloss: Hezekiah
 ἐθελοθρησκία:
     pos: N
     bdag-headword: ἐθελοθρησκία
@@ -9947,6 +10619,9 @@
     dodson-pos: COND
     gloss: if
     mounce-morphcat: particle
+εἰδέα:
+    pos: N
+    bdag-headword: εἰδέα
 εἶδος:
     pos: N
     bdag-headword: εἶδος
@@ -10112,6 +10787,14 @@
     dodson-pos: V
     gloss: I make peace, reconcile
     mounce-morphcat: cv-1d(2a)
+εἰρηνοποιός:
+    pos: A
+    bdag-headword: εἰρηνοποιός
+    dodson-entry: εἰρηνοποιός, όν
+    strongs: 1518
+    gk: 1648
+    dodson-pos: A
+    gloss: pacific, loving peace, a peace-maker
 εἰς:
     pos: P
     bdag-headword: εἰς
@@ -10283,6 +10966,17 @@
     dodson-pos: A
     gloss: a hundredfold
     mounce-morphcat: a-4b(1)
+ἑκατοντάρχης:
+    pos: N
+    bdag-headword: ἑκατοντάρχης
+    dodson-entry: ἑκατοντάρχης, ου, ὁ
+    strongs: 1543
+    gk: 1672,1673
+    dodson-pos: N:M
+    gloss: a centurion
+ἑκατόνταρχος:
+    pos: N
+    bdag-headword: ἑκατόνταρχος
 ἐκβαίνω:
     pos: V
     bdag-headword: ἐκβαίνω
@@ -10541,6 +11235,14 @@
     dodson-pos: V
     gloss: I cut out, cut off
     mounce-morphcat: cv-4
+ἐκλάμπω:
+    pos: V
+    bdag-headword: ἐκλάμπω
+    dodson-entry: ἐκλάμπω
+    strongs: 1584
+    gk: 1719
+    dodson-pos: V
+    gloss: I shine forth
 ἐκλανθάνω:
     pos: V
     bdag-headword: ἐκλανθάνομαι
@@ -10978,6 +11680,14 @@
     dodson-pos: A
     gloss: least, smallest, very little
     mounce-morphcat: a-1a(2a)
+Ἐλεάζαρ:
+    pos: N
+    bdag-headword: Ἐλεάζαρ
+    dodson-entry: Ἐλεάζαρ, ὁ
+    strongs: 1648
+    gk: 1789
+    dodson-pos: N-PRI
+    gloss: Eleazar
 ἐλεάω:
     pos: V
     bdag-headword: ἐλεάω
@@ -11024,6 +11734,14 @@
     dodson-pos: A
     gloss: merciful, pitiful
     mounce-morphcat: a-1a(2a)
+ἐλεημοσύνη:
+    pos: N
+    bdag-headword: ἐλεημοσύνη
+    dodson-entry: ἐλεημοσύνη, ῆς, ἡ
+    strongs: 1654
+    gk: 1797
+    dodson-pos: N:F
+    gloss: alms-giving, charity
 ἐλεήμων:
     pos: A
     bdag-headword: ἐλεήμων
@@ -11078,6 +11796,17 @@
     dodson-pos: A
     gloss: made of ivory
     mounce-morphcat: a-1a(2a)
+Ἐλιακίμ:
+    pos: N
+    bdag-headword: Ἐλιακίμ
+Ἐλιούδ:
+    pos: N
+    bdag-headword: Ἐλιούδ
+    dodson-entry: Ἐλιούδ, ὁ
+    strongs: 1664
+    gk: 1809
+    dodson-pos: N-PRI
+    gloss: Eliud
 ἑλίσσω:
     pos: V
     bdag-headword: ἑλίσσω
@@ -11234,6 +11963,14 @@
     dodson-pos: V
     gloss: I vomit forth
     mounce-morphcat: v-1d(2b)
+Ἐμμανουήλ:
+    pos: N
+    bdag-headword: Ἐμμανουήλ
+    dodson-entry: Ἐμμανουήλ, ὁ
+    strongs: 1694
+    gk: 1842
+    dodson-pos: N-PRI
+    gloss: Emmanuel
 ἐμμένω:
     pos: V
     bdag-headword: ἐμμένω
@@ -11302,6 +12039,9 @@
     dodson-pos: V
     gloss: I fill up, satisfy
     mounce-morphcat: cv-6a
+ἐμπίμπρημι:
+    pos: V
+    bdag-headword: ἐμπίμπρημι
 ἐμπίπτω:
     pos: V
     bdag-headword: ἐμπίπτω
@@ -11338,6 +12078,14 @@
     dodson-pos: V
     gloss: I travel as a merchant, engage in trade
     mounce-morphcat: cv-1a(6)
+ἐμπορία:
+    pos: N
+    bdag-headword: ἐμπορία
+    dodson-entry: ἐμπορία, ας, ἡ
+    strongs: 1711
+    gk: 1865
+    dodson-pos: N:F
+    gloss: trading, trade, trafficking, business
 ἐμπόριον:
     pos: N
     bdag-headword: ἐμπόριον
@@ -11563,6 +12311,14 @@
     dodson-pos: A
     gloss: highly esteemed, splendid, glorious
     mounce-morphcat: a-3a
+ἔνδυμα:
+    pos: N
+    bdag-headword: ἔνδυμα
+    dodson-entry: ἔνδυμα, ατος, τό
+    strongs: 1742
+    gk: 1903
+    dodson-pos: N:N
+    gloss: a garment, raiment
 ἐνδυναμόω:
     pos: V
     bdag-headword: ἐνδυναμόω
@@ -11617,6 +12373,9 @@
     dodson-pos: V
     gloss: I wrap up, roll up in something
     mounce-morphcat: cv-1d(2a)
+ἕνεκα:
+    pos: P
+    bdag-headword: ἕνεκα
 ἕνεκεν:
     pos: P
     dodson-entry: ἕνεκεν
@@ -11625,6 +12384,14 @@
     dodson-pos: PREP
     gloss: for the sake of, on account of, wherefore
     mounce-morphcat: prep
+ἐνενήκοντα:
+    pos: A
+    bdag-headword: ἐνενήκοντα
+    dodson-entry: ἐνενήκοντα
+    strongs: 1768
+    gk: 1916
+    dodson-pos: A-NUI
+    gloss: ninety
 ἐνέργεια:
     pos: N
     bdag-headword: ἐνέργεια
@@ -11688,6 +12455,18 @@
     dodson-pos: ADV
     gloss: here, in this place
     mounce-morphcat: adverb
+ἔνθεν:
+    pos: D
+    bdag-headword: ἔνθεν
+    gk: 1925
+ἐνθυμέομαι:
+    pos: V
+    bdag-headword: ἐνθυμέομαι
+    dodson-entry: ἐνθυμέομαι
+    strongs: 1760
+    gk: 1445,1926
+    dodson-pos: V
+    gloss: I meditate upon, reflect upon
 ἐνθύμησις:
     pos: N
     bdag-headword: ἐνθύμησις
@@ -11723,6 +12502,14 @@
     dodson-pos: V
     gloss: I place in or upon, am at hand, am present, threaten
     mounce-morphcat: cv-6a
+ἐννέα:
+    pos: A
+    bdag-headword: ἐννέα
+    dodson-entry: ἐννέα
+    strongs: 1767
+    gk: 1933
+    dodson-pos: A-NUI
+    gloss: nine
 ἔννοια:
     pos: N
     bdag-headword: ἔννοια
@@ -11856,6 +12643,14 @@
     dodson-pos: N:F
     gloss: an ordinance, injunction, command
     mounce-morphcat: n-1b
+ἐντός:
+    pos: D
+    bdag-headword: ἐντός
+    dodson-entry: ἐντός
+    strongs: 1787
+    gk: 1955
+    dodson-pos: ADV
+    gloss: within, inside, the inside
 ἐντρέπω:
     pos: V
     bdag-headword: ἐντρέπω
@@ -12266,6 +13061,14 @@
     dodson-pos: V
     gloss: I consent fully, confess
     mounce-morphcat: cv-1d(2a)
+ἐξορκίζω:
+    pos: V
+    bdag-headword: ἐξορκίζω
+    dodson-entry: ἐξορκίζω
+    strongs: 1844
+    gk: 2019
+    dodson-pos: V
+    gloss: I adjure, put to oath
 ἐξορύσσω:
     pos: V
     bdag-headword: ἐξορύσσω
@@ -12334,6 +13137,14 @@
     dodson-pos: ADV
     gloss: from without, outside
     mounce-morphcat: adverb
+ἐξώτερος:
+    pos: A
+    bdag-headword: ἐξώτερος
+    dodson-entry: ἐξώτερος, α, ον
+    strongs: 1857
+    gk: 2035
+    dodson-pos: A
+    gloss: outmost, outer
 ἔοικα:
     pos: V
     bdag-headword: ἔοικα
@@ -12469,6 +13280,22 @@
     dodson-pos: V
     gloss: I listen to, hear favorably
     mounce-morphcat: cv-1a(8)
+ἐπάν:
+    pos: C
+    bdag-headword: ἐπάν
+    dodson-entry: ἐπάν
+    strongs: 1875
+    gk: 2054
+    dodson-pos: CONJ
+    gloss: after, when
+ἐπανάγω:
+    pos: V
+    bdag-headword: ἐπανάγω
+    dodson-entry: ἐπανάγω
+    strongs: 1877
+    gk: 2056
+    dodson-pos: V
+    gloss: I put out, go up
 ἐπαναμιμνῄσκω:
     pos: V
     bdag-headword: ἐπαναμιμνῄσκω
@@ -12681,6 +13508,14 @@
     dodson-pos: PREP
     gloss: on, to, against, on the basis of, at
     mounce-morphcat: prep
+ἐπιβαίνω:
+    pos: V
+    bdag-headword: ἐπιβαίνω
+    dodson-entry: ἐπιβαίνω
+    strongs: 1910
+    gk: 2094
+    dodson-pos: V
+    gloss: I step on, mount, board
 ἐπιβάλλω:
     pos: V
     bdag-headword: ἐπιβάλλω
@@ -12717,6 +13552,14 @@
     dodson-pos: N:N
     gloss: a patch on a garment
     mounce-morphcat: n-3c(4)
+ἐπιγαμβρεύω:
+    pos: V
+    bdag-headword: ἐπιγαμβρεύω
+    dodson-entry: ἐπιγαμβρεύω
+    strongs: 1918
+    gk: 2102
+    dodson-pos: V
+    gloss: I marry a deceased brother's wife
 ἐπίγειος:
     pos: A
     bdag-headword: ἐπίγειος
@@ -12789,6 +13632,14 @@
     dodson-pos: V
     gloss: I furnish with additions
     mounce-morphcat: cv-2b
+ἐπιδίδωμι:
+    pos: V
+    bdag-headword: ἐπιδίδωμι
+    dodson-entry: ἐπιδίδωμι
+    strongs: 1929
+    gk: 2113,4658
+    dodson-pos: V
+    gloss: I hand in, give up, give way
 ἐπιδιορθόω:
     pos: V
     bdag-headword: ἐπιδιορθόω
@@ -12879,6 +13730,14 @@
     dodson-pos: N:F
     gloss: desire, eagerness for, inordinate desire, lust
     mounce-morphcat: n-1a
+ἐπικαθίζω:
+    pos: V
+    bdag-headword: ἐπικαθίζω
+    dodson-entry: ἐπικαθίζω
+    strongs: 1940
+    gk: 2125
+    dodson-pos: V
+    gloss: I sit upon
 ἐπικαλέω:
     pos: V
     bdag-headword: ἐπικαλέω
@@ -13023,6 +13882,14 @@
     dodson-pos: V
     gloss: I remain, tarry, persist in
     mounce-morphcat: cv-1c(2)
+ἐπιορκέω:
+    pos: V
+    bdag-headword: ἐπιορκέω
+    dodson-entry: ἐπιορκέω
+    strongs: 1964
+    gk: 2155
+    dodson-pos: V
+    gloss: I take an oath, swear falsely
 ἐπίορκος:
     pos: A
     bdag-headword: ἐπίορκος
@@ -13032,6 +13899,14 @@
     dodson-pos: A
     gloss: perjured
     mounce-morphcat: a-3a
+ἐπιούσιος:
+    pos: A
+    bdag-headword: ἐπιούσιος
+    dodson-entry: ἐπιούσιος, ον
+    strongs: 1967
+    gk: 2157
+    dodson-pos: A
+    gloss: for the morrow, necessary, sufficient
 ἐπιπίπτω:
     pos: V
     bdag-headword: ἐπιπίπτω
@@ -13176,6 +14051,9 @@
     dodson-pos: V
     gloss: I become uncircumcised
     mounce-morphcat: cv-1d(1b)
+ἐπισπείρω:
+    pos: V
+    bdag-headword: ἐπισπείρω
 ἐπίσταμαι:
     pos: V
     bdag-headword: ἐπίσταμαι
@@ -13393,6 +14271,14 @@
     dodson-pos: V
     gloss: I bring forward against
     mounce-morphcat: cv-1c(1)
+ἐπιφώσκω:
+    pos: V
+    bdag-headword: ἐπιφώσκω
+    dodson-entry: ἐπιφώσκω
+    strongs: 2020
+    gk: 2216
+    dodson-pos: V
+    gloss: I dawn, am near commencing
 ἐπιχορηγέω:
     pos: V
     bdag-headword: ἐπιχορηγέω
@@ -13483,6 +14369,14 @@
     dodson-pos: A-NUI
     gloss: seven
     mounce-morphcat: n-3g(2)
+ἑπτάκις:
+    pos: D
+    bdag-headword: ἑπτάκις
+    dodson-entry: ἑπτάκις
+    strongs: 2034
+    gk: 2232
+    dodson-pos: ADV
+    gloss: seven times
 ἑπτακισχίλιοι:
     pos: A
     bdag-headword: ἑπτακισχίλιοι
@@ -13551,6 +14445,14 @@
     dodson-pos: V
     gloss: I stir up, provoke
     mounce-morphcat: v-2a(1)
+ἐρεύγομαι:
+    pos: V
+    bdag-headword: ἐρεύγομαι
+    dodson-entry: ἐρεύγομαι
+    strongs: 2044
+    gk: 2243
+    dodson-pos: V
+    gloss: I utter, declare
 ἐρημία:
     pos: N
     bdag-headword: ἐρημία
@@ -13587,6 +14489,14 @@
     dodson-pos: N:F
     gloss: desolation, devastation
     mounce-morphcat: n-3e(5b)
+ἐρίζω:
+    pos: V
+    bdag-headword: ἐρίζω
+    dodson-entry: ἐρίζω
+    strongs: 2051
+    gk: 2248
+    dodson-pos: V
+    gloss: I contend, dispute
 ἐριθεία:
     pos: N
     bdag-headword: ἐριθεία
@@ -13614,6 +14524,22 @@
     dodson-pos: N:F
     gloss: contention, strife
     mounce-morphcat: n-3c(2)
+ἐρίφιον:
+    pos: N
+    bdag-headword: ἐρίφιον
+    dodson-entry: ἐρίφιον, ου, τό
+    strongs: 2055
+    gk: 2252
+    dodson-pos: N:N
+    gloss: a goat, kid
+ἔριφος:
+    pos: N
+    bdag-headword: ἔριφος
+    dodson-entry: ἔριφος, ου, ὁ
+    strongs: 2056
+    gk: 144,2253
+    dodson-pos: N:M
+    gloss: a goat
 Ἑρμᾶς:
     pos: N
     bdag-headword: Ἑρμᾶς
@@ -13726,6 +14652,14 @@
     dodson-pos: N:N
     gloss: a mirror
     mounce-morphcat: n-2c
+Ἑσρώμ:
+    pos: N
+    bdag-headword: Ἑσρώμ
+    dodson-entry: Ἑσρώμ, ὁ
+    strongs: 2074
+    gk: 2272
+    dodson-pos: N-PRI
+    gloss: Hezron
 ἔσχατος:
     pos: A
     bdag-headword: ἔσχατος
@@ -13771,6 +14705,14 @@
     dodson-pos: A
     gloss: inner
     mounce-morphcat: a-1a(1)
+ἑταῖρος:
+    pos: N
+    bdag-headword: ἑταῖρος
+    dodson-entry: ἑταῖρος, ου, ὁ
+    strongs: 2083
+    gk: 2279
+    dodson-pos: N:M
+    gloss: a companion, comrade
 ἑτερόγλωσσος:
     pos: A
     bdag-headword: ἑτερόγλωσσος
@@ -13956,6 +14898,14 @@
     dodson-pos: A
     gloss: of noble birth, noble
     mounce-morphcat: a-4a
+εὐδία:
+    pos: N
+    bdag-headword: εὐδία
+    dodson-entry: εὐδία, ας, ἡ
+    strongs: 2105
+    gk: 2304
+    dodson-pos: N:F
+    gloss: good weather
 εὐδοκέω:
     pos: V
     bdag-headword: εὐδοκέω
@@ -14046,6 +14996,14 @@
     dodson-pos: V
     gloss: I have a good opportunity, have leisure
     mounce-morphcat: v-1d(2a)
+εὐκαιρία:
+    pos: N
+    bdag-headword: εὐκαιρία
+    dodson-entry: εὐκαιρία, ας, ἡ
+    strongs: 2120
+    gk: 2321
+    dodson-pos: N:F
+    gloss: a convenient time, opportunity
 εὔκαιρος:
     pos: A
     bdag-headword: εὔκαιρος
@@ -14134,6 +15092,14 @@
     dodson-pos: N:F
     gloss: Eunice
     mounce-morphcat: n-1b
+εὐνοέω:
+    pos: V
+    bdag-headword: εὐνοέω
+    dodson-entry: εὐνοέω
+    strongs: 2132
+    gk: 2333
+    dodson-pos: V
+    gloss: I have good-will
 εὔνοια:
     pos: N
     bdag-headword: εὔνοια
@@ -14143,6 +15109,22 @@
     dodson-pos: N:F
     gloss: good-will
     mounce-morphcat: n-1a
+εὐνουχίζω:
+    pos: V
+    bdag-headword: εὐνουχίζω
+    dodson-entry: εὐνουχίζω
+    strongs: 2134
+    gk: 2335
+    dodson-pos: V
+    gloss: emasculate, castrate
+εὐνοῦχος:
+    pos: N
+    bdag-headword: εὐνοῦχος
+    dodson-entry: εὐνοῦχος, ου, ὁ
+    strongs: 2135
+    gk: 2336
+    dodson-pos: N:M
+    gloss: a eunuch, keeper of the bed-chamber
 Εὐοδία:
     pos: N
     bdag-headword: Εὐοδία
@@ -14228,6 +15210,14 @@
     dodson-pos: V
     gloss: I find
     mounce-morphcat: v-5b
+εὐρύχωρος:
+    pos: A
+    bdag-headword: εὐρύχωρος
+    dodson-entry: εὐρύχωρος, ον
+    strongs: 2149
+    gk: 2353
+    dodson-pos: A
+    gloss: broad, spacious
 εὐσέβεια:
     pos: N
     bdag-headword: εὐσέβεια
@@ -14530,6 +15520,14 @@
     dodson-pos: A
     gloss: hated, hostile, an enemy
     mounce-morphcat: a-1a(1)
+ἔχιδνα:
+    pos: N
+    bdag-headword: ἔχιδνα
+    dodson-entry: ἔχιδνα, ης, ἡ
+    strongs: 2191
+    gk: 2399
+    dodson-pos: N:F
+    gloss: a serpent, snake, viper
 ἔχω:
     pos: V
     bdag-headword: ἔχω
@@ -14557,6 +15555,22 @@
     dodson-pos: N-PRI
     gloss: Zebulon
     mounce-morphcat: n-3g(2)
+Ζάρα:
+    pos: N
+    bdag-headword: Ζάρα
+    dodson-entry: Ζαρά, ὁ
+    strongs: 2196
+    gk: 2406
+    dodson-pos: N-PRI
+    gloss: Zerah
+Ζαχαρίας:
+    pos: N
+    bdag-headword: Ζαχαρίας
+    dodson-entry: Ζαχαρίας, ου, ὁ
+    strongs: 2197
+    gk: 2408
+    dodson-pos: N:M
+    gloss: Zechariah
 ζάω:
     pos: V
     bdag-headword: ζάω
@@ -14670,6 +15684,17 @@
     dodson-pos: N:F
     gloss: a question, debate, controversy
     mounce-morphcat: n-3e(5b)
+ζιζάνιον:
+    pos: N
+    bdag-headword: ζιζάνιον
+    dodson-entry: ζιζάνιον, ου, τό
+    strongs: 2215
+    gk: 2429
+    dodson-pos: N:N
+    gloss: spurious wheat, darnel
+Ζοροβαβέλ:
+    pos: N
+    bdag-headword: Ζοροβαβέλ
 ζόφος:
     pos: N
     bdag-headword: ζόφος
@@ -14830,6 +15855,14 @@
     dodson-pos: N:F
     gloss: pleasure, lust, strong desire
     mounce-morphcat: n-1b
+ἡδύοσμον:
+    pos: N
+    bdag-headword: ἡδύοσμον
+    dodson-entry: ἡδύοσμον, ου, τό
+    strongs: 2238
+    gk: 2455
+    dodson-pos: N:N
+    gloss: mint, peppermint
 ἦθος:
     pos: N
     bdag-headword: ἦθος
@@ -14848,6 +15881,14 @@
     dodson-pos: V
     gloss: I have come, am present
     mounce-morphcat: v-1b(2)
+ἠλί:
+    pos: N/ARAM
+    bdag-headword: ἠλί
+    dodson-entry: Ἠλί
+    strongs: 2241
+    gk: 2458
+    dodson-pos: HEB
+    gloss: Eli
 Ἠλίας:
     pos: N
     bdag-headword: Ἠλίας
@@ -15128,6 +16169,9 @@
     dodson-pos: V
     gloss: I cherish, nourish
     mounce-morphcat: v-4
+Θαμάρ:
+    pos: N
+    bdag-headword: Θαμάρ
 θαμβέομαι:
     pos: V
     bdag-headword: θαμβέω
@@ -15217,6 +16261,14 @@
     dodson-pos: V
     gloss: I wonder, admire
     mounce-morphcat: v-2a(1)
+θαυμάσιος:
+    pos: A
+    bdag-headword: θαυμάσιος
+    dodson-entry: θαυμάσιος, α, ον
+    strongs: 2297
+    gk: 2514
+    dodson-pos: A
+    gloss: wonderful
 θαυμαστός:
     pos: A
     bdag-headword: θαυμαστός
@@ -15442,6 +16494,14 @@
     dodson-pos: N:M
     gloss: reaping, harvest
     mounce-morphcat: n-2a
+θεριστής:
+    pos: N
+    bdag-headword: θεριστής
+    dodson-entry: θεριστής, οῦ, ὁ
+    strongs: 2327
+    gk: 2547
+    dodson-pos: N:M
+    gloss: a reaper, harvester
 θερμαίνομαι:
     pos: V
     bdag-headword: θερμαίνω
@@ -15757,6 +16817,14 @@
     dodson-pos: N:N
     gloss: altar of incense
     mounce-morphcat: n-2c
+θυμόομαι:
+    pos: V
+    bdag-headword: θυμόω
+    dodson-entry: θυμόω
+    strongs: 2373
+    gk: 2597
+    dodson-pos: V
+    gloss: I provoke to anger, am full of angry passion
 θυμός:
     pos: N
     bdag-headword: θυμός
@@ -16017,6 +17085,14 @@
     dodson-pos: N:N
     gloss: the act or office of priesthood
     mounce-morphcat: n-3c(4)
+Ἰερεμίας:
+    pos: N
+    bdag-headword: Ἰερεμίας
+    dodson-entry: Ἰερεμίας, ου, ὁ
+    strongs: 2408
+    gk: 2635
+    dodson-pos: N:M
+    gloss: Jeremiah
 ἱερεύς:
     pos: N
     bdag-headword: ἱερεύς
@@ -16139,6 +17215,14 @@
     dodson-pos: N-PRI
     gloss: Jephthah
     mounce-morphcat: n-3g(2)
+Ἰεχονίας:
+    pos: N
+    bdag-headword: Ἰεχονίας
+    dodson-entry: Ἰεχονίας, ου, ὁ
+    strongs: 2423
+    gk: 2651
+    dodson-pos: N:M
+    gloss: Jechoniah
 Ἰησοῦς:
     pos: N
     bdag-headword: Ἰησοῦς
@@ -16594,6 +17678,9 @@
     dodson-pos: N:N
     gloss: a track, footstep
     mounce-morphcat: n-3d(2b)
+Ἰωαθάμ:
+    pos: N
+    bdag-headword: Ἰωαθάμ
 Ἰωάννης:
     pos: N
     bdag-headword: Ἰωάννης
@@ -16612,6 +17699,33 @@
     dodson-pos: N-PRI
     gloss: Job
     mounce-morphcat: n-3g(2)
+Ἰωβήδ:
+    pos: N
+    bdag-headword: Ἰωβήδ
+Ἰωνᾶς:
+    pos: N
+    bdag-headword: Ἰωνᾶς
+    dodson-entry: Ἰωνᾶς, ᾶ, ὁ
+    strongs: 2495
+    gk: 2731
+    dodson-pos: N:M
+    gloss: Jonah
+Ἰωράμ:
+    pos: N
+    bdag-headword: Ἰωράμ
+    dodson-entry: Ἰωράμ, ὁ
+    strongs: 2496
+    gk: 2732
+    dodson-pos: N-PRI
+    gloss: Joram, Jehoram
+Ἰωσαφάτ:
+    pos: N
+    bdag-headword: Ἰωσαφάτ
+    dodson-entry: Ἰωσαφάτ, ὁ
+    strongs: 2498
+    gk: 2734
+    dodson-pos: N-PRI
+    gloss: Jehoshaphat
 Ἰωσῆς:
     pos: N
     bdag-headword: Ἰωσῆς
@@ -16630,6 +17744,22 @@
     dodson-pos: N-PRI
     gloss: Joseph
     mounce-morphcat: n-3g(2)
+Ἰωσίας:
+    pos: N
+    bdag-headword: Ἰωσίας
+    dodson-entry: Ἰωσίας, ου, ὁ
+    strongs: 2502
+    gk: 2739
+    dodson-pos: N:M
+    gloss: Josiah
+ἰῶτα:
+    pos: N
+    bdag-headword: ἰῶτα
+    dodson-entry: ἰῶτα, τό
+    strongs: 2503
+    gk: 2740
+    dodson-pos: N-LI
+    gloss: a small letter of the Greek alphabet
 κἀγώ:
     pos: RP1/P-K
     bdag-headword: κἀγώ
@@ -16639,6 +17769,14 @@
     dodson-pos: P
     gloss: I also, I too
     mounce-morphcat: a-5
+καθά:
+    pos: C/ADV
+    bdag-headword: καθά
+    dodson-entry: καθά
+    strongs: 2505
+    gk: 2745
+    dodson-pos: ADV
+    gloss: as
 καθαίρεσις:
     pos: N
     bdag-headword: καθαίρεσις
@@ -16738,6 +17876,14 @@
     dodson-pos: V
     gloss: I sleep, am sleeping
     mounce-morphcat: v-1b(3)
+καθηγητής:
+    pos: N
+    bdag-headword: καθηγητής
+    dodson-entry: καθηγητής, ου, ὁ
+    strongs: 2519
+    gk: 2762
+    dodson-pos: N:M
+    gloss: a leader, teacher, guide
 καθήκω:
     pos: V
     bdag-headword: καθήκω
@@ -17156,6 +18302,14 @@
     dodson-pos: N:F
     gloss: a furnace
     mounce-morphcat: n-2b
+καμμύω:
+    pos: V
+    bdag-headword: καμμύω
+    dodson-entry: καμμύω
+    strongs: 2576
+    gk: 2826
+    dodson-pos: V
+    gloss: I close
 κάμνω:
     pos: V
     bdag-headword: κάμνω
@@ -17278,6 +18432,14 @@
     dodson-pos: V
     gloss: I persevere, endure
     mounce-morphcat: v-1d(2a)
+κάρφος:
+    pos: N
+    bdag-headword: κάρφος
+    dodson-entry: κάρφος, ους, τό
+    strongs: 2595
+    gk: 2847
+    dodson-pos: N:N
+    gloss: a dry stalk, chip of wood
 κατά:
     pos: P
     bdag-headword: κατά
@@ -17445,6 +18607,14 @@
     dodson-pos: N:N
     gloss: a curse, an accursed thing
     mounce-morphcat: n-3c(4)
+καταθεματίζω:
+    pos: V
+    bdag-headword: καταθεματίζω
+    dodson-entry: καταθεματίζω
+    strongs: 2653
+    gk: 2874,2913
+    dodson-pos: V
+    gloss: I curse, devote to destruction
 καταισχύνω:
     pos: V
     bdag-headword: καταισχύνω
@@ -17652,6 +18822,14 @@
     dodson-pos: V
     gloss: I break up, overthrow, unharness, find a lodging
     mounce-morphcat: cv-1a(4)
+καταμανθάνω:
+    pos: V
+    bdag-headword: καταμανθάνω
+    dodson-entry: καταμανθάνω
+    strongs: 2648
+    gk: 2908
+    dodson-pos: V
+    gloss: I understand, consider carefully
 καταμαρτυρέω:
     pos: V
     bdag-headword: καταμαρτυρέω
@@ -17769,6 +18947,14 @@
     dodson-pos: V
     gloss: I ill-treat
     mounce-morphcat: cv-1d(2a)
+καταποντίζομαι:
+    pos: V
+    bdag-headword: καταποντίζω
+    dodson-entry: καταποντίζω
+    strongs: 2670
+    gk: 2931
+    dodson-pos: V
+    gloss: I sink in the sea, am drowned
 κατάρα:
     pos: N
     bdag-headword: κατάρα
@@ -17850,6 +19036,14 @@
     dodson-pos: V
     gloss: I encamp, tabernacle, dwell
     mounce-morphcat: cv-1d(3)
+κατασκήνωσις:
+    pos: N
+    bdag-headword: κατασκήνωσις
+    dodson-entry: κατασκήνωσις, εως, ἡ
+    strongs: 2682
+    gk: 2943
+    dodson-pos: N:F
+    gloss: a dwelling-place
 κατασκιάζω:
     pos: V
     bdag-headword: κατασκιάζω
@@ -18139,6 +19333,14 @@
     dodson-pos: V
     gloss: I rust
     mounce-morphcat: v-1d(3)
+κατισχύω:
+    pos: V
+    bdag-headword: κατισχύω
+    dodson-entry: κατισχύω
+    strongs: 2729
+    gk: 2996
+    dodson-pos: V
+    gloss: I prevail against, overpower, am able
 κατοικέω:
     pos: V
     bdag-headword: κατοικέω
@@ -18198,6 +19400,9 @@
     dodson-pos: A
     gloss: lower
     mounce-morphcat: a-1a(1)
+κατωτέρω:
+    pos: D
+    bdag-headword: κατωτέρω
 καῦμα:
     pos: N
     bdag-headword: καῦμα
@@ -18338,6 +19543,14 @@
     dodson-pos: N:N
     gloss: a word of command, a call
     mounce-morphcat: n-3c(4)
+κελεύω:
+    pos: V
+    bdag-headword: κελεύω
+    dodson-entry: κελεύω
+    strongs: 2753
+    gk: 3027
+    dodson-pos: V
+    gloss: I command, order
 κενοδοξία:
     pos: N
     bdag-headword: κενοδοξία
@@ -18410,6 +19623,14 @@
     dodson-pos: ADV
     gloss: falsely, in vain
     mounce-morphcat: adverb
+κεραία:
+    pos: N
+    bdag-headword: κεραία
+    dodson-entry: κεραία, ας, ἡ
+    strongs: 2762
+    gk: 3037
+    dodson-pos: N:F
+    gloss: an apostrophe
 κεραμεύς:
     pos: N
     bdag-headword: κεραμεύς
@@ -18582,6 +19803,14 @@
     dodson-pos: V
     gloss: I proclaim, herald, preach
     mounce-morphcat: v-2b
+κῆτος:
+    pos: N
+    bdag-headword: κῆτος
+    dodson-entry: κῆτος, ους, τό
+    strongs: 2785
+    gk: 3063
+    dodson-pos: N:N
+    gloss: a sea monster, huge fish
 Κηφᾶς:
     pos: N
     bdag-headword: Κηφᾶς
@@ -18708,6 +19937,14 @@
     dodson-pos: N:F
     gloss: Claudia
     mounce-morphcat: n-1a
+κλαυθμός:
+    pos: N
+    bdag-headword: κλαυθμός
+    dodson-entry: κλαυθμός, οῦ, ὁ
+    strongs: 2805
+    gk: 3088
+    dodson-pos: N:M
+    gloss: weeping, lamentation
 κλάω:
     pos: V
     bdag-headword: κλάω
@@ -18852,6 +20089,14 @@
     dodson-pos: A
     gloss: called, summoned
     mounce-morphcat: a-1a(2a)
+κλίβανος:
+    pos: N
+    bdag-headword: κλίβανος
+    dodson-entry: κλίβανος, ου, ὁ
+    strongs: 2823
+    gk: 3106
+    dodson-pos: N:M
+    gloss: an oven, furnace
 κλίμα:
     pos: N
     bdag-headword: κλίμα
@@ -19176,6 +20421,22 @@
     dodson-pos: ADV-C
     gloss: in better health
     mounce-morphcat: adverb
+κονιάω:
+    pos: V
+    bdag-headword: κονιάω
+    dodson-entry: κονιάω
+    strongs: 2867
+    gk: 3154
+    dodson-pos: V
+    gloss: I whitewash
+κονιορτός:
+    pos: N
+    bdag-headword: κονιορτός
+    dodson-entry: κονιορτός, ου, ὁ
+    strongs: 2868
+    gk: 3155
+    dodson-pos: N:M
+    gloss: dust
 κοπάζω:
     pos: V
     bdag-headword: κοπάζω
@@ -19239,6 +20500,9 @@
     dodson-pos: HEB,N:M
     gloss: a gift, offering
     mounce-morphcat: n-3g(2)
+κορβανᾶς:
+    pos: N
+    bdag-headword: κορβανᾶς
 Κόρε:
     pos: N
     bdag-headword: Κόρε
@@ -19338,6 +20602,14 @@
     dodson-pos: ARAM
     gloss: arise
     mounce-morphcat: n-3g(2)
+κουστωδία:
+    pos: N
+    bdag-headword: κουστωδία
+    dodson-entry: κουστωδία, ας, ἡ
+    strongs: 2892
+    gk: 3184
+    dodson-pos: N:F
+    gloss: a guard
 κόφινος:
     pos: N
     bdag-headword: κόφινος
@@ -19527,6 +20799,14 @@
     dodson-pos: N:N
     gloss: a judgment, verdict, lawsuit
     mounce-morphcat: n-3c(4)
+κρίνον:
+    pos: N
+    bdag-headword: κρίνον
+    dodson-entry: κρίνον, ου, τό
+    strongs: 2918
+    gk: 3211
+    dodson-pos: N:N
+    gloss: a lily
 κρίνω:
     pos: V
     bdag-headword: κρίνω
@@ -19626,6 +20906,10 @@
     dodson-pos: N:M
     gloss: crystal
     mounce-morphcat: n-2a
+κρυφαῖος:
+    pos: A
+    bdag-headword: κρυφαῖος
+    gk: 3224
 κρυφῇ:
     pos: D
     bdag-headword: κρυφῇ
@@ -19792,6 +21076,14 @@
     dodson-pos: N:N
     gloss: a cymbal
     mounce-morphcat: n-2c
+κύμινον:
+    pos: N
+    bdag-headword: κύμινον
+    dodson-entry: κύμινον, ου, τό
+    strongs: 2951
+    gk: 3248
+    dodson-pos: N:N
+    gloss: cumin
 κυνάριον:
     pos: N
     bdag-headword: κυνάριον
@@ -19926,6 +21218,14 @@
     dodson-pos: N:M
     gloss: a feasting, reveling
     mounce-morphcat: n-2a
+κώνωψ:
+    pos: N
+    bdag-headword: κώνωψ
+    dodson-entry: κώνωψ, ωπος, ὁ
+    strongs: 2971
+    gk: 3270
+    dodson-pos: N:M
+    gloss: a gnat, mosquito
 κωφός:
     pos: A
     bdag-headword: κωφός
@@ -20375,6 +21675,14 @@
     bdag-headword: λιθόστρωτος
     gk: 3346
     mounce-morphcat: a-3a
+λικμάω:
+    pos: V
+    bdag-headword: λικμάω
+    dodson-entry: λικμάω
+    strongs: 3039
+    gk: 3347
+    dodson-pos: V
+    gloss: I crush to powder
 λίμνη:
     pos: N
     bdag-headword: λίμνη
@@ -20699,6 +22007,9 @@
     dodson-pos: N-PRI
     gloss: Lot
     mounce-morphcat: n-3g(2)
+Μαγαδάν:
+    pos: N
+    bdag-headword: Μαγαδάν
 Μαγδαληνή:
     pos: N
     bdag-headword: Μαγδαληνή
@@ -20708,6 +22019,14 @@
     dodson-pos: N:F
     gloss: Magdalene
     mounce-morphcat: n-1b
+μάγος:
+    pos: N
+    bdag-headword: μάγος
+    dodson-entry: μάγος, ου, ὁ
+    strongs: 3097
+    gk: 3407
+    dodson-pos: N:M
+    gloss: a sorcerer, magician, wizard
 Μαγώγ:
     pos: N
     bdag-headword: Μαγώγ
@@ -20717,6 +22036,14 @@
     dodson-pos: N-PRI
     gloss: Magog
     mounce-morphcat: n-3g(2)
+μαθητεύω:
+    pos: V
+    bdag-headword: μαθητεύω
+    dodson-entry: μαθητεύω
+    strongs: 3100
+    gk: 3411
+    dodson-pos: V
+    gloss: I make disciples, make into disciples
 μαθητής:
     pos: N
     bdag-headword: μαθητής
@@ -20846,6 +22173,14 @@
     dodson-pos: A
     gloss: long-lived
     mounce-morphcat: a-3a
+μαλακία:
+    pos: N
+    bdag-headword: μαλακία
+    dodson-entry: μαλακία, ας, ἡ
+    strongs: 3119
+    gk: 3433
+    dodson-pos: N:F
+    gloss: weakness, illness
 μαλακός:
     pos: A
     bdag-headword: μαλακός
@@ -20891,6 +22226,14 @@
     dodson-pos: N:F
     gloss: a grandmother
     mounce-morphcat: n-1b
+μαμωνᾶς:
+    pos: N
+    bdag-headword: μαμωνᾶς
+    dodson-entry: μαμωνᾶς, ᾶ, ὁ
+    strongs: 3126
+    gk: 3440
+    dodson-pos: N:M
+    gloss: riches, money, possessions
 Μανασσῆς:
     pos: N
     bdag-headword: Μανασσῆς
@@ -21117,6 +22460,14 @@
     dodson-pos: ADV
     gloss: in vain
     mounce-morphcat: adverb
+Ματθάν:
+    pos: N
+    bdag-headword: Ματθάν
+    dodson-entry: Ματθάν, ὁ
+    strongs: 3157
+    gk: 3474
+    dodson-pos: N-PRI
+    gloss: Matthan
 μάχαιρα:
     pos: N
     bdag-headword: μάχαιρα
@@ -21616,6 +22967,14 @@
     dodson-pos: N:F
     gloss: change, transformation, removal
     mounce-morphcat: n-3e(5b)
+μεταίρω:
+    pos: V
+    bdag-headword: μεταίρω
+    dodson-entry: μεταίρω
+    strongs: 3332
+    gk: 3558
+    dodson-pos: V
+    gloss: I change my position, depart, remove
 μετακινέω:
     pos: V
     bdag-headword: μετακινέω
@@ -21743,6 +23102,14 @@
     dodson-pos: V
     gloss: I participate in, share
     mounce-morphcat: cv-1b(2)
+μετοικεσία:
+    pos: N
+    bdag-headword: μετοικεσία
+    dodson-entry: μετοικεσία, ας, ἡ
+    strongs: 3350
+    gk: 3578
+    dodson-pos: N:F
+    gloss: change of abode, migration, deportation
 μετοχή:
     pos: N
     bdag-headword: μετοχή
@@ -22044,6 +23411,14 @@
     dodson-pos: N:F
     gloss: Miletus
     mounce-morphcat: n-2b
+μίλιον:
+    pos: N
+    bdag-headword: μίλιον
+    dodson-entry: μίλιον, ου, τό
+    strongs: 3400
+    gk: 3627
+    dodson-pos: N:N
+    gloss: a Roman mile
 μιμέομαι:
     pos: V
     bdag-headword: μιμέομαι
@@ -22098,6 +23473,14 @@
     dodson-pos: N:M
     gloss: a rewarder
     mounce-morphcat: n-1f
+μισθόομαι:
+    pos: V
+    bdag-headword: μισθόω
+    dodson-entry: μισθόω
+    strongs: 3409
+    gk: 3636
+    dodson-pos: V
+    gloss: I hire out, hire, engage
 μισθός:
     pos: N
     bdag-headword: μισθός
@@ -22179,6 +23562,14 @@
     dodson-pos: N:N
     gloss: reminder, memorial, remembrance offering
     mounce-morphcat: n-2c
+μνηστεύομαι:
+    pos: V
+    bdag-headword: μνηστεύω
+    dodson-entry: μνηστεύω
+    strongs: 3423
+    gk: 3650
+    dodson-pos: V
+    gloss: I ask in marriage
 μογιλάλος:
     pos: A
     bdag-headword: μογιλάλος
@@ -22567,6 +23958,19 @@
     bdag-headword: Μωϋσῆς
     gk: 3707
     mounce-morphcat: n-3g(1)
+Ναασσών:
+    pos: N
+    bdag-headword: Ναασσών
+    dodson-entry: Ναασσών, ὁ
+    strongs: 3476
+    gk: 3709
+    dodson-pos: N-PRI
+    gloss: Nahshon
+Ναζαρά:
+    pos: N
+    bdag-headword: Ναζαρά
+Ναζαρέθ:
+    pos: N
 Ναζαρέτ:
     pos: N
     dodson-entry: Ναζαρέτ, ἡ
@@ -22782,6 +24186,14 @@
     dodson-pos: PRT
     gloss: swearing by
     mounce-morphcat: particle
+νήθω:
+    pos: V
+    bdag-headword: νήθω
+    dodson-entry: νήθω
+    strongs: 3514
+    gk: 3756
+    dodson-pos: V
+    gloss: I spin
 νηπιάζω:
     pos: V
     bdag-headword: νηπιάζω
@@ -22914,6 +24326,14 @@
     dodson-pos: N:N
     gloss: victory
     mounce-morphcat: n-3d(2b)
+Νινευίτης:
+    pos: N
+    bdag-headword: Νινευίτης
+    dodson-entry: Νινευίτης, ου, ὁ
+    strongs: 3536
+    gk: 3780
+    dodson-pos: N:M
+    gloss: a Ninevite
 νιπτήρ:
     pos: N
     bdag-headword: νιπτήρ
@@ -22995,6 +24415,14 @@
     dodson-pos: ADV
     gloss: lawfully
     mounce-morphcat: adverb
+νόμισμα:
+    pos: N
+    bdag-headword: νόμισμα
+    dodson-entry: νόμισμα, ατος, τό
+    strongs: 3546
+    gk: 3790
+    dodson-pos: N:N
+    gloss: money, coin
 νομοδιδάσκαλος:
     pos: N
     bdag-headword: νομοδιδάσκαλος
@@ -23058,6 +24486,14 @@
     dodson-pos: N:F
     gloss: a disease, malady
     mounce-morphcat: n-2b
+νοσσίον:
+    pos: N
+    bdag-headword: νοσσίον
+    dodson-entry: νοσσίον, ου, τό
+    strongs: 3556
+    gk: 3800
+    dodson-pos: N:N
+    gloss: a nestling, the young of birds
 νοσφίζομαι:
     pos: V
     bdag-headword: νοσφίζω
@@ -23423,6 +24859,14 @@
     dodson-pos: N:M
     gloss: lamentation, wailing
     mounce-morphcat: n-2a
+Ὀζίας:
+    pos: N
+    bdag-headword: Ὀζίας
+    dodson-entry: Ὀζίας, ου, ὁ
+    strongs: 3604
+    gk: 3852
+    dodson-pos: N:M
+    gloss: Uzziah
 ὄζω:
     pos: V
     bdag-headword: ὄζω
@@ -23468,6 +24912,9 @@
     dodson-pos: A
     gloss: of one's family, domestic
     mounce-morphcat: a-3b(1)
+οἰκετεία:
+    pos: N
+    bdag-headword: οἰκετεία
 οἰκέτης:
     pos: N
     bdag-headword: οἰκέτης
@@ -23504,6 +24951,9 @@
     dodson-pos: N:F
     gloss: a house, household
     mounce-morphcat: n-1a
+οἰκιακός:
+    pos: N
+    bdag-headword: οἰκιακός
 οἰκοδεσποτέω:
     pos: V
     bdag-headword: οἰκοδεσποτέω
@@ -23620,6 +25070,14 @@
     gk: [3883, 3887]
     dodson-pos: V
     gloss: I think, suppose
+οἰνοπότης:
+    pos: N
+    bdag-headword: οἰνοπότης
+    dodson-entry: οἰνοπότης, ου, ὁ
+    strongs: 3630
+    gk: 3884
+    dodson-pos: N:M
+    gloss: an excessive wine-drinker
 οἶνος:
     pos: N
     bdag-headword: οἶνος
@@ -23683,6 +25141,17 @@
     dodson-pos: N:M
     gloss: ruin, doom, destruction
     mounce-morphcat: n-2a
+ὀλιγοπιστία:
+    pos: N
+    bdag-headword: ὀλιγοπιστία
+ὀλιγόπιστος:
+    pos: A
+    bdag-headword: ὀλιγόπιστος
+    dodson-entry: ὀλιγόπιστος, ον
+    strongs: 3640
+    gk: 3899
+    dodson-pos: A
+    gloss: of little faith
 ὀλίγος:
     pos: A
     bdag-headword: ὀλίγος
@@ -23980,6 +25449,14 @@
     dodson-pos: CONJ
     gloss: yet, nevertheless
     mounce-morphcat: adverb
+ὄναρ:
+    pos: N
+    bdag-headword: ὄναρ
+    dodson-entry: ὄναρ, ατος, τό
+    strongs: 3677
+    gk: 3941
+    dodson-pos: N-OI
+    gloss: a dream
 ὀνάριον:
     pos: N
     bdag-headword: ὀνάριον
@@ -24187,6 +25664,14 @@
     dodson-pos: ADV
     gloss: how, in order that, so that
     mounce-morphcat: conj
+ὅραμα:
+    pos: N
+    bdag-headword: ὅραμα
+    dodson-entry: ὅραμα, ατος, τό
+    strongs: 3705
+    gk: 3969
+    dodson-pos: N:N
+    gloss: a spectacle, vision
 ὅρασις:
     pos: N
     bdag-headword: ὅρασις
@@ -24376,6 +25861,14 @@
     dodson-pos: N:N
     gloss: a bird
     mounce-morphcat: n-2c
+ὄρνις:
+    pos: N
+    bdag-headword: ὄρνις
+    dodson-entry: ὄρνις, ιθος, ὁ, ἡ
+    strongs: 3733
+    gk: 3989,3998
+    dodson-pos: N:F
+    gloss: a bird, fowl, hen
 ὄρος:
     pos: N
     bdag-headword: ὄρος
@@ -24592,6 +26085,14 @@
     dodson-pos: INJ,N-OI
     gloss: woe!, alas!
     mounce-morphcat: interjectio
+οὐδαμῶς:
+    pos: D
+    bdag-headword: οὐδαμῶς
+    dodson-entry: οὐδαμῶς
+    strongs: 3760
+    gk: 4027
+    dodson-pos: ADV-N
+    gloss: by no means
 οὐδέ:
     pos: C/CONJ-N
     bdag-headword: οὐδέ
@@ -24673,6 +26174,14 @@
     dodson-pos: N:F
     gloss: a tail
     mounce-morphcat: n-1a
+οὐράνιος:
+    pos: A
+    bdag-headword: οὐράνιος
+    dodson-entry: οὐράνιος, ον
+    strongs: 3770
+    gk: 4039
+    dodson-pos: A
+    gloss: heavenly
 οὐρανός:
     pos: N
     bdag-headword: οὐρανός
@@ -24691,6 +26200,14 @@
     dodson-pos: N:M
     gloss: Urbanus
     mounce-morphcat: n-2a
+Οὐρίας:
+    pos: N
+    bdag-headword: Οὐρίας
+    dodson-entry: Οὐρίας, ου, ὁ
+    strongs: 3774
+    gk: 4043
+    dodson-pos: N:M
+    gloss: Uriah
 οὖς:
     pos: N
     bdag-headword: οὖς
@@ -24884,6 +26401,14 @@
     dodson-pos: N:N
     gloss: pay, wages
     mounce-morphcat: n-2c
+παγιδεύω:
+    pos: V
+    bdag-headword: παγιδεύω
+    dodson-entry: παγιδεύω
+    strongs: 3802
+    gk: 4074
+    dodson-pos: V
+    gloss: I ensnare, entrap
 παγίς:
     pos: N
     bdag-headword: παγίς
@@ -25172,6 +26697,14 @@
     dodson-pos: PREP
     gloss: from, in the presence of
     mounce-morphcat: prep
+παραβαίνω:
+    pos: V
+    bdag-headword: παραβαίνω
+    dodson-entry: παραβαίνω
+    strongs: 3845
+    gk: 4124
+    dodson-pos: V
+    gloss: I transgress
 παράβασις:
     pos: N
     bdag-headword: παράβασις
@@ -25294,6 +26827,14 @@
     dodson-pos: V
     gloss: I make jealous
     mounce-morphcat: cv-1d(3)
+παραθαλάσσιος:
+    pos: A
+    bdag-headword: παραθαλάσσιος
+    dodson-entry: παραθαλάσσιος, ία, ιον
+    strongs: 3864
+    gk: 4144
+    dodson-pos: A
+    gloss: by the sea
 παραθήκη:
     pos: N
     bdag-headword: παραθήκη
@@ -25626,6 +27167,14 @@
     dodson-pos: V
     gloss: I pass the winter
     mounce-morphcat: cv-2a(1)
+παραχρῆμα:
+    pos: D
+    bdag-headword: παραχρῆμα
+    dodson-entry: παραχρῆμα
+    strongs: 3916
+    gk: 4202
+    dodson-pos: ADV
+    gloss: instantly, immediately
 πάρδαλις:
     pos: N
     bdag-headword: πάρδαλις
@@ -25837,6 +27386,14 @@
     dodson-pos: A
     gloss: given to wine, drunken
     mounce-morphcat: a-3a
+παρομοιάζω:
+    pos: V
+    bdag-headword: παρομοιάζω
+    dodson-entry: παρομοιάζω
+    strongs: 3945
+    gk: 4234
+    dodson-pos: V
+    gloss: I resemble
 παρόμοιος:
     pos: A
     bdag-headword: παρόμοιος
@@ -25891,6 +27448,14 @@
     dodson-pos: N:F
     gloss: presence, a coming, arrival, advent
     mounce-morphcat: n-1a
+παροψίς:
+    pos: N
+    bdag-headword: παροψίς
+    dodson-entry: παροψίς, ίδος, ἡ
+    strongs: 3953
+    gk: 4243
+    dodson-pos: N:F
+    gloss: a bowl, dish, platter
 παρρησία:
     pos: N
     bdag-headword: παρρησία
@@ -26053,6 +27618,14 @@
     dodson-pos: V
     gloss: I cause to cease
     mounce-morphcat: v-1a(5)
+παχύνομαι:
+    pos: V
+    bdag-headword: παχύνω
+    dodson-entry: παχύνω
+    strongs: 3975
+    gk: 4266
+    dodson-pos: V
+    gloss: I fatten
 πέδη:
     pos: N
     bdag-headword: πέδη
@@ -26143,6 +27716,14 @@
     dodson-pos: N:F
     gloss: persuasion, conviction
     mounce-morphcat: n-1b
+πέλαγος:
+    pos: N
+    bdag-headword: πέλαγος
+    dodson-entry: πέλαγος, ους, τό
+    strongs: 3989
+    gk: 4283
+    dodson-pos: N:N
+    gloss: the sea, the deep
 πελεκίζω:
     pos: V
     bdag-headword: πελεκίζω
@@ -26860,6 +28441,14 @@
     dodson-pos: A
     gloss: bitter, acrid, malignant
     mounce-morphcat: a-1a(1)
+πικρῶς:
+    pos: D
+    bdag-headword: πικρῶς
+    dodson-entry: πικρῶς
+    strongs: 4090
+    gk: 4396
+    dodson-pos: ADV
+    gloss: bitterly
 Πιλᾶτος:
     pos: N
     bdag-headword: Πιλᾶτος
@@ -26869,6 +28458,9 @@
     dodson-pos: N:M
     gloss: Pilate
     mounce-morphcat: n-2a
+πίμπλημι:
+    pos: V
+    bdag-headword: πίμπλημι
 πίναξ:
     pos: N
     bdag-headword: πίναξ
@@ -27058,6 +28650,14 @@
     dodson-pos: V
     gloss: I enlarge
     mounce-morphcat: v-1c(2)
+πλατύς:
+    pos: A/N
+    bdag-headword: πλατύς
+    dodson-entry: πλατύς, εῖα, ύ
+    strongs: 4116
+    gk: 4426
+    dodson-pos: A
+    gloss: broad
 πλέγμα:
     pos: N
     bdag-headword: πλέγμα
@@ -27544,6 +29144,14 @@
     dodson-pos: ADV
     gloss: many times, often
     mounce-morphcat: adverb
+πολυλογία:
+    pos: N
+    bdag-headword: πολυλογία
+    dodson-entry: πολυλογία, ας, ἡ
+    strongs: 4180
+    gk: 4494
+    dodson-pos: N:F
+    gloss: much-speaking
 πολυμερῶς:
     pos: D
     bdag-headword: πολυμερῶς
@@ -27769,6 +29377,14 @@
     dodson-pos: A
     gloss: purple
     mounce-morphcat: a-1b
+ποσάκις:
+    pos: D
+    bdag-headword: ποσάκις
+    dodson-entry: ποσάκις
+    strongs: 4212
+    gk: 4529
+    dodson-pos: ADV
+    gloss: how often
 πόσις:
     pos: N
     bdag-headword: πόσις
@@ -28147,6 +29763,14 @@
     dodson-pos: N:N
     gloss: a sheep
     mounce-morphcat: n-2c
+προβιβάζω:
+    pos: V
+    bdag-headword: προβιβάζω
+    dodson-entry: προβιβάζω
+    strongs: 4264
+    gk: 4586
+    dodson-pos: V
+    gloss: I urge forward
 προβλέπομαι:
     pos: V
     bdag-headword: προβλέπω
@@ -28675,6 +30299,14 @@
     dodson-pos: V
     gloss: I nail to
     mounce-morphcat: cv-1d(3)
+προσήλυτος:
+    pos: N
+    bdag-headword: προσήλυτος
+    dodson-entry: προσήλυτος, ου, ὁ
+    strongs: 4339
+    gk: 4670
+    dodson-pos: N:M
+    gloss: a proselyte
 πρόσκαιρος:
     pos: A
     bdag-headword: πρόσκαιρος
@@ -28941,6 +30573,14 @@
     dodson-pos: N:F
     gloss: an offering, sacrifice
     mounce-morphcat: n-1a
+προσφωνέω:
+    pos: V
+    bdag-headword: προσφωνέω
+    dodson-entry: προσφωνέω
+    strongs: 4377
+    gk: 4715
+    dodson-pos: V
+    gloss: I call to, summon
 πρόσχυσις:
     pos: N
     bdag-headword: πρόσχυσις
@@ -29054,6 +30694,14 @@
     dodson-pos: N:F
     gloss: a prophetess
     mounce-morphcat: n-3c(2)
+προφθάνω:
+    pos: V
+    bdag-headword: προφθάνω
+    dodson-entry: προφθάνω
+    strongs: 4399
+    gk: 4740
+    dodson-pos: V
+    gloss: I anticipate
 πρύμνα:
     pos: N
     bdag-headword: πρύμνα
@@ -29171,6 +30819,14 @@
     dodson-pos: N:F
     gloss: the heel
     mounce-morphcat: n-1c
+πτερύγιον:
+    pos: N
+    bdag-headword: πτερύγιον
+    dodson-entry: πτερύγιον, ου, τό
+    strongs: 4419
+    gk: 4762
+    dodson-pos: N:N
+    gloss: an extremity, battlement, parapet
 πτέρυξ:
     pos: N
     bdag-headword: πτέρυξ
@@ -29198,6 +30854,14 @@
     dodson-pos: N:F
     gloss: terror, consternation
     mounce-morphcat: n-3e(5b)
+πτύον:
+    pos: N
+    bdag-headword: πτύον
+    dodson-entry: πτύον, ου, τό
+    strongs: 4425
+    gk: 4768
+    dodson-pos: N:N
+    gloss: a simple wooden pitchfork
 πτύρομαι:
     pos: V
     bdag-headword: πτύρω
@@ -29234,6 +30898,14 @@
     dodson-pos: N:N
     gloss: a carcass, corpse
     mounce-morphcat: n-3c(4)
+πτῶσις:
+    pos: N
+    bdag-headword: πτῶσις
+    dodson-entry: πτῶσις, εως, ἡ
+    strongs: 4431
+    gk: 4774
+    dodson-pos: N:F
+    gloss: a falling, a fall
 πτωχεία:
     pos: N
     bdag-headword: πτωχεία
@@ -29369,6 +31041,14 @@
     dodson-pos: V
     gloss: I burn, am purified by fire
     mounce-morphcat: v-1d(3)
+πυρράζω:
+    pos: V
+    bdag-headword: πυρράζω
+    dodson-entry: πυρράζω
+    strongs: 4449
+    gk: 4793
+    dodson-pos: V
+    gloss: I am red
 πυρρός:
     pos: A
     bdag-headword: πυρρός
@@ -29491,6 +31171,14 @@
     dodson-pos: N:F
     gloss: a rod, staff
     mounce-morphcat: n-2b
+ῥακά:
+    pos: N/ARAM
+    bdag-headword: ῥακά
+    dodson-entry: ῥακά
+    strongs: 4469
+    gk: 4819,4828
+    dodson-pos: ARAM
+    gloss: empty, foolish
 ῥάκος:
     pos: N
     bdag-headword: ῥάκος
@@ -29500,6 +31188,14 @@
     dodson-pos: N:N
     gloss: a piece of cloth
     mounce-morphcat: n-3d(2b)
+Ῥαμά:
+    pos: N
+    bdag-headword: Ῥαμά
+    dodson-entry: Ῥαμά, ἡ
+    strongs: 4471
+    gk: 4821
+    dodson-pos: N-PRI
+    gloss: Rama
 ῥαντίζω:
     pos: V
     bdag-headword: ῥαντίζω
@@ -29518,6 +31214,14 @@
     dodson-pos: N:M
     gloss: sprinkling, purification
     mounce-morphcat: n-2a
+ῥαπίζω:
+    pos: V
+    bdag-headword: ῥαπίζω
+    dodson-entry: ῥαπίζω
+    strongs: 4474
+    gk: 4824
+    dodson-pos: V
+    gloss: I slap, strike
 ῥάπισμα:
     pos: N
     bdag-headword: ῥάπισμα
@@ -29536,6 +31240,22 @@
     dodson-pos: N:F
     gloss: a needle
     mounce-morphcat: n-3c(2)
+Ῥαχάβ:
+    pos: N
+    bdag-headword: Ῥαχάβ
+    dodson-entry: Ῥαχάβ, ἡ
+    strongs: 4477
+    gk: 4829
+    dodson-pos: N-PRI
+    gloss: Rahab
+Ῥαχήλ:
+    pos: N
+    bdag-headword: Ῥαχήλ
+    dodson-entry: Ῥαχήλ, ἡ
+    strongs: 4478
+    gk: 4830
+    dodson-pos: N-PRI
+    gloss: Rachel
 Ῥεβέκκα:
     pos: N
     bdag-headword: Ῥεβέκκα
@@ -29626,6 +31346,22 @@
     dodson-pos: V
     gloss: I toss to and fro
     mounce-morphcat: v-2a(1)
+ῥίπτω:
+    pos: V
+    bdag-headword: ῥίπτω
+    dodson-entry: ῥίπτω
+    strongs: 4496
+    gk: 4849
+    dodson-pos: V
+    gloss: I throw, cast, toss
+Ῥοβοάμ:
+    pos: N
+    bdag-headword: Ῥοβοάμ
+    dodson-entry: Ῥοβοάμ, ὁ
+    strongs: 4497
+    gk: 4850
+    dodson-pos: N-PRI
+    gloss: Rehoboam
 ῥοιζηδόν:
     pos: D
     bdag-headword: ῥοιζηδόν
@@ -29653,6 +31389,14 @@
     dodson-pos: N-PRI
     gloss: Reuben
     mounce-morphcat: n-3g(2)
+Ῥούθ:
+    pos: N
+    bdag-headword: Ῥούθ
+    dodson-entry: Ῥούθ, ἡ
+    strongs: 4503
+    gk: 4858
+    dodson-pos: N-PRI
+    gloss: Ruth
 Ῥοῦφος:
     pos: N
     bdag-headword: Ῥοῦφος
@@ -29662,6 +31406,14 @@
     dodson-pos: N:M
     gloss: Rufus
     mounce-morphcat: n-2a
+ῥύμη:
+    pos: N
+    bdag-headword: ῥύμη
+    dodson-entry: ῥύμη, ης, ἡ
+    strongs: 4505
+    gk: 4860
+    dodson-pos: N:F
+    gloss: a street, lane
 ῥύομαι:
     pos: V
     bdag-headword: ῥύομαι
@@ -29788,6 +31540,14 @@
     dodson-pos: N:N
     gloss: the Sabbath, a week
     mounce-morphcat: n-2c
+σαγήνη:
+    pos: N
+    bdag-headword: σαγήνη
+    dodson-entry: σαγήνη, ης, ἡ
+    strongs: 4522
+    gk: 4880
+    dodson-pos: N:F
+    gloss: a fishing-net
 Σαδδουκαῖος:
     pos: N
     bdag-headword: Σαδδουκαῖος
@@ -29797,6 +31557,14 @@
     dodson-pos: N:M
     gloss: a Sadducee
     mounce-morphcat: n-2a
+Σαδώκ:
+    pos: N
+    bdag-headword: Σαδώκ
+    dodson-entry: Σαδώκ, ὁ
+    strongs: 4524
+    gk: 4882
+    dodson-pos: N-PRI
+    gloss: Zadok
 σαίνομαι:
     pos: V
     bdag-headword: σαίνω
@@ -29815,6 +31583,14 @@
     dodson-pos: N:M
     gloss: sack-cloth
     mounce-morphcat: n-2a
+Σαλαθιήλ:
+    pos: N
+    bdag-headword: Σαλαθιήλ
+    dodson-entry: Σαλαθιήλ, ὁ
+    strongs: 4528
+    gk: 4886
+    dodson-pos: N-PRI
+    gloss: Salathiel
 Σαλείμ:
     pos: N
     bdag-headword: Σαλείμ
@@ -29836,6 +31612,14 @@
     dodson-pos: N-PRI
     gloss: Salem
     mounce-morphcat: n-3g(2)
+Σαλμών:
+    pos: N
+    bdag-headword: Σαλμών
+    dodson-entry: Σαλμών, ὁ
+    strongs: 4533
+    gk: 4891
+    dodson-pos: N-PRI
+    gloss: Salmon
 σάλπιγξ:
     pos: N
     bdag-headword: σάλπιγξ
@@ -30007,6 +31791,14 @@
     dodson-pos: N:F
     gloss: flesh, body
     mounce-morphcat: n-3b(1)
+σαρόω:
+    pos: V
+    bdag-headword: σαρόω
+    dodson-entry: σαρόω
+    strongs: 4563
+    gk: 4924
+    dodson-pos: V
+    gloss: I sweep
 Σάρρα:
     pos: N
     bdag-headword: Σάρρα
@@ -30024,6 +31816,14 @@
     dodson-pos: N:M
     gloss: an adversary, Satan
     mounce-morphcat: n-1e
+σάτον:
+    pos: N
+    bdag-headword: σάτον
+    dodson-entry: σάτον, ου, τό
+    strongs: 4568
+    gk: 4929
+    dodson-pos: N:N
+    gloss: nearly three English gallons
 σβέννυμι:
     pos: V
     bdag-headword: σβέννυμι
@@ -30105,6 +31905,14 @@
     dodson-pos: N:F
     gloss: the moon
     mounce-morphcat: n-1b
+σεληνιάζομαι:
+    pos: V
+    bdag-headword: σεληνιάζομαι
+    dodson-entry: σεληνιάζομαι
+    strongs: 4583
+    gk: 4944
+    dodson-pos: V
+    gloss: I am a lunatic
 σεμίδαλις:
     pos: N
     bdag-headword: σεμίδαλις
@@ -30177,6 +31985,14 @@
     dodson-pos: V
     gloss: I cause to rot
     mounce-morphcat: v-1b(1)
+σής:
+    pos: N
+    bdag-headword: σής
+    dodson-entry: σής, σητός, ὁ
+    strongs: 4597
+    gk: 4962
+    dodson-pos: N:M
+    gloss: a moth
 σητόβρωτος:
     pos: A
     bdag-headword: σητόβρωτος
@@ -30195,6 +32011,14 @@
     dodson-pos: V
     gloss: I strengthen
     mounce-morphcat: v-1d(3)
+σιαγών:
+    pos: N
+    bdag-headword: σιαγών
+    dodson-entry: σιαγών, όνος, ἡ
+    strongs: 4600
+    gk: 4965
+    dodson-pos: N:F
+    gloss: the jawbone, cheek
 σιγάω:
     pos: V
     bdag-headword: σιγάω
@@ -30299,6 +32123,14 @@
     bdag-headword: σιρικός
     gk: 4986
     mounce-morphcat: a-1a(2a)
+σιτιστός:
+    pos: A
+    bdag-headword: σιτιστός
+    dodson-entry: σιτιστός, ή, όν
+    strongs: 4619
+    gk: 4990
+    dodson-pos: A
+    gloss: fattened
 σῖτος:
     pos: N
     bdag-headword: σῖτος
@@ -30515,6 +32347,14 @@
     dodson-pos: N:M
     gloss: a scorpion
     mounce-morphcat: n-2a
+σκοτεινός:
+    pos: A
+    bdag-headword: σκοτεινός
+    dodson-entry: σκοτεινός, ή, όν
+    strongs: 4652
+    gk: 5027
+    dodson-pos: A
+    gloss: full of darkness, dark
 σκοτία:
     pos: N
     bdag-headword: σκοτία
@@ -30569,6 +32409,14 @@
     dodson-pos: N:M
     gloss: a Scythian
     mounce-morphcat: n-1f
+σκυθρωπός:
+    pos: A
+    bdag-headword: σκυθρωπός
+    dodson-entry: σκυθρωπός, ή, όν
+    strongs: 4659
+    gk: 5034
+    dodson-pos: A
+    gloss: gloomy, sad-countenanced
 σκύλλω:
     pos: V
     bdag-headword: σκύλλω
@@ -30963,6 +32811,14 @@
     dodson-pos: N:F
     gloss: standing, place, dissension
     mounce-morphcat: n-3e(5b)
+στατήρ:
+    pos: N
+    bdag-headword: στατήρ
+    dodson-entry: στατήρ, ῆρος, ὁ
+    strongs: 4715
+    gk: 5088
+    dodson-pos: N:M
+    gloss: a Jewish shekel
 σταυρός:
     pos: N
     bdag-headword: σταυρός
@@ -31062,6 +32918,14 @@
     dodson-pos: V
     gloss: I groan
     mounce-morphcat: v-2a(2)
+στενός:
+    pos: A
+    bdag-headword: στενός
+    dodson-entry: στενός, ή, όν
+    strongs: 4728
+    gk: 5101
+    dodson-pos: A
+    gloss: narrow
 στενοχωρέομαι:
     pos: V
     bdag-headword: στενοχωρέω
@@ -31321,6 +33185,14 @@
     dodson-pos: N:N
     gloss: wantonness, luxury
     mounce-morphcat: n-3d(2b)
+στρουθίον:
+    pos: N
+    bdag-headword: στρουθίον
+    dodson-entry: στρουθίον, ου, τό
+    strongs: 4765
+    gk: 5141
+    dodson-pos: N:N
+    gloss: a small bird, sparrow
 στρώννυμι:
     pos: V
     bdag-headword: στρωννύω
@@ -31627,6 +33499,14 @@
     dodson-pos: V
     gloss: I seize, apprehend, become pregnant
     mounce-morphcat: cv-3a(2b)
+συλλέγω:
+    pos: V
+    bdag-headword: συλλέγω
+    dodson-entry: συλλέγω
+    strongs: 4816
+    gk: 5198
+    dodson-pos: V
+    gloss: I collect, gather
 συλλυπέομαι:
     pos: V
     bdag-headword: συλλυπέω
@@ -31898,6 +33778,14 @@
     dodson-pos: A
     gloss: grown together, united with
     mounce-morphcat: a-3a
+συμφωνέω:
+    pos: V
+    bdag-headword: συμφωνέω
+    dodson-entry: συμφωνέω
+    strongs: 4856
+    gk: 5244
+    dodson-pos: V
+    gloss: I agree with
 συμφώνησις:
     pos: N
     bdag-headword: συμφώνησις
@@ -31970,6 +33858,14 @@
     dodson-pos: V
     gloss: I compete together with others
     mounce-morphcat: cv-1d(2a)
+συναίρω:
+    pos: V
+    bdag-headword: συναίρω
+    dodson-entry: συναίρω
+    strongs: 4868
+    gk: 5256
+    dodson-pos: V
+    gloss: I make a reckoning, settle accounts
 συναιχμάλωτος:
     pos: N/A
     bdag-headword: συναιχμάλωτος
@@ -32086,6 +33982,14 @@
     dodson-pos: V
     gloss: I fit together
     mounce-morphcat: cv-1d(2a)
+συναυξάνομαι:
+    pos: V
+    bdag-headword: συναυξάνω
+    dodson-entry: συναυξάνομαι
+    strongs: 4885
+    gk: 5277
+    dodson-pos: V
+    gloss: I grow together
 συνδέομαι:
     pos: V
     bdag-headword: συνδέω
@@ -32302,6 +34206,14 @@
     dodson-pos: V
     gloss: I bury along with
     mounce-morphcat: cv-4
+συνθλάομαι:
+    pos: V
+    bdag-headword: συνθλάω
+    dodson-entry: συνθλάω
+    strongs: 4917
+    gk: 5314
+    dodson-pos: V
+    gloss: I break, break in pieces
 συνθλίβω:
     pos: V
     bdag-headword: συνθλίβω
@@ -32367,6 +34279,14 @@
     dodson-pos: N:F
     gloss: distress, anguish
     mounce-morphcat: n-1b
+συντάσσω:
+    pos: V
+    bdag-headword: συντάσσω
+    dodson-entry: συντάσσω
+    strongs: 4929
+    gk: 5332
+    dodson-pos: V
+    gloss: I arrange with, direct, appoint
 συντέλεια:
     pos: N
     bdag-headword: συντέλεια
@@ -32592,6 +34512,14 @@
     dodson-pos: N:M
     gloss: a fellow soldier
     mounce-morphcat: n-1f
+συστρέφω:
+    pos: V
+    bdag-headword: συστρέφω
+    dodson-entry: συστρέφω
+    strongs: 4962
+    gk: 5370
+    dodson-pos: V
+    gloss: I roll or gather together
 συσχηματίζομαι:
     pos: V
     bdag-headword: συσχηματίζω
@@ -32898,6 +34826,14 @@
     dodson-pos: A
     gloss: a talent in weight
     mounce-morphcat: a-1a(1)
+τάλαντον:
+    pos: N
+    bdag-headword: τάλαντον
+    dodson-entry: τάλαντον, ου, τό
+    strongs: 5007
+    gk: 5419
+    dodson-pos: N:N
+    gloss: a talent of silver or gold
 ταλιθα:
     pos: N/ARAM
     bdag-headword: ταλιθα
@@ -32907,6 +34843,14 @@
     dodson-pos: ARAM
     gloss: little girl
     mounce-morphcat: n-3g(2)
+ταμεῖον:
+    pos: N
+    bdag-headword: ταμεῖον
+    dodson-entry: ταμεῖον, ου, τό
+    strongs: 5009
+    gk: 5421
+    dodson-pos: N:N
+    gloss: a secret chamber
 τάξις:
     pos: N
     bdag-headword: τάξις
@@ -32993,6 +34937,14 @@
     dodson-pos: N:M
     gloss: a bull, an ox
     mounce-morphcat: n-2a
+ταφή:
+    pos: N
+    bdag-headword: ταφή
+    dodson-entry: ταφή, ῆς, ἡ
+    strongs: 5027
+    gk: 5438
+    dodson-pos: N:F
+    gloss: a burial
 τάφος:
     pos: N
     bdag-headword: τάφος
@@ -33197,6 +35149,14 @@
     dodson-pos: V
     gloss: I end, finish, die
     mounce-morphcat: v-1d(1a)
+τελευτή:
+    pos: N
+    bdag-headword: τελευτή
+    dodson-entry: τελευτή, ῆς, ἡ
+    strongs: 5054
+    gk: 5463
+    dodson-pos: N:F
+    gloss: end of life, death
 τελέω:
     pos: V
     bdag-headword: τελέω
@@ -33287,6 +35247,14 @@
     dodson-pos: A
     gloss: fourth
     mounce-morphcat: a-1a(2a)
+τετραάρχης:
+    pos: N
+    bdag-headword: τετραάρχης
+    dodson-entry: τετράρχης, ου, ὁ
+    strongs: 5076
+    gk: 5490
+    dodson-pos: N:M
+    gloss: a tetrarch
 τετράγωνος:
     pos: A
     bdag-headword: τετράγωνος
@@ -33584,6 +35552,14 @@
     dodson-pos: D
     gloss: of such a kind, such
     mounce-morphcat: a-1a(2b)
+τόκος:
+    pos: N
+    bdag-headword: τόκος
+    dodson-entry: τόκος, ου, ὁ
+    strongs: 5110
+    gk: 5527
+    dodson-pos: N:M
+    gloss: interest, usury
 τολμάω:
     pos: V
     bdag-headword: τολμάω
@@ -33671,6 +35647,14 @@
     dodson-pos: ADV-K
     gloss: on the contrary
     mounce-morphcat: adverb
+τοὔνομα:
+    pos: N/ADV-K
+    bdag-headword: τοὔνομα
+    dodson-entry: τοὔνομα
+    strongs: 5122
+    gk: 5540
+    dodson-pos: ADV-K
+    gloss: by name
 τράγος:
     pos: N
     bdag-headword: τράγος
@@ -33689,6 +35673,14 @@
     dodson-pos: N:F
     gloss: a table for food or business
     mounce-morphcat: n-1c
+τραπεζίτης:
+    pos: N
+    bdag-headword: τραπεζίτης
+    dodson-entry: τραπεζίτης, ου, ὁ
+    strongs: 5133
+    gk: 5545
+    dodson-pos: N:M
+    gloss: a money-changer, banker
 τραχηλίζομαι:
     pos: V
     bdag-headword: τραχηλίζω
@@ -33916,6 +35908,14 @@
     dodson-pos: N:F
     gloss: the eye of a needle
     mounce-morphcat: n-1a
+τρύπημα:
+    pos: N
+    bdag-headword: τρύπημα
+    dodson-entry: τρύπημα, ατος, τό
+    strongs: 5169
+    gk: 5557,5585
+    dodson-pos: N:N
+    gloss: a hole, the eye of a needle
 Τρύφαινα:
     pos: N
     bdag-headword: Τρύφαινα
@@ -34038,6 +36038,14 @@
     dodson-pos: V
     gloss: I make blind
     mounce-morphcat: v-1d(3)
+τύφομαι:
+    pos: V
+    bdag-headword: τύφω
+    dodson-entry: τύφω
+    strongs: 5188
+    gk: 5606
+    dodson-pos: V
+    gloss: I raise smoke
 τυφόομαι:
     pos: V
     bdag-headword: τυφόω
@@ -34597,6 +36605,14 @@
     dodson-pos: N:N
     gloss: a figure, copy, example
     mounce-morphcat: n-3c(4)
+ὑποδείκνυμι:
+    pos: V
+    bdag-headword: ὑποδείκνυμι
+    dodson-entry: ὑποδείκνυμι
+    strongs: 5263
+    gk: 5683,5684
+    dodson-pos: V
+    gloss: I show plainly, teach, warn
 ὑποδέομαι:
     pos: V
     bdag-headword: ὑποδέω
@@ -34978,6 +36994,14 @@
     dodson-pos: N:N
     gloss: height, barrier, bulwark
     mounce-morphcat: n-3c(4)
+φάγος:
+    pos: N
+    bdag-headword: φάγος
+    dodson-entry: φάγος, ου, ὁ
+    strongs: 5314
+    gk: 5741
+    dodson-pos: N:M
+    gloss: a glutton
 φαιλόνης:
     pos: N
     bdag-headword: φαιλόνης
@@ -35068,6 +37092,14 @@
     dodson-pos: N-PRI
     gloss: Pharaoh
     mounce-morphcat: n-3g(2)
+Φαρές:
+    pos: N
+    bdag-headword: Φαρές
+    dodson-entry: Φαρές, ὁ
+    strongs: 5329
+    gk: 5756
+    dodson-pos: N-PRI
+    gloss: Perez
 Φαρισαῖος:
     pos: N
     bdag-headword: Φαρισαῖος
@@ -35165,6 +37197,14 @@
     dodson-pos: V
     gloss: I flee, escape, shun
     mounce-morphcat: v-1b(2)
+φήμη:
+    pos: N
+    bdag-headword: φήμη
+    dodson-entry: φήμη, ης, ἡ
+    strongs: 5345
+    gk: 5773
+    dodson-pos: N:F
+    gloss: a report, fame
 φημί:
     pos: V
     bdag-headword: φημί
@@ -35667,6 +37707,14 @@
     dodson-pos: N:M
     gloss: a tax, tribute
     mounce-morphcat: n-2a
+φορτίζω:
+    pos: V
+    bdag-headword: φορτίζω
+    dodson-entry: φορτίζω
+    strongs: 5412
+    gk: 5844
+    dodson-pos: V
+    gloss: I load, burden
 φορτίον:
     pos: N
     bdag-headword: φορτίον
@@ -35712,6 +37760,14 @@
     dodson-pos: N:M
     gloss: a hedge, fence, partition
     mounce-morphcat: n-2a
+φράζω:
+    pos: V
+    bdag-headword: φράζω
+    dodson-entry: φράζω
+    strongs: 5419
+    gk: 5851
+    dodson-pos: V
+    gloss: I declare, explain, interpret
 φράσσω:
     pos: V
     bdag-headword: φράσσω
@@ -35829,6 +37885,14 @@
     dodson-pos: N:M
     gloss: Phygelus
     mounce-morphcat: n-2a
+φυγή:
+    pos: N
+    bdag-headword: φυγή
+    dodson-entry: φυγή, ῆς, ἡ
+    strongs: 5437
+    gk: 5870
+    dodson-pos: N:F
+    gloss: flight
 φυλακή:
     pos: N
     bdag-headword: φυλακή
@@ -35838,6 +37902,14 @@
     dodson-pos: N:F
     gloss: a watching, guard, prison, imprisonment
     mounce-morphcat: n-1b
+φυλακτήριον:
+    pos: N
+    bdag-headword: φυλακτήριον
+    dodson-entry: φυλακτήριον, ου, τό
+    strongs: 5440
+    gk: 5873
+    dodson-pos: N:N
+    gloss: a phylactery, an amulet
 φυλάσσω:
     pos: V
     bdag-headword: φυλάσσω
@@ -35919,6 +37991,14 @@
     dodson-pos: N:F
     gloss: a puffing up, pride
     mounce-morphcat: n-3e(5b)
+φυτεία:
+    pos: N
+    bdag-headword: φυτεία
+    dodson-entry: φυτεία, ας, ἡ
+    strongs: 5451
+    gk: 5884
+    dodson-pos: N:F
+    gloss: a plant
 φυτεύω:
     pos: V
     bdag-headword: φυτεύω
@@ -35937,6 +38017,14 @@
     dodson-pos: V
     gloss: I grow, grow up
     mounce-morphcat: v-1a(4)
+φωλεός:
+    pos: N
+    bdag-headword: φωλεός
+    dodson-entry: φωλεός, οῦ, ὁ
+    strongs: 5454
+    gk: 5887
+    dodson-pos: N:M
+    gloss: a burrow, hole
 φωνέω:
     pos: V
     bdag-headword: φωνέω
@@ -35982,6 +38070,14 @@
     dodson-pos: A
     gloss: light-bearing, radiant, the morning-star
     mounce-morphcat: a-3a
+φωτεινός:
+    pos: A
+    bdag-headword: φωτεινός
+    dodson-entry: φωτεινός, ή, όν
+    strongs: 5460
+    gk: 5893
+    dodson-pos: A
+    gloss: bright, luminous, full of light
 φωτίζω:
     pos: V
     bdag-headword: φωτίζω
@@ -36117,6 +38213,14 @@
     dodson-pos: ADV
     gloss: on or to the ground
     mounce-morphcat: adverb
+Χαναναῖος:
+    pos: A
+    bdag-headword: Χαναναῖος
+    dodson-entry: Χαναναῖος, αία, αῖον
+    strongs: 5478
+    gk: 5914
+    dodson-pos: A
+    gloss: Canaanite
 χαρά:
     pos: N
     bdag-headword: χαρά
@@ -36332,6 +38436,14 @@
     dodson-pos: N:F
     gloss: snow
     mounce-morphcat: n-3f(1b)
+χλαμύς:
+    pos: N
+    bdag-headword: χλαμύς
+    dodson-entry: χλαμύς, ύδος, ἡ
+    strongs: 5511
+    gk: 5948
+    dodson-pos: N:F
+    gloss: a short cloak
 χλιαρός:
     pos: A
     bdag-headword: χλιαρός
@@ -36395,6 +38507,22 @@
     dodson-pos: V
     gloss: I am angry with
     mounce-morphcat: v-1d(1a)
+χολή:
+    pos: N
+    bdag-headword: χολή
+    dodson-entry: χολή, ῆς, ἡ
+    strongs: 5521
+    gk: 5958
+    dodson-pos: N:F
+    gloss: gall, bitter herbs
+Χοραζίν:
+    pos: N
+    bdag-headword: Χοραζίν
+    dodson-entry: Χοραζίν, ἡ
+    strongs: 5523
+    gk: 5960,6002
+    dodson-pos: N-PRI
+    gloss: Chorazin
 χορηγέω:
     pos: V
     bdag-headword: χορηγέω
@@ -36808,6 +38936,14 @@
     dodson-pos: V
     gloss: I testify falsely
     mounce-morphcat: cv-1d(2a)
+ψευδομαρτυρία:
+    pos: N
+    bdag-headword: ψευδομαρτυρία
+    dodson-entry: ψευδομαρτυρία, ας, ἡ
+    strongs: 5577
+    gk: 6019
+    dodson-pos: N:F
+    gloss: false testimony
 ψευδόμαρτυς:
     pos: N
     bdag-headword: ψευδόμαρτυς
@@ -36937,6 +39073,14 @@
     dodson-pos: A
     gloss: animal, natural, sensuous
     mounce-morphcat: a-1a(2a)
+ψύχομαι:
+    pos: V
+    bdag-headword: ψύχω
+    dodson-entry: ψύχω
+    strongs: 5594
+    gk: 6038
+    dodson-pos: V
+    gloss: I cool, grow cold
 ψῦχος:
     pos: N
     bdag-headword: ψῦχος
@@ -37027,6 +39171,14 @@
     dodson-pos: V
     gloss: I am in travail, suffer birth-pangs
     mounce-morphcat: v-1c(2)
+ὦμος:
+    pos: N
+    bdag-headword: ὦμος
+    dodson-entry: ὦμος, ου, ὁ
+    strongs: 5606
+    gk: 6049
+    dodson-pos: N:M
+    gloss: a shoulder
 ὥρα:
     pos: N
     bdag-headword: ὥρα
