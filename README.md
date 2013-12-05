@@ -2,7 +2,7 @@
 
 analysis and explanation of morphology of Greek New Testament and similar texts
 
-Only covers a fraction of text at the moment. Each cycle of work adds more
+A first pass has been done of all but Luke and Acts. Each cycle of work adds more
 text, merges in more existing analysis and improves the code.
 
 ## Current Process

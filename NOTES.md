@@ -372,3 +372,12 @@
 * Dodson conflates Βοόζ and Βόες
 * Dodson conflates ἑκατοντάρχης and ἑκατόνταρχος
 * Dodson conflates σπείρω and ἐπισπείρω
+* morphcat has αὶνος for αἶνος
+* morphcat has ἀμφιέζω not ἀμφιέννυμι
+* check αὐτοῦ as gk 898 doesn't match
+* morphcat has δανίζω for δανείζω (latter is probably 1244)
+* morphcat missing τοὔνομα
+* morphcat has Φάρες for Φαρές
+* morphcat has χαναναῖος for Χαναναῖος
+* morphcat has χοραζίν for Χοραζίν
+* morphcat has ὼμος for ὦμος

@@ -119,6 +119,8 @@ regexes = [
     r"N@N:F@n-3[0-9a-z\(\)]+$",
     r"N@N:N@n-3[0-9a-z\(\)]+$",
     
+    r"N@N-OI@n-3c\(6b\)$",
+
     # indeclinable proper nouns
     r"N@N-PRI@n-3g\(1\)$",
     r"N@N-PRI@n-3g\(2\)$",
@@ -134,8 +136,9 @@ regexes = [
 
     # indeclinable aramaic nouns
     r"N/ARAM@ARAM@n-3g\(2\)$",
+    r"N/ARAM@HEB@n-3g\(2\)$",
     r"N/ARAM@None@None$",
-    
+
     # nouns with multiple genders (according to dodson)
     r"N@N:F,N:N@n-1a$", # @@@
     r"N@N:M,N:N@n-2a$", # @@@
@@ -166,6 +169,7 @@ regexes = [
     # noun / adjective / cross-over conflation
     r"A@N:M@n-1f$", # @@@
     r"N@A@a-2a$", # @@@
+    r"N@A@n-2a$", # @@@
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
     r"A@A@n-2b$", # @@@
@@ -176,15 +180,18 @@ regexes = [
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
     r"A/N@N:N@None$", # @@@
+    r"A/N@A@a-2b$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
     r"A/N@N:F@n-1a$", # @@@
     r"N/A@A@a-3a$", # @@@
+    r"N/A@A@a-5$", # @@@
     r"A@A@n-3c\(6b\)", # @@@
     r"A/N@N:M@a-1a\(1\)$", # @@@
     r"A/N@N:M@a-1a\(2a\)$", # @@@
 
     r"N/ADV-K@ADV-K@adverb$", # @@@
+    r"N/ADV-K@ADV-K@None$", # @@@
     
     # article
     r"RA@T@a-1a\(2b\)$",
@@ -287,9 +294,12 @@ regexes = [
     r"D@None@conj$", # @@@
     r"D@ADV,V@adverb$", # @@@
     r"D/V@V@adverb$", # @@@
+
+    # adverb / noun confusion
     r"D/N@None@None$", # @@@
-    
+    r"D/N@N:F@adverb$", # @@@
     r"D/ARAM@ARAM,HEB@n-3g\(2\)$", # @@@
+    r"D@ADV@n-3g\(2\)$", # @@@
 
     # prepositions missing in dodson
     r"P@None@prep$",
