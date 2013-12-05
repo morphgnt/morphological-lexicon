@@ -235,7 +235,7 @@
     bdag-headword: ἀγγεῖον
     dodson-entry: ἀγγεῖον, ου, τό
     strongs: 30
-    gk: 31,35
+    gk: 31
     dodson-pos: N:N
     gloss: a vessel, flask, can
 ἀγγελία:
@@ -264,6 +264,7 @@
 ἄγγος:
     pos: N
     bdag-headword: ἄγγος
+    gk: 35
 ἄγε:
     pos: V
     bdag-headword: ἄγε
@@ -1571,7 +1572,7 @@
     pos: N
     dodson-entry: ἀλάβαστρον, ου, τό
     strongs: 211
-    gk: 222,223
+    gk: 222
     dodson-pos: N:N
     gloss: an alabaster phial or bottle
 ἀλάβαστρος:
@@ -1579,7 +1580,7 @@
     bdag-headword: ἀλάβαστρος
     dodson-entry: ἀλάβαστρον, ου, τό
     strongs: 211
-    gk: [222, 223]
+    gk: 223
     dodson-pos: N:N
     gloss: an alabaster phial or bottle
 ἀλαζονεία:
@@ -4150,7 +4151,7 @@
     bdag-headword: ἁπλοῦς
     dodson-entry: ἁπλοῦς, ῆ, οῦν
     strongs: 573
-    gk: 604,606
+    gk: 606
     dodson-pos: A
     gloss: single, simple, sound
 ἁπλῶς:
@@ -4990,7 +4991,7 @@
     bdag-headword: Ἀράμ
     dodson-entry: Ἀράμ, ὁ
     strongs: 689
-    gk: 98,730,763
+    gk: 730
     dodson-pos: N-PRI
     gloss: Ram
 ἄραφος:
@@ -5525,6 +5526,7 @@
 Ἀσάφ:
     pos: N
     bdag-headword: Ἀσάφ
+    gk: 811
 ἄσβεστος:
     pos: A
     bdag-headword: ἄσβεστος
@@ -6362,6 +6364,11 @@
 Ἀχάζ:
     pos: N
     bdag-headword: Ἀχάζ
+    dodson-entry: Ἄχαζ, ὁ
+    strongs: 881
+    gk: 937
+    dodson-pos: N-PRI
+    gloss: Ahaz
 Ἀχαΐα:
     pos: N
     bdag-headword: Ἀχαΐα
@@ -6401,6 +6408,11 @@
 Ἀχίμ:
     pos: N
     bdag-headword: Ἀχίμ
+    dodson-entry: Ἀχείμ, ὁ
+    strongs: 885
+    gk: 943
+    dodson-pos: N-PRI
+    gloss: Achim
 ἀχρειόομαι:
     pos: V
     bdag-headword: ἀχρειόω
@@ -6834,6 +6846,11 @@
 βατταλογέω:
     pos: V
     bdag-headword: βατταλογέω
+    dodson-entry: βαττολογέω
+    strongs: 945
+    gk: 1006
+    dodson-pos: V
+    gloss: I chatter, utter empty words
 βδέλυγμα:
     pos: N
     bdag-headword: βδέλυγμα
@@ -7014,6 +7031,11 @@
 βιάζω:
     pos: V
     bdag-headword: βιάζω
+    dodson-entry: βίαζομαι
+    strongs: 971
+    gk: 1041
+    dodson-pos: V
+    gloss: I use force, violence, suffer violence
 βιαστής:
     pos: N
     bdag-headword: βιαστής
@@ -7187,6 +7209,7 @@
 Βόες:
     pos: N
     bdag-headword: Βόες
+    gk: 1067
 βοή:
     pos: N
     bdag-headword: βοή
@@ -7228,7 +7251,7 @@
     bdag-headword: βόθυνος
     dodson-entry: βόθυνος, ου, ὁ
     strongs: 999
-    gk: 1072,1073
+    gk: 1073
     dodson-pos: N:M
     gloss: a pit, ditch
 βόρβορος:
@@ -7807,7 +7830,7 @@
     bdag-headword: γέννημα
     dodson-entry: γέννημα, ατος, τό
     strongs: 1081
-    gk: 1163,1165
+    gk: 1165
     dodson-pos: N:N
     gloss: offspring, child, fruit
 Γεννησαρέτ:
@@ -8406,7 +8429,7 @@
     bdag-headword: δάνειον
     dodson-entry: δάνειον, ου, τό
     strongs: 1156
-    gk: 1245,1249
+    gk: 1245
     dodson-pos: N:N
     gloss: a loan, debt
 Δανιήλ:
@@ -10622,6 +10645,7 @@
 εἰδέα:
     pos: N
     bdag-headword: εἰδέα
+    gk: 1624
 εἶδος:
     pos: N
     bdag-headword: εἶδος
@@ -10971,12 +10995,13 @@
     bdag-headword: ἑκατοντάρχης
     dodson-entry: ἑκατοντάρχης, ου, ὁ
     strongs: 1543
-    gk: 1672,1673
+    gk: 1672
     dodson-pos: N:M
     gloss: a centurion
 ἑκατόνταρχος:
     pos: N
     bdag-headword: ἑκατόνταρχος
+    gk: 1673
 ἐκβαίνω:
     pos: V
     bdag-headword: ἐκβαίνω
@@ -11799,6 +11824,11 @@
 Ἐλιακίμ:
     pos: N
     bdag-headword: Ἐλιακίμ
+    dodson-entry: Ἐλιακείμ, ὁ
+    strongs: 1662
+    gk: 1806
+    dodson-pos: N-PRI
+    gloss: Eliakim
 Ἐλιούδ:
     pos: N
     bdag-headword: Ἐλιούδ
@@ -12042,6 +12072,7 @@
 ἐμπίμπρημι:
     pos: V
     bdag-headword: ἐμπίμπρημι
+    gk: 1856
 ἐμπίπτω:
     pos: V
     bdag-headword: ἐμπίπτω
@@ -12376,6 +12407,7 @@
 ἕνεκα:
     pos: P
     bdag-headword: ἕνεκα
+    gk: 1914
 ἕνεκεν:
     pos: P
     dodson-entry: ἕνεκεν
@@ -14054,6 +14086,7 @@
 ἐπισπείρω:
     pos: V
     bdag-headword: ἐπισπείρω
+    gk: 2178
 ἐπίσταμαι:
     pos: V
     bdag-headword: ἐπίσταμαι
@@ -15695,6 +15728,11 @@
 Ζοροβαβέλ:
     pos: N
     bdag-headword: Ζοροβαβέλ
+    dodson-entry: Ζοροβάβελ, ὁ
+    strongs: 2216
+    gk: 2431
+    dodson-pos: N-PRI
+    gloss: Zerubbabel
 ζόφος:
     pos: N
     bdag-headword: ζόφος
@@ -16172,6 +16210,11 @@
 Θαμάρ:
     pos: N
     bdag-headword: Θαμάρ
+    dodson-entry: Θάμαρ, ἡ
+    strongs: 2283
+    gk: 2500
+    dodson-pos: N-PRI
+    gloss: Tamar
 θαμβέομαι:
     pos: V
     bdag-headword: θαμβέω
@@ -17681,6 +17724,11 @@
 Ἰωαθάμ:
     pos: N
     bdag-headword: Ἰωαθάμ
+    dodson-entry: Ἰωάθαμ, ὁ
+    strongs: 2488
+    gk: 2718
+    dodson-pos: N-PRI
+    gloss: Jotham
 Ἰωάννης:
     pos: N
     bdag-headword: Ἰωάννης
@@ -17702,6 +17750,7 @@
 Ἰωβήδ:
     pos: N
     bdag-headword: Ἰωβήδ
+    gk: 2725
 Ἰωνᾶς:
     pos: N
     bdag-headword: Ἰωνᾶς
@@ -19403,6 +19452,7 @@
 κατωτέρω:
     pos: D
     bdag-headword: κατωτέρω
+    gk: 3006
 καῦμα:
     pos: N
     bdag-headword: καῦμα
@@ -20503,6 +20553,7 @@
 κορβανᾶς:
     pos: N
     bdag-headword: κορβανᾶς
+    gk: 3168
 Κόρε:
     pos: N
     bdag-headword: Κόρε
@@ -22010,6 +22061,7 @@
 Μαγαδάν:
     pos: N
     bdag-headword: Μαγαδάν
+    gk: 3400
 Μαγδαληνή:
     pos: N
     bdag-headword: Μαγδαληνή
@@ -23969,8 +24021,10 @@
 Ναζαρά:
     pos: N
     bdag-headword: Ναζαρά
+    gk: 3711
 Ναζαρέθ:
     pos: N
+    gk: 3714
 Ναζαρέτ:
     pos: N
     dodson-entry: Ναζαρέτ, ἡ
@@ -24915,6 +24969,7 @@
 οἰκετεία:
     pos: N
     bdag-headword: οἰκετεία
+    gk: 3859
 οἰκέτης:
     pos: N
     bdag-headword: οἰκέτης
@@ -24954,6 +25009,11 @@
 οἰκιακός:
     pos: N
     bdag-headword: οἰκιακός
+    dodson-entry: οἰκειακός, ή, όν
+    strongs: 3615
+    gk: 3865
+    dodson-pos: A
+    gloss: one of a family
 οἰκοδεσποτέω:
     pos: V
     bdag-headword: οἰκοδεσποτέω
@@ -25144,6 +25204,7 @@
 ὀλιγοπιστία:
     pos: N
     bdag-headword: ὀλιγοπιστία
+    gk: 3898
 ὀλιγόπιστος:
     pos: A
     bdag-headword: ὀλιγόπιστος
@@ -28461,6 +28522,7 @@
 πίμπλημι:
     pos: V
     bdag-headword: πίμπλημι
+    gk: 4398
 πίναξ:
     pos: N
     bdag-headword: πίναξ
