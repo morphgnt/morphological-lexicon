@@ -381,3 +381,32 @@
 * morphcat has χαναναῖος for Χαναναῖος
 * morphcat has χοραζίν for Χοραζίν
 * morphcat has ὼμος for ὦμος
+* BDAG missing αἴτιον (uses αἴτιος?)
+* BDAG missing ἀκριβέστερον
+* BDAG has Ἀππίου φόρον as single entry so is missing isolated Ἀππίου and Φόρον
+* BDAG has Ἄρειος πάγος as a single entry so is missing isolated Ἄρειος and Πάγος
+* BDAG has Βαριησοῦ for Βαριησοῦς?
+* BDAG only has δεσμός for neuter δεσμόν
+* BDAG has δωδεκάφυλος for δωδεκάφυλον
+* BDAG has ἐνεός for ἐνέος
+* BDAG has ἐρυθρός for Ἐρυθρός
+* BDAG has Καλοὶ λιμένες as a single entry so is missing isolated Καλός and Λιμήν
+* BDAG has Κῶς for Κώς
+* BDAG has Μόλοχ for Μολόχ
+* BDAG treats Νεάπολις as one word not Νέα Πόλις
+* BDAG has Πάρθοι for Πάρθος
+* BDAG has Πρίσκα for Πρίσκιλλα
+* BDAG has Σαρων for Σαρών
+* BDAG has σεβαστός for Σεβαστός
+* Σίλας vs Σιλᾶς
+* Σολομών vs Σολομῶν
+* Στοά vs στοά
+* BDAG has Τρεῖς Ταβέρναι as a single entry so is missing isolated Τρεῖς and Ταβέρνη 
+* BDAG missing Φοῖνιξ
+* BDAG missing ἔξειμι
+* BDAG has θάλασσα for Θάλασσα
+* BDAG missing λοιμός
+* BDAG has πλόος for πλοῦς ?
+* σύνιημι vs συνίημι
+* BDAG missing σύνειμι
+* BDAG missing χῶρος
