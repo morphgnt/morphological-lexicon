@@ -410,3 +410,57 @@
 * σύνιημι vs συνίημι
 * BDAG missing σύνειμι
 * BDAG missing χῶρος
+* ἀγαθουργέω vs ἀγαθοεργέω
+* Dodson has Στωϊκός for Στοϊκός
+* Dodson has superlative ἀκριβέστατος not comparative ἀκριβέστερον
+* Dodson conflates ἐνθυμέομαι and διενθυμέομαι
+* Dodson has Ἐλαιών for ἐλαιών
+* Dodson has πρῴρα for πρῷρα
+* Dodson missing σιτίον
+* Dodson has Ἄρειος πάγος, ου, ὁ as a single entry so is missing isolated Ἄρειος and Πάγος
+* Dodson has συνεπίστημι for συνεφίστημι
+* Dodson has δεξιόλαβος for δεξιολάβος
+* Dodson conflates χλευάζω and διαχλευάζω
+* Dodson has ἐπιοῦσα for ἔπειμι
+* Dodson conflates οἰκοδομέω and οἰκοδόμος
+* Dodson conflates σύνοιδα and συνοράω
+* Dodson conflates εὐθύμως and εὔθυμος
+* Dodson conflates καλός and Καλός
+* Dodson has Ἐμμόρ for Ἑμμώρ
+* Dodson has Σαπφείρη for Σάπφιρα
+* Dodson has Ταβηθά for Ταβιθά
+* Dodson has Ἀγαβος for Ἅγαβος
+* Dodson conflates λιμήν and Λιμήν
+* Dodson has Ῥεμφάν for Ῥαιφάν
+* Dodson conflates τρεῖς and Τρεῖς
+* Dodson treats Νεάπολις as one word
+* Dodson has Βαρϊησοῦς for Βαριησοῦς
+* Dodson missing Τίτιος
+* Dodson conflates Ασσαρών and Σαρών
+* Dodson conflates Κλαῦδη and Καῦδα
+* Dodson missing Πύρρος (conflated with πυρρός?)
+* Dodson has ταβέρναι rather than Ταβέρνη
+* Dodson conflates εἰσπηδάω and ἐκπηδάω
+* Dodson conflates δεσμός and δεσμόν
+* Dodson conflates προσκολλάω and προσκλίνομαι
+* Dodson conflates πανταχοῦ and πανταχῇ
+* Dodson has ἀντικρύ for ἄντικρυς
+* Dodson conflates ὑπερεῖδον and ὑπεροράω
+* Dodson has ἀπορρίπτω for ἀπορίπτω
+* Dodson missing περαιτέρω
+* Dodson has ἐξολοθρεύω for ἐξολεθρεύω
+* Dodson missing ἀκριβής
+* Dodson conflates πρῶτον and πρώτως
+* Dodson conflates δίκη and καταδίκη
+* Dodson conflates Εὐροκλύδων and εὐρακύλων
+* Dodson conflates λάσκω and λακάω
+* Dodson has σφυρόν for σφυδρόν
+* Dodson conflates συνελαύνω and συναλλάσσω
+* Dodson conflates κατόρθωμα and διόρθωμα
+* Dodson has συγκαταψηφίζω for συγκαταψηφίζομαι
+* Dodson has τρίστεγος for τρίστεγον
+* Dodson has ἐποκέλλω for ἐπικέλλω
+* Dodson conflates ἀποσκευάζομαι and ἐπισκευάζομαι
+* Dodson has περιρρήγνυμι for περιρήγνυμι
+* Dodson conflates κλίνη and κλινάριον
+* Dodson conflates θεμέλιος and θεμέλιον
