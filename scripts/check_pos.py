@@ -67,9 +67,12 @@ regexes = [
     # adjective missing in dodson and morphcat
     r"A@None@None$",
     
+    # adjectives that morphcat has as nouns
+    r"A@A@n-3f\(2a\)$",
+
     # adjectives that dodson has as adverbs
     r"A@A,ADV@a-[0-9a-z\(\)]+$", # @@@
-    r"A@A,ADV-C@a-1a\(2a\)$", # @@@
+    r"A@A,ADV-C@a-[0-9a-z\(\)]+$", # @@@
     r"A@ADV-S@a-1a\(1\)$", # @@@
     r"A/ADV-S@ADV-S@None$", # @@@
     r"A/ADV@ADV@adverb$", # @@@
@@ -77,6 +80,7 @@ regexes = [
     # adjectives that tisch has as adverbs
     r"A/ADV-S\?@A@a-1a\(2a\)$", # @@@
     r"A/ADV-C\?@None@None$", # @@@
+    r"A/ADV-C@None@None$", # @@@
     r"A/ADV-C@A@a-1a\(1\)$", # @@@
     r"A/ADV-C@ADV-C@adverb$", # @@@
     r"A/ADV@A@a-1a\(1\)$", # @@@
@@ -109,10 +113,14 @@ regexes = [
     r"N@N:M@n-1h$", # @@@
     r"N@N:M@n-2a$", # @@@
     r"N@N:F@n-2a$", # @@@
+    r"N@N:N@n-2a$", # @@@
     r"N@N:M@n-2b$", # @@@
     r"N@N:F@n-2b$", # @@@
-    r"N@N:N@n-2c$",
-    r"N@N:M@n-2e$",
+    r"N@N:N@n-2c$", # @@@
+    r"N@N:F@n-2c$", # @@@
+    r"N@N:M@n-2d\(1\)$",
+    r"N@N:M@n-2e$", # @@@
+    r"N@N:F@n-2e$", # @@@
     
     # 3rd declension nouns
     r"N@N:M@n-3[0-9a-z\(\)]+$",
@@ -167,6 +175,7 @@ regexes = [
     r"N@None@\?\?$", 
     
     # noun / adjective / cross-over conflation
+    r"A@N:F@n-1a$", # @@@
     r"A@N:M@n-1f$", # @@@
     r"N@A@a-2a$", # @@@
     r"N@A@n-2a$", # @@@
@@ -179,7 +188,9 @@ regexes = [
     r"A/N@N:M@n-2a$", # @@@
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
+    r"A/N@N:N@a-3a$", # @@@
     r"A/N@N:N@None$", # @@@
+    r"A@N:N@None$", # @@@
     r"A/N@A@a-2b$", # @@@
     r"A@A,N:F,N:M@a-1a\(2a\)$", # @@@
     r"N@A,N:M@\['n-2a', 'a-1a\(2a\)'\]$", # @@@
@@ -189,6 +200,7 @@ regexes = [
     r"A@A@n-3c\(6b\)", # @@@
     r"A/N@N:M@a-1a\(1\)$", # @@@
     r"A/N@N:M@a-1a\(2a\)$", # @@@
+    r"A/N@None@a-1a\(1\)$", # @@@
 
     r"N/ADV-K@ADV-K@adverb$", # @@@
     r"N/ADV-K@ADV-K@None$", # @@@
@@ -264,6 +276,7 @@ regexes = [
     
     # adverbs missing in dodson
     r"D@None@adverb$",
+    r"D/@@None@adverb$", # @@@
     
     # adverbs missing in morphcat
     r"D@ADV@None$", 

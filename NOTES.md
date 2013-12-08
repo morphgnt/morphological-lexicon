@@ -464,3 +464,28 @@
 * Dodson has περιρρήγνυμι for περιρήγνυμι
 * Dodson conflates κλίνη and κλινάριον
 * Dodson conflates θεμέλιος and θεμέλιον
+* Dodson gives gk of ἔξειμι as 1996 but morphcat gives it as 1997
+* Dodson gives gk of Τύραννος as 5600 but morphcat gives it as 5598
+* morphcat has Ἇγαβος for Ἅγαβος
+* morphcat has συνεπιτίθημι for συνεπιτίθεμαι
+* morphcat has ἀγαθοεργέω for ἀγαθουργέω
+* morphcat doesn't have αἴτιον, only αἴτιος
+* morphcat has Ἄππιος not Ἀππίου (we should consider changing lemma in morphgnt)
+* morphcat has ὰσσον for ἆσσον
+* morphcat has θέρμα for θέρμη
+* morphcat conflates λιμήν and Λιμήν
+* morphcat has πάντή for πάντῃ
+* morphcat has ῥάδιούργημα for ῥᾳδιούργημα
+* morphcat has ῥάδιουργία for ῥᾳδιουργία
+* need to check consistency of Σιλᾶς vs Σίλας (morphcat has Σίλας)
+* morphcat missing συνομιλέω
+* morphcat has ταβέρναι for Ταβέρνη
+* morphcat conflates τρεῖς and Τρεῖς
+* morphcat is missing τριετία
+* morphcat has ἀκριβέστατος for ἀκριβέστερον
+* morphcat is missing δεσμόν
+* morphcat is missing ἐφοράω
+* morphcat is missing Μαθθίας
+* morphcat is missing Νέα
+* morphcat has πάγος for Πάγος
+* morphcat has πόλις for Πόλις
