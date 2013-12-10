@@ -489,3 +489,24 @@
 * morphcat is missing Νέα
 * morphcat has πάγος for Πάγος
 * morphcat has πόλις for Πόλις
+* BDAG is missing ἀνώτερον but has ἀνώτερος
+* BDAG has Αὔγουστος for Αὐγοῦστος
+* BDAG is missing βασίλειον but has βασίλειος
+* BDAG is missing δεκαοκτώ
+* BDAG is missing ἐκτενέστερον
+* BDAG conflates ἐλαιών and Ἐλαιῶν
+* BDAG has ἐνδέχομαι for ἐνδέχεται ? (check latter as lemma)
+* BDAG conflates ζηλωτής and Ζηλωτής
+* BDAG missing Ἰωβήλ
+* BDAG missing Λευίς
+* BDAG has λυσιτελέω for λυσιτελεῖ
+* BDAG missing πυκνά (check as lemma)
+* BDAG missing σκῦλα (check as lemma; should it be σκῦλον?)
+* BDAG missing τρίτον (check as lemma)
+* Dodson has δανειστής for δανιστής
+* Dodson has Νεεμάν for Ναιμάν
+* Dodson conflates συγγενής and συγγενίς
+* Dodson missing Μεννά
+* Dodson missing σκῦλα (check as lemma; should it be σκῦλον?)
+* Dodson conflates παρακαθίζω and παρακαθέζομαι
+* Dodson has Λευΐς for Λευίς

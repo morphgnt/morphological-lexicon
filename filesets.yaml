@@ -4,6 +4,7 @@ sblgnt-lexemes:
     files:
         - 61-Mt-morphgnt.txt
         - 62-Mk-morphgnt.txt
+        - 63-Lk-morphgnt.txt
         - 64-Jn-morphgnt.txt
         - 65-Ac-morphgnt.txt
         - 66-Ro-morphgnt.txt
