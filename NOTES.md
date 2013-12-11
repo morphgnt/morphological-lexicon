@@ -510,3 +510,33 @@
 * Dodson missing σκῦλα (check as lemma; should it be σκῦλον?)
 * Dodson conflates παρακαθίζω and παρακαθέζομαι
 * Dodson has Λευΐς for Λευίς
+* Dodson conflates συναθροίζω and ἀθροίζω
+* Dodson has Μαθουσάλα for Μαθουσαλά
+* Dodson has χρεωφειλέτης for χρεοφειλέτης
+* Dodson has Ῥαγαῦ for Ῥαγαύ
+* Dodson doesn't distinguish βασίλειον
+* Dodson conflates κοπρία and κόπριον
+* Dodson has βαλάντιον for βαλλάντιον
+* Dodson conflates ἅπτω and περιάπτω
+* Dodson has Ἐμμαούς for Ἐμμαοῦς
+* Dodson has Ἰωνάν for Ἰωνάμ
+* Dodson conflates Ἀράμ and Ἀδμίν
+* Dodson (very oddly) conflates ῥαφίς and βελόνη
+* Dodson missing πορρώτερον
+* Dodson has Ἐλισσαῖος for Ἐλισαῖος
+* Dodson has ἀντιπέραν for ἀντιπέρα
+* Dodson missing Ἰωβήλ
+* Ἐλαιῶν vs ἐλαιών
+* Dodson missing πυκνά (just use πυκνός?)
+* Dodson has Μελεᾶς for Μελεά
+* Dodson missing δεκαοκτώ
+* Dodson missing εὖγε as single word
+* Dodson has συκομωραία for συκομορέα
+* Dodson conflates Ἰωσήφ and Ἰωσήχ
+* Dodson has Καϊνάν for Καϊνάμ
+* Dodson missing συμπίπτω
+* Dodson has περικρύπτω for περικρύβω
+* Dodson has Μαάθ for Μάαθ
+* Dodson missing ὀρθρινός
+* Dodson has Ἰαρέδ for Ἰάρετ
+* Dodson missing Μαθθάτ

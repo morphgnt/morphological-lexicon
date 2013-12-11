@@ -836,6 +836,7 @@
 Ἀδμίν:
     pos: N
     bdag-headword: Ἀδμίν
+    gk: 98
 ἀδόκιμος:
     pos: A
     bdag-headword: ἀδόκιμος
@@ -1055,6 +1056,7 @@
 ἀθροίζω:
     pos: V
     bdag-headword: ἀθροίζω
+    gk: 125
 ἀθυμέω:
     pos: V
     bdag-headword: ἀθυμέω
@@ -4339,6 +4341,11 @@
 ἀντιπέρα:
     pos: P/ADV
     bdag-headword: ἀντιπέρα
+    dodson-entry: ἀντιπέραν
+    strongs: 495
+    gk: 527
+    dodson-pos: ADV
+    gloss: on the opposite side or shore
 ἀντιπίπτω:
     pos: V
     bdag-headword: ἀντιπίπτω
@@ -7887,6 +7894,11 @@
 βαλλάντιον:
     pos: N
     bdag-headword: βαλλάντιον
+    dodson-entry: βαλάντιον, ου, τό
+    strongs: 905
+    gk: 964
+    dodson-pos: N:N
+    gloss: a purse, money-bag
 βάλλω:
     pos: V
     bdag-headword: βάλλω
@@ -8308,6 +8320,7 @@
 βελόνη:
     pos: N
     bdag-headword: βελόνη
+    gk: 1017
 βέλος:
     pos: N
     bdag-headword: βέλος
@@ -8717,6 +8730,11 @@
 Βόος:
     pos: N
     bdag-headword: Βόος
+    dodson-entry: Βοόζ, ὁ
+    strongs: 1003
+    gk: 1078
+    dodson-pos: N-PRI
+    gloss: Boaz
 βόρβορος:
     pos: N
     bdag-headword: βόρβορος
@@ -10272,6 +10290,7 @@
     mounce-morphcat: n-3g(2)
 δεκαοκτώ:
     pos: A
+    gk: 1277
 δεκαπέντε:
     pos: A
     dodson-entry: δεκαπέντε
@@ -14248,6 +14267,11 @@
     mounce-morphcat: n-3f(1a)
 Ἐλαιῶν:
     pos: N
+    dodson-entry: Ἐλαιών, ῶνος, ὁ
+    strongs: 1638
+    gk: 1779
+    dodson-pos: N:M
+    gloss: Olive-grove, Olive-yard, the mount Olivet
 Ἐλαμίτης:
     pos: N
     bdag-headword: Ἐλαμίτης
@@ -14484,6 +14508,11 @@
 Ἐλισαῖος:
     pos: N
     bdag-headword: Ἐλισαῖος
+    dodson-entry: Ἐλισσαῖος, ου, ὁ
+    strongs: 1666
+    gk: 1811
+    dodson-pos: N:M
+    gloss: Elisha
 ἑλίσσω:
     pos: V
     bdag-headword: ἑλίσσω
@@ -14716,6 +14745,11 @@
 Ἐμμαοῦς:
     pos: N
     bdag-headword: Ἐμμαοῦς
+    dodson-entry: Ἐμμαούς, ἡ
+    strongs: 1695
+    gk: 1843
+    dodson-pos: N-PRI
+    gloss: Emmaus
 ἐμμένω:
     pos: V
     bdag-headword: ἐμμένω
@@ -18240,6 +18274,7 @@
 εὖγε:
     pos: X/ADV
     bdag-headword: εὖγε
+    gk: 2301
 εὐγενής:
     pos: A
     bdag-headword: εὐγενής
@@ -20723,6 +20758,11 @@
 Ἰάρετ:
     pos: N
     bdag-headword: Ἰάρετ
+    dodson-entry: Ἰαρέδ, ὁ
+    strongs: 2391
+    gk: 2616
+    dodson-pos: N-PRI
+    gloss: Jared
 ἴασις:
     pos: N
     bdag-headword: ἴασις
@@ -21592,6 +21632,11 @@
 Ἰωνάμ:
     pos: N
     bdag-headword: Ἰωνάμ
+    dodson-entry: Ἰωνάν, ὁ
+    strongs: 2494
+    gk: 2729
+    dodson-pos: N-PRI
+    gloss: Jonam
 Ἰωνᾶς:
     pos: N
     bdag-headword: Ἰωνᾶς
@@ -21643,6 +21688,7 @@
 Ἰωσήχ:
     pos: N
     bdag-headword: Ἰωσήχ
+    gk: 2738
 Ἰωσίας:
     pos: N
     bdag-headword: Ἰωσίας
@@ -21947,6 +21993,11 @@
 Καϊνάμ:
     pos: N
     bdag-headword: Καϊνάμ
+    dodson-entry: Καϊνάν, ὁ
+    strongs: 2536
+    gk: 2783
+    dodson-pos: N-PRI
+    gloss: Cainan
 καινός:
     pos: A
     bdag-headword: καινός
@@ -24911,6 +24962,7 @@
 κόπριον:
     pos: N
     bdag-headword: κόπριον
+    gk: 3162
 κόπτω:
     pos: V
     bdag-headword: κόπτω
@@ -26813,6 +26865,11 @@
 Μάαθ:
     pos: N
     bdag-headword: Μάαθ
+    dodson-entry: Μαάθ, ὁ
+    strongs: 3092
+    gk: 3399
+    dodson-pos: N-PRI
+    gloss: Maath
 Μαγαδάν:
     pos: N
     bdag-headword: Μαγαδάν
@@ -26911,6 +26968,11 @@
 Μαθουσαλά:
     pos: N
     bdag-headword: Μαθουσαλά
+    dodson-entry: Μαθουσάλα, ὁ
+    strongs: 3103
+    gk: 3417
+    dodson-pos: N-PRI
+    gloss: Methuselah
 μαίνομαι:
     pos: V
     bdag-headword: μαίνομαι
@@ -27610,6 +27672,11 @@
 Μελεά:
     pos: N
     bdag-headword: Μελεά
+    dodson-entry: Μελεᾶς, ᾶ, ὁ
+    strongs: 3190
+    gk: 3507
+    dodson-pos: N-PRI
+    gloss: Melea
 μέλει:
     pos: V
     bdag-headword: μέλει
@@ -29185,6 +29252,11 @@
 Ναθάμ:
     pos: N
     bdag-headword: Ναθάμ
+    dodson-entry: Ναθάν, ὁ
+    strongs: 3481
+    gk: 3718
+    dodson-pos: N-PRI
+    gloss: Nathan
 Ναθαναήλ:
     pos: N
     bdag-headword: Ναθαναήλ
@@ -31273,6 +31345,7 @@
 ὀρθρινός:
     pos: A
     bdag-headword: ὀρθρινός
+    gk: 3984
 ὄρθρος:
     pos: N
     bdag-headword: ὄρθρος
@@ -33834,6 +33907,7 @@
 περιάπτω:
     pos: V
     bdag-headword: περιάπτω
+    gk: 4312
 περιαστράπτω:
     pos: V
     bdag-headword: περιαστράπτω
@@ -33990,6 +34064,11 @@
 περικρύβω:
     pos: V
     bdag-headword: περικρύβω
+    dodson-entry: περικρύπτω
+    strongs: 4032
+    gk: 4332
+    dodson-pos: V
+    gloss: I conceal, hide
 περικυκλόω:
     pos: V
     bdag-headword: περικυκλόω
@@ -37742,6 +37821,11 @@
 Ῥαγαύ:
     pos: N
     bdag-headword: Ῥαγαύ
+    dodson-entry: Ῥαγαῦ, ὁ
+    strongs: 4466
+    gk: 4814
+    dodson-pos: N-PRI
+    gloss: Ragau, Reu
 ῥᾳδιούργημα:
     pos: N
     bdag-headword: ῥᾳδιούργημα
@@ -40690,6 +40774,11 @@
 συκομορέα:
     pos: N
     bdag-headword: συκομορέα
+    dodson-entry: συκομωραία, ας, ἡ
+    strongs: 4809
+    gk: 5191
+    dodson-pos: N:F
+    gloss: a sycamore tree
 σῦκον:
     pos: N
     bdag-headword: σῦκον
@@ -40992,6 +41081,7 @@
 συμπίπτω:
     pos: V
     bdag-headword: συμπίπτω
+    gk: 5229
 συμπληρόω:
     pos: V
     bdag-headword: συμπληρόω
@@ -46888,6 +46978,11 @@
 χρεοφειλέτης:
     pos: N
     bdag-headword: χρεοφειλέτης
+    dodson-entry: χρεωφειλέτης, ου, ὁ
+    strongs: 5533
+    gk: 5971
+    dodson-pos: N:M
+    gloss: a debtor
 χρή:
     pos: V
     bdag-headword: χρή
