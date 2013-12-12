@@ -540,3 +540,4 @@
 * Dodson missing ὀρθρινός
 * Dodson has Ἰαρέδ for Ἰάρετ
 * Dodson missing Μαθθάτ
+* Dodson conflates νεοσσός and νοσσός
