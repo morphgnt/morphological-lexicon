@@ -541,3 +541,7 @@
 * Dodson has Ἰαρέδ for Ἰάρετ
 * Dodson missing Μαθθάτ
 * Dodson conflates νεοσσός and νοσσός
+* Dodson has τετραρχέω for τετρααρχέω
+* Dodson conflates ζηλωτής and Ζηλωτής
+* Dodson has Αὐγούστος for Αὐγοῦστος
+* Dodson missing τρίτον (covered by τρίτος?)
