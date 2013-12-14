@@ -545,3 +545,6 @@
 * Dodson conflates ζηλωτής and Ζηλωτής
 * Dodson has Αὐγούστος for Αὐγοῦστος
 * Dodson missing τρίτον (covered by τρίτος?)
+* Dodson conflates ἀπολείχω and ἐπιλείχω
+* Dodson conflates ἐπέρχομαι and ἐπεισέρχομαι
+* Dodson has Ἐλμωδάμ for Ἐλμαδάμ

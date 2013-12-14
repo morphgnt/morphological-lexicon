@@ -2582,6 +2582,7 @@
 ἀμφιάζω:
     pos: V
     bdag-headword: ἀμφιάζω
+    gk: 314
 ἀμφιβάλλω:
     pos: V
     bdag-headword: ἀμφιβάλλω
@@ -3116,6 +3117,7 @@
 ἀνάλημψις:
     pos: N
     bdag-headword: ἀνάλημψις
+    gk: 378
 ἀναλίσκω:
     pos: V
     bdag-headword: ἀναλίσκω
@@ -6273,6 +6275,7 @@
 Ἀρνί:
     pos: N
     bdag-headword: Ἀρνί
+    gk: 767
 ἀρνίον:
     pos: N
     bdag-headword: ἀρνίον
@@ -12648,6 +12651,11 @@
 Ἔβερ:
     pos: N
     bdag-headword: Ἔβερ
+    dodson-entry: Ἕβερ, ὁ
+    strongs: 1443
+    gk: 1576
+    dodson-pos: N-PRI
+    gloss: Eber
 Ἑβραῖος:
     pos: N/A
     bdag-headword: Ἑβραῖος
@@ -14613,6 +14621,11 @@
 Ἐλμαδάμ:
     pos: N
     bdag-headword: Ἐλμαδάμ
+    dodson-entry: Ἐλμωδάμ, ὁ
+    strongs: 1678
+    gk: 1825
+    dodson-pos: N-PRI
+    gloss: Elmadam
 ἐλπίζω:
     pos: V
     bdag-headword: ἐλπίζω
@@ -16533,6 +16546,7 @@
 ἐπεισέρχομαι:
     pos: V
     bdag-headword: ἐπεισέρχομαι
+    gk: 2082
 ἔπειτα:
     pos: D
     bdag-headword: ἔπειτα
@@ -17021,6 +17035,7 @@
 ἐπιλείχω:
     pos: V
     bdag-headword: ἐπιλείχω
+    gk: 2143
 ἐπιλησμονή:
     pos: N
     bdag-headword: ἐπιλησμονή
@@ -21663,6 +21678,11 @@
 Ἰωρίμ:
     pos: N
     bdag-headword: Ἰωρίμ
+    dodson-entry: Ἰωρείμ, ὁ
+    strongs: 2497
+    gk: 2733
+    dodson-pos: N-PRI
+    gloss: Jorim
 Ἰωσαφάτ:
     pos: N
     bdag-headword: Ἰωσαφάτ
@@ -43628,6 +43648,7 @@
 τρῆμα:
     pos: N
     bdag-headword: τρῆμα
+    gk: 5557
 τριάκοντα:
     pos: A
     bdag-headword: τριάκοντα
@@ -44415,6 +44436,11 @@
 ὑπερεκχύννομαι:
     pos: V
     bdag-headword: ὑπερεκχύννω
+    dodson-entry: ὑπερεκχύνω
+    strongs: 5240
+    gk: 5658
+    dodson-pos: V
+    gloss: I pour out so that it overflows
 ὑπερεντυγχάνω:
     pos: V
     bdag-headword: ὑπερεντυγχάνω
