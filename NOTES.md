@@ -548,3 +548,16 @@
 * Dodson conflates ἀπολείχω and ἐπιλείχω
 * Dodson conflates ἐπέρχομαι and ἐπεισέρχομαι
 * Dodson has Ἐλμωδάμ for Ἐλμαδάμ
+* Dodson conflates τρύπημα and τρῆμα
+* Dodson conflates ἀμφιέννυμι and ἀμφιάζω
+* Dodson doesn't have μενοῦν by itself, only as μενοῦνγε
+* Dodson has ἀνάληψις for ἀνάλημψις
+* Dodson missing Ἀρνί
+* Dodson missing μήγε
+* Dodson conflates διακαθαρίζω and διακαθαίρω
+* Dodson has Σεμεΐ for Σεμεΐν
+* Dodson conflates τυρβάζω and θορυβάζω
+* Dodson conflates Ἰούδας and Ἰωδά
+* Dodson conflates χράω and κίχρημι
+* Dodson has πλημμύρα for πλήμμυρα
+* Dodson conflates περιβάλλω and παρεμβάλλω

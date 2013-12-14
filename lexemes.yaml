@@ -3117,7 +3117,11 @@
 ἀνάλημψις:
     pos: N
     bdag-headword: ἀνάλημψις
+    dodson-entry: ἀνάληψις, εως, ἡ
+    strongs: 354
     gk: 378
+    dodson-pos: N:F
+    gloss: a taking up, lifting up
 ἀναλίσκω:
     pos: V
     bdag-headword: ἀναλίσκω
@@ -10880,6 +10884,7 @@
 διακαθαίρω:
     pos: V
     bdag-headword: διακαθαίρω
+    gk: 1350
 διακαθαρίζω:
     pos: V
     bdag-headword: διακαθαρίζω
@@ -18034,6 +18039,11 @@
 Ἑσλί:
     pos: N
     bdag-headword: Ἑσλί
+    dodson-entry: Ἐσλί, ὁ
+    strongs: 2069
+    gk: 2268
+    dodson-pos: N-PRI
+    gloss: Esli
 ἔσοπτρον:
     pos: N
     bdag-headword: ἔσοπτρον
@@ -20424,6 +20434,7 @@
 θορυβάζω:
     pos: V
     bdag-headword: θορυβάζω
+    gk: 2571
 θορυβέω:
     pos: V
     bdag-headword: θορυβέω
@@ -20757,6 +20768,11 @@
 Ἰανναί:
     pos: N
     bdag-headword: Ἰανναί
+    dodson-entry: Ἰαννά, ὁ
+    strongs: 2388
+    gk: 2613
+    dodson-pos: N-PRI
+    gloss: Jannai
 Ἰάννης:
     pos: N
     bdag-headword: Ἰάννης
@@ -21640,6 +21656,7 @@
 Ἰωδά:
     pos: N
     bdag-headword: Ἰωδά
+    gk: 2726
 Ἰωήλ:
     pos: N
     bdag-headword: Ἰωήλ
@@ -24308,6 +24325,7 @@
 κίχρημι:
     pos: V
     bdag-headword: κίχρημι
+    gk: 3079
 κλάδος:
     pos: N
     bdag-headword: κλάδος
@@ -28339,6 +28357,7 @@
 μήγε:
     pos: D/PRT-N
     bdag-headword: μήγε
+    gk: 3591
 μηδαμῶς:
     pos: D
     bdag-headword: μηδαμῶς
@@ -33128,6 +33147,7 @@
 παρεμβάλλω:
     pos: V
     bdag-headword: παρεμβάλλω
+    gk: 4212
 παρεμβολή:
     pos: N
     bdag-headword: παρεμβολή
@@ -34947,6 +34967,11 @@
 πλήμμυρα:
     pos: N
     bdag-headword: πλήμμυρα
+    dodson-entry: πλημμύρα, ας, ἡ
+    strongs: 4132
+    gk: 4439
+    dodson-pos: N:F
+    gloss: a flood
 πλήν:
     pos: C/ADV
     bdag-headword: πλήν
@@ -38828,6 +38853,11 @@
 Σεμεΐν:
     pos: N
     bdag-headword: Σεμεΐν
+    dodson-entry: Σεμεΐ, ὁ
+    strongs: 4584
+    gk: 4946
+    dodson-pos: N-PRI
+    gloss: Semein
 σεμίδαλις:
     pos: N
     bdag-headword: σεμίδαλις
