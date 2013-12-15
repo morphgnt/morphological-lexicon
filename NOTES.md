@@ -561,3 +561,21 @@
 * Dodson conflates χράω and κίχρημι
 * Dodson has πλημμύρα for πλήμμυρα
 * Dodson conflates περιβάλλω and παρεμβάλλω
+* morphcat has ἀνάπειρος for ἀνάπηρος
+* morphcat has Ἇννα for Ἅννα
+* morphcat doesn't distinguish βασίλειον
+* morphcat has διαχωρίζω for διαχωρίζομαι
+* morphcat has ἐκτενῶς for ἐκτενέστερον?
+* morphcat conflates ἐλαιών and Ἐλαιῶν
+* morphcat has εὺγε for εὖγε
+* morphcat missing προσρήγνυμι (can't confirm GK)
+* morphcat has χουζᾶς for Χουζᾶς
+* morphcat has ὤόν for ᾠόν
+* morphcat conflates Ζηλωτής and ζηλωτής
+* morphcat is missing Ἰωβήλ
+* morphcat is missing Μαθθάτ
+* morphcat is missing μενοῦν by itself
+* morphcat is missing πορρώτερον
+* morphcat is missing πυκνά (uses πυκνός?)
+* morphcat is missing σκῦλα (uses σκῦλον?)
+* morphcat is missing τρίτον (uses τρίτος?)

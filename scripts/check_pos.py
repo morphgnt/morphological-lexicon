@@ -68,7 +68,8 @@ regexes = [
     r"A@None@None$",
     
     # adjectives that morphcat has as nouns
-    r"A@A@n-3f\(2a\)$",
+    r"A@A@n-3f\(2a\)$", # @@@
+    r"A@None@n-3g\(2\)$", # @@@
 
     # adjectives that dodson has as adverbs
     r"A@A,ADV@a-[0-9a-z\(\)]+$", # @@@
@@ -83,8 +84,12 @@ regexes = [
     r"A/ADV-C@None@None$", # @@@
     r"A/ADV-C@A@a-1a\(1\)$", # @@@
     r"A/ADV-C@ADV-C@adverb$", # @@@
+    r"A/ADV-C\?@ADV@adverb$", # @@@
     r"A/ADV@A@a-1a\(1\)$", # @@@
     r"A/ADV@None@None$", # @@@
+
+    # adjectives that mounce has as adverbs
+    r"A@A@adverb$", # @@@
 
     # adjectives that are numbers
     r"A@A,A-NUI@a-5$", # @@@
@@ -128,6 +133,7 @@ regexes = [
     r"N@N:N@n-3[0-9a-z\(\)]+$",
     
     r"N@N-OI@n-3c\(6b\)$",
+    r"N@N-OI@n-3g\(2\)$",
 
     # indeclinable proper nouns
     r"N@N-PRI@n-3g\(1\)$",
@@ -135,11 +141,16 @@ regexes = [
 
     r"N@N-PRI@\?\?$", # @@@
 
+    r"N@N-PRI@n-2d\(1\)$", # @@@
+
+    r"N@N:M,N-PRI@n-3g\(1\)$", # @@@
+
     # indeclinable letter names
     r"N@N-LI@n-3g\(2\)$",
 
     # indeclinable hebrew nouns
     r"N/HEB@HEB@n-3g\(2\)$",
+    r"N@HEB@n-3g\(2\)$",
     r"N/HEB@HEB,N:M@n-3g\(2\)$",
 
     # indeclinable aramaic nouns
@@ -179,6 +190,7 @@ regexes = [
     r"A@N:M@n-1f$", # @@@
     r"N@A@a-2a$", # @@@
     r"N@A@n-2a$", # @@@
+    r"N@A@n-3c\(2\)$", # @@@
     r"N/A@A@n-2a$", # @@@
     r"A@A@n-2a$", # @@@
     r"A@A@n-2b$", # @@@
@@ -189,6 +201,7 @@ regexes = [
     r"A/N@N:N@n-2c$", # @@@
     r"A/N@N:M@a-3a$", # @@@
     r"A/N@N:N@a-3a$", # @@@
+    r"A/N@N:F@a-3a$", # @@@
     r"A/N@N:N@None$", # @@@
     r"A@N:N@None$", # @@@
     r"A/N@A@a-2b$", # @@@
@@ -301,6 +314,7 @@ regexes = [
     r"D/CONJ@CONJ@adverb$", # @@@
     r"D/PRT-N@PRT-N@particle$", # @@@
     r"D/PRT-N@PRT-N@adverb$", # @@@
+    r"D/PRT-N@None@None$", # @@@
     r"D/PRT-I@None@None$", # @@@
     r"D/PRT-I@PRT-I@adverb$", # @@@
     r"D/A\?@None@None$", # @@@
@@ -325,6 +339,7 @@ regexes = [
     r"P/ADV@ADV@\?\?$", # @@@
     r"P/ADV@None@None$", # @@@
     
+    r"X@None@None$",
     r"X/HEB@HEB@particle$", # @@@
     r"X/COND@COND@conj$", # @@@
     r"X/INJ@INJ,N-OI@interjectio$", # @@@
@@ -332,6 +347,7 @@ regexes = [
     r"X/INJ@INJ@interj$", # @@@
     r"X/ADV-N@ADV-N@particle$", # @@@
     r"X/ADV@ADV@adverb$", # @@@
+    r"X/ADV@None@adverb$", # @@@
     r"X/PRT-I@PRT-I,PRT-N@adverb$", # @@@
     r"X@PRT-I@particle$", # @@@
     r"X@PRT-N@adverb$", # @@@
