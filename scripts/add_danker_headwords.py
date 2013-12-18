@@ -5,10 +5,11 @@ import sys
 from pyuca import Collator
 collator = Collator()
 
-from morphgnt.utils import load_yaml
+from morphgnt.utils import load_yaml, load_wordset
 
 lexemes = load_yaml("lexemes.yaml")
 danker = load_yaml("../data-cleanup/danker-concise-lexicon/danker_headwords.yaml")
+missing_danker = load_wordset("missing_danker.txt")
 
 problems = []
 skipped = 0
@@ -26,8 +27,10 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     if "danker-entry" in metadata:
         print "    {}: {}".format("danker-entry", metadata["danker-entry"].encode("utf-8"))
     else:
-        # @@@ missing danker
-        
+        if lexeme in missing_danker:
+            skipped += 1
+            continue
+                
         if lexeme in danker:
             entry = danker[lexeme]
         elif metadata.get("bdag-headword") in danker:
