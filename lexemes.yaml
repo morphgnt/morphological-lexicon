@@ -31,6 +31,7 @@
 αββα:
     pos: N
     bdag-headword: ἀββα
+    danker-entry: ἀββά
     dodson-entry: Ἀββᾶ
     strongs: 5
     gk: 5
@@ -170,6 +171,7 @@
 ἀγαθουργέω:
     pos: V
     bdag-headword: ἀγαθουργέω
+    danker-entry: ἀγαθοεργέω
     dodson-entry: ἀγαθοεργέω
     strongs: 14
     gk: 14
@@ -2349,6 +2351,7 @@
 ἁλληλουϊά:
     pos: X/HEB
     bdag-headword: ἁλληλουϊά
+    danker-entry: ἁλληλουϊά
     dodson-entry: Ἁλληλούϊα
     strongs: 239
     gk: 252
@@ -2620,6 +2623,7 @@
 ἀμάρτυρος:
     pos: A
     bdag-headword: ἀμάρτυρος
+    danker-entry: ἁμάρτυρος, ον
     dodson-entry: ἀμάρτυρος, ον
     strongs: 267
     gk: 282
@@ -2869,6 +2873,7 @@
 ἀμύνομαι:
     pos: V
     bdag-headword: ἀμύνομαι
+    danker-entry: ἀμύνω
     dodson-entry: ἀμύνομαι
     strongs: 292
     gk: 310
@@ -3579,6 +3584,7 @@
 ἀνανεόω:
     pos: V
     bdag-headword: ἀνανεόω
+    danker-entry: ἀνανεόομαι
     dodson-entry: ἀνανεόω
     strongs: 365
     gk: 391
@@ -3853,6 +3859,7 @@
 ἀνατάσσομαι:
     pos: V
     bdag-headword: ἀνατάσσομαι
+    danker-entry: ἀνατάσσω
     dodson-entry: ἀνατάσσομαι
     strongs: 392
     gk: 421
@@ -5957,6 +5964,7 @@
 ἀποκρίνομαι:
     pos: V
     bdag-headword: ἀποκρίνομαι
+    danker-entry: ἀποκρίνω
     dodson-entry: ἀποκρίνομαι
     strongs: 611
     gk: 646
@@ -8709,6 +8717,7 @@
     mounce-morphcat: ??
 ἄχρις:
     pos: P/ADV
+    danker-entry: ἄχρι, ἄχρις
 ἄχυρον:
     pos: N
     bdag-headword: ἄχυρον
@@ -10169,6 +10178,7 @@
 Γαββαθα:
     pos: N
     bdag-headword: Γαββαθᾶ
+    danker-entry: Γαββαθά
     dodson-entry: Γαββαθᾶ, ἡ
     strongs: 1042
     gk: 1119
@@ -10238,6 +10248,7 @@
 γαζοφυλάκιον:
     pos: N
     bdag-headword: γαζοφυλάκιον
+    danker-entry: γαζοφυλακεῖον/γαζαφυλάκιον, ου, τό
     dodson-entry: γαζοφυλάκιον, ου, τό
     strongs: 1049
     gk: 1126
@@ -12874,6 +12885,7 @@
 διαχωρίζομαι:
     pos: V
     bdag-headword: διαχωριζω
+    danker-entry: διαχωρίζω
     dodson-entry: διαχωρίζομαι
     strongs: 1316
     gk: 1431
@@ -14724,6 +14736,7 @@
 εἰμί:
     pos: V
     bdag-headword: εἰμί
+    danker-entry: εἰμί
     dodson-entry: εἰμί
     strongs: 1510
     gk: 1639
@@ -14868,6 +14881,7 @@
 εἰσκαλέομαι:
     pos: V
     bdag-headword: εἰσκαλέομαι
+    danker-entry: εἰσκαλέω
     dodson-entry: εἰσκαλέομαι
     strongs: 1528
     gk: 1657
@@ -14897,6 +14911,7 @@
 εἰσπορεύομαι:
     pos: V
     bdag-headword: εἰσπορεύομαι
+    danker-entry: εἰσπορεύω
     dodson-entry: εἰσπορεύομαι
     strongs: 1531
     gk: 1660
@@ -15015,7 +15030,7 @@
 ἑκατοντάρχης:
     pos: N
     bdag-headword: ἑκατοντάρχης
-    danker-entry: ἑκατοντάρχης, ου /ἑκατόνταρχος, ου, ὁ
+    danker-entry: ἑκατοντάρχης, ου / ἑκατόνταρχος, ου, ὁ
     dodson-entry: ἑκατοντάρχης, ου, ὁ
     strongs: 1543
     gk: 1672
@@ -15025,6 +15040,7 @@
 ἑκατόνταρχος:
     pos: N
     bdag-headword: ἑκατόνταρχος
+    danker-entry: ἑκατοντάρχης, ου / ἑκατόνταρχος, ου, ὁ
     gk: 1673
     mounce-morphcat: n-2a
 ἐκβαίνω:
@@ -15437,6 +15453,7 @@
 ἐκλέγομαι:
     pos: V
     bdag-headword: ἐκλέγομαι
+    danker-entry: ἐκλέγω
     dodson-entry: ἐκλέγομαι
     strongs: 1586
     gk: 1721
@@ -16400,6 +16417,7 @@
 ἐλωΐ:
     pos: N/ARAM
     bdag-headword: ἐλωΐ
+    danker-entry: ελωι
     dodson-entry: ἐλωΐ
     strongs: 1682
     gk: 1830
@@ -16539,6 +16557,7 @@
 Ἑμμώρ:
     pos: N
     bdag-headword: Ἑμμώρ
+    danker-entry: Ἐμμώρ, ὁ
     dodson-entry: Ἐμμόρ, ὁ
     strongs: 1697
     gk: 1846
@@ -16950,6 +16969,7 @@
 ἐνδοξάζομαι:
     pos: V
     bdag-headword: ἐνδοξάζομαι
+    danker-entry: ἐνδοξάζω
     dodson-entry: ἐνδοξάζω
     strongs: 1740
     gk: 1901
@@ -17074,6 +17094,7 @@
     mounce-morphcat: prep
 ἕνεκεν:
     pos: P
+    danker-entry: ἕνεκα, ἕνεκεν, and s. entries s. v. εἵνεκεν
     dodson-entry: ἕνεκεν
     strongs: 1752
     gk: 1915
@@ -17850,6 +17871,7 @@
 ἔξεστι(ν):
     pos: V
     bdag-headword: ἔξεστιν
+    danker-entry: ἔξεστι
     dodson-entry: ἔξεστιν
     strongs: 1832
     gk: 2003
@@ -18145,6 +18167,7 @@
 ἐπαγγέλλομαι:
     pos: V
     bdag-headword: ἐπαγγέλλομαι
+    danker-entry: ἐπαγγέλλω
     dodson-entry: ἐπαγγέλλομαι
     strongs: 1861
     gk: 2040
@@ -18324,6 +18347,7 @@
 ἐπαναπαύομαι:
     pos: V
     bdag-headword: ἐπαναπαύομαι
+    danker-entry: ἐπαναπαύω
     dodson-entry: ἐπαναπαύομαι
     strongs: 1879
     gk: 2058
@@ -18615,6 +18639,7 @@
 ἐπί:
     pos: P
     bdag-headword: ἐπί
+    danker-entry: ἐπί
     dodson-entry: ἐπί
     strongs: 1909
     gk: 2093
@@ -19014,6 +19039,7 @@
 ἐπιλαμβάνομαι:
     pos: V
     bdag-headword: ἐπιλαμβάνομαι
+    danker-entry: ἐπιλαμβάνω
     dodson-entry: ἐπιλαμβάνομαι
     strongs: 1949
     gk: 2138
@@ -19319,6 +19345,7 @@
 ἐπισκευάζομαι:
     pos: V
     bdag-headword: ἐπισκευάζομαι
+    danker-entry: ἐπισκευάζω
     gk: 2171
     mounce-morphcat: cv-2a(1)
 ἐπισκηνόω:
@@ -21049,6 +21076,7 @@
 εὐφημία:
     pos: N
     bdag-headword: εὐφημία
+    danker-entry: ἐυφημία, ας, ἡ
     dodson-entry: εὐφημία, ας, ἡ
     strongs: 2162
     gk: 2367
@@ -21108,6 +21136,7 @@
 εὐχαριστέω:
     pos: V
     bdag-headword: εὐχαριστέω
+    danker-entry: ἐυχαριστέω
     dodson-entry: εὐχαριστέω
     strongs: 2168
     gk: 2373
@@ -21705,6 +21734,7 @@
 ἤ:
     pos: C/PRT
     bdag-headword: ἤ
+    danker-entry: ἤ
     dodson-entry: ἤ
     strongs: 2228
     gk: 2445
@@ -21821,6 +21851,7 @@
 ἠλί:
     pos: N/ARAM
     bdag-headword: ἠλί
+    danker-entry: ηλι
     dodson-entry: Ἠλί
     strongs: 2241
     gk: 2458
@@ -23576,6 +23607,7 @@
 Ἰησοῦς:
     pos: N
     bdag-headword: Ἰησοῦς
+    danker-entry: Ἰησοῦς, gen. οῦ, dat. οῦ, acc. οῦν, voc. οῦ, ὁ
     dodson-entry: Ἰησοῦς, οῦ, ὁ
     strongs: 2424
     gk: 2652
@@ -24321,6 +24353,7 @@
 ἰῶτα:
     pos: N
     bdag-headword: ἰῶτα
+    danker-entry: ἰῶτα, τό
     dodson-entry: ἰῶτα, τό
     strongs: 2503
     gk: 2740
@@ -25841,6 +25874,7 @@
 κατανύσσομαι:
     pos: V
     bdag-headword: κατανύσσομαι
+    danker-entry: κατανύσσω
     dodson-entry: κατανύσσομαι
     strongs: 2660
     gk: 2920
@@ -29376,7 +29410,7 @@
 Λευί:
     pos: N
     bdag-headword: Λευί
-    danker-entry: Λευί, ὁ
+    danker-entry: Λευί, ὁ / Λευίς, gen. Λευί, acc. Λευίν
     dodson-entry: Λευΐ, ὁ
     strongs: 3017
     gk: 3322
@@ -29385,6 +29419,7 @@
     mounce-morphcat: n-3g(2)
 Λευίς:
     pos: N
+    danker-entry: Λευί, ὁ / Λευίς, gen. Λευί, acc. Λευίν
     dodson-entry: Λευΐς, ὁ
     strongs: 3018
     gk: 3323
@@ -32023,6 +32058,7 @@
 μιμνῄσκομαι:
     pos: V
     bdag-headword: μιμνῄσκομαι
+    danker-entry: μιμνῄσκω
     dodson-entry: μιμνήσκομαι
     strongs: 3403
     gk: 3630
@@ -32617,6 +32653,7 @@
 μυστήριον:
     pos: N
     bdag-headword: μυστήριον
+    danker-entry: μυστῆριον, ου, τό
     dodson-entry: μυστήριον, ου, τό
     strongs: 3466
     gk: 3696
@@ -32812,6 +32849,7 @@
 Ναΐν:
     pos: N
     bdag-headword: Ναΐν
+    danker-entry: Ναῖν, ἡ
     dodson-entry: Ναΐν, ἡ
     strongs: 3484
     gk: 3723
@@ -34203,6 +34241,7 @@
 οἶμαι:
     pos: V
     bdag-headword: οἶμαι
+    danker-entry: οἴομαι contracted as οἶμαι
     dodson-entry: οἴμαι
     strongs: 3633
     gk: [3883, 3887]
@@ -35404,6 +35443,7 @@
 ὀσφῦς:
     pos: N
     bdag-headword: ὀσφῦς
+    danker-entry: ὀσφύς, ύος, ἡ
     dodson-entry: ὀσφύς, ύος, ἡ
     strongs: 3751
     gk: 4019
@@ -36639,6 +36679,7 @@
 παραλέγομαι:
     pos: V
     bdag-headword: παραλέγομαι
+    danker-entry: παραλέγω
     dodson-entry: παραλέγομαι
     strongs: 3881
     gk: 4162
@@ -38575,6 +38616,7 @@
     mounce-morphcat: n-2a
 πετρῶδες:
     pos: A
+    danker-entry: πετρώδης, ες
     dodson-entry: πετρώδης, ες
     strongs: 4075
     gk: 4378
@@ -38684,6 +38726,7 @@
 πιθανολογία:
     pos: N
     bdag-headword: πιθανολογία
+    danker-entry: πιθαναλογία, ας, ἡ
     dodson-entry: πιθανολογία, ας, ἡ
     strongs: 4086
     gk: 4391
@@ -39563,6 +39606,7 @@
 πολιτεύομαι:
     pos: V
     bdag-headword: πολιτεύομαι
+    danker-entry: πολιτεύω
     dodson-entry: πολιτεύομαι
     strongs: 4176
     gk: 4488
@@ -42853,6 +42897,7 @@
 σαβαχθάνι:
     pos: V/ARAM
     bdag-headword: σαβαχθάνι
+    danker-entry: σαβαχθανι
     dodson-entry: σαβαχθανί
     strongs: 4518
     gk: 4876
@@ -43301,6 +43346,7 @@
     mounce-morphcat: n-3f(1a)
 Σατανᾶς:
     pos: N
+    danker-entry: σατανᾶς, ᾶ, ὁ
     dodson-entry: Σατανᾶς, ᾶ, ὁ
     strongs: 4567
     gk: 4928
@@ -43460,6 +43506,7 @@
 Σεμεΐν:
     pos: N
     bdag-headword: Σεμεΐν
+    danker-entry: Σεμεῖν, ὁ
     dodson-entry: Σεμεΐ, ὁ
     strongs: 4584
     gk: 4946
@@ -43709,6 +43756,7 @@
 Σιλᾶς:
     pos: N
     bdag-headword: Σιλᾶς
+    danker-entry: Σίλας, α / Σιλᾶς, ᾶ, ὁ
     dodson-entry: Σίλας, ᾶ, ὁ
     strongs: 4609
     gk: 4976
@@ -46773,6 +46821,7 @@
     mounce-morphcat: cv-6a
 συνιστάνω:
     pos: V
+    danker-entry: συνίστημι, συνιστάνω, συνιστάω
 συνίστημι:
     pos: V
     bdag-headword: συνίστημι
@@ -47559,6 +47608,7 @@
     mounce-morphcat: a-4b(1)
 Ταβέρνη:
     pos: N
+    danker-entry: ταβέρναι, ῶν, αἱ
     dodson-entry: ταβέρναι, ῶν, αἱ
     strongs: 4999
     gk: 5411
@@ -47648,6 +47698,7 @@
 ταλιθα:
     pos: N/ARAM
     bdag-headword: ταλιθα
+    danker-entry: ταλιθά
     dodson-entry: ταλιθά
     strongs: 5008
     gk: 5420
@@ -52335,6 +52386,7 @@
 Χερούβ:
     pos: N
     bdag-headword: Χερούβ
+    danker-entry: Χεροῦβ, τό
     dodson-entry: Χερουβίμ
     strongs: 5502
     gk: 5938
@@ -52734,6 +52786,7 @@
 χρῖσμα:
     pos: N
     bdag-headword: χρῖσμα
+    danker-entry: χρίσμα, ατος, τό
     dodson-entry: χρίσμα, ατος, τό
     strongs: 5545
     gk: 5984
@@ -52803,6 +52856,7 @@
 χρύσεος:
     pos: A
     bdag-headword: χρύσεος
+    danker-entry: χρυσοῦς, ῆ, οῦν
     dodson-entry: χρυσοῦς, ῆ, οῦν
     strongs: 5552
     gk: 5991
@@ -53030,6 +53084,7 @@
 ψεύδομαι:
     pos: V
     bdag-headword: ψεύδομαι
+    danker-entry: ψεύδω
     dodson-entry: ψεύδομαι
     strongs: 5574
     gk: 6017
