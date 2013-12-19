@@ -29,21 +29,19 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
     else:
         if lexeme in missing_danker:
             skipped += 1
-            continue
-                
-        if lexeme in danker:
-            entry = danker[lexeme]
-        elif metadata.get("bdag-headword") in danker:
-            entry = danker[metadata["bdag-headword"]]
         else:
-            entry = None
+            if lexeme in danker:
+                entry = danker[lexeme]
+            elif metadata.get("bdag-headword") in danker:
+                entry = danker[metadata["bdag-headword"]]
+            else:
+                entry = None
 
-        if entry:
-            print "    {}: {}".format("danker-entry", entry.encode("utf-8"))
-        else:
-            problems.append("{} not found (bdag={})".format(lexeme.encode("utf-8"), metadata.get("bdag-headword", u"none").encode("utf-8")))
-
-
+            if entry:
+                print "    {}: {}".format("danker-entry", entry.encode("utf-8"))
+            else:
+                problems.append("{} not found (bdag={})".format(lexeme.encode("utf-8"), metadata.get("bdag-headword", u"none").encode("utf-8")))
+    
     q("dodson-entry")
     q("strongs")
     q("gk")
