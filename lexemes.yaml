@@ -1456,6 +1456,7 @@
 αἰσχροκερδῶς:
     pos: D
     bdag-headword: αἰσχροκερδῶς
+    danker-entry: αἰσχροκερδῶς
     dodson-entry: αἰσχροκερδῶς
     strongs: 147
     gk: 154
@@ -2053,6 +2054,7 @@
     gk: 221
 ἀλάβαστρον:
     pos: N
+    danker-entry: ἀλάβαστρον, ου, τό
     dodson-entry: ἀλάβαστρον, ου, τό
     strongs: 211
     gk: 222
@@ -2426,6 +2428,7 @@
 ἄλλως:
     pos: D
     bdag-headword: ἄλλως
+    danker-entry: ἄλλως
     dodson-entry: ἄλλως
     strongs: 247
     gk: 261
@@ -5356,6 +5359,7 @@
     mounce-morphcat: n-1b
 ἄπειμι:
     pos: V
+    danker-entry: ἄπειμι
     dodson-entry: ἄπειμι
     strongs: [548, 549]
     gk: [582, 583]
@@ -5843,6 +5847,7 @@
 ἀποκαθίστημι:
     pos: V
     bdag-headword: ἀποκαθίστημι
+    danker-entry: ἀποκαθίστημι/ἀποκαθιστάνω
     dodson-entry: ἀποκαθίστημι
     strongs: 600
     gk: 635
@@ -5991,6 +5996,7 @@
 ἀποκτείνω:
     pos: V
     bdag-headword: ἀποκτείνω
+    danker-entry: ἀποκτείνω/ἀποκτέννω
     dodson-entry: ἀποκτείνω
     strongs: 615
     gk: 650
@@ -6229,6 +6235,7 @@
 ἀπορίπτω:
     pos: V
     bdag-headword: ἀπορίπτω
+    danker-entry: ἀπο(ρ)ρίπτω
     dodson-entry: ἀπορρίπτω
     strongs: 641
     gk: 681
@@ -6969,6 +6976,7 @@
 Ἁρμαγεδών:
     pos: N
     bdag-headword: Ἁρμαγεδών
+    danker-entry: Ἁρμαγεδ(δ)ών
     dodson-entry: Ἁρμαγεδών
     strongs: 717
     gk: 762
@@ -8140,6 +8148,7 @@
 αὐξάνω:
     pos: V
     bdag-headword: αὐξάνω
+    danker-entry: αὐξάνω/αὔξω
     dodson-entry: αὐξάνω
     strongs: 837
     gk: 889
@@ -8159,6 +8168,7 @@
 αὔξω:
     pos: V
     bdag-headword: αὔξω
+    danker-entry: αὐξάνω/αὔξω
     gk: 891
 αὔριον:
     pos: D
@@ -8721,6 +8731,7 @@
     mounce-morphcat: a-4a
 ἄψινθος:
     pos: N
+    danker-entry: ἀψίνθιον, ου, τό / ἄψινθος, ου, ἡ
     dodson-entry: ἄψινθος, οῦ, ὁ
     strongs: 894
     gk: 952
@@ -8802,6 +8813,7 @@
 βάϊον:
     pos: N
     bdag-headword: βαΐον
+    danker-entry: βαΐον/βάϊον, ου, τό
     dodson-entry: βαΐον, ου, τό
     strongs: 902
     gk: 961
@@ -8980,6 +8992,7 @@
 Βαριωνᾶ:
     pos: N
     bdag-headword: Βαριωνᾶ
+    danker-entry: Βαριωνᾶ/Βαριωνᾶς, ᾶ, ὁ
     gk: 980
     mounce-morphcat: n-3g(2)
 Βαρναβᾶς:
@@ -9323,6 +9336,7 @@
 Βενιαμίν:
     pos: N
     bdag-headword: Βενιαμίν
+    danker-entry: Βενιαμ(ε)ίν, ὁ
     dodson-entry: Βενιαμίν, ὁ
     strongs: 958
     gk: 1021
@@ -9392,6 +9406,7 @@
 Βηθσαϊδά:
     pos: N
     bdag-headword: Βηθσαϊδά
+    danker-entry: Βηθσαϊδά(ν), ἡ
     dodson-entry: Βηθσαϊδά, ἡ
     strongs: 966
     gk: 1034
@@ -9401,6 +9416,7 @@
 Βηθσαϊδάν:
     pos: N
     bdag-headword: Βηθσαϊδάν
+    danker-entry: Βηθσαϊδά(ν), ἡ
     gk: 1035
     mounce-morphcat: ??
 Βηθφαγή:
@@ -9586,6 +9602,7 @@
 βλαστάνω:
     pos: V
     bdag-headword: βλαστάνω
+    danker-entry: βλαστάνω/βλαστάω
     dodson-entry: βλαστάνω
     strongs: 985
     gk: 1056
@@ -10230,6 +10247,7 @@
 Γάϊος:
     pos: N
     bdag-headword: Γάϊος
+    danker-entry: Γάϊος/Γαῖος, ου, ὁ
     dodson-entry: Γάϊος, ου, ὁ
     strongs: 1050
     gk: 1127
@@ -11274,6 +11292,7 @@
 δανείζω:
     pos: V
     bdag-headword: δανείζω
+    danker-entry: δαν(ε)ίζω
     dodson-entry: δανείζω
     strongs: 1155
     gk: 1244
@@ -11282,6 +11301,7 @@
 δάνειον:
     pos: N
     bdag-headword: δάνειον
+    danker-entry: δάν(ε)ιον, ου, τό
     dodson-entry: δάνειον, ου, τό
     strongs: 1156
     gk: 1245
@@ -11301,6 +11321,7 @@
 δανιστής:
     pos: N
     bdag-headword: δανιστής
+    danker-entry: δαν(ε)ιστής, οῦ, ὁ
     dodson-entry: δανειστής, οῦ, ὁ
     strongs: 1157
     gk: 1250
@@ -11390,6 +11411,7 @@
 δείκνυμι:
     pos: V
     bdag-headword: δείκνυμι
+    danker-entry: δείκνυμι/δεικνύω
     dodson-entry: δείκνυμι
     strongs: 1166
     gk: 1259
@@ -12540,6 +12562,7 @@
 διαρρήγνυμι:
     pos: V
     bdag-headword: διαρρήγνυμι
+    danker-entry: δια(ρ)ρήγνυμι/διαρήσσω
     gk: 1396
     mounce-morphcat: cv-3c(2)
 διασαφέω:
@@ -15883,6 +15906,7 @@
 ἐκχέω:
     pos: V
     bdag-headword: ἐκχέω
+    danker-entry: ἐκχέω/ἐκχύν(ν)ω
     dodson-entry: ἐκχέω
     strongs: 1632
     gk: 1772
@@ -15970,6 +15994,7 @@
 ἐλάσσων:
     pos: A
     bdag-headword: ἐλάσσων
+    danker-entry: ἐλάσσων/ἔλασσον
     dodson-entry: ἐλάσσων, ον
     strongs: 1640
     gk: 1781
@@ -16181,6 +16206,7 @@
 Ἐλιακίμ:
     pos: N
     bdag-headword: Ἐλιακίμ
+    danker-entry: Ἐλιακίμ/Ἐλιακείμ, ὁ
     dodson-entry: Ἐλιακείμ, ὁ
     strongs: 1662
     gk: 1806
@@ -16260,6 +16286,7 @@
 ἕλκω:
     pos: V
     bdag-headword: ἕλκω
+    danker-entry: ἑλκύω/ἕλκω
 Ἑλλάς:
     pos: N
     bdag-headword: Ἑλλάς
@@ -16323,6 +16350,7 @@
 ἐλλογέω:
     pos: V
     bdag-headword: ἐλλογέω
+    danker-entry: ἐλλογέω/ἐλλογάω
     dodson-entry: ἐλλογέω
     strongs: 1677
     gk: 1824
@@ -16576,6 +16604,7 @@
 ἐμπίμπλημι:
     pos: V
     bdag-headword: ἐμπίμπλημι
+    danker-entry: ἐμπί(μ)πλημι/ἐμπι(μ)πλάω
     dodson-entry: ἐμπίπλημι
     strongs: 1705
     gk: 1855
@@ -16585,6 +16614,7 @@
 ἐμπίμπρημι:
     pos: V
     bdag-headword: ἐμπίμπρημι
+    danker-entry: ἐμπί(μ)πρημι
     gk: 1856
     mounce-morphcat: cv-6a
 ἐμπίπτω:
@@ -17969,11 +17999,13 @@
 ἐξουδενέω:
     pos: V
     bdag-headword: ἐξουδενέω
+    danker-entry: ἐξουδενέω/ἐξουδενόω
     gk: 2022
     mounce-morphcat: cv-1d(2a)
 ἐξουθενέω:
     pos: V
     bdag-headword: ἐξουθενέω
+    danker-entry: ἐξουθενέω/ἐξουθενόω
     dodson-entry: ἐξουθενέω
     strongs: 1848
     gk: 2024
@@ -19237,6 +19269,7 @@
 ἐπιράπτω:
     pos: V
     bdag-headword: ἐπιράπτω
+    danker-entry: ἐπι(ρ)ράπτω
     dodson-entry: ἐπιρράπτω
     strongs: 1976
     gk: 2165
@@ -19246,6 +19279,7 @@
 ἐπιρίπτω:
     pos: V
     bdag-headword: ἐπιρίπτω
+    danker-entry: ἐπι(ρ)ρίπτω
     dodson-entry: ἐπιρρίπτω
     strongs: 1977
     gk: 2166
@@ -20124,6 +20158,7 @@
 ἐσθίω:
     pos: V
     bdag-headword: ἐσθίω
+    danker-entry: ἐσθίω/ἔσθω
     dodson-entry: ἐσθίω
     strongs: 2068
     gk: 2266
@@ -20133,6 +20168,7 @@
 ἔσθω:
     pos: V
     bdag-headword: ἔσθω
+    danker-entry: ἐσθίω/ἔσθω
     gk: 2267
 Ἑσλί:
     pos: N
@@ -21629,6 +21665,7 @@
 ζώννυμι:
     pos: V
     bdag-headword: ζώννυμι
+    danker-entry: ζώννυμι/ζωννύω
     dodson-entry: ζώννυμι
     strongs: 2224
     gk: 2439
@@ -22011,6 +22048,7 @@
 ἥσσων:
     pos: A
     bdag-headword: ἥσσων
+    danker-entry: ἥσσων/ἥττων, ον, gen. ονος
     dodson-entry: ἧττων, ον
     strongs: 2276
     gk: 2482
@@ -23488,6 +23526,7 @@
 Ἰερουσαλήμ:
     pos: N
     bdag-headword: Ἰερουσαλήμ
+    danker-entry: Ἰερουσαλήμ, ἡ
     dodson-entry: Ἱερουσαλήμ, ἡ
     strongs: 2419
     gk: 2647
@@ -23918,10 +23957,12 @@
 Ἰσκαριώθ:
     pos: N
     bdag-headword: Ἰσκαριώθ
+    danker-entry: Ἰσκαριώθ
     gk: 2696
     mounce-morphcat: n-3g(2)
 Ἰσκαριώτης:
     pos: N
+    danker-entry: Ἰσκαριώτης, ου, ὁ
     dodson-entry: Ἰσκαριώτης, ου, ὁ
     strongs: 2469
     gk: 2697
@@ -24001,6 +24042,7 @@
 ἵστημι:
     pos: V
     bdag-headword: ἵστημι
+    danker-entry: ἵστημι/ἱστάνω
     dodson-entry: ἵστημι
     strongs: 2476
     gk: 2705
@@ -24140,6 +24182,7 @@
 Ἰωάννα:
     pos: N
     bdag-headword: Ἰωάννα
+    danker-entry: Ἰωάν(ν)α, ας, ἡ
     dodson-entry: Ἰωάννα, ας, ἡ
     strongs: 2489
     gk: 2721
@@ -24149,6 +24192,7 @@
 Ἰωάννης:
     pos: N
     bdag-headword: Ἰωάννης
+    danker-entry: Ἰωάν(ν)ης, ου, ὁ
     dodson-entry: Ἰωάννης, ου, ὁ
     strongs: 2491
     gk: 2722
@@ -24496,6 +24540,7 @@
 καθίστημι:
     pos: V
     bdag-headword: καθίστημι
+    danker-entry: καθίστημι/καθιστάνω
     dodson-entry: καθίστημι
     strongs: 2525
     gk: 2770
@@ -24770,6 +24815,7 @@
 κακοπαθία:
     pos: N
     bdag-headword: κακοπαθία
+    danker-entry: κακοπάθεια/κακοπαθία, ας, ἡ
     dodson-entry: κακοπάθεια, ας, ἡ
     strongs: 2552
     gk: 2801
@@ -26144,6 +26190,7 @@
 κατασφάζω:
     pos: V
     bdag-headword: κατασφάζω
+    danker-entry: κατασφάζω/κατασφάττω
     dodson-entry: κατασφάζω
     strongs: 2695
     gk: 2956
@@ -26363,6 +26410,7 @@
 κατεσθίω:
     pos: V
     bdag-headword: κατεσθίω
+    danker-entry: κατεσθίω/κατέσθω
     dodson-entry: κατεσθίω
     strongs: 2719
     gk: 2983
@@ -28264,6 +28312,7 @@
 κρείττων:
     pos: A
     bdag-headword: κρείττων
+    danker-entry: κρείττων/κρείσσων, ον, gen. ονος
     dodson-entry: κρείττων, ον
     strongs: 2909
     gk: 3202
@@ -28755,6 +28804,7 @@
 Κυρήνιος:
     pos: N
     bdag-headword: Κυρήνιος
+    danker-entry: Κυρήνιος/Κυρίνιος, ου, ὁ
     dodson-entry: Κυρήνιος, ου, ὁ
     strongs: 2958
     gk: 3256
@@ -29129,6 +29179,7 @@
 Λασαία:
     pos: N
     bdag-headword: Λασαία
+    danker-entry: Λασαία/Λασέα, ας, ἡ
     dodson-entry: Λασαία, ας, ἡ
     strongs: 2996
     gk: 3297
@@ -30500,6 +30551,7 @@
 Μαριάμ:
     pos: N
     bdag-headword: Μαριάμ
+    danker-entry: Μαριάμ
     strongs: 3137
     gk: 3452
     dodson-pos: N-PRI
@@ -30863,6 +30915,7 @@
 μεθίστημι:
     pos: V
     bdag-headword: μεθίστημι
+    danker-entry: μεθίστημι/μεθιστάνω
     dodson-entry: μεθίστημι
     strongs: 3179
     gk: 3496
@@ -31086,8 +31139,10 @@
 μενοῦν:
     pos: X
     bdag-headword: μενοῦν
+    danker-entry: μενοῦν/μενοῦνγε
 μενοῦνγε:
     pos: X
+    danker-entry: μενοῦν/μενοῦνγε
     dodson-entry: μενοῦνγε
     strongs: 3304
     gk: 3529
@@ -31649,6 +31704,7 @@
 μέχρι(ς):
     pos: P/ADV
     bdag-headword: μέχρι
+    danker-entry: μέχρι/μέχρις
     dodson-entry: μέχρι
     strongs: 3360
     gk: [3588, 3589]
@@ -31864,6 +31920,7 @@
 μητρολῴας:
     pos: N
     bdag-headword: μητρολῴας
+    danker-entry: μητραλῴας/μητρολῴας, ου, ὁ
 μιαίνω:
     pos: V
     bdag-headword: μιαίνω
@@ -31907,6 +31964,7 @@
 μίγνυμι:
     pos: V
     bdag-headword: μίγνυμι
+    danker-entry: μίγνυμι/μιγνύω
     dodson-entry: μίγνυμι
     strongs: 3396
     gk: 3624
@@ -32674,14 +32732,17 @@
 Ναζαρά:
     pos: N
     bdag-headword: Ναζαρά
+    danker-entry: Ναζαρά/Ναζαρέθ/Ναζαρέτ, ἡ
     gk: 3711
     mounce-morphcat: n-3g(2)
 Ναζαρέθ:
     pos: N
+    danker-entry: Ναζαρά/Ναζαρέθ/Ναζαρέτ, ἡ
     gk: 3714
     mounce-morphcat: n-3g(2)
 Ναζαρέτ:
     pos: N
+    danker-entry: Ναζαρά/Ναζαρέθ/Ναζαρέτ, ἡ
     dodson-entry: Ναζαρέτ, ἡ
     strongs: 3478
     gk: 3715
@@ -33710,6 +33771,7 @@
 ξυράομαι:
     pos: V
     bdag-headword: ξυράω
+    danker-entry: ξυράω/ξυρέω/ξύρω
     dodson-entry: ξυράω
     strongs: 3587
     gk: 3834
@@ -34976,6 +35038,7 @@
 ὀργυιά:
     pos: N
     bdag-headword: ὀργυιά
+    danker-entry: ὀργυιά (ὄργυια), ᾶς, ἡ
     dodson-entry: ὀργυιά, ᾶς, ἡ
     strongs: 3712
     gk: 3976
@@ -35380,6 +35443,7 @@
 οὐ:
     pos: D/PRT-N
     bdag-headword: οὐ
+    danker-entry: οὐ/οὐκ/οὐχ
     dodson-entry: οὐ
     strongs: 3756
     gk: 4024
@@ -35389,6 +35453,7 @@
 οὔ:
     pos: X
     bdag-headword: οὐ
+    danker-entry: οὐ/οὐκ/οὐχ
     dodson-entry: οὐ
     strongs: 3756
     gk: 4024
@@ -35448,6 +35513,7 @@
 οὐδείς:
     pos: A
     bdag-headword: οὐδείς
+    danker-entry: οὐδείς/οὐθενός, οὐδεμία, οὐδέν/οὐθέν
     dodson-entry: οὐδείς, οὐδεμία, οὐδέν
     strongs: 3762
     gk: 4029
@@ -35617,6 +35683,7 @@
 οὕτω(ς):
     pos: D
     bdag-headword: οὕτω
+    danker-entry: οὕτω/οὕτως
     dodson-entry: οὕτως
     strongs: 3779
     gk: 4048
@@ -36114,6 +36181,7 @@
 πανοικεί:
     pos: D
     bdag-headword: πανοικεί
+    danker-entry: πανοικεί/πανοικί
     dodson-entry: πανοικί
     strongs: 3832
     gk: 4109
@@ -36974,6 +37042,7 @@
 παρεισδύω:
     pos: V
     bdag-headword: παρεισδύω
+    danker-entry: παρεισδύ(ν)ω
     dodson-entry: παρεισδύω
     strongs: 3921
     gk: 4208
@@ -37129,6 +37198,7 @@
 παρίστημι:
     pos: V
     bdag-headword: παρίστημι
+    danker-entry: παρίστημι/παριστάνω
     dodson-entry: παρίστημι
     strongs: 3936
     gk: [4224, 4225]
@@ -38008,6 +38078,7 @@
 περιζώννυμι:
     pos: V
     bdag-headword: περιζώννυμι
+    danker-entry: περιζώννυμι/περιζωννύω
     dodson-entry: περιζώννυμι
     strongs: 4024
     gk: 4322
@@ -38247,6 +38318,7 @@
 περιρήγνυμι:
     pos: V
     bdag-headword: περιρήγνυμι
+    danker-entry: περι(ρ)ρήγνυμι
     dodson-entry: περιρρήγνυμι
     strongs: 4048
     gk: 4351
@@ -40183,6 +40255,7 @@
 πρίζω:
     pos: V
     bdag-headword: πρίζω
+    danker-entry: πρίζω/πρίω
     dodson-entry: πρίζω
     strongs: 4249
     gk: 4569
@@ -40202,6 +40275,7 @@
 Πρίσκα:
     pos: N
     bdag-headword: Πρίσκα
+    danker-entry: Πρίσκα/Πρίσκιλλα (dim.), ης, ἡ
     dodson-entry: Πρίσκα, ης, ἡ
     strongs: 4251
     gk: 4571
@@ -40211,6 +40285,7 @@
 Πρίσκιλλα:
     pos: N
     bdag-headword: Πρίσκα
+    danker-entry: Πρίσκα/Πρίσκιλλα (dim.), ης, ἡ
     dodson-entry: Πρίσκιλλα, ης, ἡ
     strongs: 4252
     gk: 4572
@@ -40888,6 +40963,7 @@
 προσαναλίσκω:
     pos: V
     bdag-headword: προσαναλίσκω
+    danker-entry: προσαναλίσκω/προσαναλόω
     dodson-entry: προσαναλίσκω
     strongs: 4321
     gk: 4648
@@ -41219,6 +41295,7 @@
 πρόσλημψις:
     pos: N
     bdag-headword: πρόσλημψις
+    danker-entry: πρόσλημψις/πρόσληψις, εως, ἡ
     dodson-entry: πρόσληψις, εως, ἡ
     strongs: 4356
     gk: 4691
@@ -41318,6 +41395,7 @@
 προσρήγνυμι:
     pos: V
     bdag-headword: προσρήγνυμι
+    danker-entry: προσρήγνυμι/προσρήσσω
     dodson-entry: προσρήγνυμι
     strongs: 4366
     gk: 4703,4704
@@ -42425,6 +42503,7 @@
 Ῥεβέκκα:
     pos: N
     bdag-headword: Ῥεβέκκα
+    danker-entry: Ῥεβέκκα, ας, ἡ
     dodson-entry: Ῥεβέκκα, ας, ἡ
     strongs: 4479
     gk: 4831
@@ -42564,6 +42643,7 @@
 ῥίπτω:
     pos: V
     bdag-headword: ῥίπτω
+    danker-entry: ῥίπτω/ῥιπτέω
     dodson-entry: ῥίπτω
     strongs: 4496
     gk: 4849
@@ -45178,6 +45258,7 @@
 στρώννυμι:
     pos: V
     bdag-headword: στρωννύω
+    danker-entry: στρωννύω/στρώννυμι
     dodson-entry: στρωννύω
     strongs: 4766
     gk: 5142
@@ -45487,6 +45568,7 @@
 συγχέω:
     pos: V
     bdag-headword: συγχέω
+    danker-entry: συγχέω/συγχύν(ν)ω
     dodson-entry: συγχέω
     strongs: 4797
     gk: 5177
@@ -46436,6 +46518,7 @@
     mounce-morphcat: n-3e(5b)
 σύνειμι:
     pos: V
+    danker-entry: σύνειμι
     dodson-entry: σύνειμι
     strongs: 4895
     gk: 5289
@@ -46671,6 +46754,7 @@
 συνίημι:
     pos: V
     bdag-headword: συνίημι
+    danker-entry: συνίημι/συνίω
     dodson-entry: συνίημι
     strongs: 4920
     gk: 5317
@@ -46680,6 +46764,7 @@
 σύνιημι:
     pos: V
     bdag-headword: συνίημι
+    danker-entry: συνίημι/συνίω
     dodson-entry: συνίημι
     strongs: 4920
     gk: 5317
@@ -48102,6 +48187,7 @@
 τετρααρχέω:
     pos: V
     bdag-headword: τετρααρχέω
+    danker-entry: τετρααρχέω (some edd. τετραρχέω)
     dodson-entry: τετραρχέω
     strongs: 5075
     gk: 5489
@@ -48291,6 +48377,7 @@
 τίθημι:
     pos: V
     bdag-headword: τίθημι
+    danker-entry: τίθημι/τιθέω
     dodson-entry: τίθημι
     strongs: 5087
     gk: 5502
@@ -49647,6 +49734,7 @@
 ὑπερεκχύννομαι:
     pos: V
     bdag-headword: ὑπερεκχύννω
+    danker-entry: ὑπερεκχύν(ν)ω
     dodson-entry: ὑπερεκχύνω
     strongs: 5240
     gk: 5658
@@ -49892,6 +49980,7 @@
 ὑποδείκνυμι:
     pos: V
     bdag-headword: ὑποδείκνυμι
+    danker-entry: ὑποδείκνυμι/ὑποδεικνύω
     dodson-entry: ὑποδείκνυμι
     strongs: 5263
     gk: 5683
@@ -51042,6 +51131,7 @@
 φιλονεικία:
     pos: N
     bdag-headword: φιλονεικία
+    danker-entry: φιλον(ε)ικία, ας, ἡ
     dodson-entry: φιλονεικία, ας, ἡ
     strongs: 5379
     gk: 5808
@@ -51051,6 +51141,7 @@
 φιλόνεικος:
     pos: A
     bdag-headword: φιλόνεικος
+    danker-entry: φιλόν(ε)ικος, ον
     dodson-entry: φιλόνεικος, ον
     strongs: 5380
     gk: 5809
@@ -51239,6 +51330,7 @@
 φόβητρον:
     pos: N
     bdag-headword: φόβητρον
+    danker-entry: φόβητρον/φόβηθρον, ου, τό
     dodson-entry: φόβητρον, ου, τό
     strongs: 5400
     gk: 5831
@@ -51277,6 +51369,7 @@
     mounce-morphcat: n-1b
 φοῖνιξ:
     pos: N
+    danker-entry: φοῖνιξ/φοίνιξ, ικος, ὁ
     dodson-entry: φοίνιξ, ικός, ὁ
     strongs: 5404
     gk: 5836
@@ -51583,6 +51676,7 @@
 Φύγελος:
     pos: N
     bdag-headword: Φύγελος
+    danker-entry: Φύγελος/Φύγελλος, ου, ὁ
     dodson-entry: Φύγελος, ου, ὁ
     strongs: 5436
     gk: 5869
@@ -52520,6 +52614,7 @@
 χρεοφειλέτης:
     pos: N
     bdag-headword: χρεοφειλέτης
+    danker-entry: χρεοφειλέτης/χρεωφειλέτης, ου, ὁ
     dodson-entry: χρεωφειλέτης, ου, ὁ
     strongs: 5533
     gk: 5971
@@ -53168,6 +53263,7 @@
 ὦ:
     pos: X/INJ
     bdag-headword: ὦ
+    danker-entry: ὦ
     dodson-entry: ὦ
     strongs: 5599
     gk: 6043
@@ -53177,6 +53273,7 @@
 Ὦ:
     pos: N
     bdag-headword: Ω
+    danker-entry: Ω, ὦ
     dodson-entry: Ὦ
     strongs: 5598
     gk: 6042
@@ -53326,6 +53423,7 @@
 Ὡσηέ:
     pos: N
     bdag-headword: Ὡσηέ
+    danker-entry: Ὡσηέ/Ὡσῆε, ὁ
     dodson-entry: Ὡσηέ, ὁ
     strongs: 5617
     gk: 6060

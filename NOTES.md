@@ -579,3 +579,5 @@
 * morphcat is missing πυκνά (uses πυκνός?)
 * morphcat is missing σκῦλα (uses σκῦλον?)
 * morphcat is missing τρίτον (uses τρίτος?)
+* presumably ἐυφημία in Danker CL is a typo
+* presumable ἐυχαριστέω in Danker CL is a typo
