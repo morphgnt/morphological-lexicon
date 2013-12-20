@@ -333,6 +333,7 @@
 ἄγε:
     pos: V
     bdag-headword: ἄγε
+    danker-entry: ἄγε
 ἀγέλη:
     pos: N
     bdag-headword: ἀγέλη
@@ -1547,6 +1548,7 @@
     mounce-morphcat: n-1a
 αἴτιον:
     pos: A
+    danker-entry: αἴτιος, α, ον
     dodson-entry: αἴτιον, ου, τό
     strongs: 158
     gk: 165
@@ -1914,6 +1916,7 @@
     mounce-morphcat: n-1a
 ἀκριβέστερον:
     pos: A/ADV-C
+    danker-entry: ἀκριβῶς
 ἀκριβής:
     pos: A
     bdag-headword: ἀκριβής
@@ -2053,6 +2056,7 @@
 ἅλα:
     pos: N
     bdag-headword: ἅλα
+    danker-entry: ἅλας, ατος, τό
     gk: 221
 ἀλάβαστρον:
     pos: N
@@ -2480,6 +2484,7 @@
     mounce-morphcat: a-1a(2a)
 ἀλυπότερος:
     pos: A
+    danker-entry: ἄλυπος, ον
 ἅλυσις:
     pos: N
     bdag-headword: ἅλυσις
@@ -3495,6 +3500,7 @@
 ἀναλίσκω:
     pos: V
     bdag-headword: ἀναλίσκω
+    danker-entry: ἀναλόω
     dodson-entry: ἀναλίσκω
     strongs: 355
     gk: 379
@@ -3700,6 +3706,7 @@
 ἀνάπηρος:
     pos: A
     bdag-headword: ἀνάπηρος
+    danker-entry: ἀνάπειρος, ον
     dodson-entry: ἀνάπηρος, ον
     strongs: 376
     gk: 401
@@ -5014,6 +5021,7 @@
     mounce-morphcat: a-1a(2a)
 ἀνώτερον:
     pos: A
+    danker-entry: ἀνώτερος, έρα, ον
     dodson-entry: ἀνώτερον
     strongs: 511
     gk: 542
@@ -6572,6 +6580,7 @@
     mounce-morphcat: cv-1b(2)
 Ἀππίου:
     pos: N
+    danker-entry: Ἀππίου Φόρον
     dodson-entry: Ἄππιος, ου, ὁ
     strongs: 675
     gk: 716
@@ -6631,6 +6640,7 @@
 Ἀπφία:
     pos: N
     bdag-headword: Ἀπφία
+    danker-entry: Ἀπφία, ας, ἡ
     dodson-entry: Ἀπφία, ας, ἡ
     strongs: 682
     gk: 722
@@ -6789,6 +6799,7 @@
     mounce-morphcat: a-1b
 Ἄρειος:
     pos: A/N
+    danker-entry: Ἄρειος πάγος, ὁ
     gk: 740
     mounce-morphcat: a-1a(1)
 Ἀρεοπαγίτης:
@@ -8749,6 +8760,7 @@
     mounce-morphcat: n-2a
 Ἄψινθος:
     pos: N
+    danker-entry: ἀψίνθιον, ου, τό / ἄψινθος, ου, ἡ
 ἄψυχος:
     pos: A
     bdag-headword: ἄψυχος
@@ -9116,6 +9128,7 @@
     mounce-morphcat: n-1a
 βασίλειον:
     pos: A
+    danker-entry: βασίλειος, ον
 βασίλειος:
     pos: A
     bdag-headword: βασίλειος
@@ -9342,6 +9355,7 @@
     mounce-morphcat: n-3d(2b)
 βέλτιον:
     pos: A/ADV-C?
+    danker-entry: βελτίων, ον
 Βενιαμίν:
     pos: N
     bdag-headword: Βενιαμίν
@@ -9681,6 +9695,7 @@
 βλητέος:
     pos: A
     bdag-headword: βλητέος
+    danker-entry: βλητέος, α, ον
     dodson-entry: βλητέος, α, ον
     strongs: 992
     gk: 1064
@@ -9995,6 +10010,7 @@
     mounce-morphcat: n-3f(1b)
 βραχύ:
     pos: D/A?
+    danker-entry: βραχύς, εῖα, ύ
 βραχύς:
     pos: A
     bdag-headword: βραχύς
@@ -11064,6 +11080,7 @@
 γυμνιτεύω:
     pos: V
     bdag-headword: γυμνιτεύω
+    danker-entry: γυμνιτεύω
     dodson-entry: γυμνητεύω
     strongs: 1130
     gk: 1217
@@ -11565,6 +11582,7 @@
     mounce-morphcat: n-3g(2)
 δεκάτη:
     pos: A
+    danker-entry: δέκατος, η, ον
     dodson-entry: δεκάτη, ης, ἡ
     strongs: 1181
     gk: 1281
@@ -35956,6 +35974,7 @@
     mounce-morphcat: n-3c(2)
 Πάγος:
     pos: N
+    danker-entry: Ἄρειος πάγος, ὁ
     gk: 4076
     mounce-morphcat: n-2a
 πάθημα:
@@ -51478,6 +51497,7 @@
     mounce-morphcat: v-1d(2b)
 Φόρον:
     pos: N
+    danker-entry: Ἀππίου Φόρον
     dodson-entry: Φόρον, ου, τό
     strongs: 5410
     gk: 5842

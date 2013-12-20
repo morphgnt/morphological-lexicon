@@ -1,23 +1,6 @@
 # words known to be missing in Danker Concise Lexicon so we can stop
 # complaining about them
 
-ἄγε
-αἴτιον
-ἀκριβέστερον
-ἅλα
-ἀλυπότερος
-ἀναλίσκω # see ἀναλόω
-ἀνάπηρος
-ἀνώτερον
-Ἀππίου
-Ἀπφία
-Ἄρειος
-Ἄψινθος # only lowercase
-βασίλειον
-βέλτιον # should it be βελτίων?
-βλητέος
-βραχύ
-γυμνιτεύω
 δεκάτη # is this just a crossover from δέκατος?
 δεσμόν
 δεῦτε
@@ -61,7 +44,6 @@
 Νέα
 νουμηνία
 ὀψία
-Πάγος
 παραπλήσιον # covered by παραπλήσιος?
 πεζῇ
 περισσότερον # covered by περισσότερος?
@@ -88,4 +70,3 @@
 τρίτον # covered by τρίτος?
 ὕστερον # covered by ὕστερος?
 φαρμακός # accented as φάρμακος
-Φόρον
