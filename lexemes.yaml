@@ -11757,6 +11757,7 @@
 δεσμόν:
     pos: N
     dodson-pos: N:N
+    danker-entry: δεσμός, οῦ, ὁ
 δεσμός:
     pos: N
     bdag-headword: δεσμός
@@ -11821,6 +11822,7 @@
     pos: D/V
     bdag-headword: δεῦτε
     dodson-entry: δεῦτε
+    danker-entry: δεῦτε
     strongs: 1205
     gk: 1307
     dodson-pos: V
@@ -14222,6 +14224,7 @@
 Ἑβραϊστί:
     pos: D
     bdag-headword: Ἑβραϊστί
+    danker-entry: Ἑβραϊστί
     dodson-entry: Ἑβραϊστί
     strongs: 1447
     gk: 1580
@@ -14271,6 +14274,7 @@
 ἐγγύτερον:
     pos: D
     dodson-entry: ἐγγύτερον
+    danker-entry: ἐγγύς
     strongs: 1452
     gk: 1585
     dodson-pos: ADV-C
@@ -14623,6 +14627,7 @@
 εἰ:
     pos: C/COND
     bdag-headword: εἰ
+    danker-entry: εἰ
     dodson-entry: εἰ
     strongs: 1487
     gk: 1623
@@ -14632,6 +14637,7 @@
 εἰδέα:
     pos: N
     bdag-headword: εἰδέα
+    danker-entry: εἰδέα, ας, ἡ
     gk: 1624
     mounce-morphcat: n-1a
 εἶδος:
@@ -14657,6 +14663,7 @@
 εἰδωλόθυτον:
     pos: A
     dodson-entry: εἰδωλόθυτος, ον
+    danker-entry: εἰδωλόθυτος, ον
     strongs: 1494
     gk: 1628
     dodson-pos: A

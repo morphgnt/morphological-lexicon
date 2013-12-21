@@ -1,14 +1,6 @@
 # words known to be missing in Danker Concise Lexicon so we can stop
 # complaining about them
 
-δεκάτη # is this just a crossover from δέκατος?
-δεσμόν
-δεῦτε
-Ἑβραϊστί
-ἐγγύτερον
-εἰ
-εἰδέα
-εἰδωλόθυτον # εἰδωλόθυτος?
 εἴπερ
 εἶτα
 ἐκεῖσε
