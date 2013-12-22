@@ -1,21 +1,7 @@
 # words known to be missing in Danker Concise Lexicon so we can stop
 # complaining about them
 
-εἴπερ
-εἶτα
-ἐκεῖσε
-ἐκτενέστερον
-Ἐλαιῶν # only lowercase
-ἔννυχα # covered by ἔννυχος?
-ἐξεραυνάω # is this ἐξεραυνόω?
-εὐκοπώτερος # covered by εὔκοπος?
 ἐφοράω
-ζάω
-Ζηλωτής # only lowercase
-ἥδιστα
-ἤπερ
-Ἤρ
-θανάσιμον # covered by θανάσιμος?
 ἴδε
 ἰδού
 ἱππικόν # covered by ἱππικός?
