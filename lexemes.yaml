@@ -48833,6 +48833,7 @@
 τοὔνομα:
     pos: N/ADV-K
     bdag-headword: τοὔνομα
+    danker-entry: τὸ ὄνομα
     dodson-entry: τοὔνομα
     strongs: 5122
     gk: 5540
@@ -48941,6 +48942,7 @@
 Τρεῖς:
     pos: A
     dodson-entry: τρεῖς, τρία
+    danker-entry: τρεῖς, τρία
     strongs: 5140
     gk: 5552
     dodson-pos: A
@@ -49043,6 +49045,7 @@
     mounce-morphcat: v-2a(1)
 τρίμηνον:
     pos: A
+    danker-entry: τρίμηνος, ον
 τρίς:
     pos: D
     bdag-headword: τρίς
@@ -49075,6 +49078,7 @@
     mounce-morphcat: a-1a(1)
 τρίτον:
     pos: D/A?
+    danker-entry: τρίτος, η, ον
 τρίτος:
     pos: A
     bdag-headword: τρίτος
@@ -50531,6 +50535,7 @@
     mounce-morphcat: n-3e(5b)
 ὕστερον:
     pos: A/ADV-C
+    danker-entry: ὕστερος, α, ον
     dodson-entry: ὕστερον
     strongs: 5305
     gk: 5731

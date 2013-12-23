@@ -7,10 +7,4 @@
 στάδιος
 στοιχεῖα # bug in MorphGNT?
 συμφυλέτης
-
-τοὔνομα
-Τρεῖς # only lowercase
-τρίμηνον # covered by τρίμηνος?
-τρίτον # covered by τρίτος?
-ὕστερον # covered by ὕστερος?
 φαρμακός # accented as φάρμακος
