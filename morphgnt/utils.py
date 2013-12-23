@@ -1,3 +1,4 @@
+import unicodedata
 import yaml
 
 
@@ -14,3 +15,7 @@ def load_wordset(filename):
         return set(
             [word.split("#")[0].strip().decode("utf-8") for word in f if word.split("#")[0].strip()]
         )
+
+
+def nfkc_normalize(s):
+    return unicodedata.normalize("NFKC", s)

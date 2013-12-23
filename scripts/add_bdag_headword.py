@@ -1,15 +1,12 @@
 #!/usr/bin/env python
 
 import sys
-import unicodedata
 
 from pyuca import Collator
 collator = Collator()
 
 from morphgnt.utils import load_yaml, load_wordset
-
-def n(x):
-    return unicodedata.normalize("NFKC", x)
+from morphgnt.utils import nfkc_normalize as n
 
 lexemes = load_yaml("lexemes.yaml")
 missing_bdag = load_wordset("missing_bdag.txt")
