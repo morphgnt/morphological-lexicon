@@ -39,6 +39,7 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
     
+    q("danker-entry")
     q("dodson-entry")
     q("strongs")
     q("gk")
