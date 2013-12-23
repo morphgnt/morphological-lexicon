@@ -2,11 +2,8 @@
 # complaining about them
 
 ἐφοράω
-ἴδε
-ἰδού
-ἱππικόν # covered by ἱππικός?
 Ἰωβήλ
-Ἰωσήχ
+
 Καλός # only lowercase
 λεπτόν # covered by λεπτός
 Λιβερτῖνος # only lowercase

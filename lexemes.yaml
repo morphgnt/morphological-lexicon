@@ -11756,8 +11756,8 @@
     mounce-morphcat: n-2a
 δεσμόν:
     pos: N
-    dodson-pos: N:N
     danker-entry: δεσμός, οῦ, ὁ
+    dodson-pos: N:N
 δεσμός:
     pos: N
     bdag-headword: δεσμός
@@ -11821,8 +11821,8 @@
 δεῦτε:
     pos: D/V
     bdag-headword: δεῦτε
-    dodson-entry: δεῦτε
     danker-entry: δεῦτε
+    dodson-entry: δεῦτε
     strongs: 1205
     gk: 1307
     dodson-pos: V
@@ -14273,8 +14273,8 @@
     mounce-morphcat: adverb
 ἐγγύτερον:
     pos: D
-    dodson-entry: ἐγγύτερον
     danker-entry: ἐγγύς
+    dodson-entry: ἐγγύτερον
     strongs: 1452
     gk: 1585
     dodson-pos: ADV-C
@@ -14662,8 +14662,8 @@
     mounce-morphcat: n-2c
 εἰδωλόθυτον:
     pos: A
-    dodson-entry: εἰδωλόθυτος, ον
     danker-entry: εἰδωλόθυτος, ον
+    dodson-entry: εἰδωλόθυτος, ον
     strongs: 1494
     gk: 1628
     dodson-pos: A
@@ -23373,6 +23373,7 @@
 ἴδε:
     pos: X/V
     bdag-headword: ἴδε
+    danker-entry: ἴδε
     dodson-entry: ἴδε
     strongs: 2396
     gk: 2623
@@ -23401,6 +23402,7 @@
 ἰδού:
     pos: X/V
     bdag-headword: ἰδού
+    danker-entry: ἰδού
     dodson-entry: ἰδού
     strongs: 2400
     gk: 2627
@@ -23985,6 +23987,7 @@
     mounce-morphcat: n-3e(3)
 ἱππικόν:
     pos: A
+    danker-entry: ἱππικός, ή, όν
 ἵππος:
     pos: N
     bdag-headword: ἵππος
@@ -24377,6 +24380,7 @@
 Ἰωσήχ:
     pos: N
     bdag-headword: Ἰωσήχ
+    danker-entry: Ἰωσήχ, ὁ
     gk: 2738
     mounce-morphcat: n-3g(2)
 Ἰωσίας:
@@ -25046,6 +25050,7 @@
     mounce-morphcat: a-1a(2a)
 Καλός:
     pos: A
+    danker-entry: Καλοὶλιμένες, Καλῶνλιμένων, οἱ
     dodson-entry: καλός, ή, όν
     strongs: 2570
     gk: 2819
