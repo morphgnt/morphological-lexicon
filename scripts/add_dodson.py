@@ -36,6 +36,7 @@ for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
     
     q("bdag-headword")
+    q("danker-entry")
     
     if lexeme in dodson or metadata.get("bdag-headword") in dodson:
         if lexeme in dodson:
