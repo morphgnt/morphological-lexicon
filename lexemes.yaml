@@ -25050,7 +25050,7 @@
     mounce-morphcat: a-1a(2a)
 Καλός:
     pos: A
-    danker-entry: Καλοὶλιμένες, Καλῶνλιμένων, οἱ
+    danker-entry: Καλοὶ λιμένες, Καλῶν λιμένων, οἱ
     dodson-entry: καλός, ή, όν
     strongs: 2570
     gk: 2819
@@ -29446,6 +29446,7 @@
     mounce-morphcat: a-1a(1)
 λεπτόν:
     pos: A/N
+    danker-entry: λεπτός, ή, όν
     dodson-entry: λεπτόν, οῦ, τό
     strongs: 3016
     gk: 3321
@@ -29599,6 +29600,7 @@
 Λιβερτῖνος:
     pos: N
     bdag-headword: Λιβερτῖνος
+    danker-entry: λιβερτῖνος, ου, ὁ
     dodson-entry: Λιβερτῖνος, ου, ὁ
     strongs: 3032
     gk: 3339
@@ -29683,6 +29685,7 @@
     mounce-morphcat: n-3f(1b)
 Λιμήν:
     pos: N
+    danker-entry: Καλοὶ λιμένες, Καλῶν λιμένων, οἱ
     dodson-entry: λιμήν, ένος, ὁ
     strongs: 3040
     gk: 3348
@@ -29722,6 +29725,7 @@
 Λίνος:
     pos: N
     bdag-headword: Λίνος
+    danker-entry: Λίνος, ου, ὁ
     dodson-entry: Λῖνος, ου, ὁ
     strongs: 3044
     gk: 3352
@@ -30597,6 +30601,7 @@
     mounce-morphcat: v-2d(4)
 μαράνα:
     pos: N/ARAM
+    danker-entry: μαράναθά
 μαργαρίτης:
     pos: N
     bdag-headword: μαργαρίτης
@@ -30969,6 +30974,7 @@
 μέγιστος:
     pos: A
     bdag-headword: μέγιστος
+    danker-entry: μέγας, μεγάλη, μέγα
     gk: 3492
     mounce-morphcat: a-1a(2a)
 μεθερμηνεύω:
@@ -31054,6 +31060,7 @@
 μείζων:
     pos: A
     bdag-headword: μείζων
+    danker-entry: μέγας, μεγάλη, μέγα
     dodson-entry: μείζων
     strongs: 3187
     gk: 3505
@@ -31063,6 +31070,7 @@
 μέλαν:
     pos: N
     bdag-headword: μέλαν
+    danker-entry: μέλας, μέλαινα, μέλαν, gen. ανος, αίνης, ανος
     dodson-entry: μέλαν, ανος, τό
     strongs: 3188
     gk: 3506
@@ -31803,6 +31811,7 @@
 μήγε:
     pos: D/PRT-N
     bdag-headword: μήγε
+    danker-entry: μή and γέ
     gk: 3591
 μηδαμῶς:
     pos: D
@@ -31986,6 +31995,7 @@
 μήτιγε:
     pos: D/PRT-I
     bdag-headword: μήτιγε
+    danker-entry: μήτι γε
 μήτρα:
     pos: N
     bdag-headword: μήτρα

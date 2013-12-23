@@ -4,17 +4,6 @@
 ἐφοράω
 Ἰωβήλ
 
-Καλός # only lowercase
-λεπτόν # covered by λεπτός
-Λιβερτῖνος # only lowercase
-Λιμήν # only lowercase
-Λίνος
-μαράνα # has μαράναθά as one word
-μέγιστος
-μείζων
-μέλαν
-μήγε
-μήτιγε
 μόνον
 Νέα
 νουμηνία
