@@ -27,6 +27,7 @@ for lexeme, metadata in sorted_items(lexemes):
     def q(metadata_name):
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
+            return True
 
     q("pos")
     q("bdag-headword")
@@ -38,9 +39,7 @@ for lexeme, metadata in sorted_items(lexemes):
     q("dodson-pos")
     q("gloss")
 
-    if "mounce-morphcat" in metadata:
-        print "    {}: {}".format("mounce-morphcat", metadata["mounce-morphcat"])
-    else:
+    if not q("mounce-morphcat"):
         if lexeme in missing_morphcat:
             skipped += 1
             continue
