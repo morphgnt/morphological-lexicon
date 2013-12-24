@@ -23,11 +23,11 @@ problems = []
 skipped = 0
 for lexeme, metadata in sorted_items(lexemes):
     print "{}:".format(lexeme.encode("utf-8"))
-    
+
     def q(metadata_name):
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
-    
+
     q("pos")
     q("bdag-headword")
     q("danker-entry")
@@ -36,7 +36,7 @@ for lexeme, metadata in sorted_items(lexemes):
     q("gk")
     q("dodson-pos")
     q("gloss")
-    
+
     if "mounce-morphcat" in metadata:
         print "    {}: {}".format("mounce-morphcat", metadata["mounce-morphcat"])
     else:

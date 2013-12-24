@@ -23,9 +23,9 @@ for lexeme, metadata in sorted_items(lexemes):
     def q(metadata_name):
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
-    
+
     q("pos")
-    
+
     if "bdag-headword" in metadata:
         print "    bdag-headword: {}".format(metadata["bdag-headword"].encode("utf-8"))
         if metadata["bdag-headword"] not in headwords:
@@ -36,7 +36,7 @@ for lexeme, metadata in sorted_items(lexemes):
             added.append(lexeme.encode("utf-8"))
         else:
             missing_not_in_headwords.append(lexeme.encode("utf-8"))
-    
+
     q("danker-entry")
     q("dodson-entry")
     q("strongs")

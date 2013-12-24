@@ -38,7 +38,7 @@ for lexeme, metadata in sorted_items(lexemes):
                 print "    {}: {}".format("danker-entry", entry.encode("utf-8"))
             else:
                 problems.append("{} not found (bdag={})".format(lexeme.encode("utf-8"), metadata.get("bdag-headword", u"none").encode("utf-8")))
-    
+
     q("dodson-entry")
     q("strongs")
     q("gk")

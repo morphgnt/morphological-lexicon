@@ -31,10 +31,10 @@ for lexeme, metadata in sorted_items(lexemes):
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
 
-    q("pos")    
+    q("pos")
     q("bdag-headword")
     q("danker-entry")
-    
+
     if lexeme in dodson or metadata.get("bdag-headword") in dodson:
         if lexeme in dodson:
             data = dodson[lexeme]
@@ -46,7 +46,7 @@ for lexeme, metadata in sorted_items(lexemes):
             data = None
     else:
         data = None
-    
+
     def p(metadata_name, data_name):
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
@@ -55,13 +55,13 @@ for lexeme, metadata in sorted_items(lexemes):
                 print "    {}: {}".format(metadata_name, data[data_name].encode("utf-8"))
             else:
                 not_in_dodson.add(lexeme.encode("utf-8"))
-    
+
     p("dodson-entry", "greek")
     p("strongs", "strongs")
     p("gk", "gk")
     p("dodson-pos", "pos")
     p("gloss", "short-gloss")
-    
+
     q("mounce-morphcat")
 
 
