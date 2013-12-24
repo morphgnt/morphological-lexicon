@@ -3,10 +3,7 @@
 from collections import defaultdict
 import sys
 
-from pyuca import Collator
-collator = Collator()
-
-from morphgnt.utils import load_yaml, load_wordset
+from morphgnt.utils import load_yaml, load_wordset, sorted_items
 from morphgnt.utils import nfkc_normalize as n
 
 lexemes = load_yaml("lexemes.yaml")
@@ -24,7 +21,7 @@ with open("../data-cleanup/mounce-morphcat/mounce-tauber-morphcat-utf8.txt") as 
 
 problems = []
 skipped = 0
-for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
+for lexeme, metadata in sorted_items(lexemes):
     print "{}:".format(lexeme.encode("utf-8"))
     
     def q(metadata_name):
