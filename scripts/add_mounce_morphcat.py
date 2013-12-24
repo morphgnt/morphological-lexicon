@@ -26,12 +26,12 @@ problems = []
 skipped = 0
 for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
     print "{}:".format(lexeme.encode("utf-8"))
-    print "    pos: {}".format(metadata["pos"])
     
     def q(metadata_name):
         if metadata_name in metadata:
             print "    {}: {}".format(metadata_name, unicode(metadata[metadata_name]).encode("utf-8"))
     
+    q("pos")
     q("bdag-headword")
     q("danker-entry")
     q("dodson-entry")
