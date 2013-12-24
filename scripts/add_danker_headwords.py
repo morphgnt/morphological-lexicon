@@ -40,6 +40,7 @@ for lexeme, metadata in sorted_items(lexemes):
                 problems.append("{} not found (bdag={})".format(lexeme.encode("utf-8"), metadata.get("bdag-headword", u"none").encode("utf-8")))
 
     q("dodson-entry")
+    q("mounce-headword")
     q("strongs")
     q("gk")
     q("dodson-pos")
