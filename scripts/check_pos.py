@@ -16,13 +16,13 @@ regexes = [
     r"V@None@v-[0-9a-z\(\)]+$",
     
     # verbs missing in morphcat
-    r"V@V@None",
+    r"V@V@None$",
     
     # verbs with unknown morphcat
-    r"V@V@\?\?", # @@@
+    r"V@V@\?\?$", # @@@
     
     # verbs missing in dodson and morphcat
-    r"V@None@None",
+    r"V@None@None$",
     
     # verbs with two morphcats
     r"V@V@v-[0-9a-z\(\)]+; v-[0-9a-z\(\)]+$", # @@@
@@ -167,7 +167,7 @@ regexes = [
     r"N@N:F,N:M@None$", # @@@
     r"N@N:F,N-PRI@n-1a$", # @@@
 
-    r"\['N', 'X'\]@\['N:M', 'PRT'\]@None", # @@@
+    r"\['N', 'X'\]@\['N:M', 'PRT'\]@None$", # @@@
     
     # nouns missing in dodson
     r"N@None@n-[0-9a-z\(\)]+$", # @@@
@@ -207,7 +207,7 @@ regexes = [
     r"A/N@N:F@n-1a$", # @@@
     r"N/A@A@a-3a$", # @@@
     r"N/A@A@a-5$", # @@@
-    r"A@A@n-3c\(6b\)", # @@@
+    r"A@A@n-3c\(6b\)$", # @@@
     r"A/N@N:M@a-1a\(1\)$", # @@@
     r"A/N@N:M@a-1a\(2a\)$", # @@@
     r"A/N@None@a-1a\(1\)$", # @@@
