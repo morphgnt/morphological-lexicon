@@ -356,14 +356,16 @@ match = 0
 total = 0
 fails = []
 
+compiled_regexes = [re.compile(regex) for regex in regexes]
+
 for lexeme, metadata in sorted_items(lexemes):
     pos = metadata.get("pos")
     dodson_pos = metadata.get("dodson-pos")
     morphcat = metadata.get("mounce-morphcat")
     
     matched = False
-    for regex in regexes:
-        if re.match(regex, "{}@{}@{}".format(pos, dodson_pos, morphcat)):
+    for compiled_regex in compiled_regexes:
+        if compiled_regex.match("{}@{}@{}".format(pos, dodson_pos, morphcat)):
             matched = True
             break
     
