@@ -3,10 +3,7 @@
 
 import re
 
-from pyuca import Collator
-collator = Collator()
-
-from morphgnt.utils import load_yaml
+from morphgnt.utils import load_yaml, sorted_items
 
 
 lexemes = load_yaml("lexemes.yaml")
@@ -359,7 +356,7 @@ match = 0
 total = 0
 fails = []
 
-for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
+for lexeme, metadata in sorted_items(lexemes):
     pos = metadata.get("pos")
     dodson_pos = metadata.get("dodson-pos")
     morphcat = metadata.get("mounce-morphcat")
