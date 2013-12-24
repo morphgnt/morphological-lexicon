@@ -3,3 +3,10 @@
 ἀλυπότερος # ἄλυπος is 267
 ἀμφιέννυμι # Trenchard gives this as 314 but Mounce says 314 is ἀμφιάζω
 ἀνώτερος # Trenchard gives this as 542 but Mounce says 542 is ἀνώτερον
+ἄχρις # has ἄχρι instead
+Ἄψινθος # has ἄψινθος instead
+βασίλειον # covered by βασίλειος
+βέλτιον # βελτίων is 1019
+βραχύ
+δανείζω # Dodson had this as 1244 but Trenchard and Mounce are missing it; both give 1247 for δανίζω, though (which Danker says is a late form of δανείζω)
+δεσμόν # δεσμός is 1301

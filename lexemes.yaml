@@ -5913,6 +5913,7 @@
     pos: V
     danker-entry: ἄπειμι
     dodson-entry: ἄπειμι
+    mounce-headword: ἄπειμι
     strongs: [548, 549]
     gk: [582, 583]
     dodson-pos: V
@@ -10136,6 +10137,7 @@
     pos: N
     danker-entry: βάτος, ου, ὁ
     dodson-entry: βάτος, ου, ὁ, ἡ
+    mounce-headword: βάτος
     strongs: [942, 943]
     gk: [1003, 1004]
     dodson-pos: N:F,N:M
@@ -11642,8 +11644,9 @@
     bdag-headword: γένημα
     danker-entry: γένημα, ατος, τό
     dodson-entry: γέννημα, ατος, τό
+    mounce-headword: γένημα
     strongs: 1081
-    gk: [1163, 1165]
+    gk: 1163
     dodson-pos: N:N
     gloss: offspring, child, fruit
     mounce-morphcat: n-3c(4)
