@@ -2,12 +2,18 @@
 
 from collections import defaultdict
 import sys
+import unicodedata
 
 from morphgnt.utils import load_yaml, sorted_items
 
 lexemes = load_yaml("lexemes.yaml")
 
 fully_match = 0
+
+
+def strip_accents(s):
+    return "".join((c for c in unicodedata.normalize("NFD", unicode(s)) if unicodedata.category(c) != "Mn"))
+
 
 METADATA_NAMES = [
     "bdag-headword",
@@ -35,6 +41,11 @@ for lexeme, metadata in sorted_items(lexemes):
             tags = []
             if value.lower() == lexeme.lower():
                 tags.append("case")
+            elif strip_accents(value) == strip_accents(lexeme):
+                tags.append("accentuation")
+            elif strip_accents(value.lower()) == strip_accents(lexeme.lower()):
+                tags.append("case")
+                tags.append("accentuation")
             print "    {}:".format(value.encode("utf-8"))
             print "        {}: {}".format("tags", ", ".join(tags))
             print "        {}: {}".format("sources", ", ".join(metadata_names))
