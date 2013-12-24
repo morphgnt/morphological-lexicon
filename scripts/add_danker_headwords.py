@@ -2,10 +2,7 @@
 
 import sys
 
-from pyuca import Collator
-collator = Collator()
-
-from morphgnt.utils import load_yaml, load_wordset
+from morphgnt.utils import load_yaml, load_wordset, sorted_items
 
 lexemes = load_yaml("lexemes.yaml")
 danker = load_yaml("../data-cleanup/danker-concise-lexicon/danker_headwords.yaml")
@@ -14,7 +11,7 @@ missing_danker = load_wordset("missing_danker.txt")
 problems = []
 skipped = 0
 
-for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
+for lexeme, metadata in sorted_items(lexemes):
     print "{}:".format(lexeme.encode("utf-8"))
     print "    pos: {}".format(metadata["pos"])
     
