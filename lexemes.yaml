@@ -15159,6 +15159,7 @@
     bdag-headword: δοῦλος
     danker-entry: δοῦλος, ου, ὁ
     dodson-entry: δοῦλος, ου, ὁ
+    mounce-headword: δοῦλος
     strongs: 1401
     gk: [1528, 1529]
     dodson-pos: A,N:M
@@ -15377,6 +15378,8 @@
     pos: N
     bdag-headword: δύσις
     danker-entry: δύσις, εως, ἡ
+    mounce-headword: δύσις
+    gk: 1550
 δύσκολος:
     pos: A
     bdag-headword: δύσκολος
@@ -17982,6 +17985,8 @@
     pos: V
     bdag-headword: ἕλκω
     danker-entry: ἑλκύω/ἕλκω
+    mounce-headword: ἑλκύω
+    gk: 1816
 Ἑλλάς:
     pos: N
     bdag-headword: Ἑλλάς
@@ -18993,6 +18998,7 @@
     bdag-headword: ἔνι
     danker-entry: ἔνι
     dodson-entry: ἔνι
+    mounce-headword: ἔνι
     strongs: 1762
     gk: 1928
     dodson-pos: V
