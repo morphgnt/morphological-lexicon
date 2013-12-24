@@ -2,10 +2,7 @@
 
 import sys
 
-from pyuca import Collator
-collator = Collator()
-
-from morphgnt.utils import load_yaml, load_wordset
+from morphgnt.utils import load_yaml, load_wordset, sorted_items
 from morphgnt.utils import nfkc_normalize as n
 
 lexemes = load_yaml("lexemes.yaml")
@@ -20,7 +17,7 @@ with open("../data-cleanup/bdag-headwords/bdag_headwords.txt") as f:
 existing_not_in_headwords = []
 missing_not_in_headwords = []
 added = []
-for lexeme, metadata in sorted(lexemes.items(), key=lambda x: collator.sort_key(x[0])):
+for lexeme, metadata in sorted_items(lexemes):
     print "{}:".format(lexeme.encode("utf-8"))
     print "    pos: {}".format(metadata["pos"])
     
