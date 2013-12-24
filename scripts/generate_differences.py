@@ -18,7 +18,7 @@ METADATA_NAMES = [
 for lexeme, metadata in sorted_items(lexemes):
 
     def r(metadata_name):
-        v = metadata.get(metadata_name)
+        v = metadata.get(metadata_name, "<missing>")
         if v:
             v = v.split(",")[0]
         return v if v != lexeme else None
@@ -29,6 +29,10 @@ for lexeme, metadata in sorted_items(lexemes):
 
     if any(differences.values()):
         print "{}:".format(lexeme.encode("utf-8"))
+        for metadata_name in METADATA_NAMES:
+            if differences[metadata_name]:
+                print "    {}:".format(metadata_name)
+                print "        value: {}".format(differences[metadata_name].encode("utf-8"))
     else:
         fully_match += 1
 
