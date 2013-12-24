@@ -32,6 +32,7 @@ for lexeme, metadata in sorted_items(lexemes):
     q("bdag-headword")
     q("danker-entry")
     q("dodson-entry")
+    q("mounce-headword")
     q("strongs")
     q("gk")
     q("dodson-pos")
