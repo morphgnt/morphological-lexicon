@@ -34,19 +34,19 @@ for lexeme, metadata in sorted_items(lexemes):
     if not q("mounce-headword"):
         if lexeme in missing_mounce:
             skipped += 1
-            continue
-        k = metadata.get("gk")
-        if isinstance(k, list):
-            k = ", ".join(str(i) for i in k)
-        v = mounce.get(k)
-        if v:
-            if len(v) == 1:
-                v = v[0]
-            else:
-                v = ", ".join(v)
-            print "    {}: {}".format("mounce-headword", v.encode("utf-8"))
         else:
-            problems.append("{} {} not found".format(lexeme.encode("utf-8"), k))
+            k = metadata.get("gk")
+            if isinstance(k, list):
+                k = ", ".join(str(i) for i in k)
+            v = mounce.get(k)
+            if v:
+                if len(v) == 1:
+                    v = v[0]
+                else:
+                    v = ", ".join(v)
+                print "    {}: {}".format("mounce-headword", v.encode("utf-8"))
+            else:
+                problems.append("{} {} not found".format(lexeme.encode("utf-8"), k))
 
     q("strongs")
     q("gk")
