@@ -57,6 +57,9 @@ for lexeme, metadata in sorted_items(lexemes):
                 not_in_dodson.add(lexeme.encode("utf-8"))
 
     p("dodson-entry", "greek")
+
+    q("mounce-headword")
+
     p("strongs", "strongs")
     p("gk", "gk")
     p("dodson-pos", "pos")
