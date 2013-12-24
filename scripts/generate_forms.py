@@ -2,11 +2,8 @@
 
 import sys
 
-from pyuca import Collator
-collator = Collator()
-
 from morphgnt import filesets
-from morphgnt.utils import load_yaml
+from morphgnt.utils import load_yaml, sorted_items
 
 lexemes = load_yaml("lexemes.yaml")
 forms = load_yaml("forms.yaml")
@@ -58,7 +55,7 @@ for row in fs["sblgnt-forms"].rows():
         print >>sys.stderr, "lexemes file doesn't have {}".format(row["lemma"])
 
 
-for form, metadata in sorted(forms.items(), key=lambda x: collator.sort_key(x[0])):
+for form, metadata in sorted_items(forms):
     print "{}:".format(form.encode("utf-8"))
     pos = lexemes[form]["pos"]
     if pos in ["RA", "A", "N", "RR"]:
