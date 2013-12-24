@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from collections import defaultdict
 import sys
 
 from morphgnt.utils import load_yaml, sorted_items
@@ -23,16 +24,20 @@ for lexeme, metadata in sorted_items(lexemes):
             v = v.split(",")[0]
         return v if v != lexeme else None
 
-    differences = {
-        k: r(k) for k in METADATA_NAMES
-    }
+    differences = defaultdict(list)
+    for metadata_name in METADATA_NAMES:
+        if r(metadata_name):
+            differences[r(metadata_name)].append(metadata_name)
 
-    if any(differences.values()):
+    if differences:
         print "{}:".format(lexeme.encode("utf-8"))
-        for metadata_name in METADATA_NAMES:
-            if differences[metadata_name]:
-                print "    {}:".format(metadata_name)
-                print "        value: {}".format(differences[metadata_name].encode("utf-8"))
+        for value, metadata_names in differences.items():
+            tags = []
+            if value.lower() == lexeme.lower():
+                tags.append("case")
+            print "    {}:".format(value.encode("utf-8"))
+            print "        {}: {}".format("tags", ", ".join(tags))
+            print "        {}: {}".format("sources", ", ".join(metadata_names))
     else:
         fully_match += 1
 
