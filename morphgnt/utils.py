@@ -1,6 +1,9 @@
 import unicodedata
 import yaml
 
+from pyuca import Collator
+collator = Collator()
+
 
 def load_yaml(filename, wrapper=lambda key, metadata: metadata):
     with open(filename) as f:
@@ -19,3 +22,7 @@ def load_wordset(filename):
 
 def nfkc_normalize(s):
     return unicodedata.normalize("NFKC", s)
+
+
+def sorted_items(d):
+    return sorted(d.items(), key=lambda x: collator.sort_key(x[0]))
