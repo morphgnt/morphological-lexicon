@@ -2,6 +2,7 @@
 # coding: utf-8
 
 from collections import defaultdict
+import re
 import sys
 import unicodedata
 
@@ -50,7 +51,7 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("accentuation")
             elif value.replace(u"οε", u"ου") == lexeme:
                 tags.append("οε contraction")
-            elif value.replace(u"ω", u"ομαι") == lexeme:
+            elif re.sub(u"ω$", u"ομαι", value) == lexeme:
                 tags.append("ω/ομαι")
             elif strip_accents(value).replace(u"ος", u"οτερος") == strip_accents(lexeme):
                 tags.append("-τερος")
