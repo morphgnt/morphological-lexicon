@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# coding: utf-8
 
 from collections import defaultdict
 import sys
@@ -47,6 +48,8 @@ for lexeme, metadata in sorted_items(lexemes):
             elif strip_accents(value.lower()) == strip_accents(lexeme.lower()):
                 tags.append("case")
                 tags.append("accentuation")
+            elif value.replace(u"οε", u"ου") == lexeme:
+                tags.append("οε contraction")
             else:
                 tags.append("@@@")
                 no_tag += 1
