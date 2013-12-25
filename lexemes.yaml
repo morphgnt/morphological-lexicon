@@ -34402,6 +34402,8 @@
     pos: X
     bdag-headword: μενοῦν
     danker-entry: μενοῦν/μενοῦνγε
+    mounce-headword: μενοῦν
+    gk: 3528
 μενοῦνγε:
     pos: X
     danker-entry: μενοῦν/μενοῦνγε
@@ -35025,6 +35027,7 @@
     bdag-headword: μέχρι
     danker-entry: μέχρι/μέχρις
     dodson-entry: μέχρι
+    mounce-headword: μέχρι/μέχρις
     strongs: 3360
     gk: [3588, 3589]
     dodson-pos: ADV
@@ -35162,6 +35165,7 @@
     bdag-headword: μήν
     danker-entry: μήν, μηνός, ὁ
     dodson-entry: μήν, μηνός, ὁ
+    mounce-headword: μήν
     strongs: 3376
     gk: [3604, 3605]
     dodson-pos: ['N:M', 'PRT']

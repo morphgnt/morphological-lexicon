@@ -13,7 +13,6 @@
 ἐγγύτερον # Dodson had this as 1585 but Trenchard and Mounce are missing it
 # Mounce missing 1928 as ἔνι but added it anyway
 ἔννυχα # ἔννυχος is 1939; unknown what 1938 would be
-θά
 # Mounce missing 2623 as ἴδε but added it from Trenchard and Dodson
 Ἰουνία # unknown what 2686 is; could be this?
 # 2690 is ἱππικός but added it to ἱππικόν for now
@@ -21,3 +20,6 @@
 # Mounce missing 3414 Μαθθαῖος but added from Trenchard
 # Mounce missing 3415 Μαθθάτ but added from Trenchard
 # Mounce missing 3416 Μαθθίας but added from Trenchard
+μαράνα # combined, these are gk 3448
+θά     #
+# Mounce missing 3528 μενοῦν but added from Trenchard
