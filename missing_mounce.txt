@@ -31,3 +31,8 @@
 # Mounce missing 3811 νύμφη but added from Trenchard
 # Mounce missing 3817 νύσσω but added from Trenchard
 ὁμοιάζω
+παραπλήσιον # 4180 is παραπλήσιος and 4181 is παραπλησίως
+# Mounce missing 4225 παρίστημι but added from Trenchard (4224 is παριστάνω)
+περισσότερον # unknown what 4357 is; could be this?
+πορρώτερον # unknown what 4524 is; could be this?
+# Mounce missing 4703 προσρήγνυμι but added from Trenchard; Mounce has 4704 προσρήσσω
