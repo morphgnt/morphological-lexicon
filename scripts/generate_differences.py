@@ -46,6 +46,8 @@ for lexeme, metadata in sorted_items(lexemes):
             elif strip_accents(value.lower()) == strip_accents(lexeme.lower()):
                 tags.append("case")
                 tags.append("accentuation")
+            else:
+                tags.append("@@@")
             print "    {}:".format(value.encode("utf-8"))
             print "        {}: {}".format("tags", ", ".join(tags))
             print "        {}: {}".format("sources", ", ".join(metadata_names))
