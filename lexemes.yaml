@@ -35251,6 +35251,8 @@
     pos: D/PRT-I
     bdag-headword: μήτιγε
     danker-entry: μήτι γε
+    mounce-headword: μήτιγε
+    gk: 3615
 μήτρα:
     pos: N
     bdag-headword: μήτρα
@@ -35266,6 +35268,8 @@
     pos: N
     bdag-headword: μητρολῴας
     danker-entry: μητραλῴας/μητρολῴας, ου, ὁ
+    mounce-headword: μητρολῴας
+    gk: 3618
 μιαίνω:
     pos: V
     bdag-headword: μιαίνω
@@ -35315,6 +35319,7 @@
     bdag-headword: μίγνυμι
     danker-entry: μίγνυμι/μιγνύω
     dodson-entry: μίγνυμι
+    mounce-headword: μίγνυμι
     strongs: 3396
     gk: 3624
     dodson-pos: V
@@ -37040,6 +37045,7 @@
     bdag-headword: νουμηνία
     danker-entry: νεομηνία, ας, ἡ
     dodson-entry: νουμηνία, ας, ἡ
+    mounce-headword: νεομηνία
     strongs: 3561
     gk: [3741, 3806]
     dodson-pos: N:F
