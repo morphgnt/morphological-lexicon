@@ -26419,6 +26419,8 @@
 ἱππικόν:
     pos: A
     danker-entry: ἱππικός, ή, όν
+    mounce-headword: ἱππικός
+    gk: 2690
 ἵππος:
     pos: N
     bdag-headword: ἵππος
@@ -31680,6 +31682,8 @@
     pos: D/N
     bdag-headword: κύκλῳ
     danker-entry: κύκλῳ
+    mounce-headword: κύκλώ
+    gk: 3241
 κυλίομαι:
     pos: V
     bdag-headword: κυλίω
@@ -33363,14 +33367,20 @@
     pos: N
     bdag-headword: Μαθθαῖος
     danker-entry: Μαθθαῖος, ου, ὁ
+    mounce-headword: Μαθθαῖος
+    gk: 3414
 Μαθθάτ:
     pos: N
     bdag-headword: Μαθθάτ
     danker-entry: Μαθθάτ, ὁ
+    mounce-headword: Μαθθάτ
+    gk: 3415
 Μαθθίας:
     pos: N
     bdag-headword: Μαθθίας
     danker-entry: Μαθθίας, οῦ, ὁ
+    mounce-headword: Μαθθίας
+    gk: 3416
 Μαθουσαλά:
     pos: N
     bdag-headword: Μαθουσαλά
