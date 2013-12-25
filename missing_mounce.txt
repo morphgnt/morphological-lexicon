@@ -25,14 +25,14 @@
 # Mounce missing 3528 μενοῦν but added from Trenchard
 # Mounce missing 3615 μήτιγε but added from Trenchard
 # Mounce missing 3618 μητρολῴας (has 3617 μητραλῴας) but added from Trenchard
-# Mounce missing 3624 μίγνυμι (which Trenchard gives as 3502 but that is μείγνυμι in Mounce)
+# Mounce missing 3624 μίγνυμι (which Trenchard gives as 3502 but that is μείγνυμι in Mounce)
 Νέα
 Νύμφας # Trenchard has Νύμφα for 3809
 # Mounce missing 3811 νύμφη but added from Trenchard
 # Mounce missing 3817 νύσσω but added from Trenchard
 ὁμοιάζω
-παραπλήσιον # 4180 is παραπλήσιος and 4181 is παραπλησίως
-# Mounce missing 4225 παρίστημι but added from Trenchard (4224 is παριστάνω)
+παραπλήσιον # 4180 is παραπλήσιος and 4181 is παραπλησίως
+# Mounce missing 4225 παρίστημι but added from Trenchard (4224 is παριστάνω)
 περισσότερον # unknown what 4357 is; could be this?
 πορρώτερον # unknown what 4524 is; could be this?
-# Mounce missing 4703 προσρήγνυμι but added from Trenchard; Mounce has 4704 προσρήσσω
+# Mounce missing 4703 προσρήγνυμι but added from Trenchard; Mounce has 4704 προσρήσσω
