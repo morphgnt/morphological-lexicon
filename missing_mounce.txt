@@ -21,9 +21,13 @@
 # Mounce missing 3415 Μαθθάτ but added from Trenchard
 # Mounce missing 3416 Μαθθίας but added from Trenchard
 μαράνα # combined, these are gk 3448
-θά     #
+θά     # /
 # Mounce missing 3528 μενοῦν but added from Trenchard
 # Mounce missing 3615 μήτιγε but added from Trenchard
 # Mounce missing 3618 μητρολῴας (has 3617 μητραλῴας) but added from Trenchard
 # Mounce missing 3624 μίγνυμι (which Trenchard gives as 3502 but that is μείγνυμι in Mounce)
 Νέα
+Νύμφας # Trenchard has Νύμφα for 3809
+# Mounce missing 3811 νύμφη but added from Trenchard
+# Mounce missing 3817 νύσσω but added from Trenchard
+ὁμοιάζω
