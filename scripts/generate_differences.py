@@ -52,6 +52,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("οε contraction")
             elif value.replace(u"ω", u"ομαι") == lexeme:
                 tags.append("ω/ομαι")
+            elif strip_accents(value).replace(u"ος", u"οτερος") == strip_accents(lexeme):
+                tags.append("-τερος")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
