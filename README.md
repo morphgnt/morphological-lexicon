@@ -6,3 +6,6 @@ A first pass has been done of all NT books to produce `lexemes.yaml`.
 
 I'm now reviewing missing items, part-of-speech and lemma disagreements, and
 doing analysis of derivational and inflectional forms.
+
+Code is made available under an MIT license and content under
+a cc-by-sa 3.0 license.
