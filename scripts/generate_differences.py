@@ -50,6 +50,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("accentuation")
             elif value.replace(u"οε", u"ου") == lexeme:
                 tags.append("οε contraction")
+            elif value.replace(u"ω", u"ομαι") == lexeme:
+                tags.append("ω/ομαι")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
