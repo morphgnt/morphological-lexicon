@@ -51,8 +51,9 @@ for lexeme, metadata in sorted_items(lexemes):
             elif value.replace(u"οε", u"ου") == lexeme:
                 tags.append("οε contraction")
             else:
-                tags.append("@@@")
-                no_tag += 1
+                if value != "<missing>":
+                    tags.append("@@@")
+                    no_tag += 1
             print "    {}:".format(value.encode("utf-8"))
             print "        {}: [{}]".format("tags", ", ".join("\"{}\"".format(tag) for tag in tags))
             print "        {}: [{}]".format("sources", ", ".join("\"{}\"".format(source) for source in metadata_names))
