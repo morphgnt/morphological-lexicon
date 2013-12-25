@@ -49,8 +49,8 @@ for lexeme, metadata in sorted_items(lexemes):
             else:
                 tags.append("@@@")
             print "    {}:".format(value.encode("utf-8"))
-            print "        {}: {}".format("tags", ", ".join(tags))
-            print "        {}: {}".format("sources", ", ".join(metadata_names))
+            print "        {}: [{}]".format("tags", ", ".join("\"{}\"".format(tag) for tag in tags))
+            print "        {}: [{}]".format("sources", ", ".join("\"{}\"".format(source) for source in metadata_names))
     else:
         fully_match += 1
 
