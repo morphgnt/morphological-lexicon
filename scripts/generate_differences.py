@@ -8,8 +8,6 @@ from morphgnt.utils import load_yaml, sorted_items
 
 lexemes = load_yaml("lexemes.yaml")
 
-fully_match = 0
-
 
 def strip_accents(s):
     return "".join((c for c in unicodedata.normalize("NFD", unicode(s)) if unicodedata.category(c) != "Mn"))
@@ -21,6 +19,9 @@ METADATA_NAMES = [
     "dodson-entry",
     "mounce-headword",
 ]
+
+fully_match = 0
+no_tag = 0
 
 for lexeme, metadata in sorted_items(lexemes):
 
@@ -48,10 +49,11 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("accentuation")
             else:
                 tags.append("@@@")
+                no_tag += 1
             print "    {}:".format(value.encode("utf-8"))
             print "        {}: [{}]".format("tags", ", ".join("\"{}\"".format(tag) for tag in tags))
             print "        {}: [{}]".format("sources", ", ".join("\"{}\"".format(source) for source in metadata_names))
     else:
         fully_match += 1
 
-print >>sys.stderr, "{} fully-match".format(fully_match)
+print >>sys.stderr, "{} fully-match; {} no-tag".format(fully_match, no_tag)
