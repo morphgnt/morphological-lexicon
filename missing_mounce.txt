@@ -41,3 +41,8 @@
 σκῦλα # σκῦλον is 5036 in Mounce and Trenchard
 στάδιος # στάδιον is 5084
 στοιχεῖα # στοιχεῖον is 5122
+συνιστάνω # συνιστάω is 5318 in Mounce (συνίστημι is 5319)
+# Mounce missing 5326 συνομιλέω but added from Trenchard
+# Mounce missing 5540 τοὔνομα but added from Trenchard
+# Mounce missing 5562 τριετία but added from Trenchard
+τρίμηνον # 5564 is τρίμηνος
