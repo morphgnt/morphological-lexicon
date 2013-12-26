@@ -75,6 +75,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ον/α")
             elif re.sub(u"α$", u"ον", value) == lexeme:
                 tags.append("ον/α")
+            elif re.sub(u"α$", u"ον", strip_accents(value)) == strip_accents(lexeme):
+                tags.append("ον/α")
             elif value.replace(u"ληψ", u"λημψ") == lexeme:
                 tags.append("λη(μ)π")
             elif value.replace(u"λήπ", u"λήμπ") == lexeme:
