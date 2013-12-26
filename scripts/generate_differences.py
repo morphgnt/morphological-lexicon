@@ -71,6 +71,12 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ον/ος")
             elif value.replace(u"ληψ", u"λημψ") == lexeme:
                 tags.append("λη(μ)ψ")
+            elif value.replace(u"(ρ)ρ", u"ρ") == lexeme:
+                tags.append("double ρ")
+            elif value.replace(u"ρρ", u"ρ") == lexeme:
+                tags.append("double ρ")
+            elif value.replace(u"ρ", u"ρρ") == lexeme:
+                tags.append("double ρ")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
