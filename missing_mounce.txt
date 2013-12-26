@@ -37,17 +37,17 @@
 πορρώτερον # unknown what 4524 is; could be this?
 # Mounce missing 4703 προσρήγνυμι but added from Trenchard; Mounce has 4704 προσρήσσω
 πυκνά # πυκνός is 4781
-Σαλείμ # Trenchard has this as 4890 which Mounce treats as Σαλίμ
+Σαλείμ # Trenchard has this as 4890 which Mounce treats as Σαλίμ
 σκῦλα # σκῦλον is 5036 in Mounce and Trenchard
 στάδιος # στάδιον is 5084
 στοιχεῖα # στοιχεῖον is 5122
-συνιστάνω # συνιστάω is 5318 in Mounce (συνίστημι is 5319)
+συνιστάνω # συνιστάω is 5318 in Mounce (συνίστημι is 5319)
 # Mounce missing 5326 συνομιλέω but added from Trenchard
 # Mounce missing 5540 τοὔνομα but added from Trenchard
 # Mounce missing 5562 τριετία but added from Trenchard
-τρίμηνον # 5564 is τρίμηνος
+τρίμηνον # 5564 is τρίμηνος
 τρίτον # unknown what 5568 is; could be this? 5569 is τρίτος
 φαρμακός # is this just bad accentuation?
-# Mounce has 5830 φοβέω; 5828 is likely φοβέομαι
+# Mounce has 5830 φοβέω; 5828 is likely φοβέομαι
 χρύσεος # supposedly 5991 but missing in Mounce and Trenchard; χρυσοῦς is 5997
 ψίξ # could it be 6032?
