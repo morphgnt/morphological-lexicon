@@ -36,3 +36,8 @@
 περισσότερον # unknown what 4357 is; could be this?
 πορρώτερον # unknown what 4524 is; could be this?
 # Mounce missing 4703 προσρήγνυμι but added from Trenchard; Mounce has 4704 προσρήσσω
+πυκνά # πυκνός is 4781
+Σαλείμ # Trenchard has this as 4890 which Mounce treats as Σαλίμ
+σκῦλα # σκῦλον is 5036 in Mounce and Trenchard
+στάδιος # στάδιον is 5084
+στοιχεῖα # στοιχεῖον is 5122
