@@ -93,6 +93,10 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ει/ι")
             elif value.replace(u"(ε)ί", u"ί") == lexeme:
                 tags.append("ει/ι")
+            elif value.replace(u"(ε)ί", u"εί") == lexeme:
+                tags.append("ει/ι")
+            elif value.replace(u"(ε)ι", u"ει") == lexeme:
+                tags.append("ει/ι")
             elif value.replace(u"(ν)", u"") == lexeme:
                 tags.append("movable ν")
             elif value.replace(u"(ν)", u"ν") == lexeme:
