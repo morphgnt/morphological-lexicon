@@ -89,6 +89,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("double λ")
             elif value.replace(u"εί", u"ί") == lexeme:
                 tags.append("ει/ι")
+            elif value.replace(u"(ε)ί", u"ί") == lexeme:
+                tags.append("ει/ι")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
