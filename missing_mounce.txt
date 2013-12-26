@@ -46,3 +46,8 @@
 # Mounce missing 5540 τοὔνομα but added from Trenchard
 # Mounce missing 5562 τριετία but added from Trenchard
 τρίμηνον # 5564 is τρίμηνος
+τρίτον # unknown what 5568 is; could be this? 5569 is τρίτος
+φαρμακός # is this just bad accentuation?
+# Mounce has 5830 φοβέω; 5828 is likely φοβέομαι
+χρύσεος # supposedly 5991 but missing in Mounce and Trenchard; χρυσοῦς is 5997
+ψίξ # could it be 6032?
