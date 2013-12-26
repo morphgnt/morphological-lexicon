@@ -91,6 +91,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("double ν")
             elif value.replace(u"εί", u"ί") == lexeme:
                 tags.append("ει/ι")
+            elif value.replace(u"ει", u"ι") == lexeme:
+                tags.append("ει/ι")
             elif value.replace(u"(ε)ί", u"ί") == lexeme:
                 tags.append("ει/ι")
             elif value.replace(u"(ε)ί", u"εί") == lexeme:
