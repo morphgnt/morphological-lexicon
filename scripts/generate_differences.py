@@ -121,6 +121,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("movable ν")
             elif value + u"(ν)" == lexeme:
                 tags.append("movable ν")
+            elif re.sub(u"ν$", u"(ν)", value) == lexeme:
+                tags.append("movable ν")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
