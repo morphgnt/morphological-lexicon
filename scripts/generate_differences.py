@@ -70,7 +70,9 @@ for lexeme, metadata in sorted_items(lexemes):
             elif re.sub(u"ος$", u"ον", value) == lexeme:
                 tags.append("ον/ος")
             elif value.replace(u"ληψ", u"λημψ") == lexeme:
-                tags.append("λη(μ)ψ")
+                tags.append("λη(μ)π")
+            elif value.replace(u"λήπ", u"λήμπ") == lexeme:
+                tags.append("λη(μ)π")
             elif value.replace(u"(ρ)ρ", u"ρ") == lexeme:
                 tags.append("double ρ")
             elif value.replace(u"ρρ", u"ρ") == lexeme:
