@@ -6,6 +6,7 @@ import re
 from morphgnt.utils import load_yaml, sorted_items
 
 regexes = [
+    ur"Aram\.$",
     ur"Heb\.$",
     ur"Heb\. ‘[^’]+’",
     ur"ἀ- priv\., [\u0370-\u03FF\u1F00-\u1FFF]+; ‘[^’]+’",
