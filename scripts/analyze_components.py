@@ -11,14 +11,16 @@ regexes = [
     ur"ἀ- priv\., [\u0370-\u03FF\u1F00-\u1FFF]+; ‘[^’]+’",
 ]
 
+compiled_regexes = [re.compile(regex) for regex in regexes]
+
 danker = load_yaml("../data-cleanup/danker-concise-lexicon/components.yaml")
 
 for lexeme, metadata in sorted_items(danker):
     components = metadata["components"]
 
     matched = False
-    for regex in regexes:
-        if re.match(regex, components):
+    for compiled_regex in compiled_regexes:
+        if compiled_regex.match(components):
             matched = True
             break
 
