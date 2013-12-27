@@ -53,6 +53,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("οε contraction")
             elif value.replace(u"εο", u"ου") == lexeme:
                 tags.append("εο contraction")
+            elif value.replace(u"όο", u"οῦ") == lexeme:
+                tags.append("οο contraction")
             elif re.sub(u"ω$", u"ομαι", value) == lexeme:
                 tags.append("ω/ομαι")
             elif re.sub(u"ομαι$", u"ω", value) == lexeme:
