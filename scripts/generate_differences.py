@@ -51,6 +51,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("accentuation")
             elif value.replace(u"οε", u"ου") == lexeme:
                 tags.append("οε contraction")
+            elif value.replace(u"εο", u"ου") == lexeme:
+                tags.append("εο contraction")
             elif re.sub(u"ω$", u"ομαι", value) == lexeme:
                 tags.append("ω/ομαι")
             elif re.sub(u"ομαι$", u"ω", value) == lexeme:
