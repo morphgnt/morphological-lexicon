@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# coding: utf-8
 
 import re
 
@@ -10,7 +11,9 @@ danker = load_yaml("../data-cleanup/danker-concise-lexicon/components.yaml")
 for lexeme, metadata in sorted_items(danker):
     components = metadata["components"]
 
-    if re.match("^Heb.$", components):
+    if re.match(ur"^Heb\.$", components):
+        pass
+    elif re.match(ur"^Heb\. ‘[^’]+’$", components):
         pass
     else:
         print lexeme
