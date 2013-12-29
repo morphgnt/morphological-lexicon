@@ -9,6 +9,7 @@ regexes = [
     ur"s\. prec\.$",
     ur"orig\. uncertain$",
     ur"orig\. unclear$",
+    ur"etym\. uncertain$",
     ur"etym\. unclear$",
     ur"Aram\.$",
     ur"Heb\.$",
