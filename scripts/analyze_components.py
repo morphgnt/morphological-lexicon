@@ -18,6 +18,9 @@ compiled_regexes = [re.compile(regex) for regex in regexes]
 
 danker = load_yaml("../data-cleanup/danker-concise-lexicon/components.yaml")
 
+first_fail = None
+count = 0
+
 for lexeme, metadata in sorted_items(danker):
     components = metadata["components"]
 
@@ -27,7 +30,13 @@ for lexeme, metadata in sorted_items(danker):
             matched = True
             break
 
-    if not matched:
-        print lexeme
-        print components
-        break
+    if matched:
+        count += 1
+    else:
+        if not first_fail:
+            first_fail = (lexeme, components)
+
+print "{}/{} = {}%".format(count, len(danker), int(1000 * count / len(danker)) / 10)
+if first_fail:
+    print first_fail[0]
+    print first_fail[1]
