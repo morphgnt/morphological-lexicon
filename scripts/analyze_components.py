@@ -23,6 +23,7 @@ regexes = [
     ur"later form of [\u0370-\u03FF\u1F00-\u1FFF]+ in same sense$",
     ur"cp\. [\u0370-\u03FF\u1F00-\u1FFF]+ ‘[^’]+’, [^;]+; cp\. our ‘[^’]+’ in ref\. to [a-z ]+$",
     ur"cp\. [\u0370-\u03FF\u1F00-\u1FFF]+ ‘[^’]+’ in Persia$",
+    ur"Skt\. assoc\.$",
     ur"Skt\. assoc., cp. [\u0370-\u03FF\u1F00-\u1FFF]+$",
 ]
 
