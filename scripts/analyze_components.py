@@ -9,6 +9,7 @@ regexes = [
     ur"Aram\.$",
     ur"Heb\.$",
     ur"Heb\. ‘[^’]+’",
+    ur"Heb\., of uncertain etymology$",
     ur"ἀ- priv\., [\u0370-\u03FF\u1F00-\u1FFF]+; ‘[^’]+’",
 ]
 
