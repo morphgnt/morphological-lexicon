@@ -6,6 +6,7 @@ import re
 from morphgnt.utils import load_yaml, sorted_items
 
 regexes = [
+    ur"s\. prec\.$",
     ur"orig\. uncertain$",
     ur"orig\. unclear$",
     ur"etym\. unclear$",
