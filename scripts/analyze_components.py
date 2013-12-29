@@ -19,6 +19,7 @@ regexes = [
     ur"[\u0370-\u03FF\u1F00-\u1FFF]+, [\u0370-\u03FF\u1F00-\u1FFF]+$",
     ur"[\u0370-\u03FF\u1F00-\u1FFF]+; only in biblical usage$",
     ur"later form of [\u0370-\u03FF\u1F00-\u1FFF]+ in same sense$",
+    ur"cp\. [\u0370-\u03FF\u1F00-\u1FFF]+ ‘[^’]+’ in Persia$",
 ]
 
 compiled_regexes = [re.compile(regex) for regex in regexes]
