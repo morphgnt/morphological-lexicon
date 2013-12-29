@@ -16,6 +16,7 @@ regexes = [
     ur"ἀ- priv\., [\u0370-\u03FF\u1F00-\u1FFF]+ =[\u0370-\u03FF\u1F00-\u1FFF]+ ‘[^’]+’ [^;]+; ‘[^’]+’$",
     ur"[\u0370-\u03FF\u1F00-\u1FFF]+$",
     ur"[\u0370-\u03FF\u1F00-\u1FFF]+, [\u0370-\u03FF\u1F00-\u1FFF]+$",
+    ur"[\u0370-\u03FF\u1F00-\u1FFF]+; only in biblical usage$",
 ]
 
 compiled_regexes = [re.compile(regex) for regex in regexes]
