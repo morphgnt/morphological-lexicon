@@ -13,6 +13,7 @@ regexes = [
     ur"Heb\., of uncertain etymology$",
     ur"ἀ- priv\., [\u0370-\u03FF\u1F00-\u1FFF]+; ‘[^’]+’$",
     ur"ἀ- priv\., [\u0370-\u03FF\u1F00-\u1FFF]+ =[\u0370-\u03FF\u1F00-\u1FFF]+ ‘[^’]+’ [^;]+; ‘[^’]+’$",
+    ur"[\u0370-\u03FF\u1F00-\u1FFF]+$",
 ]
 
 compiled_regexes = [re.compile(regex) for regex in regexes]
