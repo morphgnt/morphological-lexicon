@@ -99,6 +99,8 @@ regexes = [
     ur"{greek} {gloss}, {greek}; {text}$",
     ur"{greek} {gloss}, {greek}; {gloss}, {text}$",
     ur"{greek}, {greek} {gloss}, as compound fr\. {greek}$",
+    ur"{greek}, {greek} {gloss} also {gloss}, as compound fr\. {greek}$",
+    ur"{greek}, {greek}; {gloss}$",
     ur"folk- etymology \(ἀ- priv\., {greek}\) underlies the Gk\. formation of this foreign word, suggesting perh\. {gloss}$",
     ur"cp\. {greek}$",
     ur"cp\. {greek} {gloss}$",
