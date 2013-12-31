@@ -35160,16 +35160,28 @@
     dodson-pos: N:F
     gloss: a sheepskin
     mounce-morphcat: n-1b
-μήν:
-    pos: ['N', 'X']
+μήν/N:
+    pos: N
     bdag-headword: μήν
     danker-entry: μήν, μηνός, ὁ
     dodson-entry: μήν, μηνός, ὁ
     mounce-headword: μήν
     strongs: 3376
-    gk: [3604, 3605]
-    dodson-pos: ['N:M', 'PRT']
-    gloss: ['a month', 'certainly']
+    gk: 3604
+    dodson-pos: N:M
+    gloss: a month
+    mounce-morphcat: n-3f(1a)
+μήν/X:
+    pos: X
+    bdag-headword: μήν
+    danker-entry: μήν
+    dodson-entry: μήν
+    mounce-headword: μήν
+    strongs: 3375
+    gk: 3605
+    dodson-pos: PRT
+    gloss: certainly
+    mounce-morphcat: particle
 μηνύω:
     pos: V
     bdag-headword: μηνύω

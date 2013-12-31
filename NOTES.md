@@ -10,7 +10,7 @@
 * lexeme file (and hence MorphGNT) has πορεύομαι for πορεύω
 * Dodson conflates ἐλεάω and ἐλεέω
 * Dodson conflates Μωϋσῆς and Μωσῆς
-* Dodson has μιμνήσκομαι for μιμνῄσκομαι 
+* Dodson has μιμνήσκομαι for μιμνῄσκομαι
 * Dodson has Κορέ for Κόρε
 * Dodson has Ἐνώχ for Ἑνώχ
 * is πλανήτης gk 4416 vs 4417 adjective vs noun?
@@ -401,7 +401,7 @@
 * Σίλας vs Σιλᾶς
 * Σολομών vs Σολομῶν
 * Στοά vs στοά
-* BDAG has Τρεῖς Ταβέρναι as a single entry so is missing isolated Τρεῖς and Ταβέρνη 
+* BDAG has Τρεῖς Ταβέρναι as a single entry so is missing isolated Τρεῖς and Ταβέρνη
 * BDAG missing Φοῖνιξ
 * BDAG missing ἔξειμι
 * BDAG has θάλασσα for Θάλασσα
@@ -581,3 +581,4 @@
 * morphcat is missing τρίτον (uses τρίτος?)
 * presumably ἐυφημία in Danker CL is a typo
 * presumable ἐυχαριστέω in Danker CL is a typo
+* Dodson seems to have flipped 3604 and 3605 around
