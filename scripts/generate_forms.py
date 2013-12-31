@@ -9,11 +9,16 @@ lexemes = load_yaml("lexemes.yaml")
 forms = load_yaml("forms.yaml")
 fs = filesets.load("filesets.yaml")
 
-for row in fs["sblgnt-forms"].rows():
-    lexeme = lexemes.get(row["lemma"].decode("utf-8"))
+for row in fs["sblgnt-lexemes"].rows():
+    lemma = row["lemma"].decode("utf-8")
+    lexeme = lexemes.get(lemma)
+    if lexeme is None:
+        lemma = "{}/{}".format(row["lemma"], row["ccat-pos"].strip("-")).decode("utf-8")
+        lexeme = lexemes.get(lemma)
     if lexeme:
-        lemma = row["lemma"].decode("utf-8")
         form = row["norm"].decode("utf-8")
+        if isinstance(lexeme["pos"], list):
+            print >> sys.stderr, lexeme
         if lexeme["pos"] in ["RA", "A", "N", "RR"]:
             gender = row["ccat-parse"][6]
             case_number = row["ccat-parse"][4:6]
@@ -47,7 +52,7 @@ for row in fs["sblgnt-forms"].rows():
                     form_list.append({"form": form})
             else:
                 print >>sys.stderr, "*** can't handle mood {}".format(mood)
-        elif lexeme["pos"] in "P":
+        elif lexeme["pos"] in ["P", "X"]:
             form_list = forms.setdefault(lemma, {}).setdefault("forms", [])
             if {"form": form} not in form_list:
                 form_list.append({"form": form})
@@ -138,7 +143,7 @@ for form, metadata in sorted_items(forms):
                                     print "                    -"
                                     print "                        form: {}".format(form["form"].encode("utf-8"))
 
-    elif pos in "P":
+    elif pos in ["P", "X"]:
         print "    forms:"
         for form in metadata["forms"]:
             print "        -"

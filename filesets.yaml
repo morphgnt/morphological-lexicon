@@ -33,6 +33,7 @@ sblgnt-forms:
     format: tisch-merge
     prefix: ../sblgnt/
     files:
+        - 64-Jn-morphgnt.txt
         - 83-1Jn-morphgnt.txt
         - 84-2Jn-morphgnt.txt
         - 85-3Jn-morphgnt.txt
