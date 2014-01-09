@@ -14,6 +14,7 @@ regex_templates = {
     "skt": ur"[a-zá]+",
     "ref": ur"(?:Mt) \d+:\d+",
     "see": ur"s\.|see",
+    "prec": ur"prec\.|preceding",
 }
 
 regexes = [
@@ -44,8 +45,8 @@ regexes = [
     ur"cp\. Lat\. {latin} {gloss}$",
     ur"cp\. Lat\. {latin} {gloss}; in the strict sense:{text}; the synonym {greek} in the strict sense refers to {gloss} or {gloss}, {text}. Usage in the NT is much more fluid.$",
     ur"cp\. Lat\. {latin}$",
-    ur"cp\. prec\. entries$",
-    ur"cp\. prec\.$",
+    ur"cp\. {prec} entries$",
+    ur"cp\. {prec}$",
     ur"cp\. Skt\. {skt} {gloss}$",
     ur"cp\. Skt\. {skt} {gloss}, Lat\. {latin}$",
     ur"cp\. the adj. {greek} {gloss}; {text}$",
@@ -274,10 +275,10 @@ regexes = [
     ur"{greek}; {text}, hence, {gloss}$",
     ur"{see} next entry on the etymology$",
     ur"{see} next$",
-    ur"{see} prec\. {greek}- entries and two next entries$",
-    ur"{see} prec\. {greek}- entries; the act\., which is not used in NT ={gloss}$",
-    ur"{see} prec\.$",
-    ur"{see} preceding entry$",
+    ur"{see} {prec} {greek}- entries and two next entries$",
+    ur"{see} {prec} {greek}- entries; the act\., which is not used in NT ={gloss}$",
+    ur"{see} {prec}$",
+    ur"{see} {prec} entry$",
     ur"{see} {greek}$",
     ur"{see} {greek}$",
     ur"{text}; {text} {greek} {gloss} {text} {gloss}; {text} {gloss}$",
