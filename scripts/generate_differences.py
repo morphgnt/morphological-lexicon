@@ -139,6 +139,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ει/ι")
             elif strip_accents(value).replace(u"ει", u"ι") == strip_accents(lexeme):
                 tags.append("ει/ι")
+            elif value.replace(u"ει", u"η") == lexeme:
+                tags.append("ει/η")
             elif value.replace(u"ε", u"αι") == lexeme:
                 tags.append("αι/ε")
             elif value.replace(u"(ν)", u"") == lexeme:
@@ -155,8 +157,26 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("movable ς")
             elif re.sub(u"ς$", u"(ς)", value) == lexeme:
                 tags.append("movable ς")
+            elif re.sub(u"ς$", "", value) == lexeme:
+                tags.append("movable ς")
+            elif strip_accents(value) + u"ς" == strip_accents(lexeme):
+                tags.append("movable ς")
+                tags.append("accentuation")
             elif value.replace(u"τριοε", u"τριε") == lexeme:
                 tags.append("τρι(ο)ε")
+            elif value.replace(u"Ἀ", u"Ἁ") + u"χ" == lexeme:
+                tags.append("final χ")
+                tags.append("breathing")
+            elif value.replace(u"ίας", u"ιᾶτος") == lexeme:
+                tags.append("ίας/ιᾶτος")
+            elif value.replace(u"όω", u"ίσκω") == lexeme:
+                tags.append("όω/ίσκω")
+            elif value.replace(u"εύ", u"αύ") == lexeme:
+                tags.append("εύ/αύ")
+            elif "/" in value:
+                tags.append("/ in value @@")
+            elif " " in value:
+                tags.append("space in value @@")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
