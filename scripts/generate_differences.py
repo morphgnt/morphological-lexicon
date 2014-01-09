@@ -59,6 +59,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ω/ομαι")
             elif re.sub(u"ομαι$", u"ω", value) == lexeme:
                 tags.append("ω/ομαι")
+            elif re.sub(u"η", u"ομαι", value) == lexeme:
+                tags.append("η/ομαι")
             elif re.sub(u"ημι$", u"εμαι", value) == lexeme:
                 tags.append("ημι/εμαι")
             elif re.sub(u"εμαι$", u"ημι", value) == lexeme:
@@ -74,6 +76,8 @@ for lexeme, metadata in sorted_items(lexemes):
             elif strip_accents(value).replace(u"ος", u"ωτερος") == strip_accents(lexeme):
                 tags.append("-τερος")
             elif strip_accents(value).replace(u"ς", u"τερον") == strip_accents(lexeme):
+                tags.append("-τερον")
+            elif strip_accents(value).replace(u"ως", u"εστερον") == strip_accents(lexeme):
                 tags.append("-τερον")
             elif re.sub(u"ον$", u"ος", value) == lexeme:
                 tags.append("ον/ος")
@@ -151,6 +155,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("movable ς")
             elif re.sub(u"ς$", u"(ς)", value) == lexeme:
                 tags.append("movable ς")
+            elif value.replace(u"τριοε", u"τριε") == lexeme:
+                tags.append("τρι(ο)ε")
             else:
                 if value != "<missing>":
                     tags.append("@@@")
