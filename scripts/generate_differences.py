@@ -57,8 +57,14 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("οο contraction")
             elif re.sub(u"ω$", u"ομαι", value) == lexeme:
                 tags.append("ω/ομαι")
+            elif re.sub(u"ω$", u"ομαι", strip_accents(value)) == strip_accents(lexeme):
+                tags.append("ω/ομαι")
+                tags.append("accentuation")
             elif re.sub(u"ομαι$", u"ω", value) == lexeme:
                 tags.append("ω/ομαι")
+            elif re.sub(u"ομαι$", u"ω", strip_accents(value)) == strip_accents(lexeme):
+                tags.append("ω/ομαι")
+                tags.append("accentuation")
             elif re.sub(u"η", u"ομαι", value) == lexeme:
                 tags.append("η/ομαι")
             elif re.sub(u"ημι$", u"εμαι", value) == lexeme:
@@ -149,6 +155,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("movable ν")
             elif value + u"(ν)" == lexeme:
                 tags.append("movable ν")
+            elif lexeme + u"ν" == value:
+                tags.append("final ν")
             elif re.sub(u"ν$", u"(ν)", value) == lexeme:
                 tags.append("movable ν")
             elif re.sub(u"ν$", u"μ", value) == lexeme:
@@ -164,6 +172,12 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("accentuation")
             elif value.replace(u"τριοε", u"τριε") == lexeme:
                 tags.append("τρι(ο)ε")
+            elif value.replace(u"αττο", u"αττα") == lexeme:
+                tags.append("αττο/αττα")
+            elif value.replace(u"ιδάριον", u"αρίδιον") == lexeme:
+                tags.append("ιδάριον/αρίδιον")
+            elif value.replace(u"ερ", u"ηρ") == lexeme:
+                tags.append("ε/η")
             elif value.replace(u"Ἀ", u"Ἁ") + u"χ" == lexeme:
                 tags.append("final χ")
                 tags.append("breathing")
@@ -173,6 +187,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("όω/ίσκω")
             elif value.replace(u"εύ", u"αύ") == lexeme:
                 tags.append("εύ/αύ")
+            elif lexeme == u"Ἀππίου" and value == u"Ἄππιος":
+                tags.append("inflected partial")
             elif "/" in value:
                 tags.append("/ in value @@")
             elif " " in value:
