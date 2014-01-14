@@ -77,6 +77,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ημι/αμαι")
             elif re.sub(u"υμι$", u"υμαι", value) == lexeme:
                 tags.append("υμι/υμαι")
+            elif strip_accents(value).replace(u"αννυμι", u"αμαι") == strip_accents(lexeme):
+                tags.append("αννυμι/αμαι")
             elif strip_accents(value).replace(u"ς", u"τερος") == strip_accents(lexeme):
                 tags.append("-τερος")
             elif strip_accents(value).replace(u"ος", u"ωτερος") == strip_accents(lexeme):
@@ -97,6 +99,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ον/α")
             elif re.sub(u"α$", u"ον", strip_accents(value)) == strip_accents(lexeme):
                 tags.append("ον/α")
+            elif strip_accents(value).replace(u"ης", u"ος") == strip_accents(lexeme):
+                tags.append("ης/ος")
             elif value.replace(u"ληψ", u"λημψ") == lexeme:
                 tags.append("(μ)π")
             elif value.replace(u"λήπ", u"λήμπ") == lexeme:
@@ -178,6 +182,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ιδάριον/αρίδιον")
             elif value.replace(u"ερ", u"ηρ") == lexeme:
                 tags.append("ε/η")
+            elif value.replace(u"η", u"ι") == lexeme:
+                tags.append("η/ι")
             elif value.replace(u"Ἀ", u"Ἁ") + u"χ" == lexeme:
                 tags.append("final χ")
                 tags.append("breathing")
