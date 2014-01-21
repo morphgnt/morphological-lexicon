@@ -87,6 +87,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("-τερον")
             elif strip_accents(value).replace(u"ως", u"εστερον") == strip_accents(lexeme):
                 tags.append("-τερον")
+            elif value.replace(u"ἐνδέχομαι", u"ἐνδέχεται") == lexeme:
+                tags.append("ομαι/εται")
             elif re.sub(u"ον$", u"ος", value) == lexeme:
                 tags.append("ον/ος")
             elif re.sub(u"ος$", u"ον", value) == lexeme:
@@ -99,8 +101,22 @@ for lexeme, metadata in sorted_items(lexemes):
                 tags.append("ον/α")
             elif re.sub(u"α$", u"ον", strip_accents(value)) == strip_accents(lexeme):
                 tags.append("ον/α")
+            elif re.sub(u"ος$", u"α", value) == lexeme:
+                tags.append("ος/α")
             elif strip_accents(value).replace(u"ης", u"ος") == strip_accents(lexeme):
                 tags.append("ης/ος")
+            elif strip_accents(value).replace(u"ος", u"η") == strip_accents(lexeme):
+                tags.append("η/ος")
+            elif re.sub(u"όω$", u"άω", value) == lexeme:
+                tags.append("οω/αω")
+            elif strip_accents(re.sub(u"ύω$", u"ω", value)) == strip_accents(lexeme):
+                tags.append("ύω/ω")
+            elif re.sub(u"ω$", u"αω", strip_accents(value)) == strip_accents(lexeme):
+                tags.append("ύω/ω")
+            elif re.sub(u"α$", u"εν", value) == lexeme:
+                tags.append("εν/α")
+            elif re.sub(u"α$", u"η", value) == lexeme:
+                tags.append("final η/α")
             elif value.replace(u"ληψ", u"λημψ") == lexeme:
                 tags.append("(μ)π")
             elif value.replace(u"λήπ", u"λήμπ") == lexeme:
@@ -108,6 +124,8 @@ for lexeme, metadata in sorted_items(lexemes):
             elif value.replace(u"ληπ", u"λημπ") == lexeme:
                 tags.append("(μ)π")
             elif value.replace(u"(μ)π", u"μπ") == lexeme:
+                tags.append("(μ)π")
+            elif value.replace(u"πλ", u"μπλ") == lexeme:
                 tags.append("(μ)π")
             elif value.replace(u"(ρ)ρ", u"ρ") == lexeme:
                 tags.append("double ρ")
