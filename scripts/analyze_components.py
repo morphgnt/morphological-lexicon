@@ -15,7 +15,7 @@ regex_templates = {
     "skt": ur"[a-záīā]+",
     "latvian": ur"[a-zô]+",
     "lithuanian": ur"[a-záž]+",
-    "ref": ur"(?:Mt|Ac) \d+:\d+",
+    "ref": ur"(?:Isaiah|Mt|Ac) \d+:\d+(; \d+:\d+)*",
     "see": ur"s\.|see",
     "prec": ur"prec\.|preceding",
 }
