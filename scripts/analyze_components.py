@@ -647,7 +647,7 @@ count = 0
 first_fail_at = 0
 
 for lexeme, metadata in sorted_items(danker):
-    components = metadata["components"]
+    components = metadata["components"].strip()
 
     matched = False
     for compiled_regex in compiled_regexes:
