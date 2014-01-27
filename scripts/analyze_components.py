@@ -699,6 +699,9 @@ regexes = [
     ur"ἐκ- intensive, {greek}$",
     ur"ἡ {greek} {gloss} and ὁ {greek} {gloss}, fr\. a common root:cp\. Lat\. {latin} {gloss}$",
     ur"ὁ {greek} {gloss}$",
+    ur"{greek} {gloss}; later form of {greek}$",
+    ur"=Hom\. {greek} {gloss}$",
+    ur"the Attic form, assoc\. with {greek} {gloss}$",
 ]
 
 compiled_regexes = []
