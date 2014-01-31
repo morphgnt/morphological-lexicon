@@ -125,7 +125,6 @@
 * Dodson has Ἰουδαΐζω for ἰουδαΐζω
 * Dodson has Ἅγαρ for Ἁγάρ
 * Dodson has κενόδοξας for κενόδοξος
-* morphcat has ἀββά for ἀββα
 * morphcat has ὰρα for ἆρα
 * morphcat has Σινά for Σινᾶ
 * ἴδε isn't in morphcat
@@ -159,7 +158,6 @@
 * Dodson has Μελχισεδέκ for Μελχισέδεκ
 * Ἅβελ
 * does Dodson have ἀνώτερον for ἀνώτερος?
-* morphcat has Ἇβελ for Ἅβελ
 * morphcat has ὴχος for ἦχος (check morphcat)
 * morphcat missing τάχιον
 * morphcat conflates τομός and τομώτερος
@@ -372,7 +370,6 @@
 * Dodson conflates Βοόζ and Βόες
 * Dodson conflates ἑκατοντάρχης and ἑκατόνταρχος
 * Dodson conflates σπείρω and ἐπισπείρω
-* morphcat has αὶνος for αἶνος
 * morphcat has ἀμφιέζω not ἀμφιέννυμι
 * check αὐτοῦ as gk 898 doesn't match
 * morphcat has δανίζω for δανείζω (latter is probably 1244)
@@ -381,8 +378,6 @@
 * morphcat has χαναναῖος for Χαναναῖος
 * morphcat has χοραζίν for Χοραζίν
 * morphcat has ὼμος for ὦμος
-* BDAG missing αἴτιον (uses αἴτιος?)
-* BDAG missing ἀκριβέστερον
 * BDAG has Ἀππίου φόρον as single entry so is missing isolated Ἀππίου and Φόρον
 * BDAG has Ἄρειος πάγος as a single entry so is missing isolated Ἄρειος and Πάγος
 * BDAG has Βαριησοῦ for Βαριησοῦς?
@@ -410,7 +405,6 @@
 * σύνιημι vs συνίημι
 * BDAG missing σύνειμι
 * BDAG missing χῶρος
-* ἀγαθουργέω vs ἀγαθοεργέω
 * Dodson has Στωϊκός for Στοϊκός
 * Dodson has superlative ἀκριβέστατος not comparative ἀκριβέστερον
 * Dodson conflates ἐνθυμέομαι and διενθυμέομαι
@@ -466,10 +460,7 @@
 * Dodson conflates θεμέλιος and θεμέλιον
 * Dodson gives gk of ἔξειμι as 1996 but morphcat gives it as 1997
 * Dodson gives gk of Τύραννος as 5600 but morphcat gives it as 5598
-* morphcat has Ἇγαβος for Ἅγαβος
 * morphcat has συνεπιτίθημι for συνεπιτίθεμαι
-* morphcat has ἀγαθοεργέω for ἀγαθουργέω
-* morphcat doesn't have αἴτιον, only αἴτιος
 * morphcat has Ἄππιος not Ἀππίου (we should consider changing lemma in morphgnt)
 * morphcat has ὰσσον for ἆσσον
 * morphcat has θέρμα for θέρμη
@@ -482,7 +473,6 @@
 * morphcat has ταβέρναι for Ταβέρνη
 * morphcat conflates τρεῖς and Τρεῖς
 * morphcat is missing τριετία
-* morphcat has ἀκριβέστατος for ἀκριβέστερον
 * morphcat is missing δεσμόν
 * morphcat is missing ἐφοράω
 * morphcat is missing Μαθθίας
