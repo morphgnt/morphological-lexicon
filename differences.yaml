@@ -6,6 +6,8 @@
         tags: ["accentuation"]
         sources: ["danker-entry", "mounce-headword"]
     comment:
+        - BDAG has breathing but no accent
+        - Danker CL and Mounce have ἀββά
         - SBLGNT doesn't accent Αββα so it would be consistent for the lemma not to be accented either (although should it be capitalized?)
 Ἅβελ:
     Ἇβελ:
@@ -30,7 +32,9 @@
         tags: []
         sources: ["mounce-headword"]
     comment:
-        - interjection from present imperative of ἄγω; Mounce must just treats this as ἄγω but BDAG and Danker CL have a separate entry for it
+        - interjection from present imperative of ἄγω
+        - Mounce must just treats this as ἄγω
+        - BDAG and Danker CL have a separate entry for it
 αἶνος:
     αὶνος:
         tags: ["accentuation"]
@@ -42,19 +46,22 @@
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
     comment:
-        - BDAG, Danker CL and Mounce all use ω rather than ομαι although Danker CL says word is only in middle in NT
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active αἱρέω as headword
 αἰσχύνομαι:
     αἰσχύνη:
         tags: ["η/ομαι"]
         sources: ["bdag-headword", "danker-entry"]
     comment:
-        - αἰσχύνη is a noun; αἰσχύνομαι is a verb (in Danker CL as αἰσχύνω); lexemes.yaml is likely just wrong
+        - αἰσχύνη is a noun
+        - αἰσχύνομαι is a verb (in Danker CL as αἰσχύνω)
+        - lexemes.yaml is likely just wrong
 αἴτιον:
     αἴτιος:
         tags: ["ον/ος"]
         sources: ["danker-entry", "mounce-headword", "bdag-headword"]
     comment:
-        - Danker CL (and likely BDAG and Mounce) treat αἴτιος and αἴτιον as same lexeme but entry in Danker CL suggests a difference in meaning that should be reflected in our analysis
+        - Danker CL (and likely BDAG and Mounce) treat αἴτιος and αἴτιον as same lexeme
+        - entry in Danker CL suggests a difference in meaning that should be reflected in our analysis
         - Danker CL suggests:
             - Lk 23:4 is neuter (we have neuter but αἴτιος)
             - Lk 23:22 is neuter? (we have neuter but αἴτιος)
@@ -148,7 +155,7 @@
         sources: ["danker-entry", "mounce-headword"]
     comment:
         - Danker CL calls ἀνάπειρος a by-form of ἀνάπηρος and, along with Mounce, prefers it as headword
-        - in our analysis is should probably be ἀνάπειρος given the forms in the text
+        - in our analysis it should probably be ἀνάπειρος given the forms in the text
 ἀνατάσσομαι:
     ἀνατάσσω:
         tags: ["ω/ομαι"]
@@ -251,7 +258,7 @@
         - need to check printed BDAG as seems odd to be missing
 ἀποκαθίστημι:
     ἀποκαθίστημι/ἀποκαθιστάνω:
-        tags: ["/ in value @@"]
+        tags: ["μι/ω"]
         sources: ["danker-entry"]
     comment:
         - our analysis only has ἀποκαθίστημι as lemma
@@ -319,7 +326,7 @@
         tags: []
         sources: ["bdag-headword"]
     Ἀππίου Φόρον:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
     comment:
         - our analysis splits Ἀππίου Φόρου into two with lemmata Ἀππίου and Φόρον
@@ -341,7 +348,7 @@
         - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
 Ἄρειος:
     Ἄρειος πάγος:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry", "bdag-headword"]
     comment:
         - our analysis splits Ἄρειον Πάγον and Ἀρείου Πάγου into two with lemmata Ἄρειος and Πάγος
@@ -356,120 +363,196 @@
         - Danker CL allows for single and double delta in same headword
         - BDAG has two separate entries
         - our text only has single delta
-
 ἁρμόζομαι:
     ἁρμόζω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἁρμόζω
 ἆσσον:
     ὰσσον:
         tags: ["accentuation"]
         sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
 Αὐγοῦστος:
     Αὔγουστος:
         tags: ["accentuation"]
         sources: ["bdag-headword", "danker-entry"]
+    comment:
+        - BDAG and Danker CL favour proparoxytone
+        - Mounce and our analysis favour properispomenon
+        - text itself seems to favour properispomenon
 αὐξάνω:
     αὐξάνω/αὔξω:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL considers αὐξάνω and αὔξω in the same entry
+        - Mounce gives separate G/K numbers for them but has αὔξω as just 'see αὐξάνω'
+        - BDAG has both in headword list but I need to check printed to see if one references the other
+        - our analysis uses both as lemmas
 αὔξω:
     αὐξάνω/αὔξω:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL considers αὐξάνω and αὔξω in the same entry
+        - Mounce gives separate G/K numbers for them but has αὔξω as just 'see αὐξάνω'
+        - BDAG has both in headword list but I need to check printed to see if one references the other
+        - our analysis uses both as lemmas
 αὐτοῦ:
-    αὐτόπτης:
-        tags: ["@@@"]
+    <missing>:
+        tags: []
         sources: ["mounce-headword"]
+    comment:
+        - Mounce does not appear to have an entry for the adverb αὐτοῦ. It may just treat it as αὐτός
 ἀφίσταμαι:
     ἀφίστημι:
         tags: ["ημι/αμαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword ἀφίστημι
+        - the active form does seem to appear in our text
 ἀχρειόομαι:
     ἀχρειόω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword ἀχρειόω
+        - text only has passive form (Danker CL claims in active sense but I dispute that)
 ἄχρις:
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
     ἄχρι:
-        tags: ["movable ς", "accentuation"]
+        tags: ["movable ς"]
+        sources: ["bdag-headword", "mounce-headword"]
+    ἄχρι, ἄχρις:
+        tags: ["movable ς", ", in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have ἄχρι (possibly BDAG mentions ἄχρις in entry)
+        - Danker CL has ἄχρι, ἄχρις as single entry
+        - our analysis treats ἄχρι and ἄχρις as distinct (they should probably be merged)
 ἄψινθος:
-    ἀψίνθιον:
-        tags: ["@@@"]
+    ἀψίνθιον/ἄψινθος:
+        tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    ἀψίνθιον:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - because the text treats ἄψινθος and Ἄψινθος distinctly, so does our lemmatization
+        - Danker CL combines ἀψίνθιον and ἄψινθος in headword (and includes Ἄψινθος in the entry)
+        - BDAG just has ἀψίνθιον as headword (need to check printed copy for ἄψινθος/Ἄψινθος)
+        - Mounce has separate entries for ἀψίνθιον ἄψινθος but not for Ἄψινθος
+Ἄψινθος:
+    ἀψίνθιον/ἄψινθος:
+        tags: ["/ in value @@", "case"]
+        sources: ["danker-entry"]
+    ἄψινθος:
+        tags: ["case"]
+        sources: ["mounce-headword"]
     <missing>:
         tags: []
         sources: ["bdag-headword"]
-Ἄψινθος:
-    ἀψίνθιον:
-        tags: ["@@@"]
-        sources: ["danker-entry"]
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
+    comment:
+        - because the text treats ἄψινθος and Ἄψινθος distinctly, so does our lemmatization
+        - Danker CL combines ἀψίνθιον and ἄψινθος in headword (and includes Ἄψινθος in the entry)
+        - BDAG just has ἀψίνθιον as headword (need to check printed copy for ἄψινθος/Ἄψινθος)
+        - Mounce has separate entries for ἀψίνθιον ἄψινθος but not for Ἄψινθος
 βάϊον:
     βαΐον:
         tags: ["accentuation"]
         sources: ["bdag-headword"]
     βαΐον/βάϊον:
-        tags: ["/ in value @@"]
+        tags: ["accentuation"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL has combined entry βαΐον/βάϊον for both accentuations
+        - our analysis has βάϊον but text suggests βαΐον may be better
+        - BDAG prefers βαΐον
+        - Mounce prefers βάϊον
 Βαριησοῦς:
-    <missing>:
+    Βαριησοῦ:
         tags: []
         sources: ["bdag-headword"]
+    comment:
+        - what is the basis for BDAG's Βαριησοῦ vs Βαριησοῦς? (need to check printed copy)
 Βαριωνᾶ:
     Βαριωνᾶ/Βαριωνᾶς:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL has combined Βαριωνᾶ/Βαριωνᾶς headword allowing both indeclinable and declinable forms
+        - only indeclinable form appears in our text
 βασίλειον:
     βασίλειος:
         tags: ["ον/ος"]
-        sources: ["danker-entry"]
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - both βασίλειον and βασίλειος appear in our analysis as lemmata
+        - BDAG, Danker CL and Mounce only have βασίλειος
+        - should we just change Lk 7.25 to βασίλειος?
 βάτος:
     <missing>:
         tags: []
         sources: ["bdag-headword"]
+    comment:
+        - this is always and interesting case because there are two distinct lexemes, one of which has two genders
+        - need to check printed BDAG as likely only missing in my electronic list of headwords because of I./II.
+        - as well as checking BDAG, we need to decide how best to model these lexemes
 βέλτιον:
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
     βελτίων:
-        tags: ["@@@"]
-        sources: ["danker-entry"]
+        tags: ["comp/adv"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - Danker CL identifies it as a neuter comparative functioning as adverb
+        - Robinson analysis has ADV-C but CCAT analysis has A<ASNC>
+        - BDAG, Danker CL and Mounce all prefer βελτίων
+        - key question is: is this simply *functioning* as an adverb or do we say it *is* an adverb, derived from an adjective (latter is my leaning)
 Βενιαμίν:
     Βενιαμ(ε)ίν:
         tags: ["ει/ι"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL merges both spellings into one entry
+        - BDAG has two separate entries, Βενιαμίν and Βενιαμείν
+        - Mounce only gives Βενιαμίν but there's a gap in the G/K which could mean Βενιαμείν is 1020
 Βηθσαϊδά:
     Βηθσαϊδά(ν):
         tags: ["movable ν"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have separate entries for Βηθσαϊδά and Βηθσαϊδάν
+        - Danker CL combines Βηθσαϊδά and Βηθσαϊδάν as a single entry
 Βηθσαϊδάν:
     Βηθσαϊδά(ν):
         tags: ["movable ν"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have separate entries for Βηθσαϊδά and Βηθσαϊδάν
+        - Danker CL combines Βηθσαϊδά and Βηθσαϊδάν as a single entry
 βλαστάνω:
     βλαστάνω/βλαστάω:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG only has βλαστάνω
+        - Mounce only has βλαστάνω but there's a gap in the G/K which means βλαστάω could be 1057
+        - Danker CL has combined entry βλαστάνω/βλαστάω
 βουλεύομαι:
     βουλεύω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword βουλεύω
 βραχύ:
     βραχύς:
         tags: ["movable ς"]
-        sources: ["danker-entry"]
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG, Danker CL and Mounce all just have βραχύς as headword
+        - our analysis treats βραχύ and βραχύς as distinct depending on adverb vs adjective
+        - decision on this relates to whether "adjective functioning as adverb" warrants a separate lexeme
 Γαββαθα:
     Γαββαθᾶ:
         tags: ["accentuation"]
@@ -477,83 +560,135 @@
     Γαββαθά:
         tags: ["accentuation"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have Γαββαθᾶ
+        - Danker CL has Γαββαθά (what is basis for Danker CL differing from BDAG?)
+        - SBLGNT doesn't accent foreign proper names so analysis follows that
 γαζοφυλάκιον:
     γαζοφυλακεῖον/γαζαφυλάκιον:
-        tags: ["/ in value @@"]
+        tags: ["ει/ι"]
         sources: ["danker-entry"]
+    comment:
+        - only Danker CL supports an ει/ι spelling variant in the headword itself
 Γάϊος:
     Γάϊος/Γαῖος:
-        tags: ["/ in value @@"]
+        tags: ["diaeresis"]
         sources: ["danker-entry"]
+    comment:
+        - only Danker supports the version without the diaeresis in the headword itself
 γενεαλογέομαι:
     γενεαλογέω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword γενεαλογέω
 δανείζω:
-    <missing>:
+    δανίζω:
         tags: []
         sources: ["mounce-headword"]
     δαν(ε)ίζω:
         tags: ["ει/ι"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG has two separate entries δανίζω and δανείζω
+        - Danker CL has a single entry δαν(ε)ίζω
+        - Mounce only has δανίζω but there's a G/K gap which *may* fit δανείζω at 1246
+        - the forms in our text suggest δανίζω as a preferred lemma for our analysis
 δάνειον:
     δάν(ε)ιον:
         tags: ["ει/ι"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG has two separate entries δάνιον and δάνειον
+        - Danker CL has a single entry δάν(ε)ιον
+        - Mounce only has δάνειον
+        - the form in our text suggests staying with δάνειον
 δανιστής:
     δαν(ε)ιστής:
         tags: ["ει/ι"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG has two separate entries δανιστής and δανειστής
+        - Danker CL has a single entry δαν(ε)ιστής
+        - Mounce only has δανιστής
+        - the form in our text suggests staying with δανιστής
 δείκνυμι:
     δείκνυμι/δεικνύω:
-        tags: ["/ in value @@"]
+        tags: ["μι/ω"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG only has δείκνυμι
+        - Danker CL has a single entry δείκνυμι/δεικνύω
+        - Mounce only has δείκνυμι but there's a G/K gap 1260 which could fit δεικνύω
+        - not clear how we would pick between these two lemmata although some analysis of forms in text might be worthwhile
 δεκαοκτώ:
     <missing>:
         tags: []
         sources: ["bdag-headword"]
+    comment:
+        - BDAG doesn't have a separate entry for δεκαοκτώ
 δεκαπέντε:
     <missing>:
         tags: []
         sources: ["bdag-headword"]
+    comment:
+        - BDAG doesn't have a separate entry for δεκαπέντε
 δεκάτη:
-    <missing>:
-        tags: []
-        sources: ["bdag-headword"]
     δέκατος:
         tags: ["η/ος"]
-        sources: ["danker-entry", "mounce-headword"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG, Danker CL and Mounce all prefer δέκατος
+        - our analysis should probably just use δέκατος for lemma
 δεσμόν:
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
     δεσμός:
         tags: ["ον/ος"]
-        sources: ["danker-entry"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - our analysis has both δεσμόν (only in plural) and δεσμός
+        - Danker CL only has δεσμός but mentions use of neuter plural
+        - BDAG and Mounce only have δεσμός
+        - how do we model this?
 Διάβολος:
     διάβολος:
         tags: ["case"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG, Danker CL and Mounce all only have lowercase
+        - following from our rule that lemmatization doesn't change case, we're left with need for separate Διάβολος entry
 διαπρίομαι:
     διαπρίω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαπρίω as headword
 διαρρήγνυμι:
     δια(ρ)ρήγνυμι/διαρήσσω:
-        tags: ["/ in value @@"]
+        tags: ["μι/ω"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG has διαρήγνυμι and διαρρήγνυμι
+        - Mounce has διαρήσσω and διαρρήγνυμι
+        - Danker CL has διαρήγνυμι, διαρρήγνυμι and διαρήσσω all in one headword
+        - our analysis only has διαρρήγνυμι and the forms in the text suggest no reason to change that
 διαστέλλομαι:
     διαστέλλω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαστέλλω as headword
 διατίθεμαι:
     διατίθημι:
         tags: ["ημι/εμαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διατίθημι as headword
 διαχειρίζομαι:
     διαχειρίζω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαχειρίζω as headword
 διαχωρίζομαι:
     διαχωριζω:
         tags: ["ω/ομαι", "accentuation"]
@@ -561,14 +696,23 @@
     διαχωρίζω:
         tags: ["ω/ομαι"]
         sources: ["danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαχωρίζω as headword
+        - BDAG headword list has unaccented διαχωριζω but that's clearly just a glitch and I assume printed has διαχωρίζω
 δογματίζομαι:
     δογματίζω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active δογματίζω as headword
 δωδεκάφυλον:
-    <missing>:
+    δωδεκάφυλος:
         tags: []
         sources: ["bdag-headword"]
+    comment:
+        - I'm not sure why BDAG has δωδεκάφυλος
+
+
 ἐγγύτερον:
     <missing>:
         tags: []
@@ -593,7 +737,7 @@
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
 εἴπερ:
     εἰ w. περ:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 εἰσκαλέομαι:
     εἰσκαλέω:
@@ -1056,7 +1200,7 @@
         tags: ["case"]
         sources: ["mounce-headword"]
     Καλοὶ λιμένες:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 καταβαρύνομαι:
     καταβαρύνω:
@@ -1184,7 +1328,7 @@
         tags: ["case"]
         sources: ["mounce-headword"]
     Καλοὶ λιμένες:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 λοιμός:
     <missing>:
@@ -1273,7 +1417,7 @@
         sources: ["danker-entry", "mounce-headword"]
 μήγε:
     μή and γέ:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 μηκύνομαι:
     μηκύνω:
@@ -1289,7 +1433,7 @@
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
 μήτιγε:
     μήτι γε:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 μητρολῴας:
     μητραλῴας/μητρολῴας:
@@ -1400,7 +1544,7 @@
         sources: ["mounce-headword"]
 οἶμαι:
     οἴομαι contracted as οἶμαι:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
     οὶμαι:
         tags: ["accentuation"]
@@ -1423,7 +1567,7 @@
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
 ὀργυιά:
     ὀργυιά (ὄργυια):
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 ὀρέγομαι:
     ὀρέγω:
@@ -1475,7 +1619,7 @@
         tags: []
         sources: ["bdag-headword"]
     Ἄρειος πάγος:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 πανοικεί:
     πανοικεί/πανοικί:
@@ -2016,7 +2160,7 @@
         sources: ["bdag-headword"]
 τετρααρχέω:
     τετρααρχέω (some edd. τετραρχέω):
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 τήκομαι:
     τήκω:
@@ -2043,11 +2187,11 @@
         sources: ["danker-entry", "mounce-headword"]
 τοὐναντίον:
     τὸ ἐναντίον:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 τοὔνομα:
     τὸ ὄνομα:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 τραχηλίζομαι:
     τραχηλίζω:
@@ -2158,7 +2302,7 @@
         tags: []
         sources: ["bdag-headword"]
     Ἀππίου Φόρον:
-        tags: ["space in value @@"]
+        tags: ["space in value"]
         sources: ["danker-entry"]
 Φύγελος:
     Φύγελος/Φύγελλος:

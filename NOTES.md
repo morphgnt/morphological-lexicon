@@ -33,7 +33,6 @@
 * Dodson is missing ὁμίχλη
 * Dodson has βραδυτής for βραδύτης
 * Dodson had incorrect GKs for many words
-* βέλτιον isn't in BDAG headword list (βελτίων?)
 * lexeme file (and hence MorphGNT) has χρήσιμον for χρήσιμος
 * Dodson has ἀναμιμνήσκω for ἀναμιμνῄσκω
 * Dodson has Ἰαννῆς for Ἰάννης
@@ -114,7 +113,6 @@
 * Dodson / morphcat seemed to have flipped around gk 3604 and 3605
 * morphcat has κακοπάθεια for κακοπαθία
 * Dodson has χρίσμα for χρῖσμα
-* merge ἄχρις with ἄχρι?
 * BDAG must split δεκαπέντε?
 * is στοιχεῖα just στοιχεῖον?
 * unclear what BDAG has for συνιστάνω
@@ -122,7 +120,6 @@
 * Dodson has Ἰουδαΐζω for ἰουδαΐζω
 * Dodson has Ἅγαρ for Ἁγάρ
 * Dodson has κενόδοξας for κενόδοξος
-* morphcat has ὰρα for ἆρα
 * morphcat has Σινά for Σινᾶ
 * ἴδε isn't in morphcat
 * Dodson conflates ἐπιφαύω and ἐπιφαύσκω
@@ -140,8 +137,6 @@
 * ἡδέως vs ἥδιστα (gk 2452)
 * BDAG doesn't have τομώτερος
 * BDAG/Dodson/morphcat possibly have τρίμηνος for τρίμηνον
-* is βραχύ just βραχύς (BDAG/Dodson/morphcat)?
-* is δεκάτη just δέκατος (BDAG)?
 * is ὕστερος (BDAG) just ὕστερον?
 * Dodson conflates δοκιμασία and δοκιμάζω
 * Dodson conflates καθάπερ and καθώσπερ
@@ -202,8 +197,6 @@
 * Dodson has οἰκτείρω for οἰκτίρω
 * morphcat doesn't have ἐγγύτερον (1585)
 * morphcat has Ἡρώδίων for Ἡρῳδίων
-* BDAG doesn't have ἄψινθος or Ἄψινθος
-* BDAG has διάβολος for Διάβολος
 * BDAG / Dodson has ἱππικός (for ἱππικόν?)
 * BDAG has ῥέδη for ῥεδή
 * how to handle στάδιος?
@@ -238,10 +231,8 @@
 * morphcat has κιθαρώδός for κιθαρῳδός
 * morphcat missing νύμφη (gk 3811)
 * morphcat missing μίγνυμι (gk 3624)
-* morphcat missing Ἄψινθος
 * morphcat missing ἱππικόν
 * morphcat missing στάδιος
-* BDAG is missing βάτος
 * BDAG is missing ἔννυχα
 * BDAG is missing εὐκοπώτερος
 * BDAG has θανάσιμος for θανάσιμον
@@ -310,12 +301,10 @@
 * morphcat has ἐφφαθά for εφφαθα
 * morphcat has Ἡρώδιανοί for Ἡρῳδιανοί
 * morphcat has Ἡρώδιάς for Ἡρῳδιάς
-* morphcat missing δύσις
 * morphcat missing ἔννυχα
 * morphcat missing Μαθθαῖος
 * morphcat missing περισσότερον
 * morphcat missing ψίξ
-* BDAG has βαΐον for βάϊον
 * BDAG has Γαββαθᾶ for Γαββαθα
 * BDAG missing Ἰσκαριώτης
 * BDAG doesn't have καίτοιγε (split?)
@@ -331,7 +320,6 @@
 * Dodson has Κανᾶ for Κανά
 * Dodson has Λευΐτης for Λευίτης
 * Dodson has λιθόστρωτον for λιθόστρωτος
-* morphcat has Ἇννας for Ἅννας
 * morphcat is missing νύσσω
 * morphcat is missing Σαλείμ
 * morphcat has χειμάρρους for χείμαρρος
@@ -365,18 +353,11 @@
 * Dodson conflates Βοόζ and Βόες
 * Dodson conflates ἑκατοντάρχης and ἑκατόνταρχος
 * Dodson conflates σπείρω and ἐπισπείρω
-* check αὐτοῦ as gk 898 doesn't match
-* morphcat has δανίζω for δανείζω (latter is probably 1244)
 * morphcat missing τοὔνομα
 * morphcat has Φάρες for Φαρές
 * morphcat has χαναναῖος for Χαναναῖος
 * morphcat has χοραζίν for Χοραζίν
 * morphcat has ὼμος for ὦμος
-* BDAG has Ἀππίου φόρον as single entry so is missing isolated Ἀππίου and Φόρον
-* BDAG has Ἄρειος πάγος as a single entry so is missing isolated Ἄρειος and Πάγος
-* BDAG has Βαριησοῦ for Βαριησοῦς?
-* BDAG only has δεσμός for neuter δεσμόν
-* BDAG has δωδεκάφυλος for δωδεκάφυλον
 * BDAG has ἐνεός for ἐνέος
 * BDAG has ἐρυθρός for Ἐρυθρός
 * BDAG has Καλοὶ λιμένες as a single entry so is missing isolated Καλός and Λιμήν
@@ -455,8 +436,6 @@
 * Dodson gives gk of ἔξειμι as 1996 but morphcat gives it as 1997
 * Dodson gives gk of Τύραννος as 5600 but morphcat gives it as 5598
 * morphcat has συνεπιτίθημι for συνεπιτίθεμαι
-* morphcat has Ἄππιος not Ἀππίου (we should consider changing lemma in morphgnt)
-* morphcat has ὰσσον for ἆσσον
 * morphcat has θέρμα for θέρμη
 * morphcat conflates λιμήν and Λιμήν
 * morphcat has πάντή for πάντῃ
@@ -467,15 +446,11 @@
 * morphcat has ταβέρναι for Ταβέρνη
 * morphcat conflates τρεῖς and Τρεῖς
 * morphcat is missing τριετία
-* morphcat is missing δεσμόν
 * morphcat is missing ἐφοράω
 * morphcat is missing Μαθθίας
 * morphcat is missing Νέα
 * morphcat has πάγος for Πάγος
 * morphcat has πόλις for Πόλις
-* BDAG has Αὔγουστος for Αὐγοῦστος
-* BDAG is missing βασίλειον but has βασίλειος
-* BDAG is missing δεκαοκτώ
 * BDAG is missing ἐκτενέστερον
 * BDAG conflates ἐλαιών and Ἐλαιῶν
 * BDAG has ἐνδέχομαι for ἐνδέχεται ? (check latter as lemma)
@@ -544,8 +519,6 @@
 * Dodson conflates χράω and κίχρημι
 * Dodson has πλημμύρα for πλήμμυρα
 * Dodson conflates περιβάλλω and παρεμβάλλω
-* morphcat doesn't distinguish βασίλειον
-* morphcat has διαχωρίζω for διαχωρίζομαι
 * morphcat has ἐκτενῶς for ἐκτενέστερον?
 * morphcat conflates ἐλαιών and Ἐλαιῶν
 * morphcat has εὺγε for εὖγε
