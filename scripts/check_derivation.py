@@ -103,30 +103,30 @@ regexes = [
     ur"contracted from {greek} \(ἀ- priv\., {greek}\) {gloss}$",
     ur"contraction fr\. Homeric {greek}$",
 
-    # ur"\*{greek} {gloss}, cp\. {greek} {gloss}; the concept of doubling expressed in {greek} is associated with this verb$",
-    # ur"\*{greek} {half-gloss}$",
-    # ur"\*{greek}-, {greek} {gloss}$",
-    # ur"\={greek} {greek} {greek}$",
-    # ur"a common Gk\. name, derived in part fr\. the acc\. form of {greek}:{greek}$",
-    # ur"a connection w\. {greek} {gloss} is uncertain$",
-    # ur"a fixed form derived fr\. {greek} functioning as {text}$",
-    # ur"a formation developed from \*{greek} {greek} {gloss} and present in {greek} {greek}, hence the gen\. {greek} {greek} and associated inflection$",
-    # ur"a Hell\. form ={greek}$",
-    # ur"a hybrid formation fr\. \(ὁ\) {greek} {gloss} \+Lat\. {latin} \(hence Vulgate rendering {gloss}\)$",
-    # ur"a later formation:{greek}, {greek}$",
-    # ur"acc\. of {greek}, {greek}$",
-    # ur"according to legend, {greek}, a son of Zeus, founded the city of C\.$",
-    # ur"adv\. acc\. of {greek}$",
-    # ur"adv\. of {greek} \(cp\. prec\.\) {gloss} as in {text}$",
-    # ur"affirming particle, cp\. {greek} and Skt\. {skt}, intensive particle$",
-    # ur"akin to aor\. {greek} \({greek}\) which bears the sense {gloss}$",
-    # ur"akin to {greek} but the development is unclear$",
-    # ur"akin to {greek} {gloss} \({text}\) and {greek} {gloss}$",
-    # ur"akin to {greek} {gloss}$",
-    # ur"akin to {greek} {gloss}, e\. g\. {text}$",
-    # ur"akin to {greek} {gloss}; {gloss}$",
-    # ur"akin to {greek}$",
-    # ur"akin to {greek}; {gloss}, {text}$",
+    ur"\*{greek} {gloss}, cp\. {greek} {gloss}; the concept of doubling expressed in {greek} is associated with this verb$",
+    ur"\*{greek} {half-gloss}$",
+    ur"\*{greek}-, {greek} {gloss}$",
+    ur"\={greek} {greek} {greek}$",
+    ur"a common Gk\. name, derived in part fr\. the acc\. form of {greek}:{greek}$",
+    ur"a connection w\. {greek} {gloss} is uncertain$",
+    ur"a fixed form derived fr\. {greek} functioning as {text}$",
+    ur"a formation developed from \*{greek} {greek} {gloss} and present in {greek} {greek}, hence the gen\. {greek} {greek} and associated inflection$",
+    ur"a Hell\. form ={greek}$",
+    ur"a hybrid formation fr\. \(ὁ\) {greek} {gloss} \+Lat\. {latin} \(hence Vulgate rendering {gloss}\)$",
+    ur"a later formation:{greek}, {greek}$",
+    ur"acc\. of {greek}, {greek}$",
+    ur"according to legend, {greek}, a son of Zeus, founded the city of C\.$",
+    ur"adv\. acc\. of {greek}$",
+    ur"adv\. of {greek} \(cp\. prec\.\) {gloss} as in {text}$",
+    ur"affirming particle, cp\. {greek} and Skt\. {skt}, intensive particle$",
+    ur"akin to aor\. {greek} \({greek}\) which bears the sense {gloss}$",
+    ur"akin to {greek} but the development is unclear$",
+    ur"akin to {greek} {gloss} \({text}\) and {greek} {gloss}$",
+    ur"akin to {greek} {gloss}$",
+    ur"akin to {greek} {gloss}, e\. g\. {text}$",
+    ur"akin to {greek} {gloss}; {gloss}$",
+    ur"akin to {greek}$",
+    ur"akin to {greek}; {gloss}, {text}$",
     # ur"also {greek} {greek} {gloss}$",
     # ur"also {greek} {greek}$",
     # ur"also {greek}$",
@@ -1223,8 +1223,13 @@ for lexeme, metadata in sorted_items(danker):
                     print "        - {}".format(component.encode("utf-8"))
             if "equal" in derivation[lexeme]:
                 print "    equal: {}".format(derivation[lexeme]["equal"].encode("utf-8"))
-            if "cognate" in derivation[lexeme]:
-                print "    cognate: {}".format(derivation[lexeme]["cognate"].encode("utf-8"))
+            if "see" in derivation[lexeme]:
+                if isinstance(derivation[lexeme]["see"], list):
+                    print "    see:"
+                    for see in derivation[lexeme]["see"]:
+                        print "        - {}".format(see.encode("utf-8"))
+                else:
+                    print "    see: {}".format(derivation[lexeme]["see"].encode("utf-8"))
         existing += 1
     else:
         print "    {}:".format("derivation")

@@ -774,6 +774,9 @@
 δειλιάω:
     derivation:
         - δειλία
+δεῖνα:
+    derivation:
+        - \*τάδε ἔνα > τὰ δεῖνα
 δεινῶς:
     derivation:
         - δεινός
@@ -890,12 +893,18 @@
         - δικαιόω
 διό:
     equal: δι’ ὅ
+διότι:
+    equal: διὰ τοῦτο ὅτι
 διπλοῦς:
     derivation:
         - contracted form of διπλόος
 διπλόω:
     derivation:
         - διπλοῦς
+διστάζω:
+    derivation:
+        - \*διστος
+    see: δίζω
 διωγμός:
     derivation:
         - διώκω
@@ -938,6 +947,8 @@
 δουλόω:
     derivation:
         - δοῦλος
+δραχμή:
+    see: δράσσομαι
 δυναμόω:
     derivation:
         - δύναμις
@@ -959,6 +970,9 @@
 δωρεά:
     derivation:
         - Attic for δῶρον
+δωρεάν:
+    derivation:
+        - accusative of δωρεά
 δώρημα:
     derivation:
         - δωρέομαι
@@ -1104,12 +1118,18 @@
 ἐμπόριον:
     derivation:
         - ἔμπορος
+ἔναντι:
+    derivation:
+        - ἐν
+        - ἀντί
 ἔνδειγμα:
     derivation:
         - ἐνδείκνυμι
 ἔνδειξις:
     derivation:
         - ἐνδείκνυμι
+ἐνδιδύσκω:
+    equal: ἐνδύω
 ἔνδυμα:
     derivation:
         - ἐνδύω
@@ -1344,6 +1364,10 @@
 εὐνουχίζω:
     derivation:
         - εὐνοῦχος
+εὐρακύλων:
+    derivation:
+        - εὖρος
+        - Lat. Aquilo
 εὐσέβεια:
     derivation:
         - εὐσεβής
@@ -1395,6 +1419,9 @@
 ζημιόω:
     derivation:
         - ζημία
+Ζηνᾶς:
+    derivation:
+        - Ζῆνα (the accusative form of Ζεύς)
 ζήτημα:
     derivation:
         - ζητέω
@@ -1417,6 +1444,8 @@
 ἡσύχιος:
     derivation:
         - ἥσυχος
+θάλπω:
+    see: θάλλω
 θανάσιμος:
     derivation:
         - θάνατος
@@ -1487,6 +1516,8 @@
 θρηνέω:
     derivation:
         - θρῆνος
+θρόνος:
+    see: θρᾶνος
 θυγάτριον:
     derivation:
         - θυγάτηρ
@@ -1546,6 +1577,9 @@
 ἱλαρότης:
     derivation:
         - ἱλαρός
+ἱλάσκομαι:
+    derivation:
+        - \*ἵλημι
 ἱματίζω:
     derivation:
         - ἱμάτιον
@@ -1763,6 +1797,8 @@
 καύχησις:
     derivation:
         - καυχάομαι
+κελεύω:
+    see: κέλλω
 κενοδοξία:
     derivation:
         - κενόδοξος
@@ -1787,6 +1823,8 @@
 κερδαίνω:
     derivation:
         - κέρδος
+κέρμα:
+    see: κείρω
 κεφαλιόω:
     derivation:
         - κεφαλή
@@ -1904,6 +1942,7 @@
 Κορίνθιος:
     derivation:
         - Κόρινθος
+Κόρινθος:
 κοσμέω:
     derivation:
         - κόσμος
@@ -1916,6 +1955,10 @@
 κοσμίως:
     derivation:
         - κόσμος
+κράσπεδον:
+    derivation:
+        - \*κρασ-
+        - πέδον
 κραταιός:
     derivation:
         - κράτος
@@ -2196,6 +2239,8 @@
 μέμψις:
     derivation:
         - μέμφομαι
+μέν:
+    see: μήν
 μερίζω:
     derivation:
         - μέρος
@@ -2411,6 +2456,10 @@
 νουθεσία:
     derivation:
         - νουθετέω
+νουνεχῶς:
+    derivation:
+        - accusative of νοῦς
+        - ἔχω
 νυμφίος:
     derivation:
         - νύμφη
@@ -2504,6 +2553,8 @@
 ὁμοιάζω:
     derivation:
         - ὅμοιος
+ὅμοιος:
+    see: ὁμός
 ὁμοιότης:
     derivation:
         - ὅμοιος
@@ -2537,6 +2588,8 @@
 ὀνομάζω:
     derivation:
         - ὄνομα
+ὄξος:
+    see: ὀξύς
 ὅραμα:
     derivation:
         - ὁράω
@@ -2574,7 +2627,7 @@
     derivation:
         - ὅρκος
 ὅρκος:
-    cognate: ἕρκος
+    see: ἕρκος
 ὁρμάω:
     derivation:
         - ὁρμή
@@ -2614,6 +2667,9 @@
     derivation:
         - ὀφείλω
 ὀφείλημα:
+    derivation:
+        - ὀφείλω
+ὄφελον:
     derivation:
         - ὀφείλω
 ὄψιμος:
@@ -3150,6 +3206,9 @@
     equal: by-form of ῥήσσω
 ῥήσσω:
     equal: by-form of ῥήγνυμι
+ῥητῶς:
+    derivation:
+        - ῥητός
 ῥιζόω:
     derivation:
         - ῥίζα
@@ -3219,6 +3278,8 @@
 σημειόω:
     derivation:
         - σημεῖον
+σιαγών:
+    see: ψίω
 σιγάω:
     derivation:
         - σιγή
@@ -3448,6 +3509,12 @@
         - σφραγίς
 σφυδρόν:
     equal: σφυρόν
+σφυρόν:
+    see:
+        - σπαίρω
+        - σφαῖρα
+σχεδόν:
+    see: ἔσχον (aorist of ἔχω)
 σχίσμα:
     derivation:
         - σχίζω
@@ -3698,6 +3765,8 @@
 ὑπεροχή:
     derivation:
         - ὑπερέχω
+ὑπερῷον:
+    see: ὑπέρ
 ὑπήκοος:
     derivation:
         - ὑπακούω
