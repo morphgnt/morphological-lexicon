@@ -142,6 +142,9 @@
 αἰσχροκερδῶς adv.:
     derivation:
         - αἰσχροκερδής
+αἰσχρός:
+    derivation:
+        - αἶσχος
 αἴτημα:
     derivation:
         - αἰτέω
@@ -277,6 +280,9 @@
 ἀνατολικός:
     derivation:
         - ἀνατολή
+ἀνάψυξις:
+    derivation:
+        - ἀναψύχω
 ἀνδρίζομαι:
     derivation:
         - ἀνήρ
@@ -385,6 +391,9 @@
 ἀπόκρυφος:
     derivation:
         - ἀποκρύπτω
+ἀποτομία:
+    derivation:
+        - ἀποτέμνω
 ἀπώλεια:
     derivation:
         - ἀπόλλυμι
@@ -406,6 +415,9 @@
 ἀρκετός:
     derivation:
         - ἀρκέω
+ἁρμόζω:
+    derivation:
+        - ἁρμός
 ἀρνίον:
     derivation:
         - ἀρήν
@@ -424,6 +436,9 @@
 ἀρρωστέω:
     derivation:
         - ἄρρωστος
+ἀρτύω:
+    derivation:
+        - ἀρτύς
 ἀρχιερατικός:
     derivation:
         - ἀρχιερεύς
@@ -439,6 +454,9 @@
 ἀσπασμός:
     derivation:
         - ἀσπάζομαι
+ἀστεῖος:
+    derivation:
+        - ἄστυ
 ἀστράπτω:
     derivation:
         - ἀστήρ
@@ -481,12 +499,18 @@
 αὐτάρκεια:
     derivation:
         - αὐτάρκης
+αὐχμηρός:
+    derivation:
+        - αὐχμός
 ἀφανίζω:
     derivation:
         - ἀφανής
 ἀφανισμός:
     derivation:
         - ἀφανίζω
+ἁφή:
+    derivation:
+        - ἅπτω
 ἀφθαρσία:
     derivation:
         - ἄφθαρτος
@@ -499,6 +523,9 @@
 Ἀχαϊκός:
     derivation:
         - Ἀχαΐα
+βαθμός:
+    derivation:
+        - βαίνω
 βάπτισμα:
     derivation:
         - βαπτίζω
@@ -529,6 +556,9 @@
 βασιλικός:
     derivation:
         - βασιλεύς
+βάσις:
+    derivation:
+        - βαίνω
 βδελυκτός:
     derivation:
         - βδελύσσομαι
@@ -586,6 +616,9 @@
 βραδύτης:
     derivation:
         - βραδύς
+βριμάομαι:
+    derivation:
+        - βρίμη
 βροχή:
     derivation:
         - βρέχω
@@ -595,6 +628,12 @@
 βρώσιμος:
     derivation:
         - βρῶσις
+βυρσεύς:
+    derivation:
+        - βύρσα
+βωμός:
+    derivation:
+        - βαίνω
 Γαλατικός:
     derivation:
         - Γαλατία
@@ -628,6 +667,9 @@
 γηράσκω:
     derivation:
         - γῆρας
+γναφεύς:
+    derivation:
+        - κνάπτω
 γνησίως:
     derivation:
         - γνήσιος
@@ -697,6 +739,9 @@
 δεκτός:
     derivation:
         - δέχομαι
+δελεάζω:
+    derivation:
+        - δέλεαρ
 Δερβαῖος:
     derivation:
         - Δέρβη
@@ -883,6 +928,12 @@
 ἐγκρατεύομαι:
     derivation:
         - ἐγκράτεια
+ἑδραῖος:
+    derivation:
+        - ἕδρα
+ἑδραίωμα:
+    derivation:
+        - ἑδραιόω
 εἰδωλεῖον:
     derivation:
         - εἴδωλον
@@ -898,6 +949,9 @@
 ἔκβασις:
     derivation:
         - ἐκβαίνω
+ἔκγονος:
+    derivation:
+        - ἐκγίγνομαι
 ἐκδικέω:
     derivation:
         - ἔκδικος
@@ -1108,6 +1162,9 @@
 ἑπτάκις:
     derivation:
         - ἑπτά
+ἐραυνάω:
+    derivation:
+        - ἐρέω
 ἐργάζομαι:
     derivation:
         - ἔργον
@@ -1321,6 +1378,10 @@
 θορυβέω:
     derivation:
         - θόρυβος
+θραυματίζω:
+    derivation:
+        - θραῦμα
+    equal: θραύω
 θρέμμα:
     derivation:
         - τρέφω
@@ -1600,6 +1661,9 @@
 κεφαλιόω:
     derivation:
         - κεφαλή
+κηδεύω:
+    derivation:
+        - κήδω
 κήρυγμα:
     derivation:
         - κήρυξ
@@ -1834,6 +1898,9 @@
 λειτουργικός:
     derivation:
         - λειτουργός
+λεπτός:
+    derivation:
+        - λέπω
 Λευίτης:
     derivation:
         - Λευί
@@ -1858,6 +1925,9 @@
 λίθινος:
     derivation:
         - λίθος
+λίψ:
+    derivation:
+        - λείβω
 λογικός:
     derivation:
         - λόγος
@@ -2134,6 +2204,9 @@
 ναύτης:
     derivation:
         - ναῦς
+νεκρός:
+    derivation:
+        - νέκυς
 νεκρόω:
     derivation:
         - νεκρός
@@ -2191,6 +2264,9 @@
 νομοθετέω:
     derivation:
         - νομοθέτης
+νόμος:
+    derivation:
+        - νέμω
 νοσέω:
     derivation:
         - νόσος
@@ -2491,6 +2567,11 @@
 παραφρονία:
     derivation:
         - παραφρονέω
+παραφροσύνη:
+    derivation:
+        - παράφρων
+    equal:
+        - παραφρονία (older)
 παραχειμασία:
     derivation:
         - παραχειμάζω
@@ -3013,6 +3094,9 @@
 σκήνωμα:
     derivation:
         - σκηνόω
+σκληρός:
+    derivation:
+        - σκέλλω
 σκληρότης:
     derivation:
         - σκληρός
@@ -3106,9 +3190,15 @@
 στηριγμός:
     derivation:
         - στηρίζω
+στιγμή:
+    derivation:
+        - στίζω
 στόμαχος:
     derivation:
         - στόμα
+στρατεύω:
+    derivation:
+        - στρατός
 στρεβλόω:
     derivation:
         - στρέφω
@@ -3682,6 +3772,9 @@
 χαρά:
     derivation:
         - χαίρω
+χαρακτήρ:
+    derivation:
+        - χαράσσω
 χαρίζομαι:
     derivation:
         - χάρις
@@ -3709,6 +3802,9 @@
 χόρτασμα:
     derivation:
         - χορτάζω
+χοῦς:
+    derivation:
+        - χέω
 χράομαι:
     derivation:
         - χρή
