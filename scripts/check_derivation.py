@@ -46,7 +46,7 @@ regexes = [
     # ur"{greek} {gloss}; {text} {gloss}, also {gloss}$",
     # ur"{greek} {gloss}; {text}$",
     # ur"{greek} {gloss}; {text}:{text}$",
-    # ur"{greek} {text}$",
+    ur"{greek} {text}$",
 
     # other greek
 
@@ -1210,4 +1210,4 @@ for lexeme, metadata in sorted_items(danker):
         for component in derivation[lexeme]["derivation"]:
             print "        - {}".format(component.encode("utf-8"))
     else:
-        print "        - {}".format(components.encode("utf-8"))
+        print "        - {}@".format(components.encode("utf-8"))

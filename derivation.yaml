@@ -184,6 +184,12 @@
 ἀλαζονεία:
     derivation:
         - ἀλαζών
+Ἀλεξανδρεύς:
+    derivation:
+        - Ἀλεξάνδρεια
+Ἀλεξανδρῖνος:
+    derivation:
+        - Ἀλεξάνδρεια
 ἀλήθεια:
     derivation:
         - ἀληθής
@@ -2377,6 +2383,9 @@
 οὕτω /οὕτως:
     derivation:
         - οὗτος
+οὐχί:
+    derivation:
+        - οὐ intensified
 ὀφειλέτης:
     derivation:
         - ὀφείλω
@@ -3106,6 +3115,9 @@
 στρηνιάω:
     derivation:
         - στρῆνος
+στῦλος:
+    derivation:
+        - ἵστημι
 συγκατάθεσις:
     derivation:
         - συγκατατίθημι
@@ -3196,6 +3208,9 @@
 σχολάζω:
     derivation:
         - σχολή
+σχολή:
+    derivation:
+        - ἔχω
 σωματικός:
     derivation:
         - σῶμα
@@ -3505,6 +3520,9 @@
 φάσις:
     derivation:
         - φημί
+φειδομένως:
+    derivation:
+        - φείδομαι via participle
 φήμη:
     derivation:
         - φημί
