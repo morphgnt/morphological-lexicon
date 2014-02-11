@@ -103,6 +103,8 @@
 ἀδυνατέω:
     derivation:
         - ἀδύνατος
+ᾄδω:
+    equal: Attic form of ἀείδω
 ἀθέτησις:
     derivation:
         - ἀθετέω
@@ -135,6 +137,8 @@
 αἱρετικός:
     derivation:
         - αἱρέω
+αἴρω:
+    equal: Attic form of ἀείρω
 αἴσθησις:
     derivation:
         - αἰσθάνομαι
@@ -232,6 +236,9 @@
         - ἄλλος
 ἅλων:
     equal: ἅλως (Attic)
+ἀμαράντινος:
+    derivation:
+        - by-form of ἀμάραντος
 ἁμάρτημα:
     derivation:
         - ἁμαρτάνω
@@ -265,6 +272,9 @@
 ἀνάκρισις:
     derivation:
         - ἀνακρίνω
+ἀναλόω:
+    derivation:
+        - by-form of ἀναλίσκω
 ἀνάμνησις:
     derivation:
         - ἀναμιμνῄσκω
@@ -277,6 +287,9 @@
 ἀνάπαυσις:
     derivation:
         - ἀναπαύω
+ἀνάπειρος:
+    derivation:
+        - by-form of ἀνάπηρος (ἀνά, πηρός)
 ἀνάστασις:
     derivation:
         - ἀνίστημι
@@ -391,6 +404,9 @@
 ἀποκάλυψις:
     derivation:
         - ἀποκαλύπτω
+ἀποκαταστάνω:
+    derivation:
+        - by-form of ἀποκαθίστημι
 ἀποκατάστασις:
     derivation:
         - ἀποκαθίστημι
@@ -409,6 +425,9 @@
 ἀργέω:
     derivation:
         - ἀργός
+ἀργός:
+    derivation:
+        - contracted from ἄεργος (ἀ- priv., ἔργον)
 ἀργύριον:
     derivation:
         - ἄργυρος
@@ -590,6 +609,9 @@
 βιβλιδάριον:
     derivation:
         - βιβλαρίδιον
+βίβλος:
+    derivation:
+        - by-form of βύβλος
 βιόω:
     derivation:
         - βίος
@@ -618,6 +640,9 @@
     equal: Βοές
 Βόος:
     equal: Βοές
+βορρᾶς:
+    derivation:
+        - Attic contracted form of βορέας
 βοτάνη:
     derivation:
         - βόσκω
@@ -803,6 +828,9 @@
         - διαιρέω
 διακαθαρίζω:
     equal: διακαθαίρω
+διαλιμπάνω:
+    derivation:
+        - by-form of διαλείπω
 διαλογισμός:
     derivation:
         - διαλογίζομαι
@@ -862,6 +890,9 @@
         - δικαιόω
 διό:
     equal: δι’ ὅ
+διπλοῦς:
+    derivation:
+        - contracted form of διπλόος
 διπλόω:
     derivation:
         - διπλοῦς
@@ -925,6 +956,9 @@
 δωδέκατος:
     derivation:
         - δώδεκα
+δωρεά:
+    derivation:
+        - Attic for δῶρον
 δώρημα:
     derivation:
         - δωρέομαι
@@ -1015,11 +1049,17 @@
 ἐκτενῶς:
     derivation:
         - ἐκτενής
+ἐλαία:
+    derivation:
+        - ἐλάα (Attic)
 ἐλαιών:
     derivation:
         - ἐλαία
 Ἐλαμίτης:
     equal: Ἀιλαμίτης
+ἐλάσσων /ἔλασσον:
+    derivation:
+        - ἐλάττων (Attic)
 ἐλαττόω:
     derivation:
         - ἐλάττων
@@ -1133,6 +1173,11 @@
     equal: 2nd aorist of ἐφοράω
 ἐπέκεινα:
     equal: ἐπ’ ἐκεῖνα
+ἐπιβιβάζω:
+    derivation:
+        - ἐπί
+        - βιβάζω
+    equal: causal of ἐπιβαίνω
 ἐπιείκεια:
     derivation:
         - ἐπιεικής
@@ -1231,12 +1276,17 @@
 ἐρίζω:
     derivation:
         - ἔρις
+ἐσθίω /ἔσθω:
+    derivation:
+        - based on the impv. ἔσθι
 ἔσω:
     derivation:
         - εἰς
 ἔσωθεν:
     derivation:
         - ἔσω
+ἐσώτερος:
+    equal: comparative form of ἔσω
 ἑτοιμάζω:
     derivation:
         - ἕτοιμος
@@ -1255,6 +1305,9 @@
 εὐαρέστως:
     derivation:
         - εὐάρεστος
+Εὔβουλος:
+    derivation:
+        - εὔβουλος
 εὐεργεσία:
     derivation:
         - εὐεργέτης
@@ -1351,6 +1404,7 @@
 ζυμόω:
     derivation:
         - ζύμη
+ζῶ:
 ζώνη:
     derivation:
         - ζώννυμι
@@ -1575,6 +1629,9 @@
 κακοποιέω:
     derivation:
         - κακοποιός
+κακοῦργος:
+    derivation:
+        - κακοεργός (Homeric)
 κακόω:
     derivation:
         - κακός
@@ -1608,6 +1665,11 @@
 κατάβασις:
     derivation:
         - καταβαίνω
+καταβιβάζω:
+    derivation:
+        - κατά
+        - βιβάζω
+    equal: causal of καταβαίνω
 καταβολή:
     derivation:
         - καταβάλλω
@@ -2075,6 +2137,8 @@
 μαλακία:
     derivation:
         - μαλακός
+μᾶλλον:
+    equal: comparative of the adverb μάλα
 μανία:
     derivation:
         - μαίνομαι
@@ -2373,6 +2437,10 @@
 ὄγδοος:
     derivation:
         - ὀκτώ
+ὅδε:
+    derivation:
+        - ὁ
+        - δέ
 ὁδεύω:
     derivation:
         - ὁδός
@@ -2505,6 +2573,8 @@
 ὁρκίζω:
     derivation:
         - ὅρκος
+ὅρκος:
+    cognate: ἕρκος
 ὁρμάω:
     derivation:
         - ὁρμή
@@ -2990,6 +3060,8 @@
 προστάτις:
     derivation:
         - προΐστημι
+πρότερος:
+    equal: comparative of πρό
 προφητεία:
     derivation:
         - προφήτης
@@ -3074,6 +3146,10 @@
 ῥῆγμα:
     derivation:
         - ῥήγνυμι
+ῥήγνυμι:
+    equal: by-form of ῥήσσω
+ῥήσσω:
+    equal: by-form of ῥήγνυμι
 ῥιζόω:
     derivation:
         - ῥίζα
@@ -3384,6 +3460,8 @@
 σωματικός:
     derivation:
         - σῶμα
+Σωσίπατρος:
+    equal: collateral form of Σώπατρος
 σωτήρ:
     derivation:
         - σῴζω
@@ -3825,6 +3903,9 @@
 φωνέω:
     derivation:
         - φωνή
+φῶς:
+    derivation:
+        - Attic contraction of φάος
 φωστήρ:
     derivation:
         - φῶς

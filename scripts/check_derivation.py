@@ -77,6 +77,32 @@ regexes = [
 
     # other greek
 
+    ur"Attic contracted form of {greek} {gloss}, perh\. Skt\. assoc\.$",
+    ur"Attic contraction of {greek} {gloss}, Skt\. assoc\.$",
+    ur"Attic for {greek}, cp\. {greek} and Lat\. {latin}$",
+    ur"Attic form ={greek}, etym\. uncertain$",
+    ur"Attic form of {greek}$",
+    ur"Attic {greek}, etym\. unknown$",
+    ur"Attic {greek}; {gloss}$",
+    ur"based on the impv\. {greek} {gloss}$",
+    ur"by- form of {greek} \({greek}, {greek} {gloss}\)$",
+    ur"by- form of {greek} {gloss}$",
+    ur"by- form of {greek}$",
+    ur"by- form of {greek}; {gloss}$",
+    ur"causal of {greek}$",
+    ur"causal of {greek}; {greek} {gloss}$",
+    ur"cogn\. w\. {greek} {gloss}$",
+    ur"collateral form of {greek}$",
+    ur"combination of {greek}, {greek}, {greek}, {greek}$",
+    ur"common Gk\. name fr\. the adj\. {greek} {gloss}; {gloss}$",
+    ur"comp\. of the adv\. {greek} {gloss}$",
+    ur"comparative form of {greek}$",
+    ur"comparative of {greek}$",
+    ur"contr\. form of {greek}; cp\. Lat\. {latin}$",
+    ur"contr\. of the epic form {greek} via Attic {greek}, the {greek}- forms being secondary$",
+    ur"contracted from {greek} \(ἀ- priv\., {greek}\) {gloss}$",
+    ur"contraction fr\. Homeric {greek}$",
+
     # ur"\*{greek} {gloss}, cp\. {greek} {gloss}; the concept of doubling expressed in {greek} is associated with this verb$",
     # ur"\*{greek} {half-gloss}$",
     # ur"\*{greek}-, {greek} {gloss}$",
@@ -121,31 +147,6 @@ regexes = [
     # ur"associated w\. {greek}, the 2 pf\. of {greek}$",
     # ur"association has been made principally with {greek} {gloss} {text}, and w\. {greek} \({greek}\) {gloss}$",
     # ur"association with {greek} {gloss} is uncertain$",
-    # ur"Attic contracted form of {greek} {gloss}, perh\. Skt\. assoc\.$",
-    # ur"Attic contraction of {greek} {gloss}, Skt\. assoc\.$",
-    # ur"Attic for {greek}, cp\. {greek} and Lat\. {latin}$",
-    # ur"Attic form ={greek}, etym\. uncertain$",
-    # ur"Attic form of {greek}$",
-    # ur"Attic {greek}, etym\. unknown$",
-    # ur"Attic {greek}; {gloss}$",
-    # ur"based on the impv\. {greek} {gloss}$",
-    # ur"by- form of {greek} \({greek}, {greek} {gloss}\)$",
-    # ur"by- form of {greek} {gloss}$",
-    # ur"by- form of {greek}$",
-    # ur"by- form of {greek}; {gloss}$",
-    # ur"causal of {greek}$",
-    # ur"causal of {greek}; {greek} {gloss}$",
-    # ur"cogn\. w\. {greek} {gloss}$",
-    # ur"collateral form of {greek}$",
-    # ur"combination of {greek}, {greek}, {greek}, {greek}$",
-    # ur"common Gk\. name fr\. the adj\. {greek} {gloss}; {gloss}$",
-    # ur"comp\. of the adv\. {greek} {gloss}$",
-    # ur"comparative form of {greek}$",
-    # ur"comparative of {greek}$",
-    # ur"contr\. form of {greek}; cp\. Lat\. {latin}$",
-    # ur"contr\. of the epic form {greek} via Attic {greek}, the {greek}- forms being secondary$",
-    # ur"contracted from {greek} \(ἀ- priv\., {greek}\) {gloss}$",
-    # ur"contraction fr\. Homeric {greek}$",
     # ur"cp\. \(τὸ\) {greek} {gloss}:etym\. unclear$",
     # ur"cp\. \*{greek} {gloss}, {gloss}$",
     # ur"cp\. Doric {greek} and Lat\. {latin}$",
@@ -1215,12 +1216,15 @@ for lexeme, metadata in sorted_items(danker):
 
     print "{}:".format(lexeme.encode("utf-8"))
     if lexeme in derivation:
-        if "derivation" in derivation[lexeme]:
-            print "    {}:".format("derivation")
-            for component in derivation[lexeme]["derivation"]:
-                print "        - {}".format(component.encode("utf-8"))
-        if "equal" in derivation[lexeme]:
-            print "    equal: {}".format(derivation[lexeme]["equal"].encode("utf-8"))
+        if derivation[lexeme]:
+            if "derivation" in derivation[lexeme]:
+                print "    {}:".format("derivation")
+                for component in derivation[lexeme]["derivation"]:
+                    print "        - {}".format(component.encode("utf-8"))
+            if "equal" in derivation[lexeme]:
+                print "    equal: {}".format(derivation[lexeme]["equal"].encode("utf-8"))
+            if "cognate" in derivation[lexeme]:
+                print "    cognate: {}".format(derivation[lexeme]["cognate"].encode("utf-8"))
         existing += 1
     else:
         print "    {}:".format("derivation")
