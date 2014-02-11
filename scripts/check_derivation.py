@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import re
+import sys
 
 from morphgnt.utils import load_yaml, sorted_items
 
@@ -49,30 +50,33 @@ regexes = [
 
     ur"{greek} {text}$",
 
+    # equals
+
+    ur"2 aor\. of {greek} {gloss}$",
+    ur"=Attic {greek}$",
+    ur"=earlier {greek}; {text}, then in past tenses {gloss}$",
+    ur"=fem\. of {greek} {gloss}$",
+    ur"=Hom\. {greek} {gloss}$",
+    ur"=Macedonian {greek} {gloss}$",
+    ur"=older {greek} /{greek}, fem\. of {greek}$",
+    ur"=older {greek}$",
+    ur"=older {greek}, {text}$",
+    ur"={greek} {gloss}$",
+    ur"={greek} {greek} τ\. {greek}$",
+    ur"={greek} {greek}$",
+    ur"={greek} {ref}$",
+    ur"={greek} {see} {greek}$",
+    ur"={greek} ’ {greek} {greek}$",
+    ur"={greek} ’ {greek}$",
+    ur"={greek} ’ {greek}; {gloss}$",
+    ur"={greek}$",
+    ur"={greek}, cp\. {greek} {gloss}; {gloss}$",
+    ur"={greek}, fem\. of {greek}$",
+    ur"=δι ’ ὅ$",
+    ur"=ὁ {greek} {gloss}; {see} {greek}$",
+
     # other greek
 
-    # ur"2 aor\. of {greek} {gloss}$",
-    # ur"=Attic {greek}$",
-    # ur"=earlier {greek}; {text}, then in past tenses {gloss}$",
-    # ur"=fem\. of {greek} {gloss}$",
-    # ur"=Hom\. {greek} {gloss}$",
-    # ur"=Macedonian {greek} {gloss}$",
-    # ur"=older {greek} /{greek}, fem\. of {greek}$",
-    # ur"=older {greek}$",
-    # ur"=older {greek}, {text}$",
-    # ur"={greek} {gloss}$",
-    # ur"={greek} {greek} τ\. {greek}$",
-    # ur"={greek} {greek}$",
-    # ur"={greek} {ref}$",
-    # ur"={greek} {see} {greek}$",
-    # ur"={greek} ’ {greek} {greek}$",
-    # ur"={greek} ’ {greek}$",
-    # ur"={greek} ’ {greek}; {gloss}$",
-    # ur"={greek}$",
-    # ur"={greek}, cp\. {greek} {gloss}; {gloss}$",
-    # ur"={greek}, fem\. of {greek}$",
-    # ur"=δι ’ ὅ$",
-    # ur"=ὁ {greek} {gloss}; {see} {greek}$",
     # ur"\*{greek} {gloss}, cp\. {greek} {gloss}; the concept of doubling expressed in {greek} is associated with this verb$",
     # ur"\*{greek} {half-gloss}$",
     # ur"\*{greek}-, {greek} {gloss}$",
@@ -1195,6 +1199,9 @@ danker = load_yaml("../data-cleanup/danker-concise-lexicon/components.yaml")
 
 derivation = load_yaml("derivation.yaml")
 
+skipped = 0
+existing = 0
+added = 0
 for lexeme, metadata in sorted_items(danker):
     components = metadata["components"].strip()
 
@@ -1203,14 +1210,22 @@ for lexeme, metadata in sorted_items(danker):
         if compiled_regex.match(components):
             matched = True
     if not matched:
+        skipped += 1
         continue
 
     print "{}:".format(lexeme.encode("utf-8"))
-    print "    {}:".format("derivation")
     if lexeme in derivation:
-        for component in derivation[lexeme]["derivation"]:
-            print "        - {}".format(component.encode("utf-8"))
+        if "derivation" in derivation[lexeme]:
+            print "    {}:".format("derivation")
+            for component in derivation[lexeme]["derivation"]:
+                print "        - {}".format(component.encode("utf-8"))
         if "equal" in derivation[lexeme]:
             print "    equal: {}".format(derivation[lexeme]["equal"].encode("utf-8"))
+        existing += 1
     else:
+        print "    {}:".format("derivation")
         print "        - {}@".format(components.encode("utf-8"))
+        added += 1
+
+
+print >>sys.stderr, "{} skipped; {} existing; {} added".format(skipped, existing, added)
