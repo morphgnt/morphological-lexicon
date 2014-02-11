@@ -1227,11 +1227,7 @@ for lexeme, metadata in sorted_items(danker):
                     else:
                         print "    {}: {}".format(key, derivation[lexeme][key].encode("utf-8"))
 
-            if "derivation" in derivation[lexeme]:
-                print "    {}:".format("derivation")
-                for component in derivation[lexeme]["derivation"]:
-                    print "        - {}".format(component.encode("utf-8"))
-
+            q("derivation")
             q("equal")
             q("see")
         existing += 1
