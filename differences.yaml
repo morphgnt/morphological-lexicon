@@ -711,115 +711,175 @@
         sources: ["bdag-headword"]
     comment:
         - I'm not sure why BDAG has δωδεκάφυλος
-
-
 ἐγγύτερον:
-    <missing>:
-        tags: []
-        sources: ["bdag-headword", "mounce-headword"]
     ἐγγύς:
         tags: ["-τερον"]
-        sources: ["danker-entry"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - ἐγγύτερον is the comparative of ἐγγύς and neither BDAG nor Danker CL treat it as a separate lexeme
+        - is G/K 1585 == ἐγγύτερον?
 εἶδος:
     εὶδος:
         tags: ["accentuation"]
         sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
 εἰδωλόθυτον:
-    <missing>:
-        tags: []
-        sources: ["bdag-headword"]
     εἰδωλόθυτος:
         tags: ["ον/ος"]
-        sources: ["danker-entry", "mounce-headword"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - treated in our analysis as an adjective (so choice of neuter lemma is odd)
+        - Danker CL claims only used as a noun
+        - analysis should change either part-of-speech or lemma as currently inconsistent choice
 εἴκοσι(ν):
     εἴκοσι:
         tags: ["movable ν"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+         - only ever as εἴκοσι in our text
+         - is the movable-ν a mistake? Danker CL doesn't offer it as a possibility
 εἴπερ:
     εἰ w. περ:
         tags: ["space in value"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL prefers εἴπερ as two separate words, but clearly it isn't in our text
 εἰσκαλέομαι:
     εἰσκαλέω:
         tags: ["ω/ομαι"]
         sources: ["danker-entry"]
+    comment:
+        - only the middle occurs in our analysis
+        - Danker CL (as it often seems to) favours the active form εἰσκαλέω even against BDAG
 εἰσπορεύομαι:
     εἰσπορεύω:
         tags: ["ω/ομαι"]
         sources: ["danker-entry"]
+    comment:
+        - only the middle occurs in our analysis
+        - Danker CL (as it often seems to) favours the active form εἰσπορεύω even against BDAG
 εἶτα:
     εὶτα:
         tags: ["accentuation"]
         sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
 ἑκατόνταρχος:
     ἑκατοντάρχης:
         tags: ["ης/ος"]
         sources: ["danker-entry"]
+    comment:
+        - our analysis has both ἑκατόνταρχος and ἑκατοντάρχης
+        - BDAG and Mounce have both as separate entries
+        - Danker CL combined them with headword ἑκατοντάρχης / ἑκατόνταρχος (somehow lost in lexeme.yaml)
+        - we should update lexeme.yaml to reflect Danker's headword combination
 ἔκγονον:
     ἔκγονος:
         tags: ["ον/ος"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - treated in our analysis as an adjective (so choice of neuter lemma is odd)
+        - BDAG only has ἔκγονος
+        - Mounce only has ἔκγονος but there is a gap in G/K which could be ἔκγονον (1680)
+        - Danker CL suggests 1Ti 5.4 is a noun
+        - analysis should change either part-of-speech or lemma as currently inconsistent choice
 ἐκδαπανάομαι:
     ἐκδαπανάω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in passive form (middle lemma) in our text but BDAG, Danker CL and Mounce all prefer active δογματίζω as headword
 ἐκθαμβέομαι:
     ἐκθαμβέω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκθαμβέω as headword
 ἐκκαίομαι:
     ἐκκαίω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκκαίω as headword
 ἐκκρέμαμαι:
     ἐκκρεμάννυμι:
         tags: ["αννυμι/αμαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle in our text but BDAG, Danker CL and Mounce all prefer active ἐκκρεμάννυμι as headword
 ἐκλανθάνω:
     ἐκλανθάνομαι:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "mounce-headword"]
+    comment:
+        - our text has the active lemma (although form in text is middle)
+        - BDAG and Mounce prefer middle lemma ἐκλανθάνομαι but Danker CL prefers the active
 ἐκλέγομαι:
     ἐκλέγω:
         tags: ["ω/ομαι"]
         sources: ["danker-entry"]
+    comment:
+        - only the middle occurs in our analysis
+        - Danker CL (as it often seems to) favours the active form ἐκλέγω even against BDAG
 ἐκλύομαι:
     ἐκλύω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle/passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκλύω as headword
 ἐκπλήσσομαι:
     ἐκπλήσσω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle/passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκπλήσσω as headword
 ἐκστρέφομαι:
     ἐκστρέφω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle in our text but BDAG, Danker CL and Mounce all prefer active ἐκστρέφω as headword
 ἐκτενέστερον:
     ἐκτενῶς:
         tags: ["-τερον"]
-        sources: ["mounce-headword"]
-    <missing>:
-        tags: []
-        sources: ["bdag-headword"]
+        sources: ["bdag-headword", "mounce-headword"]
+    comment:
+        - our analysis has both ἐκτενέστερον (adjective in Lk) and ἐκτενῶς (adverb in Ac and 1Pe)
+        - Danker CL just has ἐκτενῶς entry (with ἐκτενέστερον as comparative adverb within it)
+        - lexemes.yaml must have bad danker-entry
+        - BDAG only has ἐκτενῶς
+        - Mounce only has ἐκτενῶς
+        - should our analysis of ἐκτενέστερον be changed to adverb?
 ἐκτρέπομαι:
     ἐκτρέπω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle in our text but BDAG, Danker CL and Mounce all prefer active ἐκστρέφω as headword
 ἐκχέω:
     ἐκχέω/ἐκχύν(ν)ω:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - BDAG has ἐκχέω and ἐκχύνω ἐκχύννω as separate headwords
+        - Danker combines them
+        - Mounce only has ἐκχέω but there is a G/K gap at 1773
+        - our analysis only uses ἐκχέω although there are forms obviously based on ἐκχύν(ν)ω
 Ἐλαιῶν:
     ἐλαία:
-        tags: ["@@@"]
-        sources: ["danker-entry"]
-    <missing>:
-        tags: []
-        sources: ["bdag-headword"]
-    ἐλαιών:
-        tags: ["case", "accentuation"]
-        sources: ["mounce-headword"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - ἐλαία = olive tree; hence τὸ ὄρος τῶν ἐλαιῶν = mount of olives
+        - ἐλαιών (note accent) is an olive grove
+        - BDAG, Mounce and Danker CL all have ἐλαιών and ἐλαία as separate entries
+        - Danker CL includes the sense τὸ ὄρος τῶν ἐλαιῶν under ἐλαία, not ἐλαιών
+        - I'll have to check BDAG to see where it puts the τὸ ὄρος τῶν ἐλαιῶν case
+        - our normalized text has both ἐλαιῶν and Ἐλαιῶν which are lemmatized ἐλαία and Ἐλαιῶν respectively
+        - we may need to review each on a case-by-case basis
+        - this is related to how we handle oblique cases in multi-word proper nouns elsewhere
+
+
 ἐλάσσων:
     ἐλάσσων/ἔλασσον:
         tags: ["/ in value @@"]
@@ -1035,6 +1095,8 @@
     ἐφφαθά:
         tags: ["accentuation"]
         sources: ["mounce-headword"]
+
+
 ζάω:
     ζῶ:
         tags: ["ύω/ω"]

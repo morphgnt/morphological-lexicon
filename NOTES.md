@@ -47,7 +47,6 @@
 * Dodson conflates ὁρκίζω and ἐνορκίζω
 * Dodson conflates ὑπερεκχύνω and ὑπερεκπερισσοῦ
 * Dodson has Ἀχαϊα for Ἀχαΐα
-* morphcat has εὶδος for εἶδος
 * BDAG accents Νυμφᾶς but morphgnt has Νύμφας
 * morphcat is missing both Νύμφας and Νυμφᾶς
 * Dodson has ἐθελοθρησκεία for ἐθελοθρησκία
@@ -79,7 +78,6 @@
 * Dodson has πρόσκλησις for πρόσκλισις
 * Dodson has μητραλῴας for μητρολῴας
 * Dodson has Εὔα for Εὕα
-* morphcat has εὶτα for εἶτα
 * morphcat has ζώογονέω for ζῳογονέω
 * morphcat has μητραλῴας not μητρολῴας
 * morphcat has πραϋπάθεια for πραϋπάθια
@@ -153,12 +151,10 @@
 * morphcat missing τάχιον
 * morphcat conflates τομός and τομώτερος
 * morphcat conflates ὕστερος and ὕστερον
-* BDAG has εἰδωλόθυτος for εἰδωλόθυτον?
 * BDAG has εὐπάρεδρος for εὐπάρεδρον?
 * BDAG has σύμφορος for σύμφορον?
 * BDAG has μαράνα θά in one entry
 * BDAG has πτηνός for πτηνόν?
-* BDAG has εἴκοσι for εἴκοσι(ν)
 * Dodson has εἰδωλόθυτος for εἰδωλόθυτον
 * Dodson has Φορτουνάτος for Φορτουνᾶτος
 * Dodson has ἀντίληψις for ἀντίλημψις
@@ -175,13 +171,11 @@
 * Dodson splits μήτιγε
 * Dodson missing ἱνατί
 * gk 3691 vs 3692
-* morphcat has εἰδωλόθυτος for εἰδωλόθυτον
 * morphcat has εὐπάρεδρος for εὐπάρεδρον
 * morphcat has ὴθος for ἦθος
 * morphcat has χλόη for Χλόη
 * morphcat splits μήτιγε
 * morphcat doesn't have μαράνα θά
-* BDAG doesn't have ἐγγύτερον in that form
 * BDAG doesn't have τολμηρότερον in that form
 * Dodson has Ἀμπλίας for Ἀμπλιᾶτος
 * Dodson conflates κατάλειμμα and ὑπόλειμμα
@@ -195,7 +189,6 @@
 * Ἰουνιᾶς vs Ἰουνία
 * Dodson has ἀνεξερεύνητος for ἀνεξεραύνητος
 * Dodson has οἰκτείρω for οἰκτίρω
-* morphcat doesn't have ἐγγύτερον (1585)
 * morphcat has Ἡρώδίων for Ἡρῳδίων
 * BDAG / Dodson has ἱππικός (for ἱππικόν?)
 * BDAG has ῥέδη for ῥεδή
@@ -451,8 +444,6 @@
 * morphcat is missing Νέα
 * morphcat has πάγος for Πάγος
 * morphcat has πόλις for Πόλις
-* BDAG is missing ἐκτενέστερον
-* BDAG conflates ἐλαιών and Ἐλαιῶν
 * BDAG has ἐνδέχομαι for ἐνδέχεται ? (check latter as lemma)
 * BDAG conflates ζηλωτής and Ζηλωτής
 * BDAG missing Ἰωβήλ
@@ -484,7 +475,6 @@
 * Dodson has Ἐλισσαῖος for Ἐλισαῖος
 * Dodson has ἀντιπέραν for ἀντιπέρα
 * Dodson missing Ἰωβήλ
-* Ἐλαιῶν vs ἐλαιών
 * Dodson missing πυκνά (just use πυκνός?)
 * Dodson has Μελεᾶς for Μελεά
 * Dodson missing δεκαοκτώ
@@ -519,8 +509,6 @@
 * Dodson conflates χράω and κίχρημι
 * Dodson has πλημμύρα for πλήμμυρα
 * Dodson conflates περιβάλλω and παρεμβάλλω
-* morphcat has ἐκτενῶς for ἐκτενέστερον?
-* morphcat conflates ἐλαιών and Ἐλαιῶν
 * morphcat has εὺγε for εὖγε
 * morphcat missing προσρήγνυμι (can't confirm GK)
 * morphcat has χουζᾶς for Χουζᾶς
