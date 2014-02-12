@@ -10,6 +10,8 @@
 ἀγαθωσύνη:
     derivation:
         - ἀγαθός
+ἀγαλλιάω:
+    equal: later form of ἀγάλλομαι
 ἀγανάκτησις:
     see: preceding
 ἀγάπη:
@@ -26,6 +28,8 @@
 ἀγγέλλω:
     derivation:
         - ἄγγελος
+ἄγγελος:
+    see: ἀγγαρεύω
 ἄγγος:
     see: ἀγκών
 ἁγιάζω:
@@ -113,11 +117,17 @@
 ἀδίκως:
     derivation:
         - ἄδικος
+Ἀδραμυττηνός:
+    derivation:
+        - Ἀδραμύτιον
 ἀδυνατέω:
     derivation:
         - ἀδύνατος
 ᾄδω:
     equal: Attic form of ἀείδω
+ἀεί:
+    equal: later form of αἰεί
+    see: αἰών
 ἀήρ:
     see: ἄημι
 ἀθέτησις:
@@ -209,6 +219,8 @@
         - ἀκατάστατος
 ἀκατάσχετος:
     see: κατέχω
+ἀκμήν:
+    see: ἄκαινα
 ἀκοή:
     derivation:
         - ἀκούω
@@ -291,8 +303,7 @@
 ἅλων:
     equal: ἅλως (Attic)
 ἀμαράντινος:
-    derivation:
-        - by-form of ἀμάραντος
+    equal: by-form of ἀμάραντος
 ἀμάραντος:
     see: preceding entry
 ἁμάρτημα:
@@ -303,9 +314,17 @@
         - ἁμαρτάνω
 ἄμμον:
     see: epic form ἄμαθος
+ἄμμος:
+    equal: ἅμμος
 ἀμπελών:
     derivation:
         - ἄμπελος
+ἀμφιάζω:
+    equal:
+        - ἀμφιέννυμι
+        - ἀμφιέζω
+ἀμφιέζω:
+    equal: ἀμφιάζω
 ἄμωμον:
     derivation:
         - folk-etymology (ἀ- priv., μῶμος)
@@ -336,8 +355,7 @@
     derivation:
         - ἀνακρίνω
 ἀναλόω:
-    derivation:
-        - by-form of ἀναλίσκω
+    equal: by-form of ἀναλίσκω
 ἀνάμνησις:
     derivation:
         - ἀναμιμνῄσκω
@@ -351,8 +369,7 @@
     derivation:
         - ἀναπαύω
 ἀνάπειρος:
-    derivation:
-        - by-form of ἀνάπηρος (ἀνά, πηρός)
+    equal: by-form of ἀνάπηρος (ἀνά, πηρός)
 ἀνάστασις:
     derivation:
         - ἀνίστημι
@@ -374,6 +391,15 @@
 ἀνεμίζω:
     derivation:
         - ἄνεμος
+ἀνεξεραύνητος:
+    equal: ἀνεξερεύνητος
+    derivation:
+        - ἀ- priv.
+        - ἐξεραυνάω
+ἀνεξίκακος:
+    derivation:
+        - future of ἀνέχω
+        - κακός
 ἄνευ:
 ἀνθρακιά:
     derivation:
@@ -427,6 +453,8 @@
 ἀξίως:
     derivation:
         - ἄξιος
+ἁπαλός:
+    see: ὀπός
 ἀπάντησις:
     derivation:
         - ἀπαντάω
@@ -436,6 +464,10 @@
 ἀπασπάζομαι:
     derivation:
         - ἀσπάζομαι
+ἀπατάω:
+    see: ἀπάτη
+ἀπάτη:
+    see: ἀπατάω
 ἀπείθεια:
     derivation:
         - ἀπειθής
@@ -485,8 +517,7 @@
     derivation:
         - ἀποκαλύπτω
 ἀποκαταστάνω:
-    derivation:
-        - by-form of ἀποκαθίστημι
+    equal: by-form of ἀποκαθίστημι
 ἀποκατάστασις:
     derivation:
         - ἀποκαθίστημι
@@ -496,8 +527,15 @@
 ἀπόκρυφος:
     derivation:
         - ἀποκρύπτω
+ἀπολιμπάνω:
+    equal: late by-form of ἀπολείπω
+Ἀπολλύων:
+    derivation:
+        - ἀπόλλυμι
 Ἀπολλώνιος:
     see: next
+Ἀπολλῶς:
+    see: Ἀπολλώνιος
 ἀπολογία:
     see: preceding
 ἀπορία:
@@ -507,12 +545,17 @@
         - ἀποτέμνω
 ἀποτόμως:
     see: ἀποτομία
+ἀπουσία:
+    derivation:
+        - I. ἄπειμι
 ἅπτω:
     see:
         - epic ἁφάω
 ἀπώλεια:
     derivation:
         - ἀπόλλυμι
+ἀρά:
+    see: ἀράομαι
 ἆρα:
     see: ἄρα
 Ἄραψ:
@@ -543,6 +586,7 @@
 ἀριθμέω:
     derivation:
         - ἀριθμός
+ἀριστερός:
 ἄριστον:
     see:
         - ἦρι
@@ -580,6 +624,9 @@
 ἀρτύω:
     derivation:
         - ἀρτύς
+Ἀρχέλαος:
+    derivation:
+        - ἀρχέλαος
 ἀρχιερατικός:
     derivation:
         - ἀρχιερεύς
@@ -599,10 +646,17 @@
 ἀσθένημα:
     derivation:
         - ἀσθενέω
+Ἀσιανός:
+    derivation:
+        - ἀσιανός
+    see: Ἀσία
 ἀσπασμός:
     derivation:
         - ἀσπάζομαι
 ἀσπίς:
+ἆσσον:
+    derivation:
+        - neuter comparative of ἄγχι
 ἀστεῖος:
     derivation:
         - ἄστυ
@@ -658,6 +712,11 @@
 αὔξησις:
     derivation:
         - αὔξω
+αὔριον:
+    see:
+        - ἕως
+        - ἠώς
+        - αὔως
 αὐτάρκεια:
     derivation:
         - αὐτάρκης
@@ -666,6 +725,9 @@
         - αὐτός
         - αὐτοπτέω
         - ὁράω
+αὐτοῦ:
+    derivation:
+        - neuter genitive of αὐτός
 αὐχμηρός:
     derivation:
         - αὐχμός
@@ -751,6 +813,10 @@
         - βάξις
 βαστάζω:
     see: βάσταγμα
+βατταλογέω:
+    derivation:
+        - λογέω
+    see: βατταριζω
 βδελυκτός:
     derivation:
         - βδελύσσομαι
@@ -768,6 +834,8 @@
 βεβηλόω:
     derivation:
         - βέβηλος
+Βελιάρ:
+    see: Βελιάλ
 Βερνίκη:
     equal: Φερενίκη (Macedonian)
 Βεροιαῖος:
@@ -791,8 +859,7 @@
     derivation:
         - βίβλος
 βίβλος:
-    derivation:
-        - by-form of βύβλος
+    equal: by-form of βύβλος
 βιόω:
     derivation:
         - βίος
@@ -826,6 +893,10 @@
 βοηθέω:
     derivation:
         - βοηθός
+βόθρος:
+    equal: βόθυνος
+βόθυνος:
+    equal: vernacular form of βόθρος
 βολή:
     derivation:
         - βάλλω
@@ -859,6 +930,8 @@
 βραδύτης:
     derivation:
         - βραδύς
+βρέχω:
+    see: βροχή
 βριμάομαι:
     derivation:
         - βρίμη
@@ -867,9 +940,13 @@
 βροχή:
     derivation:
         - βρέχω
+βρόχος:
+    see: βροχίς
 βρυγμός:
     derivation:
         - βρύχω
+βρύχω:
+    equal: Attic form βρύκω
 βρῶμα:
     see: βιβρώσκω
 βρώσιμος:
@@ -889,6 +966,8 @@
     see:
         - γόγγρος
         - γράω (γραίνω)
+γάλα:
+    equal: Homeric γλάγος
 Γαλάτης:
     equal: Κέλτης (older)
 Γαλατικός:
@@ -908,6 +987,9 @@
     equal: γαμίζω
 γάμος:
     see: γαμβρός
+γάρ:
+    derivation:
+        - contraction of γέ and ἄρα
 γαστήρ:
     see:
         - γέντα
@@ -925,6 +1007,8 @@
 γενετή:
     derivation:
         - γίνομαι
+Γεννησαρέτ:
+    see: Γενήσαρετ
 γεννητός:
     derivation:
         - γεννάω
@@ -942,11 +1026,14 @@
 γηράσκω:
     derivation:
         - γῆρας
+γίνομαι:
+    equal: Ionic and Hell. form γίγνομαι
 γινώσκω:
     equal: γιγνώσκω (earlier)
 γλεῦκος:
     see:
         - γλυκύς
+γλυκύς:
 γλῶσσα:
     see: γλωχίς
 γναφεύς:
@@ -970,6 +1057,8 @@
 γνώστης:
     derivation:
         - γινώσκω
+γογγύζω:
+    equal: Ionic and later Greek for τονθορύζω
 γογγυσμός:
     derivation:
         - γογγύζω
@@ -1006,6 +1095,9 @@
 δαιμονίζομαι:
     derivation:
         - δαίμων
+δαιμόνιον:
+    derivation:
+        - δαιμόνιος
 δάκνω:
     see: δάκος
 δάκρυον:
@@ -1033,6 +1125,9 @@
 δέησις:
     derivation:
         - δέομαι
+δεῖ:
+    derivation:
+        - impersonal verb from δέω
 δεῖγμα:
     derivation:
         - δείκνυμι
@@ -1065,6 +1160,8 @@
 δειπνέω:
     derivation:
         - δεῖπνον
+δεῖπνος:
+    equal: late for δεῖπνον
 δεισιδαιμονία:
     derivation:
         - δεισιδαίμων
@@ -1086,6 +1183,11 @@
 δελεάζω:
     derivation:
         - δέλεαρ
+δένδρον:
+    equal: Homeric δένδρεον
+δέομαι:
+    derivation:
+        - middle of δέω
 Δερβαῖος:
     derivation:
         - Δέρβη
@@ -1120,6 +1222,7 @@
     see: Homeric δεύομαι
 δέχομαι:
     see: δοχή
+δέω:
 δή:
     see:
         - ἤ- δη
@@ -1130,6 +1233,8 @@
 δηλόω:
     derivation:
         - δῆλος
+Δημᾶς:
+    see: Δημήτριος
 δημόσιος:
     derivation:
         - δῆμος
@@ -1137,11 +1242,17 @@
     equal: δή ποτε
 δήπου:
     equal: δή που
+διαγρηγορέω:
+    derivation:
+        - intensive of γρηγορέω
 διαίρεσις:
     derivation:
         - διαιρέω
 διακαθαρίζω:
     equal: διακαθαίρω
+διακελεύω:
+    derivation:
+        - intensive of κελεύω
 διακονέω:
     see:
         - διάκονια
@@ -1150,8 +1261,7 @@
 διάκονος:
     see: διακονία
 διαλιμπάνω:
-    derivation:
-        - by-form of διαλείπω
+    equal: by-form of διαλείπω
 διαλογισμός:
     derivation:
         - διαλογίζομαι
@@ -1191,6 +1301,8 @@
 διδαχή:
     derivation:
         - διδάσκω
+δίδωμι:
+    see: δῶρον
 διενθυμέομαι:
     see: ἐνθυμέομαι
 διερμηνεία:
@@ -1230,6 +1342,11 @@
 Διονύσιος:
     see:
         - Διόνυσος
+Διόσκουροι:
+    derivation:
+        - Διός
+        - κόρος
+    equal: later form of Διόσκουρος
 διότι:
     equal: διὰ τοῦτο ὅτι
 διπλοῦς:
@@ -1302,15 +1419,25 @@
     see:
         - δώσω (future of δίδωμι)
         - δότης
+δότης:
+    equal: late form of δοτήρ
+    see: prec
 δουλεύω:
     derivation:
         - δοῦλος
 δούλη:
     derivation:
         - feminine counterpart of δοῦλος
+δοῦλος:
+    see: δουλεύω
 δουλόω:
     derivation:
         - δοῦλος
+δράκων:
+    derivation:
+        - δρακεῖν (aorist infinitive of δέρκομαι)
+δράσσομαι:
+    see: δραχμή
 δραχμή:
     see: δράσσομαι
 δρόμος:
@@ -1400,10 +1527,13 @@
 ἑδραίωμα:
     derivation:
         - ἑδραιόω
+Ἑζεκίας:
 ἐθνικῶς:
     see: preceding
 ἔθνος:
     see: ἔθος
+εἶδον:
+    equal: 2nd aorist of ὁράω
 εἶδος:
     see: ἰδέα
 εἰδωλεῖον:
@@ -1430,6 +1560,13 @@
         - εἵλη
 εἰλικρινής:
     see: preceding
+εἰμήν:
+    equal: εἶ μήν
+εἵνεκεν:
+    equal: Ionic form of ἕνεκα
+εἶπον:
+    derivation:
+        - 2nd aorist of λέγω
 εἰρηνεύω:
     derivation:
         - εἰρήνη
@@ -1438,6 +1575,13 @@
         - εἰρήνη
 εἰρηνοποιός:
     see: preceding
+εἴρω:
+εἰς:
+εἶτεν:
+    equal: late form of εἶτα
+εἴωθα:
+    derivation:
+        - perfect of an obsolete present of ἔθω
 ἕκαστος:
     see: ἑκάς
 ἑκάστοτε:
@@ -1492,6 +1636,9 @@
 ἐκτενῶς:
     derivation:
         - ἐκτενής
+ἐκτός:
+    derivation:
+        - -τος
 ἕκτος:
     see: ἕξ
 ἐκφοβέω:
@@ -1512,6 +1659,9 @@
 ἐλαττόω:
     derivation:
         - ἐλάττων
+ἐλαύνω:
+    derivation:
+        - \*ἐλαυνός
 ἐλαφρός:
     see: ἐλαχύς
 ἐλεάω:
@@ -1534,6 +1684,8 @@
     see: next entry
 ἐλευθερόω:
     see: ἐλεύθερος
+ἔλευσις:
+    see: ἐλεύσομαι
 ἕλιγμα:
     derivation:
         - ἑλίσσω
@@ -1545,6 +1697,7 @@
         - ἕλκος
 Ἑλλάς:
     see: next entry
+Ἕλλην:
 Ἑλληνικός:
     derivation:
         - Ἑλλην
@@ -1555,6 +1708,9 @@
 ἐλπίς:
     see: preceding
 Ἐμμώρ:
+ἐμός:
+    derivation:
+        - ἐμέ
 ἐμπαιγμονή:
     derivation:
         - ἐμπαίζω
@@ -1564,6 +1720,7 @@
 ἐμπαίκτης:
     derivation:
         - ἐμπαίζω
+ἐμπί (μ) πλημι /ἐμπι (μ) πλάω:
 ἐμπλοκή:
     derivation:
         - ἐμπλέκω
@@ -1577,6 +1734,9 @@
     derivation:
         - ἐν
         - ἀντί
+ἐναντίον:
+    derivation:
+        - neuter of ἐναντίος
 ἔνατος:
     see: ἐννέα
 ἔνδειγμα:
@@ -1634,8 +1794,22 @@
 ἐνυπνιάζομαι:
     derivation:
         - ἐνύπνιον
+ἐξάπινα:
+    equal:
+        - later form of ἐξαπίνης
+        - ἐξαίφνης
 ἐξαυτῆς:
     equal: ἐξ αὐτῆς τῆς ὥρας
+ἐξεραυνόω:
+    equal:
+        - Hellenistic form for ἐξερευνάω (ἐξ, ἐρευνάω)
+ἔξεστι:
+    derivation:
+        - impersonal verb 3rd singular of the unused ἔξειμι
+    see: ἐξουσία
+ἑξῆς:
+    derivation:
+        - genitive of \*ἕξος or \*ἕξα
 ἐξίστημι:
     see: ἵστημι
 ἐξουθενέω /ἐξουθενόω:
@@ -1654,9 +1828,12 @@
 ἐξώτερος:
     derivation:
         - ἔξω
+ἔοικα:
+    equal: old perfect of εἴκω
 ἑορτάζω:
     derivation:
         - ἑορτή
+ἑορτή:
 ἐπαγγελία:
     derivation:
         - ἐπαγγέλλω
@@ -1789,6 +1966,8 @@
 ἐρημία:
     derivation:
         - ἔρημος
+ἔρημος:
+    see: ἀραιός
 ἐρημόω:
     derivation:
         - ἔρημος
@@ -1821,6 +2000,9 @@
         - feminine of ἕσπερος
 ἑσπερινός:
     see: preceding
+ἑσσόομαι:
+    equal: Ionic for ἡσσάομαι
+    see: ἥσσων
 ἐσχάτως:
     see: preceding
 ἔσω:
@@ -1842,6 +2024,8 @@
 ἑτοιμασία:
     derivation:
         - ἑτοιμάζω
+ἕτοιμος:
+    equal: later form of ἑτοίμος
 ἑτοίμως:
     derivation:
         - ἕτοιμος
@@ -1880,6 +2064,9 @@
 εὐθύνω:
     derivation:
         - εὐθύς
+εὐκαιρέω:
+    derivation:
+        - late form from καιρός
 εὐκαιρία:
     derivation:
         - εὔκαιρος
@@ -1897,9 +2084,16 @@
 εὐλογία:
     derivation:
         - εὐλογέω
+Εὐνίκη:
+    derivation:
+        - εὖ
+        - νική
 εὐνουχίζω:
     derivation:
         - εὐνοῦχος
+Εὐοδία:
+    derivation:
+        - εὐοδία (εὖ, ὁδός)
 εὐρακύλων:
     derivation:
         - εὖρος
@@ -1922,6 +2116,10 @@
 εὐσχημοσύνη:
     derivation:
         - εὐσχήμων
+Εὔτυχος:
+    derivation:
+        - εὖ
+        - τυχή
 ἐυφημία:
     derivation:
         - εὔφημος
@@ -1940,6 +2138,9 @@
 ἐφημερία:
     derivation:
         - ἐφήμερος
+ἐχθές:
+    derivation:
+        - lengthened form of χθές
 ἔχθρα:
     derivation:
         - ἐχθρός
@@ -1951,6 +2152,8 @@
         - ζέω
 ζέω:
     see: ζεστός
+ζηλεύω:
+    equal: late form of ζηλόω
 ζῆλος:
     see: next
 ζηλόω:
@@ -1973,6 +2176,12 @@
 ζήτησις:
     derivation:
         - ζητέω
+ζόφος:
+    see:
+        - γνόφος
+        - δνόφος
+ζυγός:
+    see: parallel form of the neuter ζυγόν
 ζυμόω:
     derivation:
         - ζύμη
@@ -1980,6 +2189,8 @@
 ζώνη:
     derivation:
         - ζώννυμι
+ζώννυμι /ζωννύω:
+    see: ζώνη
 ἡγεμών:
     derivation:
         - ἡγέομαι
@@ -1989,10 +2200,14 @@
     see: ἔθος
 ἥκω:
     see: ἵκω
+ἡλίκος:
 ἡμέρα:
     see: Homeric ἦμαρ
 ἡμέτερος:
     see: ἡμεῖς
+ἤρεμος:
+    derivation:
+        - late adjective from the adverb ἠρέμα
 Ἡρῳδιάς:
     see: Ἡρῴδης
 Ἡρῳδίων:
@@ -2003,6 +2218,14 @@
 ἡσύχιος:
     derivation:
         - ἥσυχος
+ἤτοι:
+    derivation:
+        - heightened form of ἤ
+ἡττάομαι:
+    equal: Ionic ἑσσόομαι
+    see:
+        - Homeric ἥσσων
+        - next entry
 ἥττημα:
     see: preceding
 θάλπω:
@@ -2025,6 +2248,8 @@
     see:
         - ταφή
         - τάφος
+θαρρέω:
+    equal: later form of θαρσέω
 θαρσέω:
     derivation:
         - θάρσος
@@ -2084,6 +2309,8 @@
 Θεσσαλονικεύς:
     derivation:
         - Θεσσαλονίκη
+Θευδᾶς:
+    see: θεός
 θεωρέω:
     see: θεωρός
 θηρεύω:
@@ -2161,6 +2388,9 @@
 ἰατρός:
     derivation:
         - ἰάομαι
+ἰδέα:
+    equal: εἰδέα
+ἴδιος:
 ἰδιώτης:
     derivation:
         - ἴδιος
@@ -2220,6 +2450,7 @@
 ἱμείρομαι:
     see:
         - ἵμερος
+ἰός:
 Ἰουδαία:
     see: Ἰούδας
 ἰουδαΐζω:
@@ -2245,6 +2476,8 @@
         - ἵππος
 ἶρις:
     see: Ἶρις
+ἴσος:
+    see: εἶδος
 ἰσότης:
     derivation:
         - ἴσος
@@ -2267,6 +2500,8 @@
 ἰχθύδιον:
     derivation:
         - ἰχθύς
+Ἰωάν (ν) ης:
+    see: Ἰωανάν
 κἀγώ:
     derivation:
         - formed by crasis from καί + ἐγώ
@@ -2305,6 +2540,11 @@
 Καισάρεια:
     derivation:
         - Καῖσαρ
+καίτοι:
+    equal: καί τοι
+καίτοιγε:
+    derivation:
+        - intensified form of καίτοι
 κἀκεῖ:
     equal: καὶ ἐκεῖ
 κἀκεῖθεν:
@@ -2530,6 +2770,9 @@
     see: κερδαίνω
 κέρμα:
     see: κείρω
+κεφάλαιον:
+    derivation:
+        - noun derived from the adj. κεφάλαιος
 κεφαλιόω:
     derivation:
         - κεφαλή
@@ -2572,6 +2815,9 @@
 κλέμμα:
     derivation:
         - κλέπτω
+Κλεοπᾶς:
+    derivation:
+        - short form of Κλεόπατρος
 κλέπτης:
     derivation:
         - κλέπτω
@@ -2707,9 +2953,15 @@
 κραταιός:
     derivation:
         - κράτος
+κραταιόω:
+    derivation:
+        - late form of κρατύνω (from κράτος)
 κρατέω:
     derivation:
         - κράτος
+κράτιστος:
+    derivation:
+        - superlative of κράτος
 κραυγάζω:
     derivation:
         - κραυγή
@@ -2866,6 +3118,8 @@
 λῆμψις:
     derivation:
         - λείπω
+λῆρος:
+    see: λάλος
 λιβανωτός:
     derivation:
         - λίβανος
@@ -2916,6 +3170,7 @@
 λυπέω:
     derivation:
         - λύπη
+Λυσανίας:
 λύτρον:
     derivation:
         - λύω
@@ -2928,6 +3183,8 @@
 λυτρωτής:
     derivation:
         - λυτρόω
+λύχνος:
+    see: λευκός
 μαγεία:
     derivation:
         - μαγεύω
@@ -2965,8 +3222,18 @@
 μαλακία:
     derivation:
         - μαλακός
+μάλιστα:
+    derivation:
+        - superlative of the adverb μάλα
 μᾶλλον:
-    equal: comparative of the adverb μάλα
+    derivation:
+        - comparative of the adverb μάλα
+μάμμη:
+    derivation:
+        - μάμμα
+μανθάνω:
+    derivation:
+        - present tense derived from an aorist ἔμαθον
 μανία:
     derivation:
         - μαίνομαι
@@ -2978,6 +3245,12 @@
 μαρτυρία:
     derivation:
         - μαρτυρέω
+μάρτυς:
+    see: μεριμνᾶω
+μασάομαι:
+    see:
+        - μάσσω
+        - μάσταξ
 μαστιγόω:
     derivation:
         - μάστιξ
@@ -2998,6 +3271,9 @@
 ματαιόω:
     derivation:
         - μάταιος
+μάτην:
+    derivation:
+        - accusative of μάτη
 μάχαιρα:
     derivation:
         - μάχομαι
@@ -3111,6 +3387,8 @@
 μίγμα:
     derivation:
         - μίγνυμι
+μικρός:
+    see: σμικρός
 μιμητής:
     derivation:
         - μιμέομαι
@@ -3259,6 +3537,10 @@
 νηστεύω:
     derivation:
         - νῆστις
+νῆστις:
+    derivation:
+        - neg. νη-
+        - ἔδω
 νηφάλιος:
     derivation:
         - νήφω
@@ -3272,12 +3554,17 @@
 Νικολαΐτης:
     derivation:
         - Νικόλαος
+νῖκος:
+    derivation:
+        - late form of νίκη
 Νινευίτης:
     derivation:
         - Νινευή
 νιπτήρ:
     derivation:
         - νίπτω
+νίπτω:
+    see: νίζω
 νοέω:
     derivation:
         - νοῦς
@@ -3311,6 +3598,8 @@
 νοσσίον:
     derivation:
         - νοσσός
+νοσσός:
+    equal: Hellenistic Greek for νεοσσίον
 νότος:
     see: νοτία
 νουθεσία:
@@ -3320,6 +3609,11 @@
     derivation:
         - accusative of νοῦς
         - ἔχω
+Νυμφᾶς:
+    see:
+        - Νυμφόδωρος
+        - Ἐπαφρᾶς
+        - preceding
 νυμφίος:
     derivation:
         - νύμφη
@@ -3362,15 +3656,20 @@
     derivation:
         - ὁδηγός
 ὀδούς:
-    see:
-        - ἔδω
+    see: ἔδω
 ὀδυνάω:
     derivation:
         - ὀδύνη
+ὀδύνη:
+    see: ἔδω
 ὄζω:
     see:
         - ὀδμή
         - ὀσμή
+ὅθεν:
+    derivation:
+        - ὅ
+        - -θεν
 ὀθόνιον:
     derivation:
         - ὀθόνη
@@ -3379,6 +3678,9 @@
 οἰκεῖος:
     derivation:
         - οἶκος
+οἰκετεία:
+    derivation:
+        - οἰκέτης
 οἰκέτης:
     derivation:
         - οἰκέω
@@ -3481,13 +3783,37 @@
 ὀνομάζω:
     derivation:
         - ὄνομα
+ὄντως:
+    derivation:
+        - ὤν (participle of εἰμί)
 ὄξος:
     see: ὀξύς
 ὀξύς:
     see: ὄξος
+ὄπισθεν:
+    derivation:
+        - \*ὀπ-
+        - -θε(ν)
+ὁποῖος:
+    derivation:
+        - ὅ
+        - ποῖος
 ὀπτάνομαι:
     see:
         - ὄπωπα (2nd perfect of ὁράω)
+ὀπτασία:
+    derivation:
+        - ὀπτάνομαι
+ὀπτός:
+    see: ὀπτάω
+ὀπώρα:
+    derivation:
+        - \*ὀπ-
+        - *ὀ(σ)αρα
+ὅπως:
+    derivation:
+        - the neuter relative ὅ
+        - πῶς
 ὅραμα:
     derivation:
         - ὁράω
@@ -3550,9 +3876,18 @@
 ὀσμή:
     derivation:
         - ὄζω
+ὅσος:
+    derivation:
+        - reduplicated ὅς
 ὅταν:
     derivation:
         - ὅτ’ ἄν =ὅτε ἄν
+ὅτι:
+    equal: originally the neuter of the relative pronoun ὅστις
+οὗ:
+    equal: genitve of ὅς
+οὐθείς:
+    equal: later form for οὐδείς
 οὐρά:
     see: ὄρρος
 οὐράνιος:
@@ -3561,6 +3896,11 @@
 οὐρανόθεν:
     derivation:
         - οὐρανός
+οὐσία:
+    derivation:
+        - οὖσα (present feminine participle of εἰμί)
+οὔτε:
+    equal: οὐ τέ
 οὕτω /οὕτως:
     derivation:
         - οὗτος
@@ -3745,6 +4085,8 @@
 παρρησιάζομαι:
     derivation:
         - παρρησία
+πάσχω:
+    see: πένθος
 πατάσσω:
     see: πάταγος
 πατέω:
@@ -3821,6 +4163,11 @@
 περίθεσις:
     derivation:
         - περιτίθημι
+περικρύβω:
+    equal: late form of περικρύπτω
+πέριξ:
+    derivation:
+        - strengthened form of περί
 περιποίησις:
     derivation:
         - περιποιέω
@@ -3854,6 +4201,8 @@
 πετεινόν:
     derivation:
         - πέτομαι
+πήγανον:
+    see: πήγνυμι
 πηλίκος:
     see:
         - ἡλίκος
@@ -3885,6 +4234,7 @@
     see:
         - πόμα
         - πότος
+πίπτω:
 Πισίδιος:
     derivation:
         - Πισιδία
@@ -4004,6 +4354,8 @@
 πνοή:
     derivation:
         - πνέω
+πόθεν:
+    see: ποῦ
 ποίημα:
     derivation:
         - ποιέω
@@ -4060,9 +4412,14 @@
 Ποντικός:
     derivation:
         - Πόντος
+Πόντος:
+    derivation:
+        - πόντος
 πορεία:
     derivation:
         - πορεύω
+πορθέω:
+    see: πέρθω
 πορνεία:
     derivation:
         - πορνεύω
@@ -4083,11 +4440,15 @@
     see:
         - πίπτω
         - πέτομαι
+ποταπός:
+    equal: later spelling of ποδαπός
 ποταπῶς:
     derivation:
         - ποταπός
 ποτέ:
     see: πότε
+πότε:
+    see: πόθεν
 πότος:
     derivation:
         - πίνω
@@ -4175,6 +4536,9 @@
         - προφήτης
 προφῆτις:
     see: masculine counterpart προφήτης
+πρύμνα:
+    derivation:
+        - feminine of the adjective πρυμνός
 πρωΐ:
     see:
         - πρό
@@ -4187,6 +4551,9 @@
 πρωτεύω:
     derivation:
         - πρῶτος
+πρῶτος:
+    derivation:
+        - the superlative of πρό
 πρωτοτόκια:
     derivation:
         - πρωτότοκος
@@ -4222,6 +4589,9 @@
         - πτοία
         - πτοέω
         - Homeric πτώσσω
+πύθων:
+    derivation:
+        - Πυθώ
 πυκνός:
     see:
         - Homeric adverb πύκα
@@ -4324,6 +4694,8 @@
 Ῥωμαϊστί:
     derivation:
         - Ῥώμη
+ῥώννυμι:
+    see: ῥώμη
 σαγήνη:
     see: σάττω
 σαλπίζω:
@@ -4381,6 +4753,8 @@
 Σιδώνιος:
     derivation:
         - Σιδών
+σίναπι:
+    equal: Hellenistic form of νᾶπυ
 σιτίον:
     derivation:
         - σῖτος
@@ -4420,6 +4794,8 @@
 σκοπέω:
     derivation:
         - σκοπός
+σκορπίζω:
+    see: σκορπίος
 σκορπίος:
     see: σκορπίζω
 σκοτεινός:
@@ -4500,6 +4876,8 @@
 στεναγμός:
     derivation:
         - στενάζω
+στερεός:
+    see: στηρίζω
 στερεόω:
     derivation:
         - στερεός
@@ -4622,6 +5000,15 @@
 σφάγιον:
     derivation:
         - σφάζω
+σφάζω:
+    see:
+        - φάσγανον
+        - preceding
+σφόδρα:
+    derivation:
+        - neuter plural of σφοδρός
+σφοδρῶς:
+    see: σφόδρα
 σφραγίζω:
     derivation:
         - σφραγίς
@@ -4633,6 +5020,8 @@
         - σφαῖρα
 σχεδόν:
     see: ἔσχον (aorist of ἔχω)
+σχίζω:
+    see: σκεδἁννυμι
 σχίσμα:
     derivation:
         - σχίζω
@@ -4740,6 +5129,8 @@
 τεκνόω:
     derivation:
         - τέκνον
+τέκτων:
+    see: τέχνη
 τέλειος:
     derivation:
         - τέλος
@@ -4786,6 +5177,9 @@
 τεχνίτης:
     derivation:
         - τέχνη
+τηλικοῦτος:
+    derivation:
+        - strengthened form of τηλίκος
 τήρησις:
     derivation:
         - τηρέω
@@ -4812,12 +5206,25 @@
 τιμωρία:
     derivation:
         - τιμωρέω
+τίνω:
+    see:
+        - τίω
+τοιόσδε:
+    derivation:
+        - heightened form of τοῖος
+τοιοῦτος:
+    derivation:
+        - heightened form of τοῖος
 τοῖχος:
     see:
         - τεῖχος
 τολμητής:
     derivation:
         - τολμάω
+τότε:
+    derivation:
+        - \*to
+        - τε
 τραυματίζω:
     derivation:
         - τραῦμα
@@ -4879,6 +5286,8 @@
 τυφλόω:
     derivation:
         - τυφλός
+τύφω:
+    see: τῦφος
 τύχη:
     derivation:
         - τυγχάνω
@@ -4907,6 +5316,8 @@
 ὑμνέω:
     derivation:
         - ὕμνος
+ὕμνος:
+    see: ὑδέω
 ὑπακοή:
     derivation:
         - ὑπακούω
@@ -4916,6 +5327,7 @@
 ὕπαρξις:
     derivation:
         - ὑπάρχω
+ὑπέρ:
 ὑπερβολή:
     derivation:
         - ὕπερβάλλω
@@ -5118,6 +5530,8 @@
 φρονίμως:
     derivation:
         - φρόνιμος
+φρυάσσω:
+    see: φρέαρ
 φυγαδεύω:
     derivation:
         - φυγή
@@ -5217,6 +5631,8 @@
 χαριτόω:
     derivation:
         - χάρις
+χάρτης:
+    see: χαράσσω
 χειραγωγέω:
     derivation:
         - χειραγωγός
@@ -5286,6 +5702,8 @@
 Χριστός:
     derivation:
         - χρίω
+χρίω:
+    see: χραίνω
 χρονίζω:
     derivation:
         - χρόνος
