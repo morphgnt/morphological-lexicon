@@ -1,3 +1,11 @@
+ἀβαρής:
+    derivation:
+        - ἀ- priv.
+        - βάρος
+ἄβυσσος:
+    derivation:
+        - ἀ- priv.
+        - βυσσός (=βυθός)
 ἀγαθοεργέω:
     derivation:
         - ἀγοθοεργός
@@ -15,6 +23,10 @@
         - ἀγαλλιάω
 ἀγαλλιάω:
     equal: later form of ἀγάλλομαι
+ἄγαμος:
+    derivation:
+        - ἀ- priv.
+        - γάμος
 ἀγανάκτησις:
     see: preceding
 ἀγάπη:
@@ -41,6 +53,14 @@
 ἀγέλη:
     derivation:
         - ἄγω
+ἀγενεαλόγητος:
+    derivation:
+        - ἀ- priv.
+        - γενεαλογέω
+ἀγενής:
+    derivation:
+        - ἀ- priv.
+        - γένος
 ἁγιάζω:
     derivation:
         - ἅγιος
@@ -61,6 +81,10 @@
 ἄγκυρα:
     derivation:
         - ἄγκος
+ἄγναφος:
+    derivation:
+        - ἀ- priv.
+        - κνάπτω
 ἁγνεία:
     derivation:
         - ἁγνός
@@ -70,6 +94,10 @@
 ἁγνισμός:
     derivation:
         - ἁγνίζω
+ἀγνοέω:
+    derivation:
+        - ἀ- priv.
+        - νοέω
 ἀγνόημα:
     derivation:
         - ἀγνοέω
@@ -82,6 +110,14 @@
 ἁγνῶς:
     derivation:
         - ἁγνός
+ἀγνωσία:
+    derivation:
+        - ἀ- priv.
+        - γνῶσις
+ἄγνωστος:
+    derivation:
+        - ἀ- priv.
+        - γνωστός
 ἀγορά:
     derivation:
         - ἀγείρω
@@ -94,6 +130,10 @@
 ἄγρα:
     derivation:
         - ἄγω
+ἀγράμματος:
+    derivation:
+        - ἀ- priv.
+        - γράφω
 ἀγρεύω:
     see: ἄγρα
 ἄγριος:
@@ -119,9 +159,21 @@
 ἀγωνίζομαι:
     derivation:
         - ἀγών
+ἀδάπανος:
+    derivation:
+        - ἀ- priv.
+        - δαπάνη
+ἀδελφός:
+    derivation:
+        - ἀ- copul.
+        - δελφύς
 ἀδελφότης:
     derivation:
         - ἀδελφός
+ἄδηλος:
+    derivation:
+        - ἀ- priv.
+        - δῆλος
 ἀδηλότης:
     derivation:
         - ἄδηλος
@@ -129,6 +181,14 @@
     derivation:
         - ἄδηλος
 ᾅδης:
+ἀδιάκριτος:
+    derivation:
+        - ἀ- priv.
+        - διακρίνω
+ἀδιάλειπτος:
+    derivation:
+        - ἀ- priv.
+        - διαλείπω
 ἀδιαλείπτως:
     derivation:
         - ἀδιάλειπτος
@@ -144,9 +204,21 @@
 ἀδικία:
     derivation:
         - ἄδικος
+ἄδικος:
+    derivation:
+        - ἀ- priv.
+        - δίκη
 ἀδίκως:
     derivation:
         - ἄδικος
+ἀδόκιμος:
+    derivation:
+        - ἀ- priv.
+        - δόκιμος
+ἄδολος:
+    derivation:
+        - ἀ- priv.
+        - δόλος
 Ἀδραμυττηνός:
     derivation:
         - Ἀδραμύτιον
@@ -156,19 +228,47 @@
 ἀδυνατέω:
     derivation:
         - ἀδύνατος
+ἀδύνατος:
+    derivation:
+        - ἀ- priv.
+        - δύναμαι
 ᾄδω:
     equal: Attic form of ἀείδω
 ἀεί:
     equal: later form of αἰεί
     see: αἰών
+ἄζυμος:
+    derivation:
+        - ἀ- priv.
+        - ζύμη
+ἀηδία:
+    derivation:
+        - ἀ- priv.
+        - ἦδος
 ἀήρ:
     see: ἄημι
 ἀθανασία:
     derivation:
         - ἀθάνατος (ἀ- priv., θάνατος)
+ἀθάνατος:
+    derivation:
+        - ἀ- priv.
+        - θάνατος
 ἀθέμιτος:
     derivation:
         - θέμις
+ἄθεος:
+    derivation:
+        - ἀ- priv.
+        - θεός
+ἄθεσμος:
+    derivation:
+        - ἀ- priv.
+        - θεσμός (τίθημι)
+ἀθετέω:
+    derivation:
+        - ἀ- priv.
+        - τίθημι
 ἀθέτησις:
     derivation:
         - ἀθετέω
@@ -186,6 +286,14 @@
 ἀθροίζω:
     derivation:
         - ἀθρόος
+ἀθυμέω:
+    derivation:
+        - ἀ- priv.
+        - θυμός
+ἀθῷος:
+    derivation:
+        - ἀ- priv.
+        - θωή
 αἴγειος:
     derivation:
         - αἴξ
@@ -279,16 +387,74 @@
 ἀκαθαρσία:
     derivation:
         - ἀκάθαρτος
+ἀκάθαρτος:
+    derivation:
+        - ἀ- priv.
+        - καθαίρω
+ἀκαιρέομαι:
+    derivation:
+        - ἀ- priv.
+        - καιρός
+ἀκαίρως:
+    derivation:
+        - ἀ- priv.
+        - καιρός
+ἄκακος:
+    derivation:
+        - ἀ- priv.
+        - κακός
 ἄκανθα:
     see: ἄκαινα
 ἀκάνθινος:
     derivation:
         - ἄκανθα
+ἄκαρπος:
+    derivation:
+        - ἀ- priv.
+        - καρπός
+ἀκατάγνωστος:
+    derivation:
+        - ἀ- priv.
+        - κατά
+        - γνωστός
+ἀκατακάλυπτος:
+    derivation:
+        - ἀ- priv.
+        - κατά
+        - καλυπτός (καλύπτω)
+ἀκατάκριτος:
+    derivation:
+        - ἀ- priv.
+        - κατάκριτος (κατακρίνω)
+ἀκατάλυτος:
+    derivation:
+        - ἀ- priv.
+        - καταλύω
+ἀκατάπαστος:
+    derivation:
+        - ἀ- priv.
+        - κατάπαστος (κατά, πάσσω) or (κατά, ἄπαστος (πατέομαι))
+ἀκατάπαυστος:
+    derivation:
+        - ἀ- priv.
+        - καταπαύω
 ἀκαταστασία:
     derivation:
         - ἀκατάστατος
+ἀκατάστατος:
+    derivation:
+        - ἀ- priv.
+        - καθιστάνω
 ἀκατάσχετος:
     see: κατέχω
+ἀκέραιος:
+    derivation:
+        - ἀ- priv.
+        - κεράννυμι
+ἀκλινής:
+    derivation:
+        - ἀ- priv.
+        - κλίνω
 ἀκμάζω:
     derivation:
         - ἀκμή
@@ -298,12 +464,24 @@
 ἀκοή:
     derivation:
         - ἀκούω
+ἀκολουθέω:
+    derivation:
+        - ἀ- copul.
+        - κέλευθος
 ἀκουστός:
     derivation:
         - ἀκούω
 ἀκρασία:
     derivation:
         - ἀκρατής
+ἀκρατής:
+    derivation:
+        - ἀ- priv.
+        - κράτος
+ἄκρατος:
+    derivation:
+        - ἀ- priv.
+        - κεράννυμι
 ἀκρίβεια:
     derivation:
         - ἀκριβής
@@ -339,12 +517,32 @@
 ἄκρον:
     derivation:
         - ἄκρος
+ἀκυρόω:
+    derivation:
+        - ἀ- priv.
+        - κυρόω
+ἀκωλύτως:
+    derivation:
+        - ἀ- priv.
+        - κωλύω
+ἄκων:
+    derivation:
+        - ἀ- priv.
+        - ἑκών
 ἀλαζονεία:
     derivation:
         - ἀλαζών
 ἀλαλάζω:
     derivation:
         - ἀλαλά
+ἀλάλητος:
+    derivation:
+        - ἀ- priv.
+        - λαλητός (λαλέω)
+ἄλαλος:
+    derivation:
+        - ἀ- priv.
+        - λαλέω
 ἅλας:
     equal: ἅλς
 ἀλείφω:
@@ -371,6 +569,10 @@
 ἀληθεύω:
     derivation:
         - ἀληθής
+ἀληθής:
+    derivation:
+        - ἀ- priv.
+        - λήθη (λανθάνω)
 ἀληθινός:
     derivation:
         - ἀληθής
@@ -379,9 +581,15 @@
 ἀληθῶς:
     derivation:
         - ἀληθής
+ἁλιεύς:
+    derivation:
+        - ἡ ἅλς and ὁ ἅλς
 ἁλιεύω:
     derivation:
         - ἁλιεύς
+ἁλίζω:
+    derivation:
+        - ὁ ἅλς
 ἀλίσγημα:
     derivation:
         - ἀλισγέω
@@ -410,11 +618,35 @@
     see:
         - epic noun ἀλωή
         - Attic ἅλως
+ἄλογος:
+    derivation:
+        - ἀ- priv.
+        - λόγος
+ἁλυκός:
+    derivation:
+        - ὁ ἅλς
+ἄλυπος:
+    derivation:
+        - ἀ- priv.
+        - λύπη
+ἅλυσις:
+    derivation:
+        - ἀ- priv.
+        - λύω
+ἀλυσιτελής:
+    derivation:
+        - ἀ- priv.
+        - λυσιτελέω
 ἅλων:
     equal: ἅλως (Attic)
 ἅλωσις:
     derivation:
         - ἁλίσκομαι
+ἅμα:
+ἀμαθής:
+    derivation:
+        - ἀ- priv.
+        - μανθάνω
 ἀμαράντινος:
     equal: by-form of ἀμάραντος
 ἀμάραντος:
@@ -425,12 +657,64 @@
 ἁμαρτία:
     derivation:
         - ἁμαρτάνω
+ἁμάρτυρος:
+    derivation:
+        - ἀ- priv.
+        - μάρτυς
 ἁμαρτωλός:
     derivation:
         - ἁμαρτάνω
+ἄμαχος:
+    derivation:
+        - ἀ- priv.
+        - μάχη
+ἀμέθυστος:
+    derivation:
+        - ἀ- priv.
+        - μεθύω
+ἀμελέω:
+    derivation:
+        - ἀ- priv.
+        - μέλω
+ἄμεμπτος:
+    derivation:
+        - ἀ- priv.
+        - μεμπτός (μέμφομαι)
 ἀμέμπτως:
     derivation:
         - ἄμεμπτος
+ἀμέριμνος:
+    derivation:
+        - ἀ- priv.
+        - μέριμνα
+ἀμετάθετος:
+    derivation:
+        - ἀ- priv.
+        - μετάθετος (μετατίθημι)
+ἀμετακίνητος:
+    derivation:
+        - ἀ- priv.
+        - μετακινητός (μετακινέω)
+ἀμεταμέλητος:
+    derivation:
+        - ἀ- priv.
+        - μεταμελητός (μεταμέλομαι)
+ἀμετανόητος:
+    derivation:
+        - ἀ- priv.
+        - μετανοέω
+ἄμετρος:
+    derivation:
+        - ἀ- priv.
+        - μέτρον
+ἀμήτωρ:
+    derivation:
+        - ἀ- priv.
+        - μήτηρ
+ἀμίαντος:
+    derivation:
+        - ἀ- priv.
+        - μιαίνω
 ἄμμον:
     see: epic form ἄμαθος
 ἄμμος:
@@ -438,6 +722,10 @@
 ἀμοιβή:
     derivation:
         - ἀμείβω
+ἄμορφος:
+    derivation:
+        - ἀ- priv.
+        - see μορφή
 ἀμπελών:
     derivation:
         - ἄμπελος
@@ -469,9 +757,17 @@
 ἀμφότεροι:
     derivation:
         - ἄμφω
+ἀμώμητος:
+    derivation:
+        - ἀ- priv.
+        - μωμάομαι
 ἄμωμον:
     derivation:
         - folk-etymology (ἀ- priv., μῶμος)
+ἄμωμος:
+    derivation:
+        - ἀ- priv.
+        - μῶμος
 ἀναβολή:
     derivation:
         - ἀναβάλλω
@@ -504,9 +800,17 @@
         - ἀνάθεμα
 ἀνάθημα:
     see: ἀνάθεμα
+ἀναίδεια:
+    derivation:
+        - ἀ- priv.
+        - αἰδώς
 ἀναίρεσις:
     derivation:
         - ἀναιρέω
+ἀναίτιος:
+    derivation:
+        - ἀ- priv.
+        - αἴτιος
 ἀνακαίνωσις:
     derivation:
         - ἀνακαινόω
@@ -519,14 +823,32 @@
 ἀναλογίζομαι:
     derivation:
         - ἀναλογία
+ἄναλος:
+    derivation:
+        - ἀ- priv.
+        - ἅλς
 ἀναλόω:
     equal: by-form of ἀναλίσκω
+ἀναμάρτητος:
+    derivation:
+        - ἀ- priv.
+        - ἁμαρτεῖν (ἁμαρτάνω)
 ἀνάμνησις:
     derivation:
         - ἀναμιμνῄσκω
+ἀναντίρρητος:
+    derivation:
+        - ἀ- priv.
+        - ἀντί
+        - ῥητός
+    see: ἀντίρρησις
 ἀναντιρρήτως:
     derivation:
         - ἀναντίρρητος
+ἀνάξιος:
+    derivation:
+        - ἀ- priv.
+        - ἄξιος
 ἀναξίως:
     derivation:
         - ἀνάξιος
@@ -535,6 +857,14 @@
         - ἀναπαύω
 ἀνάπειρος:
     equal: by-form of ἀνάπηρος (ἀνά, πηρός)
+ἀναπολόγητος:
+    derivation:
+        - ἀ- priv.
+        - ἀπολογέω
+ἀναρίθμητος:
+    derivation:
+        - ἀ- priv.
+        - ἀριθμέω
 ἀνάστασις:
     derivation:
         - ἀνίστημι
@@ -566,12 +896,45 @@
 ἀνδρίζομαι:
     derivation:
         - ἀνήρ
+ἀνεγκλησία:
+    derivation:
+        - ἀ- priv.
+        - ἐγκαλέω
+ἀνέγκλητος:
+    derivation:
+        - ἀ- priv.
+        - ἐγκαλέω
+ἀνεκδιήγητος:
+    derivation:
+        - ἀ- priv.
+        - ἐκ
+        - διηγέομαι
+ἀνεκλάλητος:
+    derivation:
+        - ἀ- priv.
+        - ἐκλαλέω
+ἀνέκλειπτος:
+    derivation:
+        - ἀ- priv.
+        - ἐκλείπω
 ἀνεκτός:
     derivation:
         - ἀνέχομαι
+ἀνελεήμων:
+    derivation:
+        - ἀ- priv
+        - ἐλεήμων
+ἀνέλεος:
+    derivation:
+        - ἀ- priv.
+        - ἔλεος
 ἀνεμίζω:
     derivation:
         - ἄνεμος
+ἀνένδεκτος:
+    derivation:
+        - ἀ.- priv.,
+        - ἔνδεκτος (ἐνδέχομαι)
 ἀνεξεραύνητος:
     derivation:
         - ἀ- priv.
@@ -581,10 +944,30 @@
     derivation:
         - future of ἀνέχω
         - κακός
+ἀνεξιχνίαστος:
+    derivation:
+        - ἀ- priv.
+        - ἐξιχνιάζω (ἐκ, ἴχνος)
+ἀνεπαίσχυντος:
+    derivation:
+        - ἀ- priv.
+        - ἐπαισχύνομαι
+ἀνεπίλημπτος:
+    derivation:
+        - ἀ- priv.
+        - fr. ἐπιλαμβάνω via the fut. mid. form of λαμβάνω:λήμψομαι
 ἄνεσις:
     derivation:
         - ἀνίημι
 ἄνευ:
+ἀνεύθετος:
+    derivation:
+        - ἀ- priv
+        - εὔθετος
+ἀνήμερος:
+    derivation:
+        - ἀ- priv.
+        - ἥμερος
 ἀνθομολογέομαι:
     derivation:
         - ἀντί
@@ -599,12 +982,40 @@
     derivation:
         - ἀντί
         - ὕπατος (ὑπό)
+ἄνιπτος:
+    derivation:
+        - ἀ- priv.
+        - νίπτω
+ἀνόητος:
+    derivation:
+        - ἀ- priv.
+        - νοητός (νοέω)
+ἄνοια:
+    derivation:
+        - ἀ- priv.
+        - νόος (=Attic νοῦς)
 ἄνοιξις:
     derivation:
         - ἀνοίγω
 ἀνομία:
     derivation:
         - ἄνομος
+ἄνομος:
+    derivation:
+        - ἀ- priv.
+        - νόμος
+ἀνόμως:
+    derivation:
+        - ἀ- priv.
+        - νόμος
+ἀνόνητος:
+    derivation:
+        - ἀ- priv.
+        - ὀνητός (ὀνίνημι)
+ἀνόσιος:
+    derivation:
+        - ἀ- priv.
+        - ὅσιος
 ἀνοχή:
     derivation:
         - ἀνέχω
@@ -641,6 +1052,18 @@
 ἄντλημα:
     derivation:
         - ἀντλέω
+ἄνυδρος:
+    derivation:
+        - ἀ- priv.
+        - ὕδωρ
+ἀνυπόκριτος:
+    derivation:
+        - ἀ- priv.
+        - ὑποκρίνομαι
+ἀνυπότακτος:
+    derivation:
+        - ἀ- priv.
+        - ὑποτάσσω
 ἄνω:
     see:
         - ἀνά
@@ -654,6 +1077,10 @@
 ἀνώτερος:
     derivation:
         - ἄνω
+ἀνωφελής:
+    derivation:
+        - ἀ- priv.
+        - ὠφέλιμος (ὄφελος)
 ἄξιος:
     see:
         - ἄγω
@@ -664,6 +1091,14 @@
 ἀξίως:
     derivation:
         - ἄξιος
+ἀόρατος:
+    derivation:
+        - ἀ- priv.
+        - ὁράω
+ἀπαίδευτος:
+    derivation:
+        - ἀ- priv.
+        - παιδεύω
 ἀπαλλοτριόω:
     derivation:
         - ἀπό
@@ -680,6 +1115,18 @@
 ἅπαξ:
     see:
         - ἅπας
+ἀπαράβατος:
+    derivation:
+        - ἀ- priv.
+        - παραβαίνω
+ἀπαρασκεύαστος:
+    derivation:
+        - ἀ- priv.
+        - παρασκευάζω
+ἀπαρνέομαι:
+    derivation:
+        - ἀ- priv.
+        - ἀρνέομαι
 ἀπαρτισμός:
     derivation:
         - ἀπαρτίζω
@@ -689,6 +1136,10 @@
 ἀπαρχή:
     derivation:
         - ἀπάρχομαι (ἀπό, ἀρχή)
+ἅπας:
+    derivation:
+        - ἀ- (ἁ-) copul.
+        - πᾶς
 ἀπασπάζομαι:
     derivation:
         - ἀσπάζομαι
@@ -696,6 +1147,10 @@
     see: ἀπάτη
 ἀπάτη:
     see: ἀπατάω
+ἀπάτωρ:
+    derivation:
+        - ἀ- priv.
+        - πατήρ
 ἀπαύγασμα:
     derivation:
         - ἀπαυγάζω (ἀπό, αὐγή)
@@ -705,6 +1160,10 @@
 ἀπειθέω:
     derivation:
         - ἀπειθής
+ἀπειθής:
+    derivation:
+        - ἀ- priv.
+        - πείθω
 ἀπειλή:
     derivation:
         - ἀπειλέω
@@ -712,15 +1171,43 @@
     derivation:
         - ἀπό
         - εἶπον
+ἀπείραστος:
+    derivation:
+        - ἀ- priv.
+        - πειράζω
+ἄπειρος:
+    derivation:
+        - ἀ- priv.
+        - πεῖρα
+ἀπέραντος:
+    derivation:
+        - ἀ- priv.
+        - περαίνω (see πέρας)
+ἀπερισπάστως:
+    derivation:
+        - ἀ- priv.
+        - περισπάω
+ἀπερίτμητος:
+    derivation:
+        - ἀ- priv.
+        - περιτέμνω
 ἀπιστέω:
     derivation:
         - ἄπιστος
 ἀπιστία:
     derivation:
         - ἄπιστος
+ἄπιστος:
+    derivation:
+        - ἀ- priv.
+        - πιστός
 ἁπλότης:
     derivation:
         - ἁπλοῦς
+ἁπλοῦς:
+    derivation:
+        - ἁ- copul.
+        - πλόος
 ἁπλῶς:
     derivation:
         - ἁπλοῦς
@@ -855,6 +1342,22 @@
         - ἀπό
         - χρῆσις (χρή)
     see: ἀποχράομαι
+ἀπρόσιτος:
+    derivation:
+        - ἀ- priv.
+        - πρόσειμι
+ἀπρόσκοπος:
+    derivation:
+        - ἀ- priv.
+        - προσκόπτω
+ἀπροσωπολήμπτως:
+    derivation:
+        - ἀ- priv.
+        - προσωπολήμπτης
+ἄπταιστος:
+    derivation:
+        - ἀ- priv.
+        - πταίω
 ἅπτω:
     see:
         - epic ἁφάω
@@ -869,6 +1372,10 @@
     see: ἀράομαι
 ἆρα:
     see: ἄρα
+ἄραφος:
+    derivation:
+        - ἀ- priv.
+        - ῥάπτω (see ῥαφίς)
 Ἄραψ:
     see: Ἀραβία
 ἀργέω:
@@ -952,9 +1459,18 @@
 ἅρπαξ:
     derivation:
         - ἁρπάζω
+ἄρρητος:
+    derivation:
+        - ἀ- priv.
+        - ῥητός (εἴρω)
 ἀρρωστέω:
     derivation:
         - ἄρρωστος
+ἄρρωστος:
+    derivation:
+        - ἀ.- priv.
+        - ῥώννυμι
+    see: ἀρρωστέω
 Ἄρτεμις:
     see: Ἀρτεμᾶς
 ἀρτέμων:
@@ -986,14 +1502,30 @@
 ἄρχων:
     derivation:
         - present participle of ἄρχω
+ἀσάλευτος:
+    derivation:
+        - ἀ- priv.
+        - σαλεύω
+ἄσβεστος:
+    derivation:
+        - ἀ- priv.
+        - σβέννυμι
 ἀσέβεια:
     derivation:
         - ἀσεβής
 ἀσεβέω:
     derivation:
         - ἀσεβής
+ἀσεβής:
+    derivation:
+        - ἀ- priv.
+        - σέβω
 ἀσέλγεια:
     see: ἀσελγής
+ἄσημος:
+    derivation:
+        - ἀ- priv.
+        - σῆμα
 ἀσθένεια:
     derivation:
         - ἀσθενής
@@ -1004,28 +1536,67 @@
 ἀσθένημα:
     derivation:
         - ἀσθενέω
+ἀσθενής:
+    derivation:
+        - ἀ- priv.
+        - σθένος
 Ἀσιανός:
     derivation:
         - ἀσιανός
     see: Ἀσία
+ἀσιτία:
+    derivation:
+        - ἀ- priv.
+        - σῖτος
+ἄσιτος:
+    derivation:
+        - ἀ- priv.
+        - σῖτος
 ἀσκός:
     derivation:
         - ἀσκέω
 ἀσμένως:
     derivation:
         - ἀσμένος from an older participle form
+ἄσοφος:
+    derivation:
+        - ἀ- priv.
+        - σοφός
 ἀσπασμός:
     derivation:
         - ἀσπάζομαι
+ἄσπιλος:
+    derivation:
+        - ἀ- priv.
+        - σπίλος
 ἀσπίς:
+ἄσπονδος:
+    derivation:
+        - ἀ- priv.
+        - σπονδή
 ἆσσον:
     derivation:
         - neuter comparative of ἄγχι
+ἀστατέω:
+    derivation:
+        - ἄστατος (ἀ- priv., στατός (ἵστημι))
 ἀστεῖος:
     derivation:
         - ἄστυ
 ἀστήρ:
     see: ἀστραπή
+ἀστήρικτος:
+    derivation:
+        - ἀ- priv.
+        - στηρικτός (στηρίζω)
+ἄστοργος:
+    derivation:
+        - ἀ- priv.
+        - στοργή
+ἀστοχέω:
+    derivation:
+        - ἀ- priv.
+        - στόχος
 ἀστραπή:
     see:
         - ἀστήρ
@@ -1038,9 +1609,25 @@
 Ἀσύγκριτος:
     derivation:
         - ἀσύγκριτος (ἀ- priv., σύγκριτος)
+ἀσύμφωνος:
+    derivation:
+        - ἀ- priv.
+        - σύφωνος (σύν, φωνή)
+ἀσύνετος:
+    derivation:
+        - ἀ- priv.
+        - συνετός (συνίημι)
+ἀσύνθετος:
+    derivation:
+        - ἀ- priv.
+        - σύνθετος (συντίθημι)
 ἀσφάλεια:
     derivation:
         - ἀσφαλής
+ἀσφαλής:
+    derivation:
+        - ἀ- priv.
+        - σφάλλω
 ἀσφαλίζω:
     derivation:
         - ἀσφαλής
@@ -1053,12 +1640,32 @@
 ἀσχημοσύνη:
     derivation:
         - ἀσχήμων
+ἀσχήμων:
+    derivation:
+        - ἀ- priv.
+        - σχῆμα
+ἀσωτία:
+    derivation:
+        - ἀ- priv.
+        - σῴζω
+ἀσώτως:
+    derivation:
+        - ἀ- priv.
+        - σῴζω
 ἀτακτέω:
     derivation:
         - ἄτακτος
+ἄτακτος:
+    derivation:
+        - ἀ- priv.
+        - τάσσω
 ἀτάκτως:
     derivation:
         - ἄτακτος
+ἄτεκνος:
+    derivation:
+        - ἀ- priv.
+        - τέκνον
 ἀτενίζω:
     derivation:
         - ἀτενής
@@ -1071,9 +1678,21 @@
 ἀτιμία:
     derivation:
         - ἄτιμος
+ἄτιμος:
+    derivation:
+        - ἀ- priv.
+        - τιμή
 ἀτιμόω:
     derivation:
         - ἄτιμος
+ἄτομος:
+    derivation:
+        - ἀ- priv.
+        - τέμνω
+ἄτοπος:
+    derivation:
+        - ἀ- priv.
+        - τόπος
 αὐγάζω:
     derivation:
         - αὐγή
@@ -1129,15 +1748,27 @@
 αὐχμηρός:
     derivation:
         - αὐχμός
+ἀφανής:
+    derivation:
+        - ἀ- priv.
+        - φαίνω
 ἀφανίζω:
     derivation:
         - ἀφανής
 ἀφανισμός:
     derivation:
         - ἀφανίζω
+ἄφαντος:
+    derivation:
+        - ἀ- priv.
+        - φαίνομαι
 ἀφειδία:
     derivation:
         - ἀφειδής (ἀ- priv., φείδoμμαι)
+ἀφελότης:
+    derivation:
+        - ἀ- priv.
+        - φελλεύς
 ἄφεσις:
     derivation:
         - ἀφίημι
@@ -1147,30 +1778,86 @@
 ἀφθαρσία:
     derivation:
         - ἄφθαρτος
+ἄφθαρτος:
+    derivation:
+        - ἀ- priv.
+        - φθαρτός (φθείρω)
+ἀφθονία:
+    derivation:
+        - ἀ- priv.
+        - φθόνος
+ἀφθορία:
+    derivation:
+        - ἀ- priv.
+        - φθείρω
+ἀφιλάγαθος:
+    derivation:
+        - ἀ- priv.
+        - φίλάγαθος
+ἀφιλάργυρος:
+    derivation:
+        - ἀ- priv.
+        - φιλάργυρος
 ἄφιξις:
     derivation:
         - ἀφικνέομαι
 ἄφνω:
     see: ἄφαρ
+ἀφόβως:
+    derivation:
+        - ἀ- priv.
+        - φόβος
 ἀφρίζω:
     derivation:
         - ἀφρός
 ἀφροσύνη:
     derivation:
         - ἄφρων
+ἄφρων:
+    derivation:
+        - ἀ- priv.
+        - φρήν
+ἄφωνος:
+    derivation:
+        - ἀ- priv.
+        - φωνή
 Ἀχαΐα:
     derivation:
         - ἀχαῖοι
 Ἀχαϊκός:
     derivation:
         - Ἀχαΐα
+ἀχάριστος:
+    derivation:
+        - ἀ- priv.
+        - χαρίζομαι
+ἀχειροποίητος:
+    derivation:
+        - ἀ- priv.
+        - χειροποίητος
+ἀχρεῖος:
+    derivation:
+        - ἀ- priv.
+        - χρεῖος
 ἀχρειόω:
     derivation:
         - ἀχρεῖος
+ἄχρηστος:
+    derivation:
+        - ἀ- priv.
+        - χρηστός (χρή)
 ἄχρι:
     see: μέχρις
 ἄχυρον:
     see: ἄχωρ
+ἀψευδής:
+    derivation:
+        - ἀ- priv.
+        - ψευδής
+ἄψυχος:
+    derivation:
+        - ἀ- priv.
+        - ψυχή
 βαθμός:
     derivation:
         - βαίνω
@@ -2341,6 +3028,14 @@
 ἔκγονος:
     derivation:
         - ἐκγίγνομαι
+ἐκδαπανάω:
+    derivation:
+        - ἐκ- intensive
+        - δαπανάω
+ἔκδηλος:
+    derivation:
+        - ἐκ- intensive
+        - δῆλος
 ἐκδημέω:
     derivation:
         - ἔκδημος (ἐκ, δῆμος)
@@ -2366,9 +3061,25 @@
         - -θεν
 ἐκεῖνος:
     see: ἐκεῖ
+ἐκζητέω:
+    derivation:
+        - ἐκ- intensive
+        - ζητέω
+ἐκζήτησις:
+    derivation:
+        - ἐκ- intensive
+        - ζητέω
 ἐκθαμβέω:
     derivation:
         - ἔκθαμβος
+ἔκθαμβος:
+    derivation:
+        - ἐκ- intensive
+        - θάμβος
+ἐκθαυμάζω:
+    derivation:
+        - ἐκ- intensive
+        - θαῦμα
 ἔκθετος:
     derivation:
         - ἐκτίθημι
@@ -2403,6 +3114,10 @@
         - πάλαι
 ἐκπλήρωσις:
     see: ἐκπληρόω
+ἐκπυρόω:
+    derivation:
+        - ἐκ- intensive
+        - πυρόω
 ἔκστασις:
     derivation:
         - ἐκ
