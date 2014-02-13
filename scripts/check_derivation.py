@@ -799,7 +799,7 @@ regexes = [
     ur"{greek}, {greek} {greek} {greek}$",
     ur"{greek}, {greek} {text} ={gloss}$",
     ur"{greek}, {greek} {text}, cp\. {greek}$",
-    # ur"{greek}, {greek}$",
+    ur"{greek}, {greek}$",
     ur"{greek}, {greek}, =older {greek} {gloss}$",
     ur"{greek}, {greek}, cp\. the {greek}- formations$",
     ur"{greek}, {greek}, cp\. {greek} and {greek} {gloss}$",
@@ -1232,7 +1232,8 @@ for lexeme, metadata in sorted_items(danker):
         existing += 1
     else:
         print "    {}:".format("derivation")
-        print "        - {}@".format(components.encode("utf-8"))
+        for component in components.split(", "):
+            print "        - {}".format(component.encode("utf-8"))
         added += 1
 
 
