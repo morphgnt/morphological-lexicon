@@ -2,15 +2,17 @@
 
 ### ικος
 
+sense of belong to (a place or state or activity)
+
 #### -ος -> -ικος
 
 AN .ος/ικος a-1a(2a)_n-2a κεραμικός κέραμος [clay tile -> made of clay]
 AN .ος/ικος a-1a(2a)_n-2a κοσμικός κόσμος [world -> of the world]
-AN .ος/ικος a-1a(2a)_n-2a λειτουργικός λειτουργός
+AN .ος/ικος a-1a(2a)_n-2a λειτουργικός λειτουργός [service -> of service]
 AN .ος/ικος a-1a(2a)_n-2a λογικός λόγος
-AN .ος/ικος a-1a(2a)_n-2a νομικός νόμος
-AN .ος/ικος a-1a(2a)_n-2a Ποντικός Πόντος
-AN .ος/ικος a-1a(2a)_n-2a ὀνικός ὄνος
+AN .ος/ικος a-1a(2a)_n-2a νομικός νόμος [law -> of the law; (as noun) lawyer]
+AN .ος/ικος a-1a(2a)_n-2a Ποντικός Πόντος [Pontus -> from Pontus]
+AN .ος/ικος a-1a(2a)_n-2a ὀνικός ὄνος [donkey -> (millstone) belonging to a donkey]
 AN .ος/ικος a-1a(2a)_n-3d(2b) ἐθνικός ἔθνος
 
 #### -ια -> -ικος
@@ -23,7 +25,7 @@ of a (figurative) place
 AN .ια/ικος a-1a(2a)_n-1a κοινωνικός κοινωνία [fellowship -> sharing]
 
 of a place
-AN σ/Σ.α/ικος a-1a(2a)_n-1a Στοϊκός στοά
+AN σ/Σ.α/ικος a-1a(2a)_n-1a Στοϊκός στοά [portico -> Stoics, who met under the portico]
 
 #### -η -> -ικος
 
