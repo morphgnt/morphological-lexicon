@@ -27,6 +27,7 @@ REGEXES = {
     ("AA", "3P"): [
         (ur"αν$", ur"α"),
         (ur"αν$", ur"ον"),
+        (ur"ον$", ur"ον"),
     ],
 
     ("AM", "3P"): [(ur"οντο$", ur"ομην")],
@@ -46,8 +47,8 @@ REGEXES = {
 def calc_1s(form, tense_voice, person_number):
     results = set()
     for pattern, replacement in REGEXES.get((tense_voice, person_number), []):
-        s = re.sub(pattern, replacement, form)
-        if s != form:
+        if re.search(pattern, form):
+            s = re.sub(pattern, replacement, form)
             results.add(s)
 
     return results
