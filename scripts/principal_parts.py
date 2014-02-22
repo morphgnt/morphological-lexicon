@@ -21,6 +21,12 @@ REGEXES = {
     ("AA", "3S"): [
         (ur"σε\(ν\)$", ur"σα"),
         (ur"([^σ])ε\(ν\)$", ur"\1ον"),
+        (ur"([^σ])ε\(ν\)$", ur"\1α"),
+    ],
+    ("AA", "1P"): [(ur"ομεν", ur"ον")],
+    ("AA", "3P"): [
+        (ur"αν$", ur"α"),
+        (ur"αν$", ur"ον"),
     ],
 
     ("AM", "3P"): [(ur"οντο$", ur"ομην")],
@@ -31,6 +37,7 @@ REGEXES = {
     ("FA", "3S"): [(ur"σει$", ur"σω")],
     ("FA", "3P"): [(ur"σουσι\(ν\)$", ur"σω")],
 
+    ("PA", "2S"): [(ur"^ει$", ur"ειμι")],
     ("PA", "3S"): [(ur"^εστι\(ν\)$", ur"ειμι")],
 
     ("XA", "3S"): [(ur"ε\(ν\)$", ur"α")],
@@ -78,7 +85,11 @@ for row in fs["sblgnt-lexemes"].rows():
             if first_singular[row["lemma"]][tense_voice]:
                 total += 1
                 calculated = calc_1s(strip_accents(row["norm"].decode("utf-8")), tense_voice, person_number)
-                if calculated == first_singular[row["lemma"]][tense_voice]:
+                matched = True
+                for option in first_singular[row["lemma"]][tense_voice]:
+                    if option not in calculated:
+                        matched = False
+                if matched:
                     match += 1
                 else:
                     if first_fail is None:
