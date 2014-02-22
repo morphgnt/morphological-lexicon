@@ -13,11 +13,21 @@ fs = filesets.load("filesets.yaml")
 first_singular = defaultdict(lambda: defaultdict(set))
 
 
-def strip_accents(s):
-    return "".join((c for c in unicodedata.normalize("NFD", unicode(s)) if unicodedata.category(c) != "Mn"))
+ACUTE = u"\u0301"
+GRAVE = u"\u0300"
+CIRCUMFLEX = u"\u0342"
+
+
+def strip_accents(w):
+    return "".join(
+        unicodedata.normalize("NFC", "".join(
+            component for component in unicodedata.normalize("NFD", ch) if component not in [ACUTE, GRAVE, CIRCUMFLEX]
+        )) for ch in w
+    )
 
 
 REGEXES = {
+    ("AA", "1S"): [(ur"σα", ur"σα")],
     ("AA", "3S"): [
         (ur"σε\(ν\)$", ur"σα"),
         (ur"([^σ])ε\(ν\)$", ur"\1ον"),
@@ -33,13 +43,33 @@ REGEXES = {
     ("AM", "3P"): [(ur"οντο$", ur"ομην")],
 
     ("AP", "3S"): [(ur"θη$", ur"θην")],
+    ("AP", "3P"): [(ur"ησαν$", ur"ην")],
 
     ("FA", "2S"): [(ur"σεις$", ur"σω")],
-    ("FA", "3S"): [(ur"σει$", ur"σω")],
+    ("FA", "3S"): [
+        (ur"σει$", ur"σω"),
+        (ur"ξει$", ur"ξω"),
+    ],
     ("FA", "3P"): [(ur"σουσι\(ν\)$", ur"σω")],
 
-    ("PA", "2S"): [(ur"^ει$", ur"ειμι")],
-    ("PA", "3S"): [(ur"^εστι\(ν\)$", ur"ειμι")],
+    ("IA", "3S"): [(ur"ε\(ν\)$", ur"ον")],
+
+    ("PA", "1S"): [
+        (ur"ω$", ur"ω"),
+        (ur"εἰμι$", ur"εἰμι"),
+    ],
+    ("PA", "2S"): [(ur"^εἰ$", ur"εἰμι")],
+    ("PA", "3S"): [
+        (ur"ει$", ur"ω"),
+        (ur"^ἐστι\(ν\)$", ur"εἰμι"),
+    ],
+    ("PA", "1P"): [(ur"ομεν$", ur"ω")],
+    ("PA", "3P"): [
+        (ur"σι\(ν\)", ur"μι"),
+    ],
+
+    ("PM", "2S"): [(ur"ῃ$", ur"ομαι")],
+    ("PM", "3S"): [(ur"ται$", ur"μαι")],
 
     ("XA", "3S"): [(ur"ε\(ν\)$", ur"α")],
 }
@@ -95,8 +125,8 @@ for row in fs["sblgnt-lexemes"].rows():
                 else:
                     if first_fail is None:
                         first_fail = (
-                            row["norm"], tense_voice, person_number,
-                            " ".join(first_singular[row["lemma"]][tense_voice]),
+                            strip_accents(row["norm"].decode("utf-8")).encode("utf-8"), tense_voice, person_number,
+                            strip_accents(" ".join(first_singular[row["lemma"]][tense_voice])).encode("utf-8"),
                             " ".join(calculated)
                         )
         elif mood in "DSO":
@@ -111,6 +141,4 @@ for row in fs["sblgnt-lexemes"].rows():
 print "{}/{} = {}%".format(match, total, int(1000 * match / total) / 10)
 
 if first_fail:
-    print first_fail[0], first_fail[1], first_fail[2]
-    print first_fail[3]
-    print first_fail[4]
+    print "(\"{1}\", \"{2}\"): [(ur\"{0}$\", ur\"{3}\")],".format(*first_fail)
