@@ -4,6 +4,7 @@
 
 from collections import defaultdict
 import re
+import unicodedata
 
 from morphgnt import filesets
 
@@ -12,11 +13,27 @@ fs = filesets.load("filesets.yaml")
 first_singular = defaultdict(lambda: defaultdict(set))
 
 
-REGEXES = {
-    ("AA", "3S"): [(ur"σε\(ν\)$", u"σα")],
-    ("AP", "3S"): [(ur"θη$", u"θην")],
+def strip_accents(s):
+    return "".join((c for c in unicodedata.normalize("NFD", unicode(s)) if unicodedata.category(c) != "Mn"))
 
-    ("PA", "3S"): [(ur"^ἐστί\(ν\)$", u"εἰμί")]
+
+REGEXES = {
+    ("AA", "3S"): [
+        (ur"σε\(ν\)$", ur"σα"),
+        (ur"([^σ])ε\(ν\)$", ur"\1ον"),
+    ],
+
+    ("AM", "3P"): [(ur"οντο$", ur"ομην")],
+
+    ("AP", "3S"): [(ur"θη$", ur"θην")],
+
+    ("FA", "2S"): [(ur"σεις$", ur"σω")],
+    ("FA", "3S"): [(ur"σει$", ur"σω")],
+    ("FA", "3P"): [(ur"σουσι\(ν\)$", ur"σω")],
+
+    ("PA", "3S"): [(ur"^εστι\(ν\)$", ur"ειμι")],
+
+    ("XA", "3S"): [(ur"ε\(ν\)$", ur"α")],
 }
 
 def calc_1s(form, tense_voice, person_number):
@@ -36,7 +53,7 @@ for row in fs["sblgnt-lexemes"].rows():
             person_number = row["ccat-parse"][0] + row["ccat-parse"][5]
             tense_voice = row["ccat-parse"][1:3]
             if person_number == "1S":
-                first_singular[row["lemma"]][tense_voice].add(row["norm"].decode("utf-8"))
+                first_singular[row["lemma"]][tense_voice].add(strip_accents(row["norm"].decode("utf-8")))
         elif mood in "DSO":
             pass
         elif mood in "P":
@@ -60,7 +77,7 @@ for row in fs["sblgnt-lexemes"].rows():
             tense_voice = row["ccat-parse"][1:3]
             if first_singular[row["lemma"]][tense_voice]:
                 total += 1
-                calculated = calc_1s(row["norm"].decode("utf-8"), tense_voice, person_number)
+                calculated = calc_1s(strip_accents(row["norm"].decode("utf-8")), tense_voice, person_number)
                 if calculated == first_singular[row["lemma"]][tense_voice]:
                     match += 1
                 else:
