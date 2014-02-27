@@ -75,6 +75,15 @@ def to_tuple(d):
     )
 
 
+endings = defaultdict(set)
+
 for lemma in forms:
     for tense_voice in forms[lemma]:
-        print tense_voice, ", ".join(i.encode("utf-8") for i in to_tuple(forms[lemma][tense_voice]))
+        t = to_tuple(forms[lemma][tense_voice])
+        if t:
+            endings[tense_voice].add(t)
+
+
+for tense_voice in endings:
+    for t in endings[tense_voice]:
+        print tense_voice, ", ".join(i.encode("utf-8") for i in t)
