@@ -66,14 +66,13 @@ def to_tuple(d):
         else:
             break
     return (
-        "/".join(i[offset - 1:] for i in d.get("1S", set())),
-        "/".join(i[offset - 1:] for i in d.get("2S", set())),
-        "/".join(i[offset - 1:] for i in d.get("3S", set())),
-        "/".join(i[offset - 1:] for i in d.get("1P", set())),
-        "/".join(i[offset - 1:] for i in d.get("2P", set())),
-        "/".join(i[offset - 1:] for i in d.get("3P", set())),
+        ("/".join(i[offset - 1:] for i in d["1S"]) if "1S" in d else "?"),
+        ("/".join(i[offset - 1:] for i in d["2S"]) if "2S" in d else "?"),
+        ("/".join(i[offset - 1:] for i in d["3S"]) if "3S" in d else "?"),
+        ("/".join(i[offset - 1:] for i in d["1P"]) if "1P" in d else "?"),
+        ("/".join(i[offset - 1:] for i in d["2P"]) if "2P" in d else "?"),
+        ("/".join(i[offset - 1:] for i in d["3P"]) if "3P" in d else "?"),
     )
-
 
 endings = defaultdict(set)
 
@@ -86,4 +85,4 @@ for lemma in forms:
 
 for tense_voice in endings:
     for t in endings[tense_voice]:
-        print tense_voice, ", ".join(i.encode("utf-8") for i in t)
+        print tense_voice, t.count("?"), ", ".join(i.encode("utf-8") for i in t)
