@@ -33,7 +33,10 @@ ENDINGS = defaultdict(list)
 with open("ending-paradigms.txt") as f:
     num = 0
     for line in f:
+        line = line.split("#")[0].strip()
         num += 1
+        if not line:
+            continue
         tense_voice, rest = line.strip().split(":")
         endings = dict(zip(["1S", "2S", "3S", "1P", "2P", "3P", "num"], [i.strip() for i in rest.split(",")] + [num]))
         ENDINGS[tense_voice].append(endings)
@@ -69,45 +72,53 @@ for row in fs["sblgnt-lexemes"].rows():
             raise ValueError
 
 
+SKIP_LIST = [
+    "σαβαχθάνι",
+    "χρή",
+]
+
 for lemma, form_dict in sorted_items(forms):
+    if lemma in SKIP_LIST:
+        continue
+
     for tense_voice in sorted(form_dict):
         print()
         print(lemma, tense_voice, len(form_dict[tense_voice]))
         stem_rules = []
-        print(form_dict[tense_voice])
+        # print(form_dict[tense_voice])
         for endings in ENDINGS[tense_voice]:
             fail = False
             stems = []
             num = endings["num"]
-            print("\t", num, endings)
+            # print("\t", num, endings)
             for person_number, ending in sorted(endings.items()):
                 if person_number == "num":
                     continue
-                print("\t\t\t", person_number, ending)
+                # print("\t\t\t", person_number, ending)
                 ending = sorted(ending.split("/"))
                 x = sorted(form_dict[tense_voice].get(person_number, "?"))
                 if ending == ["?"] or x == ["?"]:
-                    print("\t\t\t\tskip because of ?")
+                    # print("\t\t\t\tskip because of ?")
                     continue
                 if len(ending) != len(x):
                     fail = True
-                    print("\t\t\t\tfail because len", ending, "!= len", x)
+                    # print("\t\t\t\tfail because len", ending, "!= len", x)
                     break
                 stem_possibilities = set()
                 for a, b in zip(ending, x):
-                    print("\t\t\t\t\ttesting", a, b)
+                    # print("\t\t\t\t\ttesting", a, b)
                     regex = a.replace("?", "\\?").replace("(", "\\(").replace(")", "\\)") + "$"
                     if not re.search(regex, b):
                         fail = True
                         break
-                    print("\t\t\t", person_number, a, b, re.sub(regex, "", b))
+                    # print("\t\t\t", person_number, a, b, re.sub(regex, "", b))
                     stem_possibilities.add(re.sub(regex, "", b))
                 if len(stem_possibilities) == 1:
                     stems.append(list(stem_possibilities)[0])
                 else:
                     fail = True
                     break
-            print("\t\t", stems, fail)
+            # print("\t\t", stems, fail)
             if stems and not fail and equal(stems):
                 stem_rules.append((num, stems[0], len(stems)))
 
@@ -116,4 +127,4 @@ for lemma, form_dict in sorted_items(forms):
             print("no rules matched")
             sys.exit(1)
         for rule, stem, count in stem_rules:
-            print("\t", rule, stem, count)
+            print("  rule-{} {} {}".format(rule, stem, count))
