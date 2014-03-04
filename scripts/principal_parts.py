@@ -81,9 +81,8 @@ for lemma, form_dict in sorted_items(forms):
     if lemma in SKIP_LIST:
         continue
 
+    print()
     for tense_voice in sorted(form_dict):
-        print()
-        print(lemma, tense_voice, len(form_dict[tense_voice]))
         first_singular_forms = set()
         for endings in ENDINGS[tense_voice]:
             fail = False
@@ -116,8 +115,9 @@ for lemma, form_dict in sorted_items(forms):
                 first_singular_forms.add(stems[0] + first_singular)
 
         if len(first_singular_forms) == 0:
+            print()
+            print(lemma, tense_voice)
             print(form_dict[tense_voice])
             print("no rules matched")
             sys.exit(1)
-        for form in first_singular_forms:
-            print("  {}".format(form))
+        print("{} {} {}".format(lemma, tense_voice, "|".join(form for form in first_singular_forms)))
