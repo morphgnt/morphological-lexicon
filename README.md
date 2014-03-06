@@ -17,14 +17,15 @@ Currently (distinctly) working on...
 ## Derivation Morphology
 
  - nav_derivations.txt
- - nav_derivations.py
+ - scripts/nav_derivations.py
+
 
 ## Principal Part Generation
 
  - ending-paradigms.txt
  - scripts/check_endings.py
- - principal_parts.py
- - paradigm.py
+ - scripts/principal_parts.py
+ - scripts/paradigm.py
 
 
 ## License
