@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding: utf-8
 
 from difflib import ndiff
@@ -12,7 +12,7 @@ lexemes = load_yaml("lexemes.yaml")
 
 
 def strip_accents(s):
-    return "".join((c for c in unicodedata.normalize("NFD", unicode(s)) if unicodedata.category(c) != "Mn"))
+    return "".join((c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn"))
 
 
 def diff(word1, word2):
@@ -32,7 +32,7 @@ def diff(word1, word2):
                 add += x[2:]
                 state = 2
             else:
-                print "@@@", x.encode("utf-8")
+                print("@@@", x)
                 sys.exit(1)
         elif state == 1:
             if x[:2] == "  ":
@@ -44,7 +44,7 @@ def diff(word1, word2):
                 add += x[2:]
                 state = 2
             else:
-                print "@@@", x.encode("utf-8")
+                print("@@@", x)
                 sys.exit(1)
         elif state == 2:
             if x[:2] == "  ":
@@ -57,10 +57,10 @@ def diff(word1, word2):
             elif x[:2] == "+ ":
                 add += x[2:]
             else:
-                print "@@@", x.encode("utf-8")
+                print("@@@", x)
                 sys.exit(1)
         else:
-            print "@@@ state", state
+            print("@@@ state", state)
             sys.exit(2)
     if sub or add:
         result += u"{}/{}".format(add, sub)
@@ -79,7 +79,12 @@ for lexeme, metadata in sorted_items(lexemes):
                         morphcat1 = lexemes[lexeme].get("mounce-morphcat")
                         morphcat2 = lexemes[other].get("mounce-morphcat")
                         if pos1 in "NAV" and pos2 in "NAV" and pos1 != pos2:
-                            print pos1 + pos2,
-                            print diff(lexeme, other).encode("utf-8"),
-                            print "{}_{}".format(morphcat1, morphcat2),
-                            print lexeme.encode("utf-8"), other.encode("utf-8")
+                            print("{}{} {} {}_{} {} {}".format(
+                                pos1,
+                                pos2,
+                                diff(lexeme, other),
+                                morphcat1,
+                                morphcat2,
+                                lexeme,
+                                other,
+                            ))
