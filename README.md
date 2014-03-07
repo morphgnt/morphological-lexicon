@@ -18,7 +18,8 @@ Currently (distinctly) working on...
 
  - nav_derivations.txt
  - scripts/nav_derivations.py
-
+ - scripts/derivation_counts.py
+ - scripts/non_nav_derivations.py
 
 ## Principal Part Generation
 
