@@ -214,18 +214,19 @@ NN .ον/ιον n-2c_n-2c τεκνίον τέκνον
 
 ### -ος -> -ια
 
-NN .ος/ια n-1a_n-2a τροχιά τροχός
-NN .ος/ια n-1a_n-2a ἀγγελία ἄγγελος
-NN .ος/ια n-1a_n-2a ἐμπορία ἔμπορος
-NN .ος/ια n-1a_n-2a διακονία διάκονος
-NN .ος/ια n-1a_n-2a κοινωνία κοινωνός
-NN .ος/ια n-1a_n-2a παρθενία παρθένος
-NN .ος/ια n-1a_n-2a κατηγορία κατήγορος
-NN .ος/ια n-1a_n-2a φιλοσοφία φιλόσοφος
-NN .ος/ια n-1a_n-2a διδασκαλία διδάσκαλος
-NN .ος/ια n-1a_n-2a κληρονομία κληρονόμος
+NN .ος/ια n-1a_n-2a ἀγγελία ἄγγελος [messenger -> message]
+NN .ος/ια n-1a_n-2a ἐμπορία ἔμπορος [merchant -> business]
+NN .ος/ια n-1a_n-2a διακονία διάκονος [servant -> service]
+NN .ος/ια n-1a_n-2a κοινωνία κοινωνός [fellow -> fellowship]
+NN .ος/ια n-1a_n-2a παρθενία παρθένος [virgin -> virginity]
+NN .ος/ια n-1a_n-2a κατηγορία κατήγορος [accuser -> accusation]
+NN .ος/ια n-1a_n-2a φιλοσοφία φιλόσοφος [philosopher -> philosophy]
+NN .ος/ια n-1a_n-2a διδασκαλία διδάσκαλος [teacher -> teaching]
+NN .ος/ια n-1a_n-2a κληρονομία κληρονόμος [heir -> inheritance]
 
-NN .ος/ια n-1a_n-3d(2b) σκοτία σκότος
+NN .ος/ια n-1a_n-2a τροχιά τροχός [wheel -> wheel tracks]
+
+NN .ος/ια n-1a_n-3d(2b) σκοτία σκότος [darkness -> darkness]
 
 ### -ος -> -οτης
 
