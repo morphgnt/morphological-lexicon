@@ -17,9 +17,12 @@ Currently (distinctly) working on...
 ## Derivation Morphology
 
  - nav_derivations.txt
- - scripts/nav_derivations.py
+ - non_nav_derivations.txt
+ - compound_verbs.txt
  - scripts/derivation_counts.py
+ - scripts/nav_derivations.py
  - scripts/non_nav_derivations.py
+ - scripts/multi_derivation.py
 
 ## Principal Part Generation
 
