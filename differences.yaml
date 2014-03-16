@@ -878,20 +878,29 @@
         - our normalized text has both ἐλαιῶν and Ἐλαιῶν which are lemmatized ἐλαία and Ἐλαιῶν respectively
         - we may need to review each on a case-by-case basis
         - this is related to how we handle oblique cases in multi-word proper nouns elsewhere
-
-
 ἐλάσσων:
     ἐλάσσων/ἔλασσον:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - our analysis only has ἐλάσσων as lemma
+        - Danker CL treats ἐλάσσων and ἔλασσον equally as lemmas
+        - some actual forms seems to suggest Attic forms ἔλαττων/ἔλαττον as well
+        - should we have different lemmas where appropriate?
+        - not sure we otherwise have any basis for choosing between the two options for lemma
 Ἐλιακίμ:
     Ἐλιακίμ/Ἐλιακείμ:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - our analysis only has Ἐλιακίμ but Danker CL allows for both Ἐλιακίμ and Ἐλιακείμ in same entry
 ἑλκόομαι:
     ἑλκόω:
         tags: ["ω/ομαι"]
         sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - our text and analysis only has middle/passive form
+        - Danker CL (as it often seems to) favours the active form ἑλκόω even against BDAG
 ἕλκω:
     ἑλκύω/ἕλκω:
         tags: ["/ in value @@"]
@@ -899,14 +908,35 @@
     ἑλκύω:
         tags: ["ύω/ω"]
         sources: ["mounce-headword"]
+    comment:
+        - Danker CL treats ἑλκύω and ἕλκω under the same heading
+        - out text has some forms (in future and aorist) that seem to come
+          from ἑλκύω and some forms (in imperfect and present) that seem
+          to come from ἕλκω
+        - our analysis only uses ἕλκω as lemma
+        - BDAG has ἕλκω and ἑλκύω as separate headwords
+        - Mounce only has ἑλκύω
+        - not sure how we would decide which lemma to use
 ἐλλογέω:
     ἐλλογέω/ἐλλογάω:
         tags: ["/ in value @@"]
         sources: ["danker-entry"]
+    comment:
+        - Mounce has separate entries for ἐλλογέω and ἐλλογάω
+        - BDAG only has ἐλλογέω
+        - Danker CL combines ἐλλογέω and ἐλλογάω in the same entry
+        - in one form (in Romans) in our text, ἐλλογέω is suggested but the imperative in Philemon suggests a lemma of ἐλλογάω
 ἐλωΐ:
     ελωι:
         tags: ["accentuation"]
         sources: ["danker-entry"]
+    comment:
+        - Danker CL does not use accents or breathing for this indeclinable Aramaic words
+        - BDAG and Mounce, however, do accent it
+        - our text accents it
+
+
+
 Ἑμμώρ:
     Ἐμμώρ:
         tags: ["accentuation"]
