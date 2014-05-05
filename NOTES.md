@@ -524,3 +524,4 @@
 * presumably ἐυφημία in Danker CL is a typo
 * presumable ἐυχαριστέω in Danker CL is a typo
 * Dodson seems to have flipped 3604 and 3605 around
+* Dodson POS for ὄναρ should be N:N not N-OI
