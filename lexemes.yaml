@@ -25940,7 +25940,7 @@
     gk: 2642
     dodson-pos: N:F,N:N
     gloss: Jerusalem
-    mounce-morphcat: n-1a
+    mounce-morphcat: n-1a;n-2c
 Ἱεροσολυμίτης:
     pos: N
     bdag-headword: Ἱεροσολυμίτης
@@ -33144,7 +33144,7 @@
     gk: 3388
     dodson-pos: N:F,N:N
     gloss: Lystra
-    mounce-morphcat: n-1a
+    mounce-morphcat: n-3g(1)
 λύτρον:
     pos: N
     bdag-headword: λύτρον
@@ -48979,7 +48979,7 @@
     gk: 5048
     dodson-pos: N:M
     gloss: Solomon
-    mounce-morphcat: n-3c(5b)
+    mounce-morphcat: n-3f(1a);n-3c(5b)
 Σολομῶν:
     pos: N
     bdag-headword: Σολομών
