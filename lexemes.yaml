@@ -10362,7 +10362,7 @@
     gk: 1031
     dodson-pos: N-PRI
     gloss: Bethesda
-    mounce-morphcat: ??
+    mounce-morphcat: n-3g(2)
 Βηθλέεμ:
     pos: N
     bdag-headword: Βηθλέεμ
@@ -33373,6 +33373,7 @@
     danker-entry: Μαθθάτ, ὁ
     mounce-headword: Μαθθάτ
     gk: 3415
+    mounce-morphcat: n-3g(2)
 Μαθθίας:
     pos: N
     bdag-headword: Μαθθίας
