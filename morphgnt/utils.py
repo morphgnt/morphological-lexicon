@@ -16,7 +16,7 @@ def load_yaml(filename, wrapper=lambda key, metadata: metadata):
 def load_wordset(filename):
     with open(filename) as f:
         return set(
-            [word.split("#")[0].strip().decode("utf-8") for word in f if word.split("#")[0].strip()]
+            [word.split("#")[0].strip() for word in f if word.split("#")[0].strip()]
         )
 
 
