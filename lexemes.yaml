@@ -17636,16 +17636,6 @@
     dodson-pos: N:M
     gloss: Olive-grove, Olive-yard, the mount Olivet
     mounce-morphcat: n-3f(1a)
-Ἐλαιῶν:
-    pos: N
-    danker-entry: ἐλαία, ας, ἡ
-    dodson-entry: Ἐλαιών, ῶνος, ὁ
-    mounce-headword: ἐλαιών
-    strongs: 1638
-    gk: 1779
-    dodson-pos: N:M
-    gloss: Olive-grove, Olive-yard, the mount Olivet
-    mounce-morphcat: n-3f(1a)
 Ἐλαμίτης:
     pos: N
     bdag-headword: Ἐλαμίτης
@@ -37083,15 +37073,25 @@
     dodson-pos: N:M
     gloss: the mind, reasoning faculty
     mounce-morphcat: n-3e(4)
-Νύμφας:
+Νύμφα:
+    pos: N
+    bdag-headword: Νύμφα
+    danker-entry: Νύμφα, ας, ἡ
+    strongs: 3564
+    gk: 3809
+    dodson-pos: N:F
+    gloss: Nympha
+    mounce-morphcat: n-1a
+Νυμφᾶς:
     pos: N
     bdag-headword: Νυμφᾶς
     danker-entry: Νυμφᾶς, ᾶ, ὁ
     dodson-entry: Νυμφᾶς, ᾶ, ὁ
     strongs: 3564
-    gk: [3809, 3810]
+    gk: 3810
     dodson-pos: N:M
     gloss: Nymphas
+    mounce-morphcat: n-1e
 νύμφη:
     pos: N
     bdag-headword: νύμφη
@@ -44358,7 +44358,7 @@
     dodson-pos: V
     gloss: I do, fare, require
     mounce-morphcat: v-2b
-πραϋπάθια:
+πραϋπαθία:
     pos: N
     bdag-headword: πραϋπαθία
     danker-entry: πραϋπαθία, ας, ἡ
@@ -49789,8 +49789,6 @@
     dodson-pos: A
     gloss: Stoic
     mounce-morphcat: a-1a(2a)
-στοιχεῖα:
-    pos: N
 στοιχεῖον:
     pos: N
     bdag-headword: στοιχεῖον
