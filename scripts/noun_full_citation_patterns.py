@@ -22,6 +22,9 @@ def strip_accents(w):
     )
 
 SKIP = [
+
+    ## missing full citation
+
     "αἴτιον",
     "ἀκμήν",
     "ἁλληλουϊά",
@@ -85,6 +88,8 @@ SKIP = [
     "χήρα",
     "ὡσαννά",
 
+    ## missing mounce-morphcat
+
     "ἅλα",
     "ἀλάβαστρος",
     "Ἄψινθος",
@@ -107,44 +112,15 @@ SKIP = [
     "χείμαρρος",
     "ψίξ",
 
-    "Ἀκύλας",
-    "Ἀπελλῆς",
-    "Ἀππίου",
-    "Γόμορρα",
-    "γῆρας",
+    ## problematic without changes to lexemes.yaml
+
     "δοῦλος",
-    "Ἐμμαοῦς",
-    "Ζεύς",
-    "Ζηνᾶς",
     "θρίξ",
     "Ἱεροσόλυμα",
-    "Ἰησοῦς",
     "Ἰσκαριώτης",
-    "κρέας",
-    "Κρής",
-    "Κώς",
-    "Λευίς",
-    "Λιμήν",
-    "Λύδδα",
-    "Λύστρα",
-    "Μανασσῆς",
     "μέλαν",
     "Μωϋσῆς",
-    "ναῦς",
-    "νοῦς",
-    "ὄναρ",
-    "ὀστέον",
-    "Πάγος",
-    "Παρμενᾶς",
-    "πλοῦς",
-    "Πόλις",
-    "Σάπφιρα",
     "Σολομών",
-    "Σουσάννα",
-    "Ταβέρνη",
-    "Φόρον",
-    "Χεροῦβ",
-    "χοῦς",
 ]
 
 MATCHES = [
@@ -340,25 +316,7 @@ MATCHES = [
     (r"^(\w+)τηρ, τρος, ἡ$",        r"^n-3f\(2c\)$",   r"^N:F$"),
     (r"^(\w+)ηρ, \1δρος, ὁ$",       r"^n-3f\(2c\)$",   r"^N:M$"),
 
-    (r"^(\w+), ἡ$",                 r"^n-3g\(1\)$",    r"^N-PRI$"),  # @@@
-
-    (r"^(\w+)$",                    r"^n-3g\(2\)$",    r"^N-PRI$"),
-    (r"^(\w+)$",                    r"^n-3g\(2\)$",    r"^N-LI$"),
-    (r"^(\w+)$",                    r"^n-3g\(2\)$",    r"^ARAM$"),
-    (r"^(\w+)$",                    r"^n-3g\(2\)$",    r"^HEB$"),
-    (r"^(\w+)$",                    r"^n-3g\(2\)$",    r"^HEB,N:M$"),
-    (r"^(\w+)$",                    r"^n-3g\(2\)$",    r"^$"),  # @@@
-    (r"^(\w+), ὁ$",                 r"^n-3g\(2\)$",    r"^N-PRI$"),
     (r"^(\w+)α, α, ὁ$",             r"^n-3g\(2\)$",    r"^$"),  # @@@
-    (r"^(\w+), ὁ$",                 r"^n-3g\(2\)$",    r"^$"),  # @@@
-    (r"^(\w+), ἡ$",                 r"^n-3g\(2\)$",    r"^N-PRI$"),
-    (r"^(\w+), ἡ$",                 r"^n-3g\(2\)$",    r"^$"),  # @@@
-    (r"^(\w+), το$",                r"^n-3g\(2\)$",    r"^HEB$"),
-    (r"^(\w+), το$",                r"^n-3g\(2\)$",    r"^ARAM$"),
-    (r"^(\w+), το$",                r"^n-3g\(2\)$",    r"^N-LI$"),
-    (r"^(\w+), το$",                r"^n-3g\(2\)$",    r"^N-OI$"),
-    (r"^(\w+), το$",                r"^n-3g\(2\)$",    r"^N-PRI$"),
-    (r"^(\w+), ἡ$",                 r"^\?\?$",         r"^$"),  # @@@
 ]
 
 success_count = 0
@@ -382,12 +340,13 @@ for lexeme, metadata in sorted_items(lexemes):
             any(x.startswith("n") for x in mounce_morphcat)
         )
     ):
+
         if lexeme in SKIP:
             continue
-        if not full_citation:
-            print('    "{}",'.format(lexeme))
-        if not mounce_morphcat:
-            print('    "{}",'.format(lexeme))
+
+        if not re.match(r"(\w+), (\w+), (\w+)$", full_citation):
+            continue
+
         if isinstance(mounce_morphcat, list):
             mounce_morphcat = ";".join(mounce_morphcat)
         success = False
