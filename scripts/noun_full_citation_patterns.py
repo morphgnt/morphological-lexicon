@@ -214,7 +214,7 @@ MOUNCE_OVERRIDES = {
 }
 
 
-MATCHES = [
+MATCHES_1 = [
     (r"^(\w+)[ειϊρ]α, ας, ἡ$",      r"^n-1a$",         r"^N:F$"),
     (r"^(\w+)[^ειϊρ]α, ας, ἡ$",     r"^n-1a$",         r"^N:F$"),
     (r"^(\w+)[ειϊρ]αι, ων, αἱ$",    r"^n-1a$",         r"^N:F$"),  # pl.
@@ -347,6 +347,31 @@ MATCHES = [
     (r"^(\w+)ηρ, \1δρος, ὁ$",       r"^n-3f\(2c\)$",   r"^N:M$"),
 ]
 
+MATCHES_2 = [
+    (r"[αη]ς, ἡ$", r"^n-1", r"^N:F$"),
+    (r"α, ὁ$",     r"^n-1", r"^N:M$"),
+    (r"ου, ὁ$",    r"^n-1", r"^N:M$"),
+
+    (r"ου, ἡ$",    r"^n-2", r"^N:F$"),
+    (r"ου, ὁ$",    r"^n-2", r"^N:M$"),
+    (r"ου, το$",   r"^n-2", r"^N:N$"),
+    (r"ω, ὁ$",     r"^n-2", r"^N:M$"),
+
+    (r"ος, ἡ$",    r"^n-3", r"^N:F$"),
+    (r"ος, ὁ$",    r"^n-3", r"^N:M$"),
+    (r"ος, το$",   r"^n-3", r"^N:N$"),
+    (r"εως, ἡ$",   r"^n-3", r"^N:F$"),
+    (r"εως, ὁ$",   r"^n-3", r"^N:M$"),
+    (r"εως, το$",  r"^n-3", r"^N:N$"),
+    (r"ους, ἡ$",   r"^n-3", r"^N:F$"),
+    (r"ους, ὁ$",   r"^n-3", r"^N:M$"),
+    (r"ους, το$",  r"^n-3", r"^N:N$"),
+
+    (r"ων, αἱ$",   r"^n-[13]", r"^N:F$"),
+    (r"ων, οἱ$",   r"^n-2",    r"^N:M$"),
+    (r"ων, τα$",   r"^n-2",    r"^N:N$"),
+]
+
 success_count = 0
 fail_count = 0
 first_fail = None
@@ -378,17 +403,29 @@ for lexeme, metadata in sorted_items(lexemes):
 
         if isinstance(mounce_morphcat, list):
             mounce_morphcat = ";".join(mounce_morphcat)
-        success = False
 
-        for end, cat, dodson in MATCHES:
+        success_1 = False
+        success_2 = False
+
+        for end, cat, dodson in MATCHES_1:
             if (
                 full_citation and mounce_morphcat and
                 re.search(end, strip_accents(full_citation)) and
                 re.search(cat, mounce_morphcat) and
                 re.search(dodson, dodson_pos)
             ):
-                success = True
-        if success:
+                success_1 = True
+
+        for end, cat, dodson in MATCHES_2:
+            if (
+                full_citation and mounce_morphcat and
+                re.search(end, strip_accents(full_citation)) and
+                re.search(cat, mounce_morphcat) and
+                re.search(dodson, dodson_pos)
+            ):
+                success_2 = True
+
+        if success_1 and success_2:
             success_count += 1
         else:
             fail_count += 1
