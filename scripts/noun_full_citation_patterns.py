@@ -217,43 +217,43 @@ MOUNCE_OVERRIDES = {
 
 MATCHES_1 = [
 
-    # 1.1.1 feminine with genitive ending in ας (1st)
+    # 1.1/F feminine with genitive ending in ας (1st)
 
     (r"^(\w+)[ειϊρ]α, ας, ἡ$",      r"^n-1a$",         r"^N:F$"),
     (r"^(\w+)[^ειϊρ]α, ας, ἡ$",     r"^n-1a$",         r"^N:F$"),
     (r"^(\w+)α, ας, ἡ$",            r"^n-1h$",         r"^N:F$"),  # μνᾶ n-1a
 
-    # 1.2.1 feminine with genitive ending in ης (1st)
+    # 1.2/F feminine with genitive ending in ης (1st)
 
     (r"^(\w+)η, ης, ἡ$",            r"^n-1b$",         r"^N:F$"),
     (r"^(\w+)α, ης, ἡ$",            r"^n-1c$",         r"^N:F$"),
     (r"^(\w+)η, \1ης, ἡ$",          r"^n-1h$",         r"^N:F$"),  # γῆ
     (r"^(\w+)η, ης, ἡ$",            r"^n-1h$",         r"^N:F$"),  # συκῆ n-1b
 
-    # 2.1.1 masculine with genitive ending in ου (1st or 2nd)
+    # 2/M masculine with genitive ending in ου (1st or 2nd)
 
     (r"^(\w+)[ειϊῳ]ας, ου, ὁ$",     r"^n-1d$",         r"^N:M$"),
     (r"^(\w+)ης, ου, ὁ$",           r"^n-1f$",         r"^N:M$"),
     (r"^(\w+)ης, ου, ὁ$",           r"^n-1h$",         r"^N:M$"),  # Ἑρμῆς n-1f
     (r"^(\w+)ος, ου, ὁ$",           r"^n-2a$",         r"^N:M$"),
 
-    # 2.1.2 feminine with genitive ending in ου (2nd)
+    # 2/F feminine with genitive ending in ου (2nd)
 
     (r"^(\w+)ος, ου, ἡ$",           r"^n-2b$",         r"^N:F$"),
 
-    # 2.1.3 neuter with genitive ending in ου (2nd)
+    # 2/N neuter with genitive ending in ου (2nd)
 
     (r"^(\w+)ον, ου, το$",          r"^n-2c$",         r"^N:N$"),
 
-    # 3.1.1 masculine ending in α (1st)
+    # 3/M masculine ending in α (1st)
 
     (r"^(\w+)ας, α, ὁ$",            r"^n-1e$",         r"^N:M$"),
 
-    # 4.1.1 masculine ending in ω (2nd)
+    # 4/M masculine ending in ω (2nd)
 
     (r"^(\w+)ως, ω, ὁ$",            r"^n-2e$",         r"^N:M$"),
 
-    # 5.1.1 masculine ending in ος (3rd)
+    # 5.1/M masculine ending in ος (3rd)
 
     (r"^(\w+)([οω])ψ, \2πος, ὁ$",   r"^n-3a\(1\)$",    r"^N:M$"),
     (r"^(\w+)([α])ψ, \2βος, ὁ$",    r"^n-3a\(2\)$",    r"^N:M$"),
@@ -284,7 +284,7 @@ MATCHES_1 = [
     (r"^(\w+)τηρ, \1τρος, ὁ$",      r"^n-3f\(2c\)$",   r"^N:M$"),
     (r"^(\w+)ηρ, \1δρος, ὁ$",       r"^n-3f\(2c\)$",   r"^N:M$"),
 
-    # 5.1.2 feminine ending in ος (3rd)
+    # 5.1/F feminine ending in ος (3rd)
 
     (r"^(\w+)([α])ψ, \2πος, ἡ$",    r"^n-3a\(1\)$",    r"^N:F$"),
     (r"^(\w+)([ι])ξ, \2κος, ἡ$",    r"^n-3b\(1\)$",    r"^N:F$"),
@@ -308,7 +308,7 @@ MATCHES_1 = [
     (r"^(\w+)(ει)ρ, \1\2ρος, ἡ$",   r"^n-3f\(2a\)$",   r"^N:F$"),  # χείρ
     (r"^(\w+)τηρ, τρος, ἡ$",        r"^n-3f\(2c\)$",   r"^N:F$"),
 
-    # 5.1.3 neuter ending in ος (3rd)
+    # 5.1/N neuter ending in ος (3rd)
 
     (r"^(\w+)μα, ατος, το$",        r"^n-3c\(4\)$",    r"^N:N$"),
     (r"^(\w+)ας, ατος, το$",        r"^n-3c\(6a\)$",   r"^N:N$"),
@@ -322,76 +322,76 @@ MATCHES_1 = [
     (r"^(\w+)α, ακτος, το$",        r"^n-3c\(6d\)$",   r"^N:N$"),
     (r"^(\w+)ρ, ος, το$",           r"^n-3f\(2a\)$",   r"^N:N$"),  # πῦρ
 
-    # 5.2.1 masculine ending in εως (3rd)
+    # 5.2/M masculine ending in εως (3rd)
 
     (r"^(\w+)υς, εως, ὁ$",          r"^n-3e\(1\)$",    r"^N:M$"),
     (r"^(\w+)ευς, εως, ὁ$",         r"^n-3e\(3\)$",    r"^N:M$"),
     (r"^(\w+)ις, εως, ὁ$",          r"^n-3e\(5b\)$",   r"^N:M$"),
 
-    # 5.2.2 feminine ending in εως (3rd)
+    # 5.2/F feminine ending in εως (3rd)
 
     (r"^(\w+)ις, εως, ἡ$",          r"^n-3e\(2b\)$",   r"^N:F$"),
     (r"^(\w+)ις, εως, ἡ$",          r"^n-3e\(5a\)$",   r"^N:F$"),
     (r"^(\w+)ις, εως, ἡ$",          r"^n-3e\(5b\)$",   r"^N:F$"),
 
-    # 5.2.3 neuter ending in εως (3rd)
+    # 5.2/N neuter ending in εως (3rd)
 
     (r"^(\w+)ι, εως, το$",          r"^n-3e\(5b\)$",   r"^N:N$"),
 
-    # 5.3.1 masculine ending in ους (3rd)
+    # 5.3/M masculine ending in ους (3rd)
 
     (r"^(\w+)ης, ους, ὁ$",          r"^n-3d\(2a\)$",   r"^N:M$"),
 
-    # 5.3.2 feminine ending in ους (3rd)
+    # 5.3/F feminine ending in ους (3rd)
 
     (r"^(\w+)ως, ους, ἡ$",          r"^n-3d\(3\)$",    r"^N:F$"),
 
-    # 5.3.3 neuter ending in ους (3rd)
+    # 5.3/N neuter ending in ους (3rd)
 
     (r"^(\w+)ος, ους, το$",         r"^n-3b\(2b\)$",   r"^N:N$"),
     (r"^(\w+)ος, ους, το$",         r"^n-3d\(2b\)$",   r"^N:N$"),
 
-    # 6.1.1 masculine ending in ων (any in theory; 2nd in NT)
+    # 6/M masculine ending in ων (any in theory; 2nd in NT)
 
     (r"^(\w+)οι, ων, οἱ$",          r"^n-2a$",         r"^N:M$"),  # pl.
 
-    # 6.1.2 feminine ending in ων (any in theory; 1st or 3rd in NT)
+    # 6/F feminine ending in ων (any in theory; 1st or 3rd in NT)
 
     (r"^(\w+)[ειϊρ]αι, ων, αἱ$",    r"^n-1a$",         r"^N:F$"),  # pl.
     (r"^(\w+)αι, ων, αἱ$",          r"^n-1b$",         r"^N:F$"),  # pl.
     (r"^(\w+)αι, ων, αἱ$",          r"^n-1c$",         r"^N:F$"),  # pl.
     (r"^(\w+)εις, εων, αἱ$",        r"^n-3e\(5b\)$",   r"^N:F$"),  # pl.
 
-    # 6.1.3 neuter ending in ων (any in theory; 2nd in NT)
+    # 6/N neuter ending in ων (any in theory; 2nd in NT)
 
     (r"^(\w+)α, ων, τα$",           r"^n-2c$",         r"^N:N$"),  # pl.
 ]
 
 MATCHES_2 = [
-    (r"ας, ἡ$",    r"^n-1", r"^N:F$"),     # 1.1.1
-    (r"ης, ἡ$",    r"^n-1", r"^N:F$"),     # 1.2.1
+    (r"ας, ἡ$",    r"^n-1", r"^N:F$"),     # 1.1/F
+    (r"ης, ἡ$",    r"^n-1", r"^N:F$"),     # 1.2/F
 
-    (r"ου, ὁ$",    r"^n-[12]", r"^N:M$"),  # 2.1.1
-    (r"ου, ἡ$",    r"^n-2", r"^N:F$"),     # 2.1.2
-    (r"ου, το$",   r"^n-2", r"^N:N$"),     # 2.1.3
+    (r"ου, ὁ$",    r"^n-[12]", r"^N:M$"),  # 2/M
+    (r"ου, ἡ$",    r"^n-2", r"^N:F$"),     # 2/F
+    (r"ου, το$",   r"^n-2", r"^N:N$"),     # 2/N
 
-    (r"α, ὁ$",     r"^n-1", r"^N:M$"),     # 3.1.1
+    (r"α, ὁ$",     r"^n-1", r"^N:M$"),     # 3/M
 
-    (r"ω, ὁ$",     r"^n-2", r"^N:M$"),     # 4.1.1
+    (r"ω, ὁ$",     r"^n-2", r"^N:M$"),     # 4/M
 
-    (r"ος, ὁ$",    r"^n-3", r"^N:M$"),     # 5.1.1
-    (r"ος, ἡ$",    r"^n-3", r"^N:F$"),     # 5.1.2
-    (r"ος, το$",   r"^n-3", r"^N:N$"),     # 5.1.3
-    (r"εως, ὁ$",   r"^n-3", r"^N:M$"),     # 5.2.1
-    (r"εως, ἡ$",   r"^n-3", r"^N:F$"),     # 5.2.2
-    (r"εως, το$",  r"^n-3", r"^N:N$"),     # 5.2.3
-    (r"ους, ὁ$",   r"^n-3", r"^N:M$"),     # 5.3.1
-    (r"ους, ἡ$",   r"^n-3", r"^N:F$"),     # 5.3.2
-    (r"ους, το$",  r"^n-3", r"^N:N$"),     # 5.3.3
+    (r"ος, ὁ$",    r"^n-3", r"^N:M$"),     # 5.1/M
+    (r"ος, ἡ$",    r"^n-3", r"^N:F$"),     # 5.1/F
+    (r"ος, το$",   r"^n-3", r"^N:N$"),     # 5.1/N
+    (r"εως, ὁ$",   r"^n-3", r"^N:M$"),     # 5.2/M
+    (r"εως, ἡ$",   r"^n-3", r"^N:F$"),     # 5.2/F
+    (r"εως, το$",  r"^n-3", r"^N:N$"),     # 5.2/N
+    (r"ους, ὁ$",   r"^n-3", r"^N:M$"),     # 5.3/M
+    (r"ους, ἡ$",   r"^n-3", r"^N:F$"),     # 5.3/F
+    (r"ους, το$",  r"^n-3", r"^N:N$"),     # 5.3/N
 
-    (r"ων, οἱ$",   r"^n-2",    r"^N:M$"),  # 6.1.1
-    (r"ων, αἱ$",   r"^n-[13]", r"^N:F$"),  # 6.1.2
-    (r"ων, τα$",   r"^n-2",    r"^N:N$"),  # 6.1.3
+    (r"ων, οἱ$",   r"^n-2",    r"^N:M$"),  # 6/M
+    (r"ων, αἱ$",   r"^n-[13]", r"^N:F$"),  # 6/F
+    (r"ων, τα$",   r"^n-2",    r"^N:N$"),  # 6/N
 ]
 
 success_count = 0
