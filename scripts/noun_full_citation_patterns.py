@@ -394,6 +394,44 @@ MATCHES_2 = [
     (r"ων, τα$",   r"^n-2",    r"^N:N$"),  # 6/N
 ]
 
+MATCHES_3 = [
+    (r"ας, ἡ$",    r"^n-1", r"^N:F$"),     # 1.1/F
+    (r"ης, ἡ$",    r"^n-1", r"^N:F$"),     # 1.2/F
+    (r"ου, ὁ$",    r"^n-[12]", r"^N:M$"),  # 2/M
+    (r"ου, ἡ$",    r"^n-2", r"^N:F$"),     # 2/F
+    (r"ου, το$",   r"^n-2", r"^N:N$"),     # 2/N
+    (r"α, ὁ$",     r"^n-1", r"^N:M$"),     # 3/M
+    (r"ω, ὁ$",     r"^n-2", r"^N:M$"),     # 4/M
+    (r"εως, ὁ$",   r"^n-3", r"^N:M$"),     # 5.2/M
+    (r"εως, ἡ$",   r"^n-3", r"^N:F$"),     # 5.2/F
+    (r"εως, το$",  r"^n-3", r"^N:N$"),     # 5.2/N
+    (r"ους, ὁ$",   r"^n-3", r"^N:M$"),     # 5.3/M
+    (r"ους, ἡ$",   r"^n-3", r"^N:F$"),     # 5.3/F
+    (r"ους, το$",  r"^n-3", r"^N:N$"),     # 5.3/N
+    (r"ων, οἱ$",   r"^n-2",    r"^N:M$"),  # 6/M
+    (r"ων, αἱ$",   r"^n-[13]", r"^N:F$"),  # 6/F
+    (r"ων, τα$",   r"^n-2",    r"^N:N$"),  # 6/N
+
+    (r"πος, (ὁ|ἡ|το)$",     r"^n-3a\(1\)$",           r"^N:[MFN]$"),  # 5.1.1
+    (r"βος, (ὁ|ἡ|το)$",     r"^n-3a\(2\)$",           r"^N:[MFN]$"),  # 5.1.2
+
+    (r"κος, (ὁ|ἡ|το)$",     r"^n-3b\(1\)$",           r"^N:[MFN]$"),  # 5.1.3
+    (r"γος, (ὁ|ἡ|το)$",     r"^n-3b\(2\)$",           r"^N:[MFN]$"),  # 5.1.4
+    (r"χος, (ὁ|ἡ|το)$",     r"^n-3b\(3\)$",           r"^N:[MFN]$"),  # 5.1.5
+
+    (r"τος, (ὁ|ἡ|το)$",     r"^n-3c\((1|4|5.|6.)\)$", r"^N:[MFN]$"),  # 5.1.6
+    (r"δος, (ὁ|ἡ|το)$",     r"^n-3c\(2\)$",           r"^N:[MFN]$"),  # 5.1.7
+
+    (r"νος, (ὁ|ἡ|το)$",     r"^n-3f\(1.\)$",          r"^N:[MFN]$"),  # 5.1.8
+    (r"ρος, (ὁ|ἡ|το)$",     r"^n-3f\(2.\)$",          r"^N:[MFN]$"),  # 5.1.9
+
+    (r" ος, (ὁ|ἡ|το)$",     r"^n-3f\(2a\)$",          r"^N:[MFN]$"),  # 5.1.9
+
+    (r"[ουὑ]ος, (ὁ|ἡ|το)$", r"^n-3e\((1|4)\)$",       r"^N:[MFN]$"),  # 5.1.10
+
+]
+
+
 success_count = 0
 fail_count = 0
 first_fail = None
@@ -430,6 +468,7 @@ for lexeme, metadata in sorted_items(lexemes):
 
         success_1 = False
         success_2 = False
+        success_3 = False
 
         for i, (end, cat, dodson) in enumerate(MATCHES_1):
             if (
@@ -453,7 +492,18 @@ for lexeme, metadata in sorted_items(lexemes):
                 jj = j
                 break
 
-        if success_1 and success_2:
+        for k, (end, cat, dodson) in enumerate(MATCHES_3):
+            if (
+                full_citation and mounce_morphcat and
+                re.search(end, strip_accents(full_citation)) and
+                re.search(cat, mounce_morphcat) and
+                re.search(dodson, dodson_pos)
+            ):
+                success_3 = True
+                kk = k
+                break
+
+        if success_1 and success_2 and success_3:
             success_count += 1
             sub_rules[jj].add(ii)
         else:
