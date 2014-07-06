@@ -227,8 +227,7 @@ MATCHES_1 = [
 
     (r"^(\w+)η, ης, ἡ$",            r"^n-1b$",         r"^N:F$"),
     (r"^(\w+)α, ης, ἡ$",            r"^n-1c$",         r"^N:F$"),
-    (r"^(\w+)η, \1ης, ἡ$",          r"^n-1h$",         r"^N:F$"),  # γῆ
-    (r"^(\w+)η, ης, ἡ$",            r"^n-1h$",         r"^N:F$"),  # συκῆ n-1b
+    (r"^(\w+)η, ης, ἡ$",            r"^n-1h$",         r"^N:F$"),  # γῆ/συκῆ 1b
 
     # 2/M masculine with genitive ending in ου (1st or 2nd)
 
@@ -526,5 +525,5 @@ print(first_fail)
 # for cat, count in sorted(match_2_counts.items()):
 #     print(cat, count)
 
-for cat, count in sorted(match_3_counts.items()):
-    print(cat, count)
+# for cat, count in sorted(match_3_counts.items()):
+#     print(cat, count)
