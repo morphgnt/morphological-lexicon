@@ -27,63 +27,7 @@ SKIP = [
 
     ## missing full citation
 
-    "ἁλληλουϊά",  # indecl.
-    "βοηθός",
-    "Γαλιλαῖος",
-    "Γερασηνός",
-    "δέκα",
-    "δεκαοκτώ",
-    "δεκαπέντε",
-    "δεκατέσσαρες",
-    "δώδεκα",
-    "ἑβδομήκοντα",
-    "ἑβδομηκοντάκις",
-    "Ἑβραΐς",
-    "ἔγγυος",
-    "ἔγκυος",
-    "εἴκοσι(ν)",
-    "ἑκατόν",
-    "ἕνδεκα",
-    "ἐνενήκοντα",
-    "ἐννέα",
-    "ἕξ",
-    "ἑξήκοντα",
-    "ἑπτά",
-    "ἔρημος",
-    "εφφαθα",
-    "ἱερόν",
-    "ἱερόσυλος",
-    "ἱλαστήριον",
-    "κουμ",
-    "λεμά",
-    "λεπτόν",
-    "μίσθιος",
-    "μισθωτός",
-    "μοιχαλίς",
-    "νῆστις",
-    "ὀγδοήκοντα",
-    "ὀκτώ",
-    "πανοῦργος",
-    "παραλυτικός",
-    "παράσημος",
-    "πένης",
-    "πέντε",
-    "πεντήκοντα",
-    "πετεινόν",
-    "πλανήτης",
-    "πλατεῖα",
-    "πρόγονος",
-    "σαβαχθάνι",
-    "στεῖρα",
-    "σύζυγος",
-    "συνεργός",
-    "τεσσεράκοντα",
-    "Τραχωνῖτις",
-    "τριάκοντα",
-    "χήρα",
-    "ὡσαννά",
-
-    ## problematic without changes to lexemes.yaml
+    ## problematic without changes to lexemes.yaml or morphgnt
 
     "αἴτιον",  # adj.
     "ἀκμήν",  # adv.
@@ -93,23 +37,51 @@ SKIP = [
     "ἀπελεύθερος",  # adj.
     "ἅρπαξ",  # adj.
     "αὐτόχειρ",  # adj.
+    "Βαριησοῦς",
+    "Βαριωνᾶ",
     "βάτος",
-    "ἦχος",
+    "βοηθός",  # adj.
+    "Γαλιλαῖος",  # adj.
+    "Γερασηνός",  # adj.
     "δοῦλος",
+    "Ἑβραΐς",  # danker gives noun citation form but morphgnt has as adj.
+    "ἔγγυος",  # adj.
+    "ἔγκυος",  # adj.
+    "ἔρημος",  # adj.
+    "ζῆλος",
+    "ἦχος",
     "θρίξ",
+    "ἱερόν",  # danker gives noun citation form but morphgnt has as adj.
     "Ἱεροσόλυμα",
+    "ἱερόσυλος",  # adj.
+    "ἱλαστήριον",  # danker gives noun citation form but morphgnt has as adj.
     "Ἰσκαριώτης",
     "Ἰωβήλ",
+    "λεγιών",
+    "λεπτόν",
     "μέλαν",
+    "μίσθιος",
+    "μισθωτός",  # danker gives noun citation form but morphgnt has as adj.
+    "μοιχαλίς",  # danker gives noun citation form but morphgnt has as adj.
     "Μωϋσῆς",
+    "νῆστις",  # danker gives noun citation form but morphgnt has as adj.
+    "πανοῦργος",
+    "παράσημος",
+    "πένης",  # danker gives noun citation form but morphgnt has as adj.
+    "πετεινόν",  # danker gives noun citation form but morphgnt has as adj.
+    "πλανήτης",  # danker gives noun citation form but morphgnt has as adj.
+    "πλατεῖα",  # danker gives noun citation form but morphgnt has as adj.
+    "πρόγονος",
     "Σαλείμ",
     "Σολομών",
-    "ζῆλος",
-    "τιμιότης",
+    "στεῖρα",  # danker gives noun citation form but morphgnt has as adj.
+    "σύζυγος",  # danker gives noun citation form but morphgnt has as adj.
+    "συνεργός",  # danker gives noun citation form but morphgnt has as adj.
     "Ταρσός",
-    "Βαριησοῦς",
-    "λεγιών",
-    "Βαριωνᾶ",
+    "τιμιότης",
+    "Τραχωνῖτις",  # danker gives noun citation form but morphgnt has as adj.
+    "χήρα",  # danker gives noun citation form but morphgnt has as adj.
+
 ]
 
 DODSON_OVERRIDES = {
@@ -222,6 +194,35 @@ MOUNCE_OVERRIDES = {
     "τριετία":      "n-1a",
     "χείμαρρος":    "n-2a",
     "ψίξ":          "n-3b(3)",
+
+    "ἁλληλουϊά":        "x-indecl",
+    "δέκα":             "a-indecl",
+    "δεκαοκτώ":         "a-indecl",
+    "δεκαπέντε":        "a-indecl",
+    "δεκατέσσαρες":     "a-indecl",
+    "δώδεκα":           "a-indecl",
+    "ἑβδομήκοντα":      "a-indecl",
+    "ἑβδομηκοντάκις":   "d-indecl",
+    "εἴκοσι(ν)":        "a-indecl",
+    "ἑκατόν":           "a-indecl",
+    "ἕνδεκα":           "a-indecl",
+    "ἐνενήκοντα":       "a-indecl",
+    "ἐννέα":            "a-indecl",  # danker has citation form with articles
+    "ἕξ":               "a-indecl",
+    "ἑξήκοντα":         "a-indecl",
+    "ἑπτά":             "a-indecl",
+    "εφφαθα":           "v-indecl",
+    "κουμ":             "v-indecl",
+    "λεμά":             "d-indecl",
+    "ὀγδοήκοντα":       "a-indecl",
+    "ὀκτώ":             "a-indecl",
+    "παραλυτικός":      "a-?",
+    "πέντε":            "a-indecl",
+    "πεντήκοντα":       "a-indecl",
+    "σαβαχθάνι":        "v-indecl",
+    "τεσσεράκοντα":     "a-indecl",
+    "τριάκοντα":        "a-indecl",
+    "ὡσαννά":           "x-indecl",
 }
 
 
