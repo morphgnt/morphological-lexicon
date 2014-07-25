@@ -311,6 +311,8 @@ def r(s):
     return s
 
 
+fail_count = 0
+
 for lexeme, metadata in sorted_items(lexemes):
     pos = metadata.get("pos")
     full_citation = metadata.get("full-citation-form")
@@ -362,8 +364,15 @@ for lexeme, metadata in sorted_items(lexemes):
                 ):
                     success.append((key, children))
             if len(success) != 1:
-                print("testing: {}".format(full_citation))
-                print("found {} matches at level {}".format(len(success), level))
-                quit()
+                if fail_count == 0:
+                    print("testing: {}".format(full_citation))
+                    print(lexeme)
+                    print(mounce_morphcat)
+                    print(dodson_pos)
+                    print("found {} matches at level {}".format(len(success), level))
+                fail_count += 1
+                break
             node = success[0][1]
             level += 1
+
+print(fail_count)
