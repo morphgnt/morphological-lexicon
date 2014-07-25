@@ -245,6 +245,8 @@ DODSON_OVERRIDES = {
     "σκῦλα":         "N:N",
     "στάδιος":       "N:M",
     "ψίξ":           "N:F",
+
+    "Βηθσαϊδάν":     "N:F",
 }
 
 MOUNCE_OVERRIDES = {
@@ -302,6 +304,8 @@ MOUNCE_OVERRIDES = {
     "τεσσεράκοντα":     "a-indecl",
     "τριάκοντα":        "a-indecl",
     "ὡσαννά":           "x-indecl",
+
+    "Βηθσαϊδάν":        "n-indecl",
 }
 
 
@@ -365,11 +369,14 @@ for lexeme, metadata in sorted_items(lexemes):
                     success.append((key, children))
             if len(success) != 1:
                 if fail_count == 0:
-                    print("testing: {}".format(full_citation))
                     print(lexeme)
-                    print(mounce_morphcat)
-                    print(dodson_pos)
-                    print("found {} matches at level {}".format(len(success), level))
+                    print(full_citation)
+                    print()
+                    print("    ((r\"^{}$\"".format(strip_accents(full_citation).replace(".", r"\.")), end=", ")
+                    print("r\"^{}$\"".format(mounce_morphcat.replace("(", r"\(").replace(")", r"\)")), end=", ")
+                    print("r\"^{}$\"), \"\", []),".format(dodson_pos))
+                    print()
+                    print("found {} matches at level {} {}".format(len(success), level, key))
                 fail_count += 1
                 break
             node = success[0][1]
