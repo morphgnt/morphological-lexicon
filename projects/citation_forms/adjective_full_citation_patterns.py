@@ -145,51 +145,23 @@ for lexeme, metadata in sorted_items(lexemes):
 
         node = ADJECTIVE_CITATION_FORMS
 
-        # level = 1
-        # while node:
-        #     success = []
-        #     for child in node:
-        #         match_tuple, key, children = child
-        #         end, cat, dodson = match_tuple
-        #         end = r(end)
-        #         # print("trying {}".format(key))
-        #         if (
-        #             re.search(end, strip_accents(full_citation)) and
-        #             re.search(cat, mounce_morphcat) and
-        #             re.search(dodson, dodson_pos)
-        #         ):
-        #             success.append((key, children))
-        #     if len(success) != 1:
-        #         print("testing: {}".format(full_citation))
-        #         print("found {} matches at level {}".format(len(success), level))
-        #         quit()
-        #     node = success[0][1]
-        #     level += 1
-
-        success = []
-        for child in node:
-            match_tuple, key, children = child
-            end, cat, dodson = match_tuple
-            end = r(end)
-            # print("trying {}".format(key))
-            if (
-                re.search(end, strip_accents(full_citation)) and
-                re.search(cat, mounce_morphcat) and
-                re.search(dodson, dodson_pos)
-            ):
-                success.append((key, children))
-        if len(success) != 1:
-            if not first_fail:
-                first_fail = (
-                    strip_accents(full_citation),
-                    mounce_morphcat,
-                    dodson_pos,
-                )
-                fail_lemma = lexeme
-                fail_number = len(success)
-            fail_count += 1
-
-if fail_count:
-    print(fail_count)
-    print("((r\"{}$\",            r\"^{}$\",       r\"^{}$\"), \"\", []),".format(*first_fail))
-    print(fail_lemma, fail_number)
+        level = 1
+        while node:
+            success = []
+            for child in node:
+                match_tuple, key, children = child
+                end, cat, dodson = match_tuple
+                end = r(end)
+                # print("trying {}".format(key))
+                if (
+                    re.search(end, strip_accents(full_citation)) and
+                    re.search(cat, mounce_morphcat) and
+                    re.search(dodson, dodson_pos)
+                ):
+                    success.append((key, children))
+            if len(success) != 1:
+                print("testing: {}".format(full_citation))
+                print("found {} matches at level {}".format(len(success), level))
+                quit()
+            node = success[0][1]
+            level += 1
