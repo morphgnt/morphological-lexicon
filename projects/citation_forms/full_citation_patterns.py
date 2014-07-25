@@ -25,16 +25,12 @@ def strip_accents(w):
 
 SKIP = [
 
-    ## missing full citation
-
     ## problematic without changes to lexemes.yaml or morphgnt
 
     "αἴτιον",  # adj.
-    "ἀκμήν",  # adv.
     "ἀλάβαστρος",
     "ἀμήτωρ",  # adj.
     "ἀπάτωρ",  # adj.
-    "ἀπελεύθερος",  # adj.
     "ἅρπαξ",  # adj.
     "αὐτόχειρ",  # adj.
     "Βαριησοῦς",
@@ -44,109 +40,52 @@ SKIP = [
     "Γαλιλαῖος",  # adj.
     "Γερασηνός",  # adj.
     "δοῦλος",
-    "Ἑβραΐς",  # danker gives noun citation form but morphgnt has as adj.
     "ἔγγυος",  # adj.
     "ἔγκυος",  # adj.
     "ἔρημος",  # adj.
     "ζῆλος",
     "ἦχος",
     "θρίξ",
-    "ἱερόν",  # danker gives noun citation form but morphgnt has as adj.
     "Ἱεροσόλυμα",
     "ἱερόσυλος",  # adj.
-    "ἱλαστήριον",  # danker gives noun citation form but morphgnt has as adj.
     "Ἰσκαριώτης",
     "Ἰωβήλ",
     "λεγιών",
     "λεπτόν",
     "μέλαν",
     "μίσθιος",
-    "μισθωτός",  # danker gives noun citation form but morphgnt has as adj.
-    "μοιχαλίς",  # danker gives noun citation form but morphgnt has as adj.
     "Μωϋσῆς",
     "νῆστις",  # danker gives noun citation form but morphgnt has as adj.
     "πανοῦργος",
     "παράσημος",
-    "πένης",  # danker gives noun citation form but morphgnt has as adj.
-    "πετεινόν",  # danker gives noun citation form but morphgnt has as adj.
-    "πλανήτης",  # danker gives noun citation form but morphgnt has as adj.
-    "πλατεῖα",  # danker gives noun citation form but morphgnt has as adj.
     "πρόγονος",
     "Σαλείμ",
     "Σολομών",
-    "στεῖρα",  # danker gives noun citation form but morphgnt has as adj.
     "σύζυγος",  # danker gives noun citation form but morphgnt has as adj.
     "συνεργός",  # danker gives noun citation form but morphgnt has as adj.
     "Ταρσός",
     "τιμιότης",
-    "Τραχωνῖτις",  # danker gives noun citation form but morphgnt has as adj.
-    "χήρα",  # danker gives noun citation form but morphgnt has as adj.
 
     ##
 
-    "ἄκων", "ἀνθρωποκτόνος", "ἄραφος",
+    "ἄκων", "ἄραφος",
     "Ἄρειος", "δεῖνα", "δέκα", "δεκαοκτώ", "δεκαπέντε",
-    "δεκατέσσαρες", "δύο", "δώδεκα", "ἑβδομήκοντα", "Ἑβραῖος",
+    "δεκατέσσαρες", "δύο", "δώδεκα", "ἑβδομήκοντα",
     "ἑδραῖος", "εἴκοσι(ν)", "εἷς", "ἑκατόν", "ἐλάσσων", "ἐλωΐ", "ἕνδεκα",
-    "ἐνενήκοντα", "ἐννέα", "ἕξ", "ἑξήκοντα", "ἑπτά", "εὐθύς", "ἠλί",
-    "ἵλεως", "κακοποιός", "Καλός", "Κορίνθιος", "κόσμιος",
-    "λοίδορος", "λοιμός", "μέγας", "μέγιστος", "μείζων", "μέλας", "μηδείς",
+    "ἐνενήκοντα", "ἐννέα", "ἕξ", "ἑξήκοντα", "ἑπτά", "εὐθύς",
+    "ἵλεως", "κακοποιός", "Καλός", "κόσμιος",
+    "μέγας", "μέγιστος", "μείζων", "μέλας", "μηδείς",
     "νεκρός", "ὀγδοήκοντα", "οἰκεῖος",
     "ὀκτώ", "οὐδείς", "παρείσακτος", "παρόμοιος", "πᾶς", "πάσχα",
-    "πέντε", "πεντήκοντα", "Πισιδία",
+    "πέντε", "πεντήκοντα",
     "πολύς", "πραΰς", "πτηνόν", "ραββουνι", "ῥακά", "σκυθρωπός", "σπερμολόγος",
-    "συναιχμάλωτος", "σύντροφος", "ταλιθα",
+    "σύντροφος", "ταλιθα",
     "τέσσαρες", "τεσσεράκοντα", "Τρεῖς", "τρεῖς", "τριάκοντα",
     "ὑγιής",
 
-    ## additional ones without full-citation
-
-    "ἀλλήλων",
-    "αὐτός",
-    "ἑαυτοῦ",
-    "ἐγώ",
-    "ἐκεῖνος",
-    "ἐμαυτοῦ",
-    "ἐμός",
-    "ἔοικα",
-    "ἡλίκος",
-    "ἡμέτερος",
-    "κἀγώ",
-    "κἀκεῖνος",
-    "μακρός",
-    "ὁ",
-    "ὅδε",
-    "οἷος",
-    "ὁποῖος",
-    "ὅς",
-    "ὅσος",
-    "ὅστις",
-    "οὗτος",
-    "παραπλήσιον",
-    "πηλίκος",
-    "ποῖος",
-    "πόσος",
-    "ποταπός",
-    "πρότερος",
-    "πρῶτος",
-    "πυκνά",
-    "σεαυτοῦ",
-    "σός",
-    "σύ",
-    "τηλικοῦτος",
-    "τις",
-    "τίς",
-    "τοιόσδε",
-    "τοιοῦτος",
-    "τοσοῦτος",
-    "ὑμέτερος",
-
     ## other problematic examples
 
-    "δεισιδαίμων",
-    "οἰκιακός",
     "παραλυτικός",
-    "συγγενίς",
 ]
 
 DODSON_OVERRIDES = {
@@ -310,6 +249,9 @@ for lexeme, metadata in sorted_items(lexemes):
     mounce_morphcat = MOUNCE_OVERRIDES.get(
         lexeme, metadata.get("mounce-morphcat", ""))
 
+    if full_citation is None:
+        continue
+
     if (
         (pos == "N") or
         (dodson_pos and dodson_pos.startswith("N")) or
@@ -331,9 +273,6 @@ for lexeme, metadata in sorted_items(lexemes):
         )
     ):
 
-        if lexeme in SKIP:
-            continue
-
         if isinstance(mounce_morphcat, list):
             mounce_morphcat = ";".join(mounce_morphcat)
 
@@ -354,6 +293,8 @@ for lexeme, metadata in sorted_items(lexemes):
                 ):
                     success.append((key, children))
             if len(success) != 1:
+                if lexeme in SKIP:
+                    break
                 if fail_count == 0:
                     print(lexeme)
                     print(full_citation)
