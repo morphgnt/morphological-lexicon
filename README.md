@@ -10,6 +10,10 @@ parts.
 
 Currently (distinctly) working on...
 
+## Citation Form Patterns
+
+ - projects/citation_forms
+
 ## Documenting Differences in Lemmatization
 
  - differences.yaml
