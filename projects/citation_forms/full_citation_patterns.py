@@ -23,49 +23,6 @@ def strip_accents(w):
         )) for ch in w
     )
 
-SKIP = [
-
-    ## problematic without changes to lexemes.yaml or morphgnt
-
-    "αἴτιον",  # adj.
-    "ἀλάβαστρος",
-    "ἀμήτωρ",  # adj.
-    "ἀπάτωρ",  # adj.
-    "ἅρπαξ",  # adj.
-    "αὐτόχειρ",  # adj.
-    "Βαριησοῦς",
-    "Βαριωνᾶ",
-    "βάτος",
-    "βοηθός",  # adj.
-    "Γαλιλαῖος",  # adj.
-    "Γερασηνός",  # adj.
-    "δοῦλος",
-    "ἔγγυος",  # adj.
-    "ἔγκυος",  # adj.
-    "ἔρημος",  # adj.
-    "ζῆλος",
-    "ἦχος",
-    "θρίξ",
-    "Ἱεροσόλυμα",
-    "ἱερόσυλος",  # adj.
-    "Ἰσκαριώτης",
-    "Ἰωβήλ",
-    "λεγιών",
-    "λεπτόν",
-    "μέλαν",
-    "μίσθιος",
-    "Μωϋσῆς",
-    "νῆστις",  # danker gives noun citation form but morphgnt has as adj.
-    "πανοῦργος",
-    "παράσημος",
-    "πρόγονος",
-    "Σαλείμ",
-    "Σολομών",
-    "σύζυγος",  # danker gives noun citation form but morphgnt has as adj.
-    "συνεργός",  # danker gives noun citation form but morphgnt has as adj.
-    "Ταρσός",
-    "τιμιότης",
-]
 
 DODSON_OVERRIDES = {
     "ἀφθορία":       "N:F",
@@ -272,8 +229,6 @@ for lexeme, metadata in sorted_items(lexemes):
                 ):
                     success.append((key, children))
             if len(success) != 1:
-                if lexeme in SKIP:
-                    break
                 if fail_count == 0:
                     print(lexeme)
                     print(full_citation)
