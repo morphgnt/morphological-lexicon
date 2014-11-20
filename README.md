@@ -16,7 +16,7 @@ Currently (distinctly) working on...
 
 ## Documenting Differences in Lemmatization
 
- - differences.yaml
+ - projects/lemmatization_differences
 
 ## Derivational Morphology
 
@@ -25,7 +25,7 @@ Currently (distinctly) working on...
 ## Principal Part Generation
 
  - projects/principal_parts
- 
+
 ## Citations Forms
 
  - projects/citation_forms
