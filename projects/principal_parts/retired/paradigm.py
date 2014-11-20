@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding: utf-8
 
 from collections import defaultdict
@@ -38,7 +38,7 @@ for row in fs["sblgnt-lexemes"].rows():
         if mood in "I":
             person_number = row["ccat-parse"][0] + row["ccat-parse"][5]
             tense_voice = row["ccat-parse"][1:3]
-            forms[row["lemma"]][tense_voice][person_number].add(strip_accents(row["norm"].decode("utf-8")))
+            forms[row["lemma"]][tense_voice][person_number].add(strip_accents(row["norm"]))
         elif mood in "DSO":
             pass
         elif mood in "P":
@@ -84,4 +84,4 @@ for lemma in forms:
 
 for tense_voice in endings:
     for t in endings[tense_voice]:
-        print tense_voice, t.count("?"), ", ".join(i.encode("utf-8") for i in t)
+        print(tense_voice, t.count("?"), ", ".join(t))

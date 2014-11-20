@@ -1,7 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
+#!/usr/bin/env python3
 
 from collections import defaultdict
+import os.path
 import re
 import sys
 import unicodedata
@@ -30,7 +30,7 @@ def strip_accents(w):
 # tense_voice -> list of dicts mapping person_number to ending (or ?)
 ENDINGS = defaultdict(list)
 
-with open("ending-paradigms.txt") as f:
+with open(os.path.join(os.path.dirname(__file__), "ending-paradigms.txt")) as f:
     num = 0
     for line in f:
         line = line.split("#")[0].strip()
