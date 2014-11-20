@@ -35,6 +35,10 @@ Currently (distinctly) working on...
  - scripts/principal_parts.py
  - scripts/paradigm.py
 
+## Citations Forms
+
+ - projects/citation_forms
+
 
 ## License
 

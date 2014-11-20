@@ -5,7 +5,7 @@ import unicodedata
 
 from morphgnt.utils import load_yaml
 
-from noun_citation_form_data import NOUN_CITATION_FORMS
+from retired.noun_citation_form_data import NOUN_CITATION_FORMS
 
 lexemes = load_yaml("lexemes.yaml")
 
