@@ -24,11 +24,8 @@ Currently (distinctly) working on...
 
 ## Principal Part Generation
 
- - ending-paradigms.txt
- - scripts/check_endings.py
- - scripts/principal_parts.py
- - scripts/paradigm.py
-
+ - projects/principal_parts
+ 
 ## Citations Forms
 
  - projects/citation_forms
