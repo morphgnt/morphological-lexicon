@@ -53,7 +53,7 @@ def stemmer(form, end_rule):
                 proposed_stem = form[:-len(before1 + middle + after2)] + before1 + before2
     else:
         if end_rule != "." and not form.endswith(end_rule):
-            proposed_stem =  None
+            proposed_stem = None
         else:
             if end_rule == ".":
                 proposed_stem = form
@@ -83,4 +83,3 @@ if __name__ == "__main__":
     print(stemmer("AB", "A|B><"), None)
     print(stemmer("XAB", "A|B><"), None)
     # A|B>C<D|E
-
