@@ -463,7 +463,7 @@ for k in sorted(forms_by_lemma.keys(), key=collator.sort_key):
         if gender in forms_by_lemma[k]:
             print("        {}:".format(gender))
             print("            theme(s): {}".format(
-                "/".join(theme_by_lemma[k][gender])
+                "/".join(sorted(theme_by_lemma[k][gender]))
             ))
             for case_number in ["NS", "GS", "DS", "AS", "VS", "NP", "VP", "GP", "DP", "AP"]:
                 if case_number in forms_by_lemma[k][gender]:
@@ -477,7 +477,7 @@ for k in sorted(forms_by_lemma.keys(), key=collator.sort_key):
                     printed_aspect_voice_yet = True
                 print("            {}:".format(gender))
                 print("                theme(s): {}".format(
-                    "/".join(theme_by_lemma[k][aspect_voice + gender])
+                    "/".join(sorted(theme_by_lemma[k][aspect_voice + gender]))
                 ))
                 for case_number in ["NS", "GS", "DS", "AS", "VS", "NP", "VP", "GP", "DP", "AP"]:
                     if case_number in forms_by_lemma[k][aspect_voice + gender]:
