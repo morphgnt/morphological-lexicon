@@ -63,7 +63,7 @@ IGNORE_LIST = [
     "πολύς",
     "μέγας",
 
-    "ὅσιος", # need to sort out 150208
+    "ὅσιος",  # need to sort out 150208
     "νηφάλιος",
     "μάταιος",
     "ἥμισυς",  # what's going on in GSN?
@@ -180,7 +180,7 @@ MOUNCE_OVERRIDES = {
     "τρίμηνον": "a-3a",  # should it be τρίμηνος?
     "ὕαλος": "n-2a",
     # "ὕστερον",
-    "φοβέομαι": "v-1d(2a)", # ?
+    "φοβέομαι": "v-1d(2a)",  # ?
     "χείμαρρος": "n-2a",
     "χρύσεος": "a-1b",  # should it be χρύσους?
     "ψίξ": "n-3b(3)",
@@ -195,7 +195,7 @@ stems_and_class_by_lemma = defaultdict(lambda: defaultdict(lambda: defaultdict(s
 with open("nominal_endings.yaml") as f:
     noun_endings = yaml.load(f)
 
-with open("../morphological-lexicon/lexemes.yaml") as f:
+with open("../../lexemes.yaml") as f:
     lexemes = yaml.load(f)
 
 for book_num in range(1, 28):
@@ -246,124 +246,149 @@ for book_num in range(1, 28):
         new_mounce_cat = []
         for cat in mounce_cat:
             if cat == "a-1a(1)":
-                if gender == "M":    cat = "n-2a"
-                elif gender == "F":  cat = "n-1a"
-                elif gender == "N":  cat = "n-2c"
-                else: assert False
+                cat = {
+                    "M": "n-2a",
+                    "F": "n-1a",
+                    "N": "n-2c",
+                }[gender]
             elif cat == "a-1a(2a)":
-                if gender == "M":    cat = "n-2a"
-                elif gender == "F":  cat = "n-1b"
-                elif gender == "N":  cat = "n-2c"
-                else: assert False
+                cat = {
+                    "M": "n-2a",
+                    "F": "n-1b",
+                    "N": "n-2c",
+                }[gender]
             elif cat == "a-1a(2b)":
-                pass
+                assert False
             elif cat == "a-1b":
-                if gender == "M":    cat = "n-2d"
-                elif gender == "F":  cat = "n-1h"
-                elif gender == "N":  cat = "n-2d"
-                else: assert False
+                cat = {
+                    "M": "n-2d",
+                    "F": "n-1h",
+                    "N": "n-2d",
+                }[gender]
             elif cat == "a-2a":
-                if gender == "M":    cat = "n-3c(5a)"
-                elif gender == "F":  cat = "n-1c"
-                elif gender == "N":  cat = "n-3c(5a)"
-                else: assert False
+                cat = {
+                    "M": "n-3c(5a)",
+                    "F": "n-1c",
+                    "N": "n-3c(5a)",
+                }[gender]
             elif cat == "a-2a(2)":  # made up
-                if gender == "M":    cat = "n-3c(5b)"
-                elif gender == "F":  cat = "n-1c"
-                elif gender == "N":  cat = "n-3c(5b)"
-                else: assert False
+                cat = {
+                    "M": "n-3c(5b)",
+                    "F": "n-1c",
+                    "N": "n-3c(5b)",
+                }[gender]
             elif cat == "a-2a(3)":  # made up
-                if gender == "M":    cat = "n-3f(1aS)"  # made up
-                elif gender == "F":  cat = "n-1c"
-                elif gender == "N":  cat = "n-3f(1aS)"
-                else: assert False
+                cat = {
+                    "M": "n-3f(1aS)",  # made up
+                    "F": "n-1c",
+                    "N": "n-3f(1aS)",
+                }[gender]
             elif cat == "a-2b":
-                if gender == "M":    cat = "n-3e(5bF)"  # made up
-                elif gender == "F":  cat = "n-1a"
-                elif gender == "N":  cat = "n-3e(5bF)"
-                else: assert False
+                cat = {
+                    "M": "n-3e(5bF)",  # made up
+                    "F": "n-1a",
+                    "N": "n-3e(5bF)",
+                }[gender]
             elif cat == "a-3a":
-                if gender == "M":    cat = "n-2a"
-                elif gender == "F":  cat = "n-2b"
-                elif gender == "N":  cat = "n-2c"
-                else: assert False
+                cat = {
+                    "M": "n-2a",
+                    "F": "n-2b",
+                    "N": "n-2c",
+                }[gender]
             elif cat == "a-3b(1)":
-                if gender == "M":    cat = "n-2a"
-                elif gender == "F":  cat = "n=1a/2b"
-                elif gender == "N":  cat = "n-2c"
-                else: assert False
+                cat = {
+                    "M": "n-2a",
+                    "F": "n=1a/2b",
+                    "N": "n-2c",
+                }[gender]
             elif cat == "a-3b(2)":
-                if gender == "M":    cat = "n-2a"
-                elif gender == "F":  cat = "n=1b/2b"
-                elif gender == "N":  cat = "n-2c"
-                else: assert False
+                cat = {
+                    "M": "n-2a",
+                    "F": "n=1b/2b",
+                    "N": "n-2c",
+                }[gender]
             elif cat == "a-4a":
-                if gender == "M":    cat = "n-3d(2aA)"  # made up
-                elif gender == "F":  cat = "n-3d(2aA)"
-                elif gender == "N":  cat = "n-3d(2bA)"  # made up
-                else: assert False
+                cat = {
+                    "M": "n-3d(2aA)",  # made up
+                    "F": "n-3d(2aA)",
+                    "N": "n-3d(2bA)",  # made up
+                }[gender]
             elif cat == "a-4b(1)":
-                if gender == "M":    cat = "n-3f(1bA)"  # made up
-                elif gender == "F":  cat = "n-3f(1bA)"
-                elif gender == "N":  cat = "n-3f(1bA)"
-                else: assert False
+                cat = {
+                    "M": "n-3f(1bA)",  # made up
+                    "F": "n-3f(1bA)",
+                    "N": "n-3f(1bA)",
+                }[gender]
             elif cat == "a-4b(2)":
-                if gender == "M":    cat = "n-3f(TIS)"  # made up
-                elif gender == "F":  cat = "n-3f(TIS)"
-                elif gender == "N":  cat = "n-3f(TIS)"
-                else: assert False
+                cat = {
+                    "M": "n-3f(TIS)",  # made up
+                    "F": "n-3f(TIS)",
+                    "N": "n-3f(TIS)",
+                }[gender]
             elif cat.startswith("v") or cat.startswith("cv"):
                 if aspect_voice == "PA":
-                    if gender == "M":    cat = "n-3c(5-PAP)"
-                    elif gender == "F":  cat = "n-1c"
-                    elif gender == "N":  cat = "n-3c(5-PAP)"
-                    else: assert False
+                    cat = {
+                        "M": "n-3c(5-PAP)",  # made up
+                        "F": "n-1c",
+                        "N": "n-3c(5-PAP)",
+                    }[gender]
                 elif aspect_voice == "PM":
-                    if gender == "M":    cat = "n-2a"
-                    elif gender == "F":  cat = "n-1b"
-                    elif gender == "N":  cat = "n-2c"
-                    else: assert False
+                    cat = {
+                        "M": "n-2a",
+                        "F": "n-1b",
+                        "N": "n-2c",
+                    }[gender]
                 elif aspect_voice == "AA":
-                    if gender == "M":    cat = "n-3c(5a-AAP)"
-                    elif gender == "F":  cat = "n-1c"
-                    elif gender == "N":  cat = "n-3c(5a-AAP)"
-                    else: assert False
+                    cat = {
+                        "M": "n-3c(5a-AAP)",  # made up
+                        "F": "n-1c",
+                        "N": "n-3c(5a-AAP)",
+                    }[gender]
                 elif aspect_voice == "AM":
-                    if gender == "M":    cat = "n-2a"
-                    elif gender == "F":  cat = "n-1b"
-                    elif gender == "N":  cat = "n-2c"
-                    else: assert False
+                    cat = {
+                        "M": "n-2a",
+                        "F": "n-1b",
+                        "N": "n-2c",
+                    }[gender]
                 elif aspect_voice == "AP":
-                    if gender == "M":    cat = "n-3c(5a-APP)"
-                    elif gender == "F":  cat = "n-1c"
-                    elif gender == "N":  cat = "n-3c(5a-APP)"
-                    else: assert False
+                    cat = {
+                        "M": "n-3c(5a-APP)",  # made up
+                        "F": "n-1c",
+                        "N": "n-3c(5a-APP)",
+                    }[gender]
                 elif aspect_voice == "XA":
-                    if gender == "M":    cat = "n-3c(1-XAP)"
-                    elif gender == "F":  cat = "n-1a(XAP)"
-                    elif gender == "N":  cat = "n-3c(1-XAP)"
-                    else: assert False
+                    cat = {
+                        "M": "n-3c(1-XAP)",  # made up
+                        "F": "n-1c",
+                        "N": "n-3c(1-XAP)",
+                    }[gender]
                 elif aspect_voice == "XM":
-                    if gender == "M":    cat = "n-2a"
-                    elif gender == "F":  cat = "n-1b"
-                    elif gender == "N":  cat = "n-2c"
-                    else: assert False
+                    cat = {
+                        "M": "n-2a",
+                        "F": "n-1b",
+                        "N": "n-2c",
+                    }[gender]
                 elif aspect_voice == "FA":
-                    if gender == "M":    cat = "n-3c(5-PAP)"
-                    elif gender == "F":  cat = "n-1c"
-                    elif gender == "N":  cat = "n-3c(5-PAP)"
-                    else: assert False
+                    cat = {
+                        "M": "n-3c(5-PAP)",
+                        "F": "n-1c",
+                        "N": "n-3c(5-PAP)",
+                    }[gender]
                 elif aspect_voice == "FM":
-                    if gender == "M":    cat = "n-2a"
-                    elif gender == "F":  cat = "n-1b"
-                    elif gender == "N":  cat = "n-2c"
-                    else: assert False
+                    cat = {
+                        "M": "n-2a",
+                        "F": "n-1b",
+                        "N": "n-2c",
+                    }[gender]
                 elif aspect_voice == "FP":
-                    if gender == "M":    cat = "n-2a"
-                    elif gender == "F":  cat = "n-1b"
-                    elif gender == "N":  cat = "n-2c"
-                    else: assert False
-                else: assert False, aspect_voice
+                    cat = {
+                        "M": "n-2a",
+                        "F": "n-1b",
+                        "N": "n-2c",
+                    }[gender]
+                else:
+                    assert False, aspect_voice
+
             new_mounce_cat.append(cat)
 
         orig_norm = norm
@@ -382,7 +407,7 @@ for book_num in range(1, 28):
         norm = norm.replace("ᾡ", "hῳ")
         norm = norm.replace("οὐ", "ου")
         norm = norm.replace("ὠ", "ω")
-        norm = norm.replace("ὀ" ,"ο")
+        norm = norm.replace("ὀ", "ο")
         norm = norm.replace("ἀ", "α")
 
         success = False
@@ -432,7 +457,6 @@ collator = Collator()
 
 for k in sorted(forms_by_lemma.keys(), key=collator.sort_key):
     print("{}:".format(k))
-#    print("    gender: {}".format(", ".join(sorted(forms_by_lemma[k].keys(), key=lambda x: {"M": 0, "F": 1, "N": 2, "-": 3}[x]))))
     print("    mounce: {}".format(", ".join(sorted(mounce_by_lemma[k]))))
     print("    forms:")
     for gender in ["M", "F", "N", "-"]:
@@ -443,7 +467,7 @@ for k in sorted(forms_by_lemma.keys(), key=collator.sort_key):
             ))
             for case_number in ["NS", "GS", "DS", "AS", "VS", "NP", "VP", "GP", "DP", "AP"]:
                 if case_number in forms_by_lemma[k][gender]:
-                    print("            {}: {}".format(case_number, " / ".join("{} {}|{} {}".format(n, t, e1, "" if not e2 else e2) for n, t, e1, e2 in forms_by_lemma[k][gender][case_number])))
+                    print("            {}: {}".format(case_number, " / ".join("{} {}|{} {}".format(n, t, e1, "" if not e2 else e2) for n, t, e1, e2 in sorted(forms_by_lemma[k][gender][case_number]))))
     for aspect_voice in ["PA", "PM", "AA", "AM", "AP", "FA", "FM", "FP", "XA", "XM"]:
         printed_aspect_voice_yet = False
         for gender in ["M", "F", "N", "-"]:
@@ -462,4 +486,4 @@ for k in sorted(forms_by_lemma.keys(), key=collator.sort_key):
                             " / ".join(
                                 "{} {}|{} {}".format(
                                     n, t, e1, "" if not e2 else e2
-                                ) for n, t, e1, e2 in forms_by_lemma[k][aspect_voice + gender][case_number])))
+                                ) for n, t, e1, e2 in sorted(forms_by_lemma[k][aspect_voice + gender][case_number]))))
