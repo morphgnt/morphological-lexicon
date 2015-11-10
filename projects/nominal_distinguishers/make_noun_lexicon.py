@@ -5,45 +5,14 @@ from pyuca import Collator
 import yaml
 
 from characters import strip_accents
+from morphgnt.utils import load_wordset
 
 from collections import defaultdict
 import re
 
-IGNORE_LIST = [
-    "ῥαββί",
-    "ἰῶτα",  # @@@
-    "ἠλί",
-    "ταλιθα",
-    "ραββουνι",
-    "αββα",
-    "ἐλωΐ",
-    "πάσχα",
-    "μαράνα",
-    "μάννα",
-    "ῥακά",
-    "σίκερα",
-    "δεκατέσσαρες",
-    "τεσσεράκοντα",
-    "δύο",
-    "δώδεκα",
-    "ἑπτά",
-    "ἑκατόν",
-    "ἑξήκοντα",
-    "τριάκοντα",
-    "πέντε",
-    "ἕξ",
-    "ἐνενήκοντα",
-    "ἐννέα",
-    "δέκα",
-    "ἕνδεκα",
-    "πεντήκοντα",
-    "ὀκτώ",
-    "ὀγδοήκοντα",
-    "δεκαοκτώ",
-    "εἴκοσι(ν)",
-    "δεκαπέντε",
-    "ἑβδομήκοντα",
+IGNORE_SET = load_wordset("../../nominal-indeclinable.txt")
 
+IGNORE_SET.update({
     "ὅδε",
     "τοιόσδε",
 
@@ -94,7 +63,8 @@ IGNORE_LIST = [
 
     "ἑκατοντάρχης",  # @@@ lemmatization bug?
     "πλοῦτος",
-]
+    "δύο",
+})
 
 MOUNCE_OVERRIDES = {
     "ἄγαμος": "n=2a/2b",
@@ -214,7 +184,7 @@ for book_num in range(1, 28):
         if ccat_parse[7] != "-":
             continue  # @@@
 
-        if lemma in IGNORE_LIST:
+        if lemma in IGNORE_SET:
             continue
 
         if lemma[0].lower() != lemma[0]:
