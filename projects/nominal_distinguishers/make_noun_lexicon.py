@@ -16,22 +16,6 @@ IGNORE_SET.update({
     "ὅδε",
     "τοιόσδε",
 
-    # not in lexemes.yaml
-    "μήν",
-
-    "γυνή",
-    "θρίξ",
-    "θυγάτηρ",
-    "ἔρις",
-    "κλείς",
-    "ὀστέον",
-    "οὖς",  # needs to be distinguished from fws
-    "χείρ",  # just problematic in DPF
-    "χάρις",  # just problematic in ASF
-
-    "πολύς",
-    "μέγας",
-
     "ὅσιος",  # need to sort out 150208
     "νηφάλιος",
     "μάταιος",
@@ -66,6 +50,10 @@ IGNORE_SET.update({
     "δύο",
 })
 
+LEMMA_OVERRIDE = {
+    "μήν": "μήν/N",
+}
+
 MOUNCE_OVERRIDES = {
     "ἄγαμος": "n=2a/2b",
     "αἴτιον": "a-1a(1)",  # should it be αἴτιος?
@@ -83,6 +71,7 @@ MOUNCE_OVERRIDES = {
     "βασίλειον": "a-3a",  # should it be βασίλειος in Luke?
     "βάτος": "n=2a/2b",
     # "βέλτιον",
+    "γυνή": "n=3b(1GUNH)",
     "δάκρυον": "n=2c(SIN)",  # n-2c with σι(ν) DPN
     "δεῖνα": "n-3f(1a)",
     "δεκάτη": "a-1a(2a)",  # should it be δέκατος
@@ -98,6 +87,7 @@ MOUNCE_OVERRIDES = {
     "ἐξανάστασις": "n-3e(5b)",
     "ἐξανάστασις": "n-3e(5b)",
     "ἔρημος": "a-3a",
+    "ἔρις": "n=3c(2-ERIS)",
     "ἔσθω": "v-1b(3)",
     "ἑτεροζυγέω": "v-1d(2a)",
     # "εὐκοπώτερος",
@@ -116,10 +106,12 @@ MOUNCE_OVERRIDES = {
     "Ἰσκαριώτης": "n-1f",
     "κακοποιός": "a-3a",
     "κάμηλος": "n-2b",
+    "κλείς": "n=3c(2KLEIS)",
     "λεπτόν": "a-1a(2a)",  # @@@ lemma?
     "λιμός": "n=2a/2b",
     "Μαθθαῖος": "n-2a",
     "Μαθθίας": "n-1d",
+    "μέγας": "a=1a(2a-MEGAS)",
     "μέλαν": "a-2a(3)",  # made up subcategory
     "μήν": "n-3f(1a)",
     "μητρολῴας": "n-1d",
@@ -129,10 +121,12 @@ MOUNCE_OVERRIDES = {
     "οἶμαι": "v-1d(2c)",
     "ὄνος": "n=2a/2b",  # masculine in Luke
     "ὀστέον": "n-2d",
+    "οὖς": "n=3c(6c-OUS)",
     "ὀψία": "n-1a",
     "παρθένος": "n=2a/2b",  # only masculine in Revelation
     "παρίστημι": "cv-6a",
     "Πέργαμος": "n-2b",
+    "πολύς": "a=1a(2a-POLUS)",
     "πυκνά": "a-1a(2a)",  # change to πυκνός in Luke?
     "σάββατον": "n=2c(SAB)",  # n-2c with σι(ν) DPN
     "σκῦλα": "n-2c",  # change to σκῦλον?
@@ -152,6 +146,7 @@ MOUNCE_OVERRIDES = {
     # "ὕστερον",
     "φοβέομαι": "v-1d(2a)",  # ?
     "χείμαρρος": "n-2a",
+    "χείρ": "n=3f(2a-XEIR)",
     "χρύσεος": "a-1b",  # should it be χρύσους?
     "ψίξ": "n-3b(3)",
 }
@@ -190,6 +185,8 @@ for book_num in range(1, 28):
         if lemma[0].lower() != lemma[0]:
             continue
 
+        if lemma in LEMMA_OVERRIDE:
+            lemma = LEMMA_OVERRIDE[lemma]
         if lemma in MOUNCE_OVERRIDES:
             mounce_cat = MOUNCE_OVERRIDES[lemma]
         else:
@@ -226,6 +223,18 @@ for book_num in range(1, 28):
                     "M": "n-2a",
                     "F": "n-1b",
                     "N": "n-2c",
+                }[gender]
+            elif cat == "a=1a(2a-POLUS)":
+                cat = {
+                    "M": "n=2a(POLUS)",
+                    "F": "n-1b",
+                    "N": "n=2c(POLUS)",
+                }[gender]
+            elif cat == "a=1a(2a-MEGAS)":
+                cat = {
+                    "M": "n=2a(MEGAS)",
+                    "F": "n-1b",
+                    "N": "n=2c(MEGAS)",
                 }[gender]
             elif cat == "a-1a(2b)":
                 assert False
