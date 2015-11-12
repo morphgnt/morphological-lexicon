@@ -15,27 +15,7 @@ IGNORE_SET = load_wordset("../../nominal-indeclinable.txt")
 IGNORE_SET.update({
     "ὅδε",
     "τοιόσδε",
-
-    "ὁ",
-    "ὅς",
-    "οὗτος",
-    "αὐτός",
     "ὅστις",
-    "τοιοῦτος",
-    "ἐκεῖνος",
-    "ἄλλος",
-    "τοσοῦτος",
-    "ἑαυτοῦ",
-    "σεαυτοῦ",
-    "κἀκεῖνος",
-    "ἀλλήλων",
-    "τηλικοῦτος",
-
-    "παραπλήσιον",
-
-    "ἑκατοντάρχης",  # @@@ lemmatization bug?
-    "πλοῦτος",
-    "δύο",
 })
 
 LEMMA_OVERRIDE = {
@@ -49,11 +29,14 @@ MOUNCE_OVERRIDES = {
     "ἄκων": "a-2a(2)",
     "ἅλα": "n-3c(6aALA)",  # @@@
     "ἀλάβαστρος": "n-2b",
+    "ἄλλος": "a=1a(2b-HOS)",
+    "ἀλλήλων": "a=1a(2b-HOS)",  # @@@
     # "ἀλυπότερος",
     "ἀμφιέννυμι": "v-3c(1)",
     # "ἀνάθεμα",  # @@@ lemmatization bug?
     # "ἀνώτερος",
     "ἄπειμι": "cv-6b",
+    "αὐτός": "a=1a(2b-HOS)",
     "ἄψινθος": "n-2b",
     "βάθος": "n-3d(2b)",
     "βασίλειον": "a-3a",  # should it be βασίλειος in Luke?
@@ -67,10 +50,14 @@ MOUNCE_OVERRIDES = {
     "διάκονος": "n=2a/2b",
     "διαπλέω": "cv-1a(7)",
     "δοῦλος": "a-1a(2a)",  # @@@
+    "δύο": "a-5(DUO)",
     "δύσις": "n-3e(5b)",
+    "ἑαυτοῦ": "a=1a(2b-HOS)",  # @@@
     "εἰδωλόθυτον": "a-3a",  # should it be εἰδωλόθυτος ?
     "εἷς": "a=4b(2-EIS)",
     "εἴωθα": "v-1b(3)",
+    "ἑκατοντάρχης": "n=1f/n-2a",  # lemmatization issue?
+    "ἐκεῖνος": "a=1a(2b-HOS)",
     "ἑκών": "a-2a(2)",  # made up subcategory to select n-3c(5b) in masculine/neuter
     "ἔννυχα": "a-3a",  # incorrect lemma?
     "ἐξανάστασις": "n-3e(5b)",
@@ -93,6 +80,7 @@ MOUNCE_OVERRIDES = {
     "Ἰουνία": "n-1a",
     "ἱππικόν": "a-1a(2a)",  # should it be ἱππικός?
     "Ἰσκαριώτης": "n-1f",
+    "κἀκεῖνος": "a=1a(2b-HOS)",
     "κακοποιός": "a-3a",
     "κάμηλος": "n-2b",
     "κλείς": "n=3c(2KLEIS)",
@@ -110,19 +98,25 @@ MOUNCE_OVERRIDES = {
     "νηφάλιος": "a-3a",  # @@@
     "νουμηνία": "n-1a",
     "νύμφη": "n-1b",
+    "ὁ": "a=1a(2b-HO)",
+    "ὅς": "a=1a(2b-HOS)",
     "οἶμαι": "v-1d(2c)",
     "ὄνος": "n=2a/2b",  # masculine in Luke
     "ὅσιος": "a-3a",  # @@@
     "ὀστέον": "n-2d",
     "οὐδείς": "a=4b(2-EIS)",
     "οὖς": "n=3c(6c-OUS)",
+    "οὗτος": "a=1a(2b-HOS)",
     "ὀψία": "n-1a",
+    "παραπλήσιον": "a-1a(1)",
     "παρθένος": "n=2a/2b",  # only masculine in Revelation
     "παρίστημι": "cv-6a",
     "Πέργαμος": "n-2b",
+    "πλοῦτος": "n=2a(PLOUTOS)",
     "πολύς": "a=1a(2a-POLUS)",
     "πυκνά": "a-1a(2a)",  # change to πυκνός in Luke?
     "σάββατον": "n=2c(SAB)",  # n-2c with σι(ν) DPN
+    "σεαυτοῦ": "a=1a(2b-HOS)",  # @@@
     "σκῦλα": "n-2c",  # change to σκῦλον?
     "στάδιος": "n-2a",
     "στάμνος": "n-2b",
@@ -131,10 +125,13 @@ MOUNCE_OVERRIDES = {
     # "τάχιον",
     "ταχύ": "adverb",
     "τέσσαρες": "a-4c",
+    "τηλικοῦτος": "a=1a(2b-HOS)",
     "τιμιότης": "n-3c(1)",
     "τίς": "a-4b(2-TIS)",
     "τις": "a-4b(2-TIS)",
     # "τομώτερος",
+    "τοιοῦτος": "a=1a(2b-HOS)",
+    "τοσοῦτος": "a=1a(2b-HOSb)",
     "τοὔνομα": "n-3c(4)",
     "τρεῖς": "a=4a(TREIS)",
     "τριετία": "n-1a",
@@ -239,8 +236,24 @@ for book_num in range(1, 28):
                     "F": "n-1b",
                     "N": "n=2c(MEGAS)",
                 }[gender]
-            elif cat == "a-1a(2b)":
-                assert False
+            elif cat == "a=1a(2b-HO)":
+                cat = {
+                    "M": "n=2a(HO)",
+                    "F": "n=1b(HO)",
+                    "N": "n=2c(HO)",
+                }[gender]
+            elif cat == "a=1a(2b-HOS)":
+                cat = {
+                    "M": "n=2a(HOS)",  # can get rid of? @@@
+                    "F": "n=1b(HOS)",  # can get rid of? @@@
+                    "N": "n=2c(HOS)",
+                }[gender]
+            elif cat == "a=1a(2b-HOSb)":
+                cat = {
+                    "M": "n-2a",
+                    "F": "n-1b",
+                    "N": "n=2c(HOSb)",
+                }[gender]
             elif cat == "a-1b":
                 cat = {
                     "M": "n-2d",
