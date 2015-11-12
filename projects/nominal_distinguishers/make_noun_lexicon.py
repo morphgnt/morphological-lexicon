@@ -419,16 +419,11 @@ for book_num in range(1, 28):
 
         success = False
         for ending_and_class_regex in noun_endings[case_number + gender]:
-            l = len(ending_and_class_regex.split())
-            if l == 3:
+            try:
                 ending, class_regex, explanation = ending_and_class_regex.split()
-            elif l == 2:
-                ending, class_regex = ending_and_class_regex.split()
-                explanation = None
-            else:
-                ending = ending_and_class_regex
-                class_regex = None
-                explanation = None
+            except ValueError:
+                print("{}\n{} {}".format(row["bcv"], case_number + gender, ending_and_class_regex))
+                quit()
 
             if norm.endswith(ending.replace(".", "")):
                 success = True
