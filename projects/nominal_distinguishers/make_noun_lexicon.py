@@ -16,18 +16,6 @@ IGNORE_SET.update({
     "ὅδε",
     "τοιόσδε",
 
-    "ὅσιος",  # need to sort out 150208
-    "νηφάλιος",
-    "μάταιος",
-    "ἥμισυς",  # what's going on in GSN?
-
-    "τρεῖς",  # works but revisit (p236)
-    "οὐδείς",
-    "εἷς",
-    "μηδείς",
-
-    "τέσσαρες",
-
     "ὁ",
     "ὅς",
     "οὗτος",
@@ -81,6 +69,7 @@ MOUNCE_OVERRIDES = {
     "δοῦλος": "a-1a(2a)",  # @@@
     "δύσις": "n-3e(5b)",
     "εἰδωλόθυτον": "a-3a",  # should it be εἰδωλόθυτος ?
+    "εἷς": "a=4b(2-EIS)",
     "εἴωθα": "v-1b(3)",
     "ἑκών": "a-2a(2)",  # made up subcategory to select n-3c(5b) in masculine/neuter
     "ἔννυχα": "a-3a",  # incorrect lemma?
@@ -111,16 +100,21 @@ MOUNCE_OVERRIDES = {
     "λιμός": "n=2a/2b",
     "Μαθθαῖος": "n-2a",
     "Μαθθίας": "n-1d",
+    "μάταιος": "a=1a(1)/a-3",
     "μέγας": "a=1a(2a-MEGAS)",
     "μέλαν": "a-2a(3)",  # made up subcategory
+    "μηδείς": "a=4b(2-EIS)",
     "μήν": "n-3f(1a)",
     "μητρολῴας": "n-1d",
     "μίγνυμι": "v-3c(2)",
+    "νηφάλιος": "a-3a",  # @@@
     "νουμηνία": "n-1a",
     "νύμφη": "n-1b",
     "οἶμαι": "v-1d(2c)",
     "ὄνος": "n=2a/2b",  # masculine in Luke
+    "ὅσιος": "a-3a",  # @@@
     "ὀστέον": "n-2d",
+    "οὐδείς": "a=4b(2-EIS)",
     "οὖς": "n=3c(6c-OUS)",
     "ὀψία": "n-1a",
     "παρθένος": "n=2a/2b",  # only masculine in Revelation
@@ -138,8 +132,11 @@ MOUNCE_OVERRIDES = {
     "ταχύ": "adverb",
     "τέσσαρες": "a-4c",
     "τιμιότης": "n-3c(1)",
+    "τίς": "a-4b(2-TIS)",
+    "τις": "a-4b(2-TIS)",
     # "τομώτερος",
     "τοὔνομα": "n-3c(4)",
+    "τρεῖς": "a=4a(TREIS)",
     "τριετία": "n-1a",
     "τρίμηνον": "a-3a",  # should it be τρίμηνος?
     "ὕαλος": "n-2a",
@@ -218,6 +215,12 @@ for book_num in range(1, 28):
                     "F": "n-1a",
                     "N": "n-2c",
                 }[gender]
+            elif cat == "a=1a(1)/a-3":
+                cat = {
+                    "M": "n-2a",
+                    "F": "n=1a/2b",
+                    "N": "n-2c",
+                }[gender]
             elif cat == "a-1a(2a)":
                 cat = {
                     "M": "n-2a",
@@ -292,17 +295,29 @@ for book_num in range(1, 28):
                     "F": "n-3d(2aA)",
                     "N": "n-3d(2bA)",  # made up
                 }[gender]
+            elif cat == "a=4a(TREIS)":
+                cat = {
+                    "M": "n-3d(2aA-TREIS)",  # made up
+                    "F": "n-3d(2aA-TREIS)",
+                    "N": "n-3d(2bA-TREIS)",  # made up
+                }[gender]
             elif cat == "a-4b(1)":
                 cat = {
                     "M": "n-3f(1bA)",  # made up
                     "F": "n-3f(1bA)",
                     "N": "n-3f(1bA)",
                 }[gender]
-            elif cat == "a-4b(2)":
+            elif cat == "a-4b(2-TIS)":
                 cat = {
                     "M": "n-3f(TIS)",  # made up
                     "F": "n-3f(TIS)",
                     "N": "n-3f(TIS)",
+                }[gender]
+            elif cat == "a=4b(2-EIS)":
+                cat = {
+                    "M": "n-3f(EIS)",  # made up
+                    "F": "n=1a(EIS)",
+                    "N": "n-3f(EIS)",
                 }[gender]
             elif cat.startswith("v") or cat.startswith("cv"):
                 if aspect_voice == "PA":
