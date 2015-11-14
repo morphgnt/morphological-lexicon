@@ -581,4 +581,45 @@ def output_yaml():
                                     ) for n, t, e1, e2, m in sorted(forms_by_lemma[k][aspect_voice + gender][case_number]))))
 
 
+def output_space_delimited():
+    for k in sorted(forms_by_lemma.keys(), key=collator.sort_key):
+        col_0 = k
+        col_1 = "&".join(sorted(mounce_by_lemma[k]))
+        if col_1.startswith(("v", "cv")):
+            col_1 = "verb"
+
+        for gender in ["M", "F", "N", "-"]:
+            if gender in forms_by_lemma[k]:
+                col_2 = gender
+                col_3 = "∨".join(sorted(theme_by_lemma[k][gender])) or "_"
+                for case_number in ["NS", "GS", "DS", "AS", "VS", "NP", "VP", "GP", "DP", "AP"]:
+                    if case_number in forms_by_lemma[k][gender]:
+                        col_4 = case_number
+                        for n, t, e1, e2, m in sorted(forms_by_lemma[k][gender][case_number]):
+                            col_5 = n
+                            col_6 = t or "_"
+                            col_7 = e1 or "_"
+                            col_9 = e2
+                            col_10 = m
+                            col_9 = col_9
+                            print(col_0, col_1, "--", col_2, col_10, col_3, col_4, col_5, col_6, col_7, col_9)
+        for aspect_voice in ["PA", "PM", "AA", "AM", "AP", "FA", "FM", "FP", "XA", "XM"]:
+            for gender in ["M", "F", "N", "-"]:
+                if aspect_voice + gender in forms_by_lemma[k]:
+                    col_8 = aspect_voice
+                    col_2 = gender
+                    col_3 = "∨".join(sorted(theme_by_lemma[k][aspect_voice + gender])) or "_"
+                    for case_number in ["NS", "GS", "DS", "AS", "VS", "NP", "VP", "GP", "DP", "AP"]:
+                        if case_number in forms_by_lemma[k][aspect_voice + gender]:
+                            col_4 = case_number
+                            for n, t, e1, e2, m in sorted(forms_by_lemma[k][aspect_voice + gender][case_number]):
+                                col_5 = n
+                                col_6 = t or "_"
+                                col_7 = e1 or "_"
+                                col_9 = e2
+                                col_10 = m
+                                col_9 = col_9
+                                print(col_0, col_1, col_8, col_2, col_10, col_3, col_4, col_5, col_6, col_7, col_9)
+
+
 output_yaml()
