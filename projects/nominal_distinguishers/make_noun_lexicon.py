@@ -9,6 +9,7 @@ from morphgnt.utils import load_wordset
 
 from collections import defaultdict
 import re
+import sys
 
 collator = Collator()
 
@@ -180,6 +181,11 @@ with open("nominal_endings.yaml") as f:
 
 with open("../../lexemes.yaml") as f:
     lexemes = yaml.load(f)
+
+
+def error(message):
+    print("\x1b[31m" + message + "\x1b[0m", file=sys.stderr)
+    sys.exit(1)
 
 
 def map_non_noun_categories(mounce_cat, aspect_voice, gender, lemma):
@@ -490,8 +496,7 @@ for book_num in range(1, 28):
             try:
                 mounce_cat = lexeme["mounce-morphcat"]
             except:
-                print("{} has no mounce-morphcat".format(lemma))
-                quit()
+                error("{} has no mounce-morphcat".format(lemma))
         if not isinstance(mounce_cat, list):
             mounce_cat = [mounce_cat]
 
@@ -508,8 +513,7 @@ for book_num in range(1, 28):
             try:
                 ending, class_regex, explanation = ending_and_class_regex.split()
             except ValueError:
-                print("{}\n{} {}".format(row["bcv"], case_number + gender, ending_and_class_regex))
-                quit()
+                error("{}\n{} {}".format(row["bcv"], case_number + gender, ending_and_class_regex))
 
             if norm.endswith(ending.replace(".", "")):
                 success = set()
@@ -520,9 +524,10 @@ for book_num in range(1, 28):
                     break
 
         if not success:
-            print("@@@", row["bcv"], lemma, gender, case_number, mounce_cat, aspect_voice)
-            print(norm, " / ".join(new_mounce_cat).replace("(", "\\(").replace(")", "\\)"))
-            quit()
+            error("{} {} {} {} {} {} {} {}".format(
+                row["bcv"], lemma, gender, case_number, mounce_cat, aspect_voice,
+                norm, " / ".join(new_mounce_cat).replace("(", "\\(").replace(")", "\\)"))
+            )
 
         if "." in ending:
             ending = ending[ending.find(".") + 1:]
