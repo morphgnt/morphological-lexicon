@@ -40,6 +40,8 @@ LEMMA_OVERRIDE = {
 
 LEMMATIZATION_OVERRIDES = {
     ("ῥιπτούντων", "-PAPGPM-"): "ῥιπτέω",
+    ("χρυσᾶ", "----NPN-"): "χρυσοῦς",
+    ("χρυσῆ", "----NSF-"): "χρύσεος",
 }
 
 
@@ -47,6 +49,7 @@ LEMMATIZATION_OVERRIDES = {
 
 MOUNCE_OVERRIDES = {
     "ἄγαμος": ["n-2a", "n-2b"],
+    "ἀήρ": "n=3f(2b-EPSILON)",
     "αἴτιον": "a-1a(1)",  # should it be αἴτιος?
     "ἄκων": "a-2a(2)",
     "ἅλα": "n-3c(6aALA)",  # @@@
@@ -55,13 +58,19 @@ MOUNCE_OVERRIDES = {
     "ἀλλήλων": "a=1a(2b-HOS)",  # @@@
     "ἀποστυγέω": "cv-1d(2a)",
     "ἀμφιέννυμι": "v-3c(1)",
+    "ἀνήρ": "n=3f(2c-D)",
     "ἄπειμι": "cv-6b",
+    "ἁπλοῦς": "a=1b(OMICRON)",
     "ἀροτριάω": "v-1d(1)",
+    "ἄρσην": "a=4b(1-EPSILON)",
+    "ἀρχιποίμην": "n=3f(1b-EPSILON)",
+    "ἀστήρ": "n=3f(2b-EPSILON)",
     "αὐτός": "a=1a(2b-HOS)",
     "ἄψινθος": "n-2b",
     "βάθος": "n-3d(2)",
     "βασίλειον": "a-3a",  # should it be βασίλειος in Luke?
     "βάτος": ["n-2a", "n-2b"],
+    "γῆ": "n=1h(ETA)",
     "γυνή": "n=3b(1GUNH)",
     "δάκρυον": "n=2c(SIN)",  # n-2c with σι(ν) DPN
     "δεῖνα": "n-3f(1a)",
@@ -69,6 +78,7 @@ MOUNCE_OVERRIDES = {
     "δεσμόν": "n-2c",
     "διάκονος": ["n-2a", "n-2b"],
     "διαπλέω": "cv-1a(7)",
+    "διπλοῦς": "a=1b(OMICRON)",  # is it omicron?
     "δοῦλος": "a-1a(2a)",  # @@@
     "δύο": "a-5(DUO)",
     "δύσις": "n-3e(5b)",
@@ -105,6 +115,7 @@ MOUNCE_OVERRIDES = {
     "κάμηλος": "n-2b",
     "κλείς": ["n=3c(2NU)", "n-3c(2)"],
     "λεπτόν": "a-1a(2a)",  # @@@ lemma?
+    "λιμήν": "n=3f(1b-EPSILON)",
     "λιμός": ["n-2a", "n-2b"],
     "Μαθθαῖος": "n-2a",
     "Μαθθίας": "n-1d",
@@ -115,6 +126,7 @@ MOUNCE_OVERRIDES = {
     "μήν": "n-3f(1a)",
     "μητρολῴας": "n-1d",
     "μίγνυμι": "v-3c(2)",
+    "μνᾶ": "n=1h(ALPHA)",
     "νῆστις": "n-3e(5a)",  # Mounce gives n-3c(2) with n-3e(5a) as footnote (typo'd as n-3c(5a)) but in NT it's only latter
     "νηφάλιος": "a-3a",  # @@@
     "νουμηνία": "n-1a",
@@ -132,10 +144,11 @@ MOUNCE_OVERRIDES = {
     "οὗτος": "a=1a(2b-HOS)",
     "ὀψία": "n-1a",
     "παραπλήσιον": "a-1a(1)",
-    "παρθένος": ["n-2a", "n-2b"], # only masculine in Revelation
+    "παρθένος": ["n-2a", "n-2b"],  # only masculine in Revelation
     "παρίστημι": "cv-6a",
     "Πέργαμος": "n-2b",
     "πλοῦτος": ["n-2a", "n=2a(PLOUTOS)"],
+    "ποιμήν": "n=3f(1b-EPSILON)",
     "πολύς": "a=1a(2a-POLUS)",
     "πούς": ["n=3c(2-OD)", "n-3c(2)"],
     "προφῆτις": ["n=3c(1NU)", "n-3c(1)"],
@@ -144,9 +157,11 @@ MOUNCE_OVERRIDES = {
     "σάββατον": "n=2c(SAB)",  # n-2c with σι(ν) DPN
     "σεαυτοῦ": "a=1a(2b-HOS)",  # @@@
     "σκῦλα": "n-2c",  # change to σκῦλον?
+    "σιδηροῦς": "a=1b(ALPHA-F)",
     "στάδιος": "n-2a",
     "στάμνος": "n-2b",
     "στάχυς": "n-3e(1)",
+    "συκῆ": "n=1h(ETA)",
     "συνομιλέω": "cv-1d(2a)",
     "ταχύ": "adverb",
     "τέσσαρες": "a-4c",
@@ -161,11 +176,13 @@ MOUNCE_OVERRIDES = {
     "τριετία": "n-1a",
     "τρίμηνον": "a-3a",  # should it be τρίμηνος?
     "ὕαλος": "n-2a",
+    "φρήν": "n=3f(1b-EPSILON)",
     "φοβέομαι": "v-1d(2a)",  # ?
     "χάρις": ["n=3c(1NU)", "n-3c(1)"],
     "χείμαρρος": "n-2a",
     "χείρ": "n=3f(2a-XEIR)",
-    "χρύσεος": "a-1b",  # should it be χρύσους?
+    "χρύσεος": "a-1b",
+    "χρυσοῦς": "a=1b(ALPHA-F)",
     "ψίξ": "n-3b(3)",
 }
 
@@ -242,7 +259,19 @@ def map_non_noun_categories(mounce_cat, aspect_voice, gender, lemma):
         elif cat == "a-1b":
             cat = {
                 "M": "n-2d",
-                "F": "n-1h",
+                "F": "n=1h(ETA)",
+                "N": "n-2d",
+            }[gender]
+        elif cat == "a=1b(OMICRON)":
+            cat = {
+                "M": "n=2d(OMICRON)",
+                "F": "n=1h(ETA)",
+                "N": "n=2d(OMICRON)",
+            }[gender]
+        elif cat == "a=1b(ALPHA-F)":
+            cat = {
+                "M": "n-2d",
+                "F": "n=1h(ALPHA)",
                 "N": "n-2d",
             }[gender]
         elif cat == "a-2a":
@@ -301,9 +330,15 @@ def map_non_noun_categories(mounce_cat, aspect_voice, gender, lemma):
             }[gender]
         elif cat == "a-4b(1)":
             cat = {
-                "M": "n-3f(1bA)",  # made up
-                "F": "n-3f(1bA)",
-                "N": "n-3f(1bA)",
+                "M": "n=3f(1bA)",
+                "F": "n=3f(1bA)",
+                "N": "n=3f(1bA)",
+            }[gender]
+        elif cat == "a=4b(1-EPSILON)":
+            cat = {
+                "M": "n=3f(1bA-EPSILON)",
+                "F": "n=3f(1bA-EPSILON)",
+                "N": "n=3f(1bA-EPSILON)",
             }[gender]
         elif cat == "a-4b(2-TIS)":
             cat = {
@@ -319,21 +354,21 @@ def map_non_noun_categories(mounce_cat, aspect_voice, gender, lemma):
             }[gender]
         elif cat.startswith("v") or cat.startswith("cv"):
             if aspect_voice == "PA":
-                if lemma in ["δίδωμι", "μεταδίδωμι", "παραδίδωμι", "ἀποδίδωμι"]:
+                if lemma.endswith("ωμι"):
                     cat = {
                         "M": "n=3c(5a-OMICRON)",  # made up
                         "F": "n-1c",
                         "N": "n=3c(5a-OMICRON)",
                     }[gender]
-                elif lemma in ["ἐπιδείκνυμι", "ὑποζώννυμι", "ἀποδείκνυμι"]:
+                elif lemma.endswith("νυμι"):
                     cat = {
-                        "M": "n=3c(5a-UPSILON)",  # made up
+                        "M": ["n=3c(5a-UPSILON)", "n-3c(5b)"],  # made up
                         "F": "n-1c",
                         "N": "n=3c(5a-UPSILON)",
                     }[gender]
-                elif lemma in ["ἐπιτίθημι", "συνίημι", "τίθημι", "ἀνίημι", "μετατίθημι"]:
+                elif lemma.endswith("ημι"):
                     cat = {
-                        "M": "n=3c(5a-EPSILON)",  # made up
+                        "M": ["n=3c(5a-EPSILON)", "n-3c(5b)"],  # made up
                         "F": "n-1c",
                         "N": "n=3c(5a-EPSILON)",
                     }[gender]
@@ -362,11 +397,24 @@ def map_non_noun_categories(mounce_cat, aspect_voice, gender, lemma):
                     "N": "n-2c",
                 }[gender]
             elif aspect_voice == "AA":
-                cat = {
-                    "M": "n-3c(5a-AAP)",  # made up
-                    "F": "n-1c",
-                    "N": "n-3c(5a-AAP)",
-                }[gender]
+                if lemma.endswith("ημι"):
+                    cat = {
+                        "M": ["n=3c(5a-EPSILON)", "n=3c(5a-1A)"],
+                        "F": "n-1c",
+                        "N": ["n=3c(5a-EPSILON)", "n=3c(5a-1A)"],
+                    }[gender]
+                elif lemma.endswith(("ωμι", "ώσκω")):
+                    cat = {
+                        "M": "n=3c(5a-OMICRON)",
+                        "F": "n-1c",
+                        "N": "n-3c(5a-AAP)",
+                    }[gender]
+                else:
+                    cat = {
+                        "M": ["n=3c(5a-1A)", "n=3c(5a-2A)"],
+                        "F": "n-1c",
+                        "N": ["n=3c(5a-1A)", "n=3c(5a-2A)"],
+                    }[gender]
             elif aspect_voice == "AM":
                 cat = {
                     "M": "n-2a",
@@ -627,4 +675,4 @@ def output_space_delimited():
                                 print(col_0, col_1, col_8, col_2, col_10, col_3, col_4, col_5, col_6, col_7, col_9)
 
 
-output_yaml()
+output_space_delimited()
