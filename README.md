@@ -14,6 +14,10 @@ Currently (distinctly) working on...
 
  - projects/nominal_distinguishers
 
+## Merge Abbott Smith
+
+ - projects/merge_abbott_smith
+
 ## Citation Form Patterns
 
  - projects/citation_forms
