@@ -10,6 +10,10 @@ parts.
 
 Currently (distinctly) working on...
 
+## Nominal Distinguishers
+
+ - projects/nominal_distinguishers
+
 ## Citation Form Patterns
 
  - projects/citation_forms
@@ -25,10 +29,6 @@ Currently (distinctly) working on...
 ## Principal Part Generation
 
  - projects/principal_parts
-
-## Citations Forms
-
- - projects/citation_forms
 
 
 ## License
