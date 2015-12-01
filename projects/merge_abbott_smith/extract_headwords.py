@@ -21,4 +21,6 @@ for entry in body.findall(".//TEIOSIS:entry", ns):
     for child in form.itertext():
         s += child
     assert "|" not in s
+    s = s.lstrip("*† ")
+    s = s.rstrip(", ")
     print(entry_n + "|" + s)
