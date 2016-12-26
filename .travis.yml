@@ -1,0 +1,12 @@
+sudo: false
+
+language: python
+
+python:
+  - 3.6.0
+
+install:
+  - ./ci install
+
+script:
+  - ./ci script "${TRAVIS_BUILD_DIR:?}"

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+set -ev # Ref https://docs.travis-ci.com/user/customizing-the-build/#Implementing-Complex-Build-Steps
+
+case "${1:?}" in
+    install)
+        pip3 install -r requirements.txt
+        ;;
+    script)
+        RootDir="${2:?}"
+        S=0
+        ci.d/lexemes_file_with_all_pysblgnt_lemmas "${RootDir:?}"/lexemes.yaml || S=1
+        ci.d/lexemes_file_with_only_pysblgnt_lemmas "${RootDir:?}"/lexemes.yaml || S=1
+        ci.d/lexemes_file_unicode_normalized "${RootDir:?}"/lexemes.yaml || S=1
+        ci.d/word_sets_unicode_normalized "${RootDir:?}" || S=1
+        exit ${S:?}
+        ;;
+esac
