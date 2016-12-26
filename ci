@@ -1,0 +1,14 @@
+#!/bin/bash
+
+set -ev # Ref https://docs.travis-ci.com/user/customizing-the-build/#Implementing-Complex-Build-Steps
+
+case "${1:?}" in
+    install)
+        pip install -r requirements.txt
+        ;;
+    script)
+        RootDir="${2:?}"
+        ci.d/lexemes_file_unicode_normalized "${RootDir:?}"/lexemes.yaml
+        ci.d/word_sets_unicode_normalized "${RootDir:?}"
+        ;;
+esac

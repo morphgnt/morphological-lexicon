@@ -1,0 +1,44 @@
+#!/usr/bin/env python
+
+import argparse
+import sys
+
+from morphgnt.utils import load_yaml
+from morphgnt.utils import nfkc_normalize as n
+
+
+def is_lexeme_unicode_normalized(f, lexeme):
+    norm_lexeme = n(lexeme)
+    if lexeme == norm_lexeme:
+        return 0
+    else:
+        print >>f, "Lexeme {} shall be normalized as {}.".format(lexeme.encode("utf-8"), norm_lexeme.encode("utf-8"))
+        return 1
+
+def is_metadata_unicode_normalized(f, lexeme, name, value):
+    norm_value = n(value)
+    if value == norm_value:
+        return 0
+    else:
+        print >>f, "Metadata name {} in lexeme {} shall have its value {} normalized as {}.".format(name, lexeme.encode("utf-8"), value.encode("utf-8"), norm_value.encode("utf-8"))
+        return 1
+
+
+f = sys.stderr
+e = 0 # exit status
+
+argparser = argparse.ArgumentParser()
+argparser.add_argument("lexemes", help="lexemes file")
+
+args = argparser.parse_args()
+lexemes = load_yaml(args.lexemes)
+
+for lexeme, metadata in lexemes.iteritems():
+    e = e or is_lexeme_unicode_normalized(f, lexeme)
+    for metadata_name, metadata_value in metadata.iteritems():
+        if metadata_name == "full-citation-form" \
+           or metadata_name.endswith("-headword") \
+           or metadata_name.endswith("-entry"):
+            e = e or is_metadata_unicode_normalized(f, lexeme, metadata_name, metadata_value)
+
+sys.exit(e)

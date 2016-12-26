@@ -1,0 +1,8 @@
+#!/bin/sh
+
+RootDir="${1:?}"
+
+for F in $(find "${RootDir:?}" -name "missing_*.txt"); do
+    echo Checking that word set in "${F:?}" is Unicode normalized...
+    "${RootDir}"/ci.d/word_set_unicode_normalized "${F:?}"
+done
