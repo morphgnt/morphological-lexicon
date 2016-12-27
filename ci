@@ -13,6 +13,7 @@ case "${1:?}" in
         ci.d/lexemes_file_with_only_pysblgnt_lemmas "${RootDir:?}"/lexemes.yaml || S=1
         ci.d/lexemes_file_unicode_normalized "${RootDir:?}"/lexemes.yaml || S=1
         ci.d/word_sets_unicode_normalized "${RootDir:?}" || S=1
+        ci.d/word_sets_with_only_lexemes_from_lexemes_files "${RootDir:?}" "${RootDir:?}"/lexemes.yaml || S=1
         exit ${S:?}
         ;;
 esac

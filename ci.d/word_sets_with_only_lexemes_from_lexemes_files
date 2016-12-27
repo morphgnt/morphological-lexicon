@@ -1,0 +1,11 @@
+#!/bin/sh
+
+RootDir="${1:?}"
+LexemesFile="${2:?}"
+
+S=0
+for F in $(find "${RootDir:?}" -name "missing_*.txt"); do
+    echo Checking that word set in "${F:?}" contains only lexemes from the lexemes file "${LexemesFile:?}"...
+    "${RootDir}"/ci.d/word_set_with_only_lexemes_from_lexemes_files "${F:?}" "${LexemesFile:?}" || S=1
+done
+exit ${S:?}
