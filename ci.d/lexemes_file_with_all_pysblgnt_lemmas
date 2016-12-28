@@ -1,0 +1,37 @@
+#!/usr/bin/env python3
+
+import argparse
+import sys
+
+import yaml
+
+from pysblgnt import morphgnt_rows
+
+
+def is_pysblgnt_lemma_in_lexemes(f, pysblgnt_row, lexemes):
+    lemma = pysblgnt_row["lemma"]
+    if lemma in lexemes:
+        return 0
+    else:
+        print("Lemma {} shall be included because in py-sblgnt. Full py-sblgnt row is: {}.".format(lemma, pysblgnt_row), file=f)
+        return 1
+
+
+START_BOOK = 1
+END_BOOK = 27
+
+
+f = sys.stderr
+e = 0 # exit status
+
+argparser = argparse.ArgumentParser()
+argparser.add_argument("lexemes", type=argparse.FileType('r'), help="lexemes file")
+
+args = argparser.parse_args()
+lexemes = yaml.load(args.lexemes)
+
+for book_num in range(START_BOOK, END_BOOK + 1):
+    for row in morphgnt_rows(book_num):
+        e = is_pysblgnt_lemma_in_lexemes(f, row, lexemes) or e
+
+sys.exit(e)

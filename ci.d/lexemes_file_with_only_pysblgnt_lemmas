@@ -1,0 +1,40 @@
+#!/usr/bin/env python3
+
+import argparse
+import sys
+
+import yaml
+
+from pysblgnt import morphgnt_rows
+
+
+def pysblgnt_lemmas():
+    START_BOOK = 1
+    END_BOOK = 27
+
+    return {row["lemma"]
+            for book_num in range(START_BOOK, END_BOOK + 1)
+            for row in morphgnt_rows(book_num)}
+
+def is_lexeme_in_pysblgnt_lemmas(f, lexeme, lexeme_metadata, lemmas):
+    if lexeme in lemmas:
+        return 0
+    else:
+        print("Lexeme {} shall not be included because not among py-sblgnt lemmas. Full lexeme metadata is: {}.".format(lexeme, lexeme_metadata), file=f)
+        return 1
+
+
+f = sys.stderr
+e = 0 # exit status
+
+argparser = argparse.ArgumentParser()
+argparser.add_argument("lexemes", type=argparse.FileType('r'), help="lexemes file")
+
+args = argparser.parse_args()
+lexemes = yaml.load(args.lexemes)
+
+pysblgnt_lemmas = pysblgnt_lemmas()
+for lexeme, metadata in lexemes.items():
+    e = is_lexeme_in_pysblgnt_lemmas(f, lexeme, metadata, pysblgnt_lemmas) or e
+
+sys.exit(e)
