@@ -7,7 +7,7 @@ from morphgnt.utils import load_yaml, sorted_items
 
 from citation_form_data import CITATION_FORMS
 
-lexemes = load_yaml("lexemes.yaml")
+lexemes = load_yaml("../../lexemes.yaml")
 
 ACUTE = u"\u0301"
 GRAVE = u"\u0300"
