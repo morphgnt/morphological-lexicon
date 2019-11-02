@@ -1,4 +1,4 @@
-PyYAML==3.11
+PyYAML==5.1
 greek-accentuation==0.9.1
 py-sblgnt==0.4
 pyuca==1.1
