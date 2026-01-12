@@ -396,6 +396,7 @@
     pos: V
     bdag-headword: ἄγε
     danker-entry: ἄγε
+    gloss: come on!
 ἀγέλη:
     pos: N
     full-citation-form: ἀγέλη, ης, ἡ
@@ -1400,6 +1401,7 @@
     mounce-headword: ἀθροίζω
     gk: 125
     mounce-morphcat: v-2a(1)
+    gloss: I gather, collect
 ἀθυμέω:
     pos: V
     bdag-headword: ἀθυμέω
@@ -2259,6 +2261,7 @@
 ἀκριβέστερον:
     pos: A/ADV-C
     danker-entry: ἀκριβῶς
+    gloss: more accurately
 ἀκριβής:
     pos: A
     full-citation-form: ἀκριβής, ές
@@ -2267,6 +2270,7 @@
     mounce-headword: ἀκριβής
     gk: 207
     mounce-morphcat: a-4a
+    gloss: accurate, exact
 ἀκριβόω:
     pos: V
     bdag-headword: ἀκριβόω
@@ -2426,6 +2430,7 @@
     danker-entry: ἅλας, ατος, τό
     mounce-headword: ἅλα
     gk: 221
+    gloss: salt
 ἀλάβαστρον:
     pos: N
     full-citation-form: ἀλάβαστρον, ου, τό
@@ -2757,6 +2762,7 @@
     mounce-headword: ἀλλαχοῦ
     gk: 250
     mounce-morphcat: adverb
+    gloss: elsewhere
 ἀλληγορέω:
     pos: V
     bdag-headword: ἀλληγορέω
@@ -2923,6 +2929,7 @@
     pos: A
     full-citation-form: ἄλυπος, ον
     danker-entry: ἄλυπος, ον
+    gloss: less sorrowful
 ἅλυσις:
     pos: N
     full-citation-form: ἅλυσις, εως, ἡ
@@ -3403,6 +3410,7 @@
     mounce-headword: ἀμφιάζω
     gk: 314
     mounce-morphcat: cv-2a(1)
+    gloss: I clothe
 ἀμφιβάλλω:
     pos: V
     bdag-headword: ἀμφιβάλλω
@@ -3410,6 +3418,7 @@
     mounce-headword: ἀμφιβάλλω
     gk: 311
     mounce-morphcat: cv-2d(1)
+    gloss: I cast around
 ἀμφίβληστρον:
     pos: N
     full-citation-form: ἀμφίβληστρον, ου, τό
@@ -3487,6 +3496,7 @@
     mounce-headword: ἄμωμον
     gk: 319
     mounce-morphcat: n-2c
+    gloss: amomum, a spice plant
 ἄμωμος:
     pos: A
     full-citation-form: ἄμωμος, ον
@@ -3631,6 +3641,7 @@
     mounce-headword: ἀνάγαιον
     gk: 333
     mounce-morphcat: n-2c
+    gloss: upper room
 ἀναγγέλλω:
     pos: V
     bdag-headword: ἀναγγέλλω
@@ -4328,6 +4339,7 @@
     mounce-headword: ἀναπηδάω
     gk: 403
     mounce-morphcat: cv-1d(1a)
+    gloss: I leap up, spring up
 ἀνάπηρος:
     pos: A
     full-citation-form: ἀνάπειρος, ον
@@ -4889,6 +4901,7 @@
     mounce-headword: ἀνεπίλημπτος
     gk: 455
     mounce-morphcat: a-3a
+    gloss: irreproachable
 ἀνέρχομαι:
     pos: V
     bdag-headword: ἀνέρχομαι
@@ -5862,6 +5875,7 @@
     full-citation-form: ἀνώτερος, έρα, ον
     bdag-headword: ἀνώτερος
     danker-entry: ἀνώτερος, έρα, ον
+    gloss: higher, upper
 ἀνωφελής:
     pos: A
     full-citation-form: ἀνωφελής, ές
@@ -7888,6 +7902,7 @@
     mounce-headword: Ἄρειος
     gk: 740
     mounce-morphcat: a-1a(1)
+    gloss: Areopagus, Mars' Hill
 Ἀρεοπαγίτης:
     pos: N
     full-citation-form: Ἀρεοπαγίτης, ου, ὁ
@@ -8165,6 +8180,7 @@
     danker-entry: Ἀρνί, ὁ
     mounce-headword: Ἀρνί
     gk: 767
+    gloss: Arni
     mounce-morphcat: n-3g(2)
 ἀρνίον:
     pos: N
@@ -8624,6 +8640,7 @@
     danker-entry: Ἀσάφ, ὁ
     mounce-headword: Ἀσάφ
     gk: 811
+    gloss: Asaph
     mounce-morphcat: n-3g(2)
 ἄσβεστος:
     pos: A
@@ -9520,6 +9537,7 @@
     danker-entry: αὐξάνω/αὔξω
     mounce-headword: αὔξω
     gk: 891
+    gloss: I increase, grow
 αὔριον:
     pos: D
     bdag-headword: αὔριον
@@ -9640,6 +9658,7 @@
     danker-entry: αὐχέω
     mounce-headword: αὐχέω
     gk: 902
+    gloss: I boast
     mounce-morphcat: v-1d(2a)
 αὐχμηρός:
     pos: A
@@ -9802,6 +9821,7 @@
     danker-entry: ἀφθορία, ας, ἡ
     mounce-headword: ἀφθορία
     gk: 917
+    gloss: incorruption, integrity
     mounce-morphcat: n-1a
 ἀφίημι:
     pos: V
@@ -10003,6 +10023,7 @@
     danker-entry: ἀφυστερέω
     mounce-headword: ἀφυστερέω
     gk: 935
+    gloss: I withhold, defraud
     mounce-morphcat: cv-1d(2a)
 ἄφωνος:
     pos: A
@@ -10149,6 +10170,7 @@
 ἄχρις:
     pos: P/ADV
     danker-entry: ἄχρι, ἄχρις
+    gloss: until, as far as
 ἄχυρον:
     pos: N
     full-citation-form: ἄχυρον, ου, τό
@@ -10188,6 +10210,7 @@
     pos: N
     full-citation-form: Ἄψινθος, ου, ὁ
     danker-entry: ἀψίνθιον, ου, τό / ἄψινθος, ου, ἡ
+    gloss: Wormwood
 ἄψυχος:
     pos: A
     full-citation-form: ἄψυχος, ον
@@ -10488,6 +10511,7 @@
     danker-entry: Βαριωνᾶ/Βαριωνᾶς, ᾶ, ὁ
     mounce-headword: Βαριωνᾶ
     gk: 980
+    gloss: Bar-Jonah
     mounce-morphcat: n-3g(2)
 Βαρναβᾶς:
     pos: N
@@ -10624,6 +10648,7 @@
     pos: A
     full-citation-form: βασίλειος, ον
     danker-entry: βασίλειος, ον
+    gloss: royal
 βασίλειος:
     pos: A
     full-citation-form: βασίλειος, ον
@@ -10874,6 +10899,7 @@
     danker-entry: βελόνη, ης, ἡ
     mounce-headword: βελόνη
     gk: 1017
+    gloss: needle
     mounce-morphcat: n-1b
 βέλος:
     pos: N
@@ -10890,6 +10916,7 @@
 βέλτιον:
     pos: A/ADV-C?
     danker-entry: βελτίων, ον
+    gloss: better
 Βενιαμίν:
     pos: N
     full-citation-form: Βενιαμίν, ὁ
@@ -10993,6 +11020,7 @@
     danker-entry: Βηθσαϊδά(ν), ἡ
     mounce-headword: Βηθσαϊδάν
     gk: 1035
+    gloss: Bethsaida
     mounce-morphcat: ??
 Βηθφαγή:
     pos: N
@@ -11329,6 +11357,7 @@
     danker-entry: Βόες, ὁ
     mounce-headword: Βόες
     gk: 1067
+    gloss: Boaz
     mounce-morphcat: n-3g(2)
 βοή:
     pos: N
@@ -11661,6 +11690,7 @@
 βραχύ:
     pos: D/A?
     danker-entry: βραχύς, εῖα, ύ
+    gloss: briefly, a little
 βραχύς:
     pos: A
     full-citation-form: βραχύς, εῖα, ύ
@@ -12106,6 +12136,7 @@
     danker-entry: γαμίζω
     mounce-headword: γαμίζω
     gk: 1139
+    gloss: I give in marriage
     mounce-morphcat: v-2a(1)
 γαμίσκω:
     pos: V
@@ -13469,6 +13500,7 @@
     danker-entry: δεκαοκτώ
     mounce-headword: δεκαοκτώ
     gk: 1277
+    gloss: eighteen
     mounce-morphcat: n-3g(2)
 δεκαπέντε:
     pos: A
@@ -13615,6 +13647,7 @@
     danker-entry: δέος, ους, τ ό
     mounce-headword: δέος
     gk: 1290
+    gloss: fear, awe
     mounce-morphcat: n-3d(2b)
 Δερβαῖος:
     pos: A
@@ -13715,6 +13748,7 @@
     full-citation-form: δεσμόν, οῦ, τό
     danker-entry: δεσμός, οῦ, ὁ
     dodson-pos: N:N
+    gloss: bond, fetter
 δεσμός:
     pos: N
     full-citation-form: δεσμός, οῦ, ὁ
@@ -14226,6 +14260,7 @@
     danker-entry: διακαθαίρω
     mounce-headword: διακαθαίρω
     gk: 1350
+    gloss: I cleanse thoroughly
     mounce-morphcat: cv-2d(2)
 διακαθαρίζω:
     pos: V
@@ -14574,6 +14609,7 @@
     mounce-headword: διαπαρατριβή
     gk: 1384
     mounce-morphcat: n-1b
+    gloss: constant wrangling
 διαπεράω:
     pos: V
     bdag-headword: διαπεράω
@@ -14669,6 +14705,7 @@
     mounce-headword: διαρρήγνυμι
     gk: 1396
     mounce-morphcat: cv-3c(2)
+    gloss: I tear apart, break through
 διασαφέω:
     pos: V
     bdag-headword: διασαφέω
@@ -15015,6 +15052,7 @@
     mounce-headword: διαχλευάζω
     gk: 1430
     mounce-morphcat: cv-2a(1)
+    gloss: I mock, jeer at
 διαχωρίζομαι:
     pos: V
     bdag-headword: διαχωριζω
@@ -15150,6 +15188,7 @@
     mounce-headword: διενθυμέομαι
     gk: 1445
     mounce-morphcat: cv-1b(2a)
+    gloss: I consider, reflect on
 διέξοδος:
     pos: N
     full-citation-form: διέξοδος, ου, ἡ
@@ -15506,6 +15545,7 @@
     mounce-headword: διόρθωμα
     gk: 1480
     mounce-morphcat: n-3c(4)
+    gloss: reform, amendment
 διόρθωσις:
     pos: N
     full-citation-form: διόρθωσις, εως, ἡ
@@ -15606,6 +15646,7 @@
     mounce-headword: δισμυριάς
     gk: 1490
     mounce-morphcat: n-3c(2)
+    gloss: twenty thousand, double myriad
 διστάζω:
     pos: V
     bdag-headword: διστάζω
@@ -15809,6 +15850,7 @@
     mounce-headword: δοκιμασία
     gk: 1508
     mounce-morphcat: n-1a
+    gloss: examination, scrutiny
 δοκιμή:
     pos: N
     full-citation-form: δοκιμή, ῆς, ἡ
@@ -16261,6 +16303,7 @@
     danker-entry: δύσις, εως, ἡ
     mounce-headword: δύσις
     gk: 1550
+    gloss: setting (of sun), west
 δύσκολος:
     pos: A
     full-citation-form: δύσκολος, ον
@@ -16315,6 +16358,7 @@
     mounce-headword: δυσφημέω
     gk: 1555
     mounce-morphcat: cv-
+    gloss: I speak ill of, slander
 δυσφημία:
     pos: N
     full-citation-form: δυσφημία, ας, ἡ
@@ -16461,6 +16505,7 @@
     mounce-headword: ἐάνπερ
     gk: 1570
     mounce-morphcat: particle
+    gloss: if indeed, if only
 ἑαυτοῦ:
     pos: RP/F-2
     bdag-headword: ἑαυτοῦ
@@ -16725,6 +16770,7 @@
     danker-entry: ἐγκαυχάομαι
     mounce-headword: ἐγκαυχάομαι
     gk: 1595
+    gloss: I boast, pride myself on
     mounce-morphcat: cv-1d(1a)
 ἐγκεντρίζω:
     pos: V
@@ -17033,6 +17079,7 @@
     danker-entry: εἰδέα, ας, ἡ
     mounce-headword: εἰδέα
     gk: 1624
+    gloss: form, appearance
     mounce-morphcat: n-1a
 εἶδος:
     pos: N
@@ -17191,6 +17238,7 @@
     danker-entry: εἵνεκεν
     mounce-headword: εἵνεκεν
     gk: 1641
+    gloss: on account of, for the sake of
     mounce-morphcat: prep
 εἴπερ:
     pos: C/COND
@@ -17528,6 +17576,7 @@
     danker-entry: ἑκατοντάρχης, ου / ἑκατόνταρχος, ου, ὁ
     mounce-headword: ἑκατόνταρχος
     gk: 1673
+    gloss: centurion
     mounce-morphcat: n-2a
 ἐκβαίνω:
     pos: V
@@ -17535,6 +17584,7 @@
     danker-entry: ἐκβαίνω
     mounce-headword: ἐκβαίνω
     gk: 1674
+    gloss: I go out, disembark
     mounce-morphcat: cv-2d(6)
 ἐκβάλλω:
     pos: V
@@ -17793,6 +17843,7 @@
     danker-entry: ἐκζήτησις, εως, ἡ
     mounce-headword: ἐκζήτησις
     gk: 1700
+    gloss: speculation, controversy
     mounce-morphcat: n-3e(5b)
 ἐκθαμβέομαι:
     pos: V
@@ -17823,6 +17874,7 @@
     danker-entry: ἐκθαυμάζω
     mounce-headword: ἐκθαυμάζω
     gk: 1703
+    gloss: I am greatly amazed
     mounce-morphcat: cv-2a(1)
 ἔκθετος:
     pos: A
@@ -18154,6 +18206,7 @@
     danker-entry: ἐκπερισσῶς
     mounce-headword: ἐκπερισσῶς
     gk: 1735
+    gloss: exceedingly, vehemently
     mounce-morphcat: adverb
 ἐκπετάννυμι:
     pos: V
@@ -18172,6 +18225,7 @@
     danker-entry: ἐκπηδάω
     mounce-headword: ἐκπηδάω
     gk: 1737
+    gloss: I leap out, rush out
     mounce-morphcat: cv-1d(1a)
 ἐκπίπτω:
     pos: V
@@ -18712,6 +18766,7 @@
     danker-entry: ἐλεάω
     mounce-headword: ἐλεάω
     gk: 1790
+    gloss: I have mercy, show pity
     mounce-morphcat: v-1d(1a)
 ἐλεγμός:
     pos: N
@@ -18720,6 +18775,7 @@
     danker-entry: ἐλεγμός, οῦ, ὁ
     mounce-headword: ἐλεγμός
     gk: 1791
+    gloss: reproof, rebuke
     mounce-morphcat: n-2a
 ἔλεγξις:
     pos: N
@@ -18963,6 +19019,7 @@
     danker-entry: ἑλκύω/ἕλκω
     mounce-headword: ἑλκύω
     gk: 1816
+    gloss: I draw, drag
 Ἑλλάς:
     pos: N
     full-citation-form: Ἑλλάς, άδος, ἡ
@@ -19279,6 +19336,7 @@
     danker-entry: ἐμπαιγμονή, ῆς, ἡ
     mounce-headword: ἐμπαιγμονή
     gk: 1848
+    gloss: mockery, scoffing
     mounce-morphcat: n-1b
 ἐμπαιγμός:
     pos: N
@@ -19343,6 +19401,7 @@
     danker-entry: ἐμπί(μ)πρημι
     mounce-headword: ἐμπίμπρημι
     gk: 1856
+    gloss: I set on fire, burn
     mounce-morphcat: cv-6a
 ἐμπίπτω:
     pos: V
@@ -19866,6 +19925,7 @@
     danker-entry: ἕνεκα, ἕνεκεν, and s. entries s. v. εἵνεκεν
     mounce-headword: ἕνεκα
     gk: 1914
+    gloss: on account of, for the sake of
     mounce-morphcat: prep
 ἕνεκεν:
     pos: P
@@ -19987,6 +20047,7 @@
     danker-entry: ἔνθεν
     mounce-headword: ἔνθεν
     gk: 1925
+    gloss: from there, thence
     mounce-morphcat: adverb
 ἐνθυμέομαι:
     pos: V
@@ -20105,6 +20166,7 @@
 ἔννυχα:
     pos: A/ADV
     danker-entry: ἔννυχος, ον
+    gloss: by night, at night
 ἐνοικέω:
     pos: V
     bdag-headword: ἐνοικέω
@@ -20122,6 +20184,7 @@
     danker-entry: ἐνορκίζω
     mounce-headword: ἐνορκίζω
     gk: 1941
+    gloss: I adjure, put under oath
     mounce-morphcat: cv-2a(1)
 ἑνότης:
     pos: N
@@ -20739,6 +20802,7 @@
     danker-entry: ἐξεραυνόω
     mounce-headword: ἐξεραυνάω
     gk: 2001
+    gloss: I search out, examine closely
     mounce-morphcat: cv-1d(1a)
 ἐξέρχομαι:
     pos: V
@@ -20926,6 +20990,7 @@
     danker-entry: ἐξουδενέω/ἐξουδενόω
     mounce-headword: ἐξουδενέω
     gk: 2022
+    gloss: I despise, treat with contempt
     mounce-morphcat: cv-1d(2a)
 ἐξουθενέω:
     pos: V
@@ -21352,6 +21417,7 @@
     mounce-headword: ἐπάρατος
     gk: 2063
     mounce-morphcat: a-3a
+    gloss: accursed
 ἐπαρκέω:
     pos: V
     bdag-headword: ἐπαρκέω
@@ -21507,6 +21573,7 @@
     mounce-headword: ἐπεισέρχομαι
     gk: 2082
     mounce-morphcat: cv-1b(2)
+    gloss: I come in besides, rush in
 ἔπειτα:
     pos: D
     bdag-headword: ἔπειτα
@@ -22125,6 +22192,7 @@
     mounce-headword: ἐπιλείχω
     gk: 2143
     mounce-morphcat: cv-
+    gloss: I lick
 ἐπιλησμονή:
     pos: N
     full-citation-form: ἐπιλησμονή, ῆς, ἡ
@@ -22430,6 +22498,7 @@
     mounce-headword: ἐπισκευάζομαι
     gk: 2171
     mounce-morphcat: cv-2a(1)
+    gloss: I prepare, get ready
 ἐπισκηνόω:
     pos: V
     bdag-headword: ἐπισκηνόω
@@ -22505,6 +22574,7 @@
     mounce-headword: ἐπισπείρω
     gk: 2178
     mounce-morphcat: cv-2d(3)
+    gloss: I sow upon, sow besides
 ἐπίσταμαι:
     pos: V
     bdag-headword: ἐπίσταμαι
@@ -22524,6 +22594,7 @@
     mounce-headword: ἐπίστασις
     gk: 2180
     mounce-morphcat: n-3e(5b)
+    gloss: attention, pressure
 ἐπιστάτης:
     pos: N
     full-citation-form: ἐπιστάτης, ου, ὁ
@@ -22852,6 +22923,7 @@
     mounce-headword: ἐπιφαύσκω
     gk: 2213
     mounce-morphcat: cv-5a
+    gloss: I shine upon
 ἐπιφέρω:
     pos: V
     bdag-headword: ἐπιφέρω
@@ -23064,6 +23136,7 @@
     mounce-headword: ἐραυνάω
     gk: 2236
     mounce-morphcat: v-1d(1a)
+    gloss: I search, examine
 ἐργάζομαι:
     pos: V
     bdag-headword: ἐργάζομαι
@@ -23408,6 +23481,7 @@
     danker-entry: ἐσθίω/ἔσθω
     mounce-headword: ἔσθω
     gk: 2267
+    gloss: I eat
 Ἑσλί:
     pos: N
     full-citation-form: Ἑσλί, ὁ
@@ -23670,6 +23744,7 @@
     mounce-headword: Εὕα
     gk: 2293
     mounce-morphcat: n-1a
+    gloss: Eve
 εὐαγγελίζω:
     pos: V
     bdag-headword: εὐαγγελίζω
@@ -23758,6 +23833,7 @@
     mounce-headword: εὺγε
     gk: 2301
     mounce-morphcat: adverb
+    gloss: well done!
 εὐγενής:
     pos: A
     full-citation-form: εὐγενής, ές, gen. οῦς
@@ -23904,6 +23980,7 @@
     mounce-headword: εὐθύμως
     gk: 2315
     mounce-morphcat: adverb
+    gloss: cheerfully
 εὐθύνω:
     pos: V
     bdag-headword: εὐθύνω
@@ -24165,6 +24242,7 @@
     danker-entry: εὐπάρεδρος, ον
     mounce-headword: εὐπάρεδρος
     gk: 2339
+    gloss: constantly attending
 εὐπειθής:
     pos: A
     full-citation-form: εὐπειθής, ές, gen. οῦς
@@ -24267,6 +24345,7 @@
     mounce-headword: εὐρακύλων
     gk: 2350
     mounce-morphcat: n-3f(1a)
+    gloss: northeaster (wind)
 εὑρίσκω:
     pos: V
     bdag-headword: εὑρίσκω
@@ -24714,6 +24793,7 @@
     bdag-headword: ἐφοράω
     mounce-headword: ἐφοράω
     gk: 2393
+    gloss: I look upon, oversee
 Ἐφραίμ:
     pos: N
     full-citation-form: Ἐφραίμ, ὁ
@@ -24744,6 +24824,7 @@
     mounce-headword: ἐχθές
     gk: 2396
     mounce-morphcat: adverb
+    gloss: yesterday
 ἔχθρα:
     pos: N
     full-citation-form: ἔχθρα, ας, ἡ
@@ -24939,6 +25020,7 @@
     mounce-headword: ζηλεύω
     gk: 2418
     mounce-morphcat: v-1a(6)
+    gloss: I am zealous
 ζῆλος:
     pos: N
     full-citation-form: ζῆλος, ου, ὁ
@@ -24981,6 +25063,7 @@
     mounce-headword: ζηλωτής
     gk: 2421
     mounce-morphcat: n-1f
+    gloss: Zealot
 ζημία:
     pos: N
     full-citation-form: ζημία, ας, ἡ
@@ -25715,6 +25798,7 @@
 θά:
     pos: V/ARAM
     danker-entry: θά
+    gloss: come (Aramaic)
 Θαδδαῖος:
     pos: N
     full-citation-form: Θαδδαῖος, ου, ὁ
@@ -26550,6 +26634,7 @@
     mounce-headword: θορυβάζω
     gk: 2571
     mounce-morphcat: v-2a(1)
+    gloss: I trouble, disturb
 θορυβέω:
     pos: V
     bdag-headword: θορυβέω
@@ -27252,6 +27337,7 @@
     mounce-headword: ἱερόθυτος
     gk: 2638
     mounce-morphcat: a-3a
+    gloss: offered in sacrifice
 ἱερόν:
     pos: A/N
     full-citation-form: ἱερόν, οῦ, τό
@@ -27637,6 +27723,7 @@
     mounce-headword: ἱνατί
     gk: 2672
     mounce-morphcat: conj
+    gloss: why?
 Ἰόππη:
     pos: N
     full-citation-form: Ἰόππη, ης, ἡ
@@ -27784,6 +27871,7 @@
     full-citation-form: Ἰουνία, ας, ἡ
     bdag-headword: Ἰουνία
     danker-entry: Ἰουνία, ας, ἡ
+    gloss: Junia
 Ἰοῦστος:
     pos: N
     full-citation-form: Ἰοῦστος, ου, ὁ
@@ -27814,6 +27902,7 @@
     danker-entry: ἱππικός, ή, όν
     mounce-headword: ἱππικός
     gk: 2690
+    gloss: cavalry
 ἵππος:
     pos: N
     full-citation-form: ἵππος, ου, ὁ
@@ -27870,6 +27959,7 @@
     mounce-headword: Ἰσκαριώθ
     gk: 2696
     mounce-morphcat: n-3g(2)
+    gloss: Iscariot
 Ἰσκαριώτης:
     pos: N
     full-citation-form: Ἰσκαριώτης, ου, ὁ
@@ -28173,9 +28263,11 @@
     mounce-headword: Ἰωβήδ
     gk: 2725
     mounce-morphcat: n-3g(2)
+    gloss: Obed
 Ἰωβήλ:
     pos: N
     full-citation-form: Ἰωβήλ, ὁ
+    gloss: Jobal
 Ἰωδά:
     pos: N
     full-citation-form: Ἰωδά, ὁ
@@ -28184,6 +28276,7 @@
     mounce-headword: Ἰωδά
     gk: 2726
     mounce-morphcat: n-3g(2)
+    gloss: Joda
 Ἰωήλ:
     pos: N
     full-citation-form: Ἰωήλ, ὁ
@@ -28288,6 +28381,7 @@
     mounce-headword: Ἰωσήχ
     gk: 2738
     mounce-morphcat: n-3g(2)
+    gloss: Josech
 Ἰωσίας:
     pos: N
     full-citation-form: Ἰωσίας, ου, ὁ
@@ -28634,6 +28728,7 @@
     mounce-headword: καθώσπερ
     gk: 2778
     mounce-morphcat: adverb
+    gloss: even as, just as
 καί:
     pos: C
     bdag-headword: καί
@@ -29182,6 +29277,7 @@
     mounce-headword: Καναναῖος
     gk: 2831
     mounce-morphcat: n-2a
+    gloss: Cananaean, Zealot
 Κανδάκη:
     pos: N
     full-citation-form: Κανδάκη, ης, ἡ
@@ -29386,6 +29482,7 @@
     mounce-headword: καταβαρύνω
     gk: 2852
     mounce-morphcat: cv-1c(2)
+    gloss: I am weighed down
 κατάβασις:
     pos: N
     full-citation-form: κατάβασις, εως, ἡ
@@ -29541,6 +29638,7 @@
     mounce-headword: καταδίκη
     gk: 2869
     mounce-morphcat: n-1b
+    gloss: condemnation, sentence
 καταδιώκω:
     pos: V
     bdag-headword: καταδιώκω
@@ -30706,6 +30804,7 @@
     mounce-headword: κατευλογέω
     gk: 2986
     mounce-morphcat: cv-1d(2a)
+    gloss: I bless fervently
 κατεφίστημι:
     pos: V
     bdag-headword: κατεφίσταμαι
@@ -30771,6 +30870,7 @@
     mounce-headword: κατήγωρ
     gk: 2992
     mounce-morphcat: n-3f(2b)
+    gloss: accuser
 κατήφεια:
     pos: N
     full-citation-form: κατήφεια, ας, ἡ
@@ -30870,6 +30970,7 @@
     mounce-headword: κατοικίζω
     gk: 3001
     mounce-morphcat: cv-2a(1)
+    gloss: I settle, establish
 κατοπτρίζομαι:
     pos: V
     bdag-headword: κατοπτρίζω
@@ -30911,6 +31012,7 @@
     mounce-headword: κατωτέρω
     gk: 3006
     mounce-morphcat: adverb
+    gloss: further down, below
 Καῦδα:
     pos: N
     full-citation-form: Καῦδα, τό
@@ -30919,6 +31021,7 @@
     mounce-headword: Καῦδα
     gk: 3007
     mounce-morphcat: n-1c
+    gloss: Cauda
 καῦμα:
     pos: N
     full-citation-form: καῦμα, ατος, τό
@@ -30972,6 +31075,7 @@
     mounce-headword: καυστηριάζω
     gk: 3013
     mounce-morphcat: v-2a(1)
+    gloss: I brand, sear
 καύσων:
     pos: N
     full-citation-form: καύσων, ωνος, ὁ
@@ -31379,6 +31483,7 @@
     mounce-headword: κεφαλιόω
     gk: 3052
     mounce-morphcat: v-1d(3)
+    gloss: I strike on the head
 κεφαλίς:
     pos: N
     full-citation-form: κεφαλίς, ίδος, ἡ
@@ -31393,6 +31498,7 @@
     mounce-morphcat: n-3c(2)
 κημόω:
     pos: V
+    gloss: I muzzle
     bdag-headword: κημόω
     danker-entry: κημόω
     mounce-headword: κημόω
@@ -31612,6 +31718,7 @@
     mounce-morphcat: n-3g(2)
 κίχρημι:
     pos: V
+    gloss: I lend
     bdag-headword: κίχρημι
     danker-entry: κίχρημι
     mounce-headword: κίχρημι
@@ -31925,6 +32032,7 @@
     mounce-morphcat: n-3c(4)
 κλινάριον:
     pos: N
+    gloss: small bed, cot
     full-citation-form: κλινάριον, ου, τό
     bdag-headword: κλινάριον
     danker-entry: κλινάριον, ου, τό
@@ -32504,6 +32612,7 @@
     mounce-morphcat: n-1a
 κόπριον:
     pos: N
+    gloss: dung, manure
     full-citation-form: κόπριον, ου, τό
     bdag-headword: κόπριον
     danker-entry: κόπριον, ου, τό
@@ -32559,6 +32668,7 @@
     mounce-morphcat: n-3g(2)
 κορβανᾶς:
     pos: N
+    gloss: temple treasury
     full-citation-form: κορβανᾶς, ᾶ, ὁ
     bdag-headword: κορβανᾶς
     danker-entry: κορβανᾶς, ᾶ, ὁ
@@ -33166,6 +33276,7 @@
     mounce-morphcat: n-2a
 κρυφαῖος:
     pos: A
+    gloss: hidden, secret
     full-citation-form: κρυφαῖος, α, ον
     bdag-headword: κρυφαῖος
     danker-entry: κρυφαῖος, α, ον
@@ -33315,6 +33426,7 @@
     mounce-morphcat: n-1f
 κυκλεύω:
     pos: V
+    gloss: I surround, encircle
     bdag-headword: κυκλεύω
     danker-entry: κυκλεύω
     mounce-headword: κυκλεύω
@@ -33344,6 +33456,7 @@
     mounce-morphcat: v-1d(3)
 κύκλῳ:
     pos: D/N
+    gloss: around, in a circle
     bdag-headword: κύκλῳ
     danker-entry: κύκλῳ
     mounce-headword: κύκλώ
@@ -33361,6 +33474,7 @@
     mounce-morphcat: v-1a(1)
 κυλισμός:
     pos: N
+    gloss: rolling, wallowing
     full-citation-form: κυλισμός, οῦ, ὁ
     bdag-headword: κυλισμός
     danker-entry: κυλισμός, οῦ, ὁ
@@ -33734,6 +33848,7 @@
     mounce-morphcat: n-3a(1)
 λακάω:
     pos: V
+    gloss: I burst asunder
     bdag-headword: λακάω
     danker-entry: λακάω
     mounce-headword: λακάω
@@ -34253,6 +34368,7 @@
     mounce-morphcat: n-1b
 λῆμψις:
     pos: N
+    gloss: receiving
     full-citation-form: λῆμψις, εως, ἡ
     bdag-headword: λῆμψις
     danker-entry: λῆμψις, εως, ἡ
@@ -34402,6 +34518,7 @@
     mounce-morphcat: n-2a
 λιθόστρωτος:
     pos: A
+    gloss: paved with stones
     full-citation-form: λιθόστρωτος, ον
     bdag-headword: λιθόστρωτος
     danker-entry: λιθόστρωτος, ον
@@ -35033,6 +35150,7 @@
     mounce-morphcat: n-3g(2)
 Μαγαδάν:
     pos: N
+    gloss: Magadan
     full-citation-form: Μαγαδάν, ἡ
     bdag-headword: Μαγαδάν
     danker-entry: Μαγαδάν, ἡ
@@ -35147,6 +35265,7 @@
     mounce-morphcat: n-1a
 Μαθθαῖος:
     pos: N
+    gloss: Matthew
     full-citation-form: Μαθθαῖος, ου, ὁ
     bdag-headword: Μαθθαῖος
     danker-entry: Μαθθαῖος, ου, ὁ
@@ -35154,6 +35273,7 @@
     gk: 3414
 Μαθθάτ:
     pos: N
+    gloss: Matthat
     full-citation-form: Μαθθάτ, ὁ
     bdag-headword: Μαθθάτ
     danker-entry: Μαθθάτ, ὁ
@@ -35162,6 +35282,7 @@
     mounce-morphcat: n-3g(2)
 Μαθθίας:
     pos: N
+    gloss: Matthias
     full-citation-form: Μαθθίας, οῦ, ὁ
     bdag-headword: Μαθθίας
     danker-entry: Μαθθίας, οῦ, ὁ
@@ -35517,6 +35638,7 @@
     mounce-morphcat: v-2d(4)
 μαράνα:
     pos: N/ARAM
+    gloss: "marana (Aramaic: our Lord)"
     danker-entry: μαράναθά
 μαργαρίτης:
     pos: N
@@ -35953,6 +36075,7 @@
     mounce-morphcat: n-3f(1a)
 μέγιστος:
     pos: A
+    gloss: greatest, very great
     full-citation-form: μέγας, μεγάλη, μέγα
     bdag-headword: μέγιστος
     danker-entry: μέγας, μεγάλη, μέγα
@@ -36240,6 +36363,7 @@
     mounce-morphcat: particle
 Μεννά:
     pos: N
+    gloss: Menna
     full-citation-form: Μεννά, ὁ
     bdag-headword: Μεννά
     danker-entry: Μεννά, ὁ
@@ -36248,6 +36372,7 @@
     mounce-morphcat: n-3g(2)
 μενοῦν:
     pos: X
+    gloss: rather, on the contrary
     bdag-headword: μενοῦν
     danker-entry: μενοῦν/μενοῦνγε
     mounce-headword: μενοῦν
@@ -36620,6 +36745,7 @@
     mounce-morphcat: cv-3a(2b)
 μετάλημψις:
     pos: N
+    gloss: receiving, participation
     full-citation-form: μετάλημψις, εως, ἡ
     bdag-headword: μετάλημψις
     danker-entry: μετάλημψις, εως, ἡ
@@ -36739,6 +36865,7 @@
     mounce-morphcat: cv-6a
 μετατρέπω:
     pos: V
+    gloss: I turn around, change
     bdag-headword: μετατρέπω
     danker-entry: μετατρέπω
     mounce-headword: μετατρέπω
@@ -36917,6 +37044,7 @@
     mounce-morphcat: particle
 μήγε:
     pos: D/PRT-N
+    gloss: not to say, let alone
     bdag-headword: μήγε
     danker-entry: μή and γέ
     mounce-headword: μήγε
@@ -37139,6 +37267,7 @@
     mounce-morphcat: particle
 μήτιγε:
     pos: D/PRT-I
+    gloss: not to mention, much less
     bdag-headword: μήτιγε
     danker-entry: μήτι γε
     mounce-headword: μήτιγε
@@ -37157,6 +37286,7 @@
     mounce-morphcat: n-1a
 μητρολῴας:
     pos: N
+    gloss: matricide
     full-citation-form: μητρολῴας, ου, ὁ
     bdag-headword: μητρολῴας
     danker-entry: μητραλῴας/μητρολῴας, ου, ὁ
@@ -37887,6 +38017,7 @@
     mounce-morphcat: a-1a(2a)
 μύλινος:
     pos: A
+    gloss: of a millstone
     full-citation-form: μύλινος, η, ον
     bdag-headword: μύλινος
     danker-entry: μύλινος, η, ον
@@ -38083,6 +38214,7 @@
     mounce-morphcat: a-1a(1)
 Μωϋσῆς:
     pos: N
+    gloss: Moses
     full-citation-form: Μωϋσῆς, έως, ὁ
     bdag-headword: Μωϋσῆς
     danker-entry: Μωϋσῆς, έως, ὁ
@@ -38115,6 +38247,7 @@
     mounce-morphcat: n-3g(2)
 Ναζαρά:
     pos: N
+    gloss: Nazareth
     full-citation-form: Ναζαρά, ἡ
     bdag-headword: Ναζαρά
     danker-entry: Ναζαρά/Ναζαρέθ/Ναζαρέτ, ἡ
@@ -38123,6 +38256,7 @@
     mounce-morphcat: n-3g(2)
 Ναζαρέθ:
     pos: N
+    gloss: Nazareth
     full-citation-form: Ναζαρέθ, ἡ
     danker-entry: Ναζαρά/Ναζαρέθ/Ναζαρέτ, ἡ
     mounce-headword: Ναζαρέθ
@@ -38331,6 +38465,7 @@
     mounce-morphcat: n-3g(2)
 Νέα:
     pos: A
+    gloss: new
     full-citation-form: νέος, α, ον
     danker-entry: νέος, α, ον
 νεανίας:
@@ -38641,6 +38776,7 @@
     mounce-morphcat: n-3c(2)
 νηφάλιος:
     pos: A
+    gloss: sober, temperate
     full-citation-form: νηφάλιος, α, ον
     bdag-headword: νηφάλιος
     danker-entry: νηφάλιος, α, ον
@@ -39002,6 +39138,7 @@
     mounce-morphcat: n-2c
 νοσσός:
     pos: N
+    gloss: young bird, chick
     full-citation-form: νοσσός, οῦ, ὁ
     bdag-headword: νοσσός
     danker-entry: νοσσός, οῦ, ὁ
@@ -39620,6 +39757,7 @@
     mounce-morphcat: a-3b(1)
 οἰκετεία:
     pos: N
+    gloss: household of slaves
     full-citation-form: οἰκετεία, ας, ἡ
     bdag-headword: οἰκετεία
     danker-entry: οἰκετεία, ας, ἡ
@@ -39745,6 +39883,7 @@
     mounce-morphcat: n-1b
 οἰκοδόμος:
     pos: N
+    gloss: builder
     full-citation-form: οἰκοδόμος, ου, ὁ
     bdag-headword: οἰκοδόμος
     danker-entry: οἰκοδόμος, ου, ὁ
@@ -39975,6 +40114,7 @@
     mounce-morphcat: n-2a
 ὀλιγοπιστία:
     pos: N
+    gloss: little faith
     full-citation-form: ὀλιγοπιστία, ας, ἡ
     bdag-headword: ὀλιγοπιστία
     danker-entry: ὀλιγοπιστία, ας, ἡ
@@ -40030,6 +40170,7 @@
     mounce-morphcat: cv-1d(2a)
 ὀλίγως:
     pos: D
+    gloss: slightly, a little
     bdag-headword: ὀλίγως
     danker-entry: ὀλίγως
     mounce-headword: ὀλίγως
@@ -40212,6 +40353,7 @@
     mounce-morphcat: n-1a
 ὁμίχλη:
     pos: N
+    gloss: mist, fog
     full-citation-form: ὁμίχλη, ης, ἡ
     bdag-headword: ὁμίχλη
     danker-entry: ὁμίχλη, ης, ἡ
@@ -40923,6 +41065,7 @@
     mounce-morphcat: v-2a(1)
 ὀρθρινός:
     pos: A
+    gloss: early morning
     full-citation-form: ὀρθρινός, ή, όν
     bdag-headword: ὀρθρινός
     danker-entry: ὀρθρινός, ή, όν
@@ -41782,6 +41925,7 @@
     mounce-morphcat: adverb
 ὀψία:
     pos: A
+    gloss: evening
     full-citation-form: ὄψιος, α, ον
     bdag-headword: ὀψία
     danker-entry: ὄψιος, α, ον
@@ -41848,6 +41992,7 @@
     mounce-morphcat: n-3c(2)
 Πάγος:
     pos: N
+    gloss: hill (in Areopagus)
     full-citation-form: Ἄρειος~Πάγος
     danker-entry: Ἄρειος πάγος, ὁ
     mounce-headword: πάγος
@@ -42206,6 +42351,7 @@
     mounce-morphcat: a-3a
 πανταχῇ:
     pos: D
+    gloss: everywhere
     bdag-headword: πανταχῇ
     danker-entry: πανταχῇ
     mounce-headword: πανταχῇ
@@ -42360,6 +42506,7 @@
     mounce-morphcat: cv-2a(1)
 παραβολεύομαι:
     pos: V
+    gloss: I risk, expose myself to danger
     bdag-headword: παραβολεύομαι
     danker-entry: παραβολεύομαι
     mounce-headword: παραβολεύομαι
@@ -42561,6 +42708,7 @@
     mounce-morphcat: cv-1d(2a)
 παρακαθέζομαι:
     pos: V
+    gloss: I sit beside
     bdag-headword: παρακαθέζομαι
     danker-entry: παρακαθέζομαι
     mounce-headword: παρακαθέζομαι
@@ -43100,6 +43248,7 @@
     mounce-morphcat: n-3e(5b)
 παρεδρεύω:
     pos: V
+    gloss: I attend upon, serve
     bdag-headword: παρεδρεύω
     danker-entry: παρεδρεύω
     mounce-headword: παρεδρεύω
@@ -43185,6 +43334,7 @@
     mounce-morphcat: adverb
 παρεμβάλλω:
     pos: V
+    gloss: I insert, interpose; encamp
     bdag-headword: παρεμβάλλω
     danker-entry: παρεμβάλλω
     mounce-headword: παρεμβάλλω
@@ -44147,6 +44297,7 @@
     mounce-morphcat: n-3e(5b)
 περαιτέρω:
     pos: D/@
+    gloss: further, beyond
     bdag-headword: περαιτέρω
     danker-entry: περαιτέρω
     mounce-headword: περαιτέρω
@@ -44234,6 +44385,7 @@
     mounce-morphcat: cv-1d(2a)
 περιάπτω:
     pos: V
+    gloss: I fasten around, kindle
     bdag-headword: περιάπτω
     danker-entry: περιάπτω
     mounce-headword: περιάπτω
@@ -44684,6 +44836,7 @@
     mounce-morphcat: a-1a(2a)
 περισσότερον:
     pos: D
+    gloss: more abundantly
     danker-entry: περισσότερος, τέρα, ον
 περισσότερος:
     pos: A
@@ -44699,6 +44852,7 @@
     mounce-morphcat: a-1a(1)
 περισσοτέρως:
     pos: D
+    gloss: more abundantly, more exceedingly
     bdag-headword: περισσοτέρως
     danker-entry: περισσοτέρως
     mounce-headword: περισσοτέρως
@@ -45109,6 +45263,7 @@
     mounce-morphcat: n-2a
 πίμπλημι:
     pos: V
+    gloss: I fill
     bdag-headword: πίμπλημι
     danker-entry: πίμπλημι
     mounce-headword: πίμπλημι
@@ -46021,6 +46176,7 @@
     mounce-morphcat: n-3e(5b)
 Πόλις:
     pos: N
+    gloss: Polis (a city in Locris)
     full-citation-form: Νέα~Πόλις
     danker-entry: πόλις, εως, ἡ
     mounce-headword: πόλις
@@ -46427,6 +46583,7 @@
     mounce-morphcat: adverb
 πορρώτερον:
     pos: D
+    gloss: farther
     bdag-headword: πορρώτερον
     danker-entry: πόρρω
 πορφύρα:
@@ -46558,6 +46715,7 @@
     mounce-morphcat: adverb
 πότερον:
     pos: D
+    gloss: whether (interrogative)
     danker-entry: πότερος, α, ον
     mounce-headword: πότερον
     gk: 4538
@@ -46751,6 +46909,7 @@
     mounce-morphcat: v-2b
 πραϋπαθία:
     pos: N
+    gloss: gentleness of spirit
     full-citation-form: πραϋπαθία, ας, ἡ
     bdag-headword: πραϋπαθία
     danker-entry: πραϋπαθία, ας, ἡ
@@ -47320,6 +47479,7 @@
     mounce-morphcat: adverb
 πρόϊμος:
     pos: A
+    gloss: early (of rain)
     full-citation-form: πρόϊμος, ον
     bdag-headword: πρόϊμος
     danker-entry: πρόϊμος, ον
@@ -47551,6 +47711,7 @@
     mounce-morphcat: cv-5a
 προπάτωρ:
     pos: N
+    gloss: forefather, ancestor
     full-citation-form: προπάτωρ, ορος, ὁ
     bdag-headword: προπάτωρ
     danker-entry: προπάτωρ, ορος, ὁ
@@ -47661,6 +47822,7 @@
     mounce-morphcat: cv-1d(2a)
 προσαίτης:
     pos: N
+    gloss: beggar
     full-citation-form: προσαίτης, ου, ὁ
     bdag-headword: προσαίτης
     danker-entry: προσαίτης, ου, ὁ
@@ -47939,6 +48101,7 @@
     mounce-morphcat: cv-1d(3)
 προσκλίνομαι:
     pos: V
+    gloss: I attach myself to, join
     bdag-headword: προσκλίνω
     danker-entry: προσκλίνω
     mounce-headword: προσκλίνω
@@ -47946,6 +48109,7 @@
     mounce-morphcat: cv-1c(2)
 πρόσκλισις:
     pos: N
+    gloss: inclination, partiality
     full-citation-form: πρόσκλισις, εως, ἡ
     bdag-headword: πρόσκλισις
     danker-entry: πρόσκλισις, εως, ἡ
@@ -48719,6 +48883,7 @@
     mounce-morphcat: a-3a
 πρώτως:
     pos: D
+    gloss: first, in the first place
     bdag-headword: πρώτως
     danker-entry: πρώτως
     mounce-headword: πρώτως
@@ -48960,6 +49125,7 @@
     mounce-morphcat: n-3f(1a)
 πυκνά:
     pos: A
+    gloss: frequently, often
 πυκνός:
     pos: A
     full-citation-form: πυκνός, ή, όν
@@ -49126,6 +49292,7 @@
 Πύρρος:
     pos: N
     full-citation-form: Πύρρος, ου, ὁ
+    gloss: Pyrrhus
     bdag-headword: Πύρρος
     danker-entry: Πύρρος, ου, ὁ
     mounce-headword: Πύρρος
@@ -49202,6 +49369,7 @@
     mounce-morphcat: n-3e(5b)
 πώς:
     pos: D
+    gloss: somehow, in some way
     bdag-headword: πώς
     danker-entry: πώς
     mounce-headword: πώς
@@ -50009,6 +50177,7 @@
 Σαλείμ:
     pos: N
     full-citation-form: Σαλείμ, τό
+    gloss: Salim
     bdag-headword: Σαλείμ
     danker-entry: Σαλείμ, τό
 σαλεύω:
@@ -50395,6 +50564,7 @@
 Σαρών:
     pos: N
     full-citation-form: Σαρών, ῶνος, ὁ
+    gloss: Sharon
     bdag-headword: Σαρων
     danker-entry: Σαρων, ωνος, ὁ
     mounce-headword: Σαρών
@@ -51001,6 +51171,7 @@
 σιρικός:
     pos: A
     full-citation-form: σιρικός, ή, όν
+    gloss: silken, of silk
     bdag-headword: σιρικός
     danker-entry: σιρικός, ή, όν
     mounce-headword: σιρικός
@@ -51021,6 +51192,7 @@
 σιτίον:
     pos: N
     full-citation-form: σιτίον, ου, τό
+    gloss: food, provisions
     bdag-headword: σιτίον
     danker-entry: σιτίον, ου, τό
     mounce-headword: σιτίον
@@ -51511,6 +51683,7 @@
 σκῦλα:
     pos: N
     full-citation-form: σκῦλα, ων, τά
+    gloss: spoils, plunder
     danker-entry: σκῦλον, ου, τό
 σκύλλω:
     pos: V
@@ -52064,6 +52237,7 @@
 στάδιος:
     pos: N
     full-citation-form: στάδιος, ου, ὁ
+    gloss: stade, stadium
 στάμνος:
     pos: N
     full-citation-form: στάμνος, ου, ὁ/ἡ
@@ -52079,6 +52253,7 @@
 στασιαστής:
     pos: N
     full-citation-form: στασιαστής, οῦ, ὁ
+    gloss: rebel, insurgent
     bdag-headword: στασιαστής
     danker-entry: στασιαστής, οῦ, ὁ
     mounce-headword: στασιαστής
@@ -52414,6 +52589,7 @@
 στιβάς:
     pos: N
     full-citation-form: στιβάς, άδος, ἡ
+    gloss: bed of straw or leaves
     bdag-headword: στιβάς
     danker-entry: στιβάς, άδος, ἡ
     mounce-headword: στιβάς
@@ -53440,6 +53616,7 @@
     mounce-morphcat: n-1f
 συμμορφίζομαι:
     pos: V
+    gloss: I am conformed to
     bdag-headword: συμμορφίζω
     danker-entry: συμμορφίζω
     mounce-headword: συμμορφίζω
@@ -53570,6 +53747,7 @@
     mounce-morphcat: cv-3a(1)
 συμπίπτω:
     pos: V
+    gloss: I fall together, collapse
     bdag-headword: συμπίπτω
     danker-entry: συμπίπτω
     mounce-headword: συμπίπτω
@@ -53669,6 +53847,7 @@
 σύμφορον:
     pos: A
     full-citation-form: σύμφορος, ον
+    gloss: useful, profitable
     bdag-headword: σύμφορος
     danker-entry: σύμφορος, ον
     mounce-headword: σύμφορος
@@ -53892,6 +54071,7 @@
     mounce-morphcat: cv-2a(1)
 συναλλάσσω:
     pos: V
+    gloss: I reconcile
     bdag-headword: συναλλάσσω
     danker-entry: συναλλάσσω
     mounce-headword: συναλλάσσω
@@ -54190,6 +54370,7 @@
     mounce-morphcat: cv-1d(2a)
 συνεπιτίθεμαι:
     pos: V
+    gloss: I attack together
     bdag-headword: συνεπιτίθημι
     danker-entry: συνεπιτίθημι
     mounce-headword: συνεπιτίθημι
@@ -54422,6 +54603,7 @@
     mounce-morphcat: cv-6a
 συνιστάνω:
     pos: V
+    gloss: I commend, establish
     danker-entry: συνίστημι, συνιστάνω, συνιστάω
 συνίστημι:
     pos: V
@@ -54513,6 +54695,7 @@
     mounce-morphcat: cv-1d(2a)
 συνοράω:
     pos: V
+    gloss: I perceive, understand
     bdag-headword: συνοράω
     danker-entry: συνοράω
     mounce-headword: συνοράω
@@ -55493,6 +55676,7 @@
     mounce-morphcat: n-1b
 ταπεινόφρων:
     pos: A
+    gloss: humble
     full-citation-form: ταπεινόφρων, ον, gen. ονος
     bdag-headword: ταπεινόφρων
     danker-entry: ταπεινόφρων, ον, gen. ονος
@@ -56464,6 +56648,7 @@
     mounce-morphcat: a-4b(2)
 Τίτιος:
     pos: N
+    gloss: Titius
     full-citation-form: Τίτιος, ου, ὁ
     bdag-headword: Τίτιος
     danker-entry: Τίτιος, ου, ὁ
@@ -56848,6 +57033,7 @@
     mounce-morphcat: v-1b(2)
 τρῆμα:
     pos: N
+    gloss: hole, opening
     full-citation-form: τρῆμα, ατος, τό
     bdag-headword: τρῆμα
     danker-entry: τρῆμα, ατος, τό
@@ -56926,6 +57112,7 @@
     mounce-morphcat: v-2a(1)
 τρίμηνον:
     pos: A
+    gloss: three months
     full-citation-form: τρίμηνος, ον
     danker-entry: τρίμηνος, ον
 τρίς:
@@ -56965,6 +57152,7 @@
     mounce-morphcat: a-1a(1)
 τρίτον:
     pos: D/A?
+    gloss: thirdly, a third time
     danker-entry: τρίτος, η, ον
 τρίτος:
     pos: A
@@ -57250,6 +57438,7 @@
     mounce-morphcat: v-2a(1)
 τυπικῶς:
     pos: D
+    gloss: as an example, figuratively
     bdag-headword: τυπικῶς
     danker-entry: τυπικῶς
     mounce-headword: τυπικῶς
@@ -57860,6 +58049,7 @@
     mounce-morphcat: adverb
 ὑπερεκπερισσοῦ:
     pos: D
+    gloss: superabundantly, beyond all measure
     bdag-headword: ὑπερεκπερισσοῦ
     danker-entry: ὑπερεκπερισσοῦ
     mounce-headword: ὑπερεκπερισσοῦ
@@ -57935,6 +58125,7 @@
     mounce-morphcat: a-3a
 ὑπερλίαν:
     pos: D
+    gloss: exceedingly, beyond measure
     bdag-headword: ὑπερλίαν
     danker-entry: ὑπερλίαν
     mounce-headword: ὑπερλίαν
@@ -58296,6 +58487,7 @@
     mounce-morphcat: cv-3a(2b)
 ὑπόλειμμα:
     pos: N
+    gloss: remnant
     full-citation-form: ὑπόλειμμα, ατος, τό
     bdag-headword: ὑπόλειμμα
     danker-entry: ὑπόλειμμα, ατος, τό
@@ -58962,6 +59154,7 @@
     mounce-morphcat: n-1a
 φάρμακον:
     pos: N
+    gloss: drug, poison
     full-citation-form: φάρμακον, ου, τό
     bdag-headword: φάρμακον
     danker-entry: φάρμακον, ου, τό
@@ -61903,6 +62096,7 @@
     mounce-morphcat: n-1f
 ψίξ:
     pos: N
+    gloss: crumb
     full-citation-form: ψίξ, ιχός, ἡ
     bdag-headword: ψίξ
     danker-entry: ψίξ, ψιχός, ἡ
@@ -62229,6 +62423,7 @@
     mounce-morphcat: particle
 ὠτάριον:
     pos: N
+    gloss: ear
     full-citation-form: ὠτάριον, ου, τό
     bdag-headword: ὠτάριον
     danker-entry: ὠτάριον, ου, τό
