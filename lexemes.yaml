@@ -29495,6 +29495,12 @@
     dodson-pos: N:F
     gloss: descent
     mounce-morphcat: n-3e(5b)
+καταβιβάζω:
+    pos: V
+    strongs: 2601
+    gk: 2854
+    gloss: I bring down
+    mounce-morphcat: cv-2a(1)
 καταβολή:
     pos: N
     full-citation-form: καταβολή, ῆς, ἡ
@@ -54142,7 +54148,7 @@
     dodson-pos: V
     gloss: I assist, help
     mounce-morphcat: cv-3a(2b)
-συναπάγομαι:
+συναπάγω:
     pos: V
     bdag-headword: συναπάγω
     danker-entry: συναπάγω
@@ -58002,6 +58008,12 @@
     dodson-pos: V
     gloss: I increase exceedingly
     mounce-morphcat: cv-3a(1)
+ὑπερβαίνω:
+    pos: V
+    strongs: 5233
+    gk: 5648
+    gloss: I transgress, go beyond
+    mounce-morphcat: cv-3d
 ὑπερβαλλόντως:
     pos: D
     bdag-headword: ὑπερβαλλόντως
